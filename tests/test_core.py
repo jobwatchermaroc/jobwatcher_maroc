@@ -1,7 +1,7 @@
 """Tests du moteur de scoring, de la dédup, de la veille marché et du CV checker."""
 
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 
 import pytest
 
@@ -125,6 +125,27 @@ def test_health_failures_accumulate():
     state_mod.bump_health(state, "indeed", ok=False, count=0, error="captcha")
     state_mod.bump_health(state, "indeed", ok=False, count=0, error="captcha")
     assert state["health"]["indeed"]["failures"] == 3
+
+
+def test_health_never_ok_no_dry_alert():
+    from main import _health_alert
+
+    state = state_mod.empty_state()
+    state_mod.bump_health(state, "google_xray", ok=True, count=0)  # désactivée, 0 offre
+    assert _health_alert(state["health"], "google_xray") is None  # pas de dernier "ok" -> pas d'alerte
+
+
+def test_health_dry_after_ok_alerts():
+    from main import _health_alert
+
+    state = state_mod.empty_state()
+    state_mod.bump_health(state, "rekrute", ok=True, count=5)
+    # force le dernier ok à il y a 8 jours
+    state["health"]["rekrute"]["last_ok_at"] = (state_mod.utcnow().replace(microsecond=0) - timedelta(days=8)).isoformat()
+    state["health"]["rekrute"]["last_ok_count"] = 0
+    alert = _health_alert(state["health"], "rekrute")
+    assert alert is not None
+    assert "aucune offre" in alert
 
 
 def test_matched_terms():

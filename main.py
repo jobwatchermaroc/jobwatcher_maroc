@@ -107,9 +107,12 @@ def _health_alert(health: dict, source: str) -> str | None:
             return f"{failures} échecs consécutifs — dernière erreur : {h.get('last_error', 'inconnue')}"
     count = h.get("last_ok_count", 0)
     last_ok = h.get("last_ok_at") or ""
-    if count == 0:
+    if count == 0 and last_ok:
+        # Seulement si la source a déjà produit au moins une fois : une source
+        # jamais "ok" (désactivée par design, ex. google_xray sans clés, ou
+        # indeed bloqué dès le départ) ne doit pas déclencher d'alerte.
         try:
-            since_ok = (now - datetime.fromisoformat(last_ok)).days if last_ok else 999
+            since_ok = (now - datetime.fromisoformat(last_ok)).days
         except ValueError:
             since_ok = 999
         if since_ok >= 7:
