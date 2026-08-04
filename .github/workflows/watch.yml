@@ -2,7 +2,7 @@ name: job-watcher-maroc
 
 on:
   schedule:
-    # Toutes les 5 minutes (minimum GitHub Actions) — latence maximale.
+    # Toutes les 5 minutes (minimum GitHub Actions) - relance re-registration.
     # Les sources lentes (rekrute/indeed) ne tournent qu'à 30 min en interne.
     - cron: "*/5 * * * *"
   workflow_dispatch: # permet de lancer un run manuellement depuis l'onglet Actions
