@@ -1,0 +1,161 @@
+# ============================================================
+# LEXIQUE DE SKILLS pour le CV ATS Checker (cv_check.py)
+# catégories : label -> liste de termes (insensibles à la casse,
+# mot entier pour les termes simples, sous-chaîne pour les termes composés)
+# ============================================================
+
+cloud:
+  - azure
+  - aws
+  - gcp
+  - oci
+  - microsoft 365
+  - m365
+
+azure_services:
+  - entra id
+  - azure ad
+  - microsoft sentinel
+  - azure sentinel
+  - defender for cloud
+  - defender for endpoint
+  - microsoft defender
+  - azure key vault
+  - azure devops
+  - azure functions
+  - azure kubernetes service
+  - aks
+  - azure app service
+  - azure policy
+  - azure firewall
+  - application gateway
+  - virtual network
+  - azure monitor
+  - log analytics
+  - azure storage
+  - azure sql
+  - bicep
+  - azure pipelines
+
+containers_iac:
+  - kubernetes
+  - k8s
+  - docker
+  - helm
+  - openshift
+  - rancher
+  - terraform
+  - pulumi
+  - cloudformation
+  - ansible
+  - packer
+  - vagrant
+
+ci_cd:
+  - github actions
+  - gitlab ci
+  - jenkins
+  - azure pipelines
+  - argocd
+  - circleci
+  - sonarqube
+
+securite:
+  - zero trust
+  - sase
+  - casb
+  - waf
+  - siem
+  - soar
+  - splunk
+  - qradar
+  - chronicle
+  - edr
+  - xdr
+  - antivirus
+  - iam
+  - sso
+  - mfa
+  - conditional access
+  - pim
+  - privileged access
+  - cloud security
+  - devsecops
+  - network security
+
+conformite:
+  - iso 27001
+  - soc 2
+  - gdpr
+  - rgpd
+  - nist
+  - nis2
+  - pci dss
+  - cobit
+  - itil
+
+langages:
+  - python
+  - powershell
+  - bash
+  - sql
+  - c#
+  - c++
+  - java
+  - javascript
+  - typescript
+  - go
+  - rust
+  - yaml
+  - json
+  - bicep
+
+certifications:
+  - az-900
+  - az-104
+  - az-305
+  - az-500
+  - az-400
+  - az-700
+  - sc-100
+  - sc-200
+  - sc-300
+  - sc-900
+  - ai-900
+  - dp-900
+  - ms-900
+  - ccna
+  - ccnp
+  - security+
+  - cissp
+  - oscp
+  - cysa
+  - pmp
+
+dev_sysadmin:
+  - git
+  - active directory
+  - intune
+  - endpoint manager
+  - entra
+  - teams
+  - sharepoint
+  - sql server
+  - iis
+  - linux
+  - ubuntu
+  - red hat
+
+concepts:
+  - infrastructure as code
+  - shift left
+  - observability
+  - monitoring
+  - logging
+  - backup
+  - disaster recovery
+  - high availability
+  - scalability
+  - microservices
+  - serverless
+  - identity

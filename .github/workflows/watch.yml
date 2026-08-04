@@ -1,0 +1,58 @@
+name: job-watcher-maroc
+
+on:
+  schedule:
+    # Toutes les 5 minutes (minimum GitHub Actions) — latence maximale.
+    # Les sources lentes (rekrute/indeed) ne tournent qu'à 30 min en interne.
+    - cron: "*/5 * * * *"
+  workflow_dispatch: # permet de lancer un run manuellement depuis l'onglet Actions
+
+permissions:
+  contents: write # nécessaire pour que git-auto-commit-action puisse commiter
+
+# Empêche deux runs de s'écraser sur seen_jobs.json
+concurrency:
+  group: job-watcher-maroc
+  cancel-in-progress: false
+
+env:
+  TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+  TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+  GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+  GOOGLE_CSE_ID: ${{ secrets.GOOGLE_CSE_ID }}
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Install Playwright browser (Chromium, headless)
+        run: python -m playwright install --with-deps chromium
+
+      - name: Tests unitaires
+        run: python -m pytest -q
+
+      - name: Run job watcher
+        run: python main.py
+
+      - name: Commit seen_jobs.json if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update seen_jobs.json"
+          file_pattern: seen_jobs.json
+          commit_user_name: job-watcher-bot
+          commit_user_email: job-watcher-bot@users.noreply.github.com

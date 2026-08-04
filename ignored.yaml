@@ -1,0 +1,16 @@
+# ============================================================
+# FEEDBACK LOOP — compléments d'exclusion appris dans le temps
+#
+# companies      : entreprises bannies (score 0 pour toutes leurs offres).
+# title_patterns : si le TITRE d'une offre contient le pattern, elle est ignorée.
+#
+# Éditer ce fichier : les changements s'appliquent au prochain run.
+# ============================================================
+
+companies:
+  # - "Exemple RH Maroc"
+  # - "Agence de placement X"
+
+title_patterns:
+  # - "agent de sécurité"
+  # - "responsable hôtelier"

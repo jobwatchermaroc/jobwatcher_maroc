@@ -1,0 +1,386 @@
+# ============================================================
+# job-watcher-maroc — configuration centralisée
+# Domaine cible : Azure Cloud / Cloud Security / DevSecOps
+# Géo : Maroc + France uniquement
+# ============================================================
+
+# ---------------------------------------------------------------------------
+# FRAÎCHEUR DES OFFRES
+# min_date : ignore les offres publiées AVANT cette date (format AAAA-MM-JJ).
+# ---------------------------------------------------------------------------
+min_date: "2026-07-01"
+
+# ---------------------------------------------------------------------------
+# MOTS-CLÉS DE RECHERCHE SUR LES SITES (rekrute/indeed/dreamjob/google_xray)
+# Liste COURTE : chaque terme = une requête + délai anti-blocage.
+# Le scoring (taxonomy) fait le tri ensuite, ici on cherche large mais limité.
+# ---------------------------------------------------------------------------
+search_keywords:
+  - azure
+  - cloud
+  - security
+  - devops
+  - sentinel
+  - defender
+  - kubernetes
+  - terraform
+
+# ---------------------------------------------------------------------------
+# ZONES GÉOGRAPHIQUES — UNIQUEMENT MAROC + FRANCE
+# - moroccan_sources      : sources marocaines, toujours conservées.
+# - country_terms         : si le LIEU contient l'un de ces termes → conservé.
+# - excluded_country_terms: si le LIEU en contient un → exclu (vérifié AVANT).
+# - Lieu vide/ambigu      : conservé (on ne filtre pas ce qu'on ne sait pas
+#                           localiser). "Remote" seul est conservé.
+# ---------------------------------------------------------------------------
+locations:
+  moroccan_sources:
+    - rekrute
+    - dreamjob
+    - dreamjob api
+    - indeed
+  country_terms:
+    - france
+    - maroc
+    - morocco
+    - paris
+    - casablanca
+    - rabat
+    - tanger
+    - remote
+  excluded_country_terms:
+    - united states
+    - canada
+    - united kingdom
+    - london
+    - germany
+    - allemagne
+    - spain
+    - espagne
+    - italy
+    - italie
+    - netherlands
+    - pays-bas
+    - belgium
+    - belgique
+    - switzerland
+    - suisse
+    - austria
+    - autriche
+    - ireland
+    - irlande
+    - portugal
+    - poland
+    - pologne
+    - sweden
+    - suède
+    - norway
+    - norvège
+    - denmark
+    - danemark
+    - finland
+    - finlande
+    - singapore
+    - india
+    - inde
+    - australia
+    - australie
+    - japan
+    - japon
+    - brazil
+    - brésil
+    - mexico
+    - dubai
+    - uae
+    - israel
+    - turkiye
+    - türkiye
+    - turkey
+    - turquie
+    - greece
+    - grèce
+    - czech
+    - tchèque
+    - romania
+    - roumanie
+    - bulgaria
+    - bulgarie
+    - hungary
+    - hongrie
+    - vietnam
+    - argentina
+    - argentine
+    - colombia
+    - south africa
+    - afrique du sud
+    - nigeria
+    - egypt
+    - egypte
+    - tunisia
+    - tunisie
+    - algeria
+    - algérie
+    - senegal
+    - sénégal
+
+# ---------------------------------------------------------------------------
+# TAXONOMIE DU DOMAINE (moteur de scoring 0-100)
+#
+# strong : termes FORTS — signal clair du domaine. Matchés sur TITRE (+80)
+#          OU description (+25).
+# medium : termes VOISINS (cloud/devops général) — TITRE (+45) / description (+10).
+# excluded_title : si le TITRE contient un de ces patterns → score 0.
+# ignored_companies : entreprises bannies (complété par ignored.yaml).
+#
+# Tiers de notification (voir `notifications`) :
+#   score >= 80  -> notif individuelle immédiate
+#   score 50-79  -> digest journalier
+#   < 50         -> ignoré
+# ---------------------------------------------------------------------------
+taxonomy:
+  strong:
+    - azure
+    - azure security
+    - azure active directory
+    - azure ad
+    - azure devops
+    - azure pipeline
+    - microsoft sentinel
+    - sentinel
+    - defender for cloud
+    - defender
+    - entra id
+    - devsecops
+    - cloud security
+    - security cloud
+    - cloud security engineer
+    - cloud engineer
+    - security engineer
+    - cloud architect
+    - zero trust
+    - identity and access management
+    - iam
+    - sase
+    - casb
+    - infrastructure as code
+
+  medium:
+    - cloud
+    - devops
+    - devops engineer
+    - kubernetes
+    - k8s
+    - terraform
+    - docker
+    - ci/cd
+    - gitlab ci
+    - github actions
+    - security
+    - aws
+    - gcp
+    - site reliability
+    - sre
+    - platform engineer
+    - cloud operations
+
+  excluded_title:
+    - candidature spontanée
+    - spontaneous application
+    - agent de sécurité
+    - vigile
+    - helpdesk
+    - help desk
+    - support informatique
+    - téléconseiller
+    - teleconseiller
+    - agent de saisie
+    - call center
+    - centre d'appel
+    - réceptionniste
+    - receptionniste
+    - manutention
+    - commercial
+    - communication
+    - marketing
+    - comptable
+    - comptabilité
+    - fiscalité
+    - trésorerie
+    - finance
+    - vente
+    - vendeur
+    - caissier
+    - cuisine
+    - chauffeur
+    - hôtesse
+    - accueil
+    - logistique
+    - rse
+    - ressources humaines
+    - secrétaire
+    - secrétariat
+    - juriste
+    - droit
+    - infirmier
+    - restauration
+    - serveur
+    - psychologue
+
+  ignored_companies: []
+
+# ---------------------------------------------------------------------------
+# FEEDBACK LOOP — compléments appris (à éditer à la main pour l'instant)
+# ---------------------------------------------------------------------------
+ignored:
+  file: "ignored.yaml"
+
+# ---------------------------------------------------------------------------
+# NOTIFICATIONS PAR TIERS
+# immediate_threshold : score minimum pour la notif individuelle immédiate.
+# digest_threshold    : score minimum pour entrer dans le digest journalier.
+# digest_hour         : heure UTC à laquelle le digest est envoyé (18 UTC = 19h MA).
+# max_new_jobs_per_run: plafond de notifs individuelles par run (0 = illimité).
+# ---------------------------------------------------------------------------
+notifications:
+  immediate_threshold: 80
+  digest_threshold: 50
+  digest_hour: 18
+  max_new_jobs_per_run: 0
+
+# ---------------------------------------------------------------------------
+# VEILLE MARCHÉ HEBDOMADAIRE (phase 2)
+# Agrège les offres pertinentes de la semaine (entreprises, skills, sources,
+# salaires) et envoie un rapport Telegram pour la semaine ÉCOULÉE.
+# weekday : 0 = lundi ... 6 = dimanche (ISO) — jour d'envoi.
+# hour_utc: heure UTC d'envoi (8 UTC = 9h MA).
+# ---------------------------------------------------------------------------
+market_report:
+  enabled: true
+  weekday: 0
+  hour_utc: 8
+
+# ---------------------------------------------------------------------------
+# CV ATS CHECKER (phase 2 — standalone, 0€, sans IA)
+# Outil séparé, lancé à la main :
+#   python cv_check.py --cv ~/cv.md --url "<URL de l'offre>"
+#   python cv_check.py --cv ~/cv.md --text "<description de l'offre>"
+# - lexique des skills : skills.yaml
+# - CV en local (chemin par défaut cv.md) — JAMAIS commité (voir .gitignore)
+# Sortie : % de compatibilité, skills matchés/manquants, certifs absentes.
+# ---------------------------------------------------------------------------
+
+# ---------------------------------------------------------------------------
+# SOURCES
+# - dreamjob_api : WP REST API temps réel (JSON, horodatage exact) — PRIORITAIRE
+# - rekrute / indeed / dreamjob : scraping HTML (conservés en secours/complément)
+# - google_xray  : Google Custom Search sur les ATS (nécessite les clés)
+# - ats_api      : API publiques sans clé (Greenhouse/Lever/SmartRecruiters/Workable)
+# ---------------------------------------------------------------------------
+sources:
+  dreamjob_api:
+    enabled: true
+    since_days: 3                # on ne remonte que les offres publiées depuis N jours
+    per_page: 50
+    max_pages: 2
+
+  rekrute:
+    enabled: true
+    render: false                # true => rendu JS via Playwright (headless)
+    base_url: "https://www.rekrute.com"
+    search_url: "{base}/offres.html?keyword={keyword}&keywordNew=1"
+    job_link_patterns:
+      - "/offre-emploi-"
+      - "/offre-emploi"
+      - "/emploi-et-offres"
+    fetch_details: false         # true => récupère le texte de la page détail
+
+  indeed:
+    enabled: true
+    render: false
+    base_url: "https://ma.indeed.com"
+    search_url: "{base}/jobs?q={keyword}&limit=50"
+    fetch_details: false
+
+  dreamjob:
+    enabled: true                # fallback HTML si l'API WP tombe
+    render: false
+    base_url: "https://www.dreamjob.ma"
+    search_url: "{base}/?s={keyword}"
+    job_link_patterns:
+      - "/emploi/"
+      - "/emploi-public/"
+    fetch_details: false
+
+  google_xray:
+    enabled: true
+    max_results: 10              # résultats Google, paginé de 10 en 10
+    sort_by_date: true
+    date_restrict: "d7"          # d7/d30/d90/m6/y1 ; vide = tout
+    ats_sites:
+      - "boards.greenhouse.io"
+      - "boards.eu.greenhouse.io"
+      - "jobs.lever.co"
+      - "apply.workable.com"
+      - "smartrecruiters.com"
+      - "careers.bamboohr.com"
+      - "jobs.recruitee.com"
+      - "jobs.jobvite.com"
+    extra_terms: []              # ex: ["Maroc", "Casablanca", "Rabat", "Tanger"]
+
+  ats_api:
+    enabled: true
+    max_jobs_per_company: 60     # N offres les plus récentes par board
+    delay_seconds:
+      min: 0.8
+      max: 1.8
+    greenhouse_boards:
+      - cloudflare
+      - gitlab
+      - datadog
+      - okta
+      - proton
+      - elastic
+      - mongodb
+      - twilio
+      - stripe
+      - upstart
+      - asana
+      - figma
+      - reddit
+      - discord
+      - airbnb
+      - duolingo
+      - monzo
+    lever_boards:
+      - swile
+      - qonto
+      - contentsquare
+      - veepee
+      - blablacar
+    smartrecruiters_boards:
+      - thales
+      - sodexo
+      - lvmh
+    workable_boards:
+      - voodoo                   # présence marocaine (Casablanca)
+      - qonto
+      - alan
+      - doctolib
+      - sorare
+      - lydia
+
+telegram:
+  enabled: true
+  disable_web_page_preview: true
+  max_message_length: 4096
+
+http:
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+  timeout_seconds: 20
+  min_delay_seconds: 2
+  max_delay_seconds: 6
+  max_retries: 2
+
+seen:
+  file: "seen_jobs.json"
+  max_entries: 8000
