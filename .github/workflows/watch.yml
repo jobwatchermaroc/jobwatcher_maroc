@@ -56,3 +56,4 @@ jobs:
           file_pattern: seen_jobs.json
           commit_user_name: job-watcher-bot
           commit_user_email: job-watcher-bot@users.noreply.github.com
+          commit_author: job-watcher-bot <job-watcher-bot@users.noreply.github.com>
