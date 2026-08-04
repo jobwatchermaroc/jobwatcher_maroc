@@ -46,16 +46,6 @@ jobs:
       - name: Tests unitaires
         run: python -m pytest -q
 
-      - name: Test notif Telegram (temporaire)
-        env:
-          BOT: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-          CHAT: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: |
-          curl -fsS -X POST "https://api.telegram.org/bot${BOT}/sendMessage" \
-            --data-urlencode "chat_id=${CHAT}" \
-            --data-urlencode "text=✅ Canal Telegram OK — test $(date -u)" \
-            | python3 -c "import sys,json; d=json.load(sys.stdin); print('sendMessage ok:', d['ok'], '| chat:', d['result']['chat']['first_name'] if d['ok'] else '')"
-
       - name: Run job watcher
         run: python main.py
 
