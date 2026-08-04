@@ -503,6 +503,18 @@
       "score": 100,
       "seen_at": "2026-08-04T15:01:17",
       "key": "product security engineer | cloudflare"
+    },
+    "16a06bdea04dd552072ef42a": {
+      "source": "ATS·Greenhouse·discord",
+      "score": 70,
+      "seen_at": "2026-08-04T18:24:33",
+      "key": "senior software engineer enterprise platform | discord"
+    },
+    "d76e999e20cc14b3027a126a": {
+      "source": "ATS·Greenhouse·discord",
+      "score": 70,
+      "seen_at": "2026-08-04T18:24:33",
+      "key": "staff software engineer enterprise platform | discord"
     }
   },
   "keys": {
@@ -534,384 +546,57 @@
     "senior software engineer application security | discord": "1af99c71e49fabeab3d90f03",
     "expert en intelligence artificielle | alten maroc": "6cfaae869fb602854ce3df31",
     "consultant senior salesforce sales service cloud | capgemini": "c0cf8a894e81e27916711298",
-    "product security engineer | cloudflare": "71d4adbe7d8ab72fa1090ca5"
+    "product security engineer | cloudflare": "71d4adbe7d8ab72fa1090ca5",
+    "senior software engineer enterprise platform | discord": "16a06bdea04dd552072ef42a",
+    "staff software engineer enterprise platform | discord": "d76e999e20cc14b3027a126a"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T16:52:20",
-      "last_run": "2026-08-04T16:52:20",
+      "last_ok_at": "2026-08-04T18:20:49",
+      "last_run": "2026-08-04T18:20:49",
       "last_error": "",
-      "last_ok_count": 27
+      "last_ok_count": 28
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T16:53:00",
-      "last_run": "2026-08-04T16:53:00",
+      "last_ok_at": "2026-08-04T18:21:31",
+      "last_run": "2026-08-04T18:21:31",
       "last_error": "",
       "last_ok_count": 49
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-04T16:54:37",
+      "last_run": "2026-08-04T18:23:08",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T16:55:29",
-      "last_run": "2026-08-04T16:55:29",
+      "last_ok_at": "2026-08-04T18:23:38",
+      "last_run": "2026-08-04T18:23:38",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-04T16:55:29",
+      "last_run": "2026-08-04T18:23:38",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T16:56:16",
-      "last_run": "2026-08-04T16:56:16",
+      "last_ok_at": "2026-08-04T18:24:28",
+      "last_run": "2026-08-04T18:24:28",
       "last_error": "",
-      "last_ok_count": 1225
+      "last_ok_count": 1227
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Ingenieur support N2 M365",
-        "company": "Akkodis Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-ingenieur-support-n2-m365-recrutement-akkodis-maroc-casablanca-184995.html",
-        "date": "23/07/2026",
-        "location": "Casablanca (Maroc)",
-        "description": "- environnement windows / azure ad.",
-        "source": "Rekrute",
-        "offer_id": "184995",
-        "id": "80a21059c91cae2034d24a7d",
-        "score": 55,
-        "reasons": [
-          "description: azure + azure ad"
-        ]
-      },
-      {
-        "title": "Développeur(se) Full Stack Sénior – Java / Angular",
-        "company": "ALTEN Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-developpeurse-full-stack-senior-java-angular-recrutement-alten-maroc-rabat-184862.html",
-        "date": "21/07/2026",
-        "location": "Rabat (Maroc)",
-        "description": "cloud (gcp, azure )",
-        "source": "Rekrute",
-        "offer_id": "184862",
-        "id": "d589b1d28de0c0dd41d2c319",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      },
-      {
-        "title": "Ingénieur confirmé en Intelligence Artificielle",
-        "company": "ALTEN Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-ingenieur-confirme-en-intelligence-artificielle-recrutement-alten-maroc-fes-184821.html",
-        "date": "20/07/2026",
-        "location": "Fes (Maroc)",
-        "description": "connaissance des plateformes cloud (aws, google cloud, azure ) pour le déploiement et la scalabilité des modèles.",
-        "source": "Rekrute",
-        "offer_id": "184821",
-        "id": "6c532aac5568f61f846bec80",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      },
-      {
-        "title": "Spécialiste en Intelligence Artificielle",
-        "company": "ALTEN Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-specialiste-en-intelligence-artificielle-recrutement-alten-maroc-fes-184770.html",
-        "date": "17/07/2026",
-        "location": "Fes (Maroc)",
-        "description": "familiarité avec les plateformes cloud (aws, google cloud, azure ) pour le déploiement et la gestion des modèles.",
-        "source": "Rekrute",
-        "offer_id": "184770",
-        "id": "5b350ed56af6445cec9082f0",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      },
-      {
-        "title": "Software Engineer .NET – Cloud & Microservices",
-        "company": "ALTEN Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-software-engineer-.net-cloud-microservices-recrutement-alten-maroc-rabat-185203.html",
-        "date": "31/07/2026",
-        "location": "Rabat (Maroc)",
-        "description": "ALTEN MAROC recrute un Ingénieur Logiciel .NET spécialisé en Cloud et Microservices. Rejoignez notre équipe d'excellence pour accompagner nos clients internationaux dans des projets technologiques ambitieux. Postulez pour un parcours de carrière personnalisé et un environnement de travail stimulant.",
-        "source": "Rekrute",
-        "offer_id": "185203",
-        "id": "c58545d653825488f2f19656",
-        "score": 65,
-        "reasons": [
-          "cloud",
-          "description: cloud"
-        ]
-      },
-      {
-        "title": "Service management / Run management Junior Cloud, Ops",
-        "company": "ALTEN Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-service-management-run-management-junior-cloud-ops-recrutement-alten-maroc-rabat-185167.html",
-        "date": "30/07/2026",
-        "location": "Rabat (Maroc)",
-        "description": "ALTEN MAROC recrute un profil Junior Cloud Ops pour des missions de Service/Run Management. Vous assurerez le pilotage, la supervision et l'amélioration continue des activités de support et la gestion des incidents. Profil Bac+5 avec moins de 3 ans d'expérience en Service management et une bonne maîtrise des indicateurs et de la communication sont requis.",
-        "source": "Rekrute",
-        "offer_id": "185167",
-        "id": "5d8045668db0668f2b087821",
-        "score": 65,
-        "reasons": [
-          "cloud",
-          "description: cloud"
-        ]
-      },
-      {
-        "title": "Ingénieur DevOps & Infra",
-        "company": "Perenity Software",
-        "url": "https://www.rekrute.com/offre-emploi-ingenieur-devops-infra-recrutement-perenity-software-casablanca-184956.html",
-        "date": "23/07/2026",
-        "location": "Casablanca (Maroc)",
-        "description": "une expérience valide (1 à 3 ans) dans un environnement technologique (éditeur, esn, intégrateur ou dsi), sur des sujets liés au devops, à l’administration systèmes, au cloud ou aux infrastructures applicatives",
-        "source": "Rekrute",
-        "offer_id": "184956",
-        "id": "23a823144f761000f41a6260",
-        "score": 75,
-        "reasons": [
-          "devops",
-          "description: cloud + devops"
-        ]
-      },
-      {
-        "title": "Data Security Analyst",
-        "company": "Cnexia tech",
-        "url": "https://www.rekrute.com/offre-emploi-data-security-analyst-recrutement-cnexia-tech-rabat-185110.html",
-        "date": "28/07/2026",
-        "location": "Rabat (Maroc)",
-        "description": "foundational app/db architecture & network security",
-        "source": "Rekrute",
-        "offer_id": "185110",
-        "id": "e5f1bc7cc4efcc8123a2bdd1",
-        "score": 65,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      },
-      {
-        "title": "DevOps senior",
-        "company": "ALTEN Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-devops-senior-recrutement-alten-maroc-rabat-184763.html",
-        "date": "17/07/2026",
-        "location": "Rabat (Maroc)",
-        "description": "● expérience significative en tant qu’ingénieur devops , notamment dans la mise en place de pipelines ci/cd et l’administration de gitlab.",
-        "source": "Rekrute",
-        "offer_id": "184763",
-        "id": "ccf53e1ea484caee2f298950",
-        "score": 75,
-        "reasons": [
-          "devops",
-          "description: devops + ci/cd"
-        ]
-      },
-      {
-        "title": "Consultant Devops Senior KAFKA",
-        "company": "ALTEN Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-consultant-devops-senior-kafka-recrutement-alten-maroc-rabat-184762.html",
-        "date": "17/07/2026",
-        "location": "Rabat (Maroc)",
-        "description": "maîtriser les technologies gcp (google cloud platform) telles que google kubernetes engine (gke), cloud storage, cloud sql et cloud monitoring.",
-        "source": "Rekrute",
-        "offer_id": "184762",
-        "id": "6ce0ed4ff07ddbc47d4f593d",
-        "score": 75,
-        "reasons": [
-          "devops",
-          "description: cloud + kubernetes + gcp"
-        ]
-      },
-      {
-        "title": "Maroc Climate and Security recrute des Conseillers Techniques à Casablanca",
-        "company": "",
-        "url": "https://www.dreamjob.ma/emploi/maroc-climate-and-security-recrute-des-conseillers-techniques-a-casablanca/",
-        "date": "27/07/2026",
-        "location": "",
-        "description": "Maroc Climate and Security recrute des Conseillers Techniques de Vente en Climatisation anglophones. L'entreprise recherche des profils capables d'accompagner les ...",
-        "source": "Dreamjob",
-        "id": "ca5c6b2a684c63b24757df22",
-        "score": 65,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      },
-      {
-        "title": "Engineering Manager - Security Platform",
-        "company": "Cloudflare",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8007815?gh_jid=8007815",
-        "date": "2026-07-22",
-        "location": "Distributed; Hybrid",
-        "description": "<div class=\"content-intro\"><div><strong>About Us</strong></div> <div> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&nbsp;</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p> </div></div><h4>Available Locations</h4> <ul> <li>Atlanta, US</li> <li>Austin, US</li> <li>Denver, US</li> <li>New York, US</li> <li>Toronto, Canada</li> <li>Washington DC, US</li> <li>Seattle, WA</li> <li>Remote candidates within North America will also be considered.</li> </ul> <p><strong>About the Team</strong></p> <p>The Security Platform team is an infrastructure/developer tools group tasked with building and operating powerful, resilient, and secure infrastructure and systems that enable other engineering teams to deliver products to our customers efficiently and securely. We are responsible for secrets management, internal certificate authorities/PKI, machine and workload identity, and more. This is not a policy, audit, or compliance team, but rather an infrastructure engineering/software development one.</p> <h4><strong>What You'll Do</strong></h4> <p>You’ll lead the team in building and operating secure and resilient distributed systems for secrets and key management, running across our network that spans more than 310 cities in over 120 countries. The team's focus is strengthening/re-architecting internal PKI and machine/workload identity. You’ll run and support the systems we build, both in an operational sense and by helping other internal developers use them.</p> <p>You'll organize and plan the team's long-term roadmap and day-to-day work. Y",
-        "salary": "",
-        "source": "ATS·Greenhouse·cloudflare",
-        "id": "3a92a6f9946cb5cdafd65415",
-        "score": 60,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      },
-      {
-        "title": "Regional Manager, Sales Engineering - Security (NORAM)",
-        "company": "Datadog",
-        "url": "https://careers.datadoghq.com/detail/8016279/?gh_jid=8016279",
-        "date": "2026-07-24",
-        "location": "Maryland, USA, Remote; Massachusetts, USA, Remote; New Jersey, USA, Remote; New York, New York, USA; Virginia, USA, Remote",
-        "description": "<p>As a Regional Manager, Security Sales Engineering, you will lead a team of Specialist Sales Engineers, driving technical execution, operational excellence, and team development across your region. This is an opportunity to be one of the first leaders of this specialist group, and have an outsized impact on the way we pitch and evaluate our Security products.</p> <p>You’ll act as a force multiplier by owning team performance, shaping execution standards, and partnering closely with Sales leadership to influence strategy, improve outcomes, and scale impact beyond individual deals.</p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Lead, coach, and develop a team of Specialist Sales Engineers focused on Security, driving performance, engagement, and long-term career growth through regular feedback and structured development</li> <li>Partner confidently with senior Sales leadership on regional strategy, multi-quarter planning, annual capacity planning, and forecast alignment operating 2-3 quarters ahead to anticipate resourcing needs and business priorities</li> <li>Own in-field execution at a regional level by taking an executive presence role in strategic and high-impact opportunities and providing senior-level stakeholder alignment and technical credibility alongside your team&nbsp;</li> <li>Oversee consistent, high-quality delivery across technical sales cycles in the region, including evaluations, customer engagements, and deal progression</li> </ul> <ul> <li>Hire and onboard top talent across ICs and manager-level roles, building a high-performing team and accelerating ramp through structured onboarding and enablement</li> <li>Manage regional operations including resource allocation, utilization, KPI tracking, productivity, and skills development to ensure effective coverage across the territory</li> <li>Collaborate cross-functionally with Sales, Product, Marketing, Enablement, and Support at a senior level to align on regional strategy, GTM execution, and customer experience</li> <li>Drive operational excellence across the region by improving processes, maintaining data quality, scaling evaluation frameworks, and contributing to initiatives that improve team effectiveness and business impact</li> </ul> <p>&nbsp;</p> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>3+ years of experience leading Enterprise Sales Engineers and/or frontline leaders in a customer-facing technical organization with proven ability to manage team performance, develop team members, and scale high-performing teams&nbsp;</li> <li>7+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role</li> <li>Proven ability to partner with senior Sales leadership on regional strategy, long-range planning, and forecast alignment as a strategic peer</li> <li>Ability to operate at both strategic and operational levels, balancing multi-quarter planning with day to day team execution and priorities&nbsp;</li> <li>Strong cross-functiona",
-        "salary": "",
-        "source": "ATS·Greenhouse·datadog",
-        "id": "85071b69ba2d81d685b0bc81",
-        "score": 65,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      },
-      {
-        "title": "Business Analyst",
-        "company": "Okta",
-        "url": "https://www.okta.com/company/careers/opportunity/8097799?gh_jid=8097799",
-        "date": "2026-08-03",
-        "location": "Chicago, Illinois",
-        "description": "<div class=\"content-intro\"><p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.<br><br>This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.</p></div><h1><strong>The Customer First Team</strong></h1> <p>We are a team of Identity and Access Management experts. We help customers, businesses, and organisations maximise their Okta IAM platform investment, providing rapid time-to-value in adoption and usage and promoting scalability and agility. Our team sits within the Customer First area - focused on ensuring the long term success of our customers.&nbsp; Join our team! We’re building a world where Identity belongs to you.</p> <h1><strong>Role Summary</strong></h1> <p>The Business Analyst (BA) is a central figure on the Okta Professional Services team. Your mission is to serve as the bridge between customer business objectives and technical implementation, driving high-impact outcomes for Okta Identity and Access Management (IAM) deployments. You will own the requirements lifecycle—from initial discovery and stakeholder alignment to functional design and solution integrity—ensuring that the final delivery is secure, scalable, and aligned with the customer's strategic needs.</p> <h1><strong>Key Responsibilities</strong></h1> <ul> <li><strong>Discovery &amp; Requirements Facilitation:</strong> Facilitate stakeholder workshops brainstorming sessions to uncover requirements, map current-state IAM processes, and identify dependencies and pain points across IT, security, and product teams.</li> <li><strong>Documentation &amp; Solution Design:</strong> Translate business needs into detailed functional and non-functional requirements. Produce clear business process flows and solution design diagrams to visualize the \"how\" and \"why\" behind the technical configuration.</li> <li><strong>Traceability &amp; Solution Integrity:</strong> Own the requirements traceability matrix to ensure alignment between business goals and technical outcomes. Validate that all functional requirements are successfully met through testing and acceptance criteria.</li> <li><strong>Lifecycle Partnership:</strong> Partner with technical architects and consultants to translate requirements into actionable technical specifications. Provide functional oversight during the build phase to clarify business needs, resolve variances, and advise QA on defining robust acceptance criteria.</li> <li><strong>Transition &amp; Hand-off:</strong> Partner with project leadership to execute change management plans, create user training documentation, and assist with go-liv",
-        "salary": "",
-        "source": "ATS·Greenhouse·okta",
-        "id": "74a4e248f2ff85f629ed7c26",
-        "score": 60,
-        "reasons": [
-          "description: identity and access management + iam"
-        ]
-      },
-      {
-        "title": "Staff Site Reliability Engineer, Federal (TS/SCI)",
-        "company": "Okta",
-        "url": "https://www.okta.com/company/careers/opportunity/8097489?gh_jid=8097489",
-        "date": "2026-07-31",
-        "location": "Washington, DC",
-        "description": "<div class=\"content-intro\"><p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.<br><br>This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.</p></div><div class=\"SingleJob-content\"> <p><strong>The Federal SRE Team</strong></p> <p>We are looking for an experienced Staff Site Reliability Engineer to join Okta's Federal SRE team for the Emerging Products Group (EPG). Our mission is to build highly reliable, scalable, and secure cloud services that our customers can trust. We embrace an automation-first mindset and continuously invest in platform engineering, observability, and operational excellence to enable our engineering teams to move quickly and safely.</p> <h4><strong>The Staff SRE, Classified Opportunity</strong></h4> <p>This role is ideal for an engineer who enjoys solving complex technical challenges at scale, building automation, and improving the reliability of production systems. You will serve as a technical leader within the EPG SRE organization, partnering closely with software engineers, architects, and product teams to design, build, and operate world-class cloud services.</p> <p>The ideal candidate exemplifies the philosophy of \"if you have to do it more than once, automate it\" and possesses a strong passion for continuous improvement, operational excellence, and software engineering.</p> <h4><strong>Security Clearance: Active U.S. TS/SCI clearance with Full Scope Poly&nbsp;</strong><strong>Compliance Expertise: Proven experience navigating Federal and DoD compliance frameworks, specifically FedRAMP and Impact Level 6 (IL6)</strong>&nbsp;</h4> <h4><strong>What you’ll be doing:&nbsp;</strong></h4> <h4><strong>Reliability &amp; Operations</strong></h4> <ul> <li>Design, build, and operate large-scale cloud infrastructure and production services.</li> <li>Participate in an on-call rotation supporting highly available customer-facing systems.</li> <li>Lead incident response efforts and drive post-incident reviews focused on systemic improvements.</li> <li>Define, measure, and improve Service Level Indicators (SLIs), Service Level Objectives (SLOs), and error budgets.</li> <li>Partner with engineering teams to improve service availability, scalability, performance, and resilience.</li> <li>Continuously improve observability through metrics, logging, tracing, dashboards, and alerting.</li> </ul> <h4><strong>Engineering &amp; Automation</strong></h4> <ul> <li>Develop software, automation, and infrastructure using Go, Python, Terraform, and related technologies.</li> <li>Eliminate operational toil through auto",
-        "salary": "",
-        "source": "ATS·Greenhouse·okta",
-        "id": "1c0a01da2a9c1754c217a92e",
-        "score": 70,
-        "reasons": [
-          "site reliability",
-          "description: cloud + terraform + security + site reliability + sre + platform engineer"
-        ]
-      },
-      {
-        "title": "Senior Database Platform Engineer",
-        "company": "Proton",
-        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4926609101",
-        "date": "2026-07-13",
-        "location": "Paris; Geneva",
-        "description": "<h2>Join Proton and build a better internet where privacy is the default</h2> <p>Proton was founded in 2014 by scientists from CERN on a simple truth: <strong>privacy is a fundamental human right</strong>. Since then, we've built the world's largest encrypted email service (Proton Mail) and expanded into Proton VPN, Proton Drive, Proton Pass, and Proton Calendar — tools used by millions globally to protect their freedom, fight censorship, and keep their data safe. In some situations, Proton has literally helped save lives.</p> <p>We are profitable, independent (no VC control), and selectively hire from the top ~1% of applicants. Our 700+ team members across 50+ countries come from leading organizations and elite academic backgrounds. We move fast, keep hierarchy light, and prioritize impact over optics. If you want to do meaningful work with exceptionally high-caliber people, this is it. Check our open-source projects <a href=\"https://proton.me/community/open-source\">here</a>.</p> <h2>The Database Platform Team</h2> <p>The Database team owns the backbone of every Proton product — a web-scale fleet of mission-critical MySQL databases serving hundreds of millions of users worldwide. We sit within the Infrastructure department and are responsible for making these databases available, performant, and secure as Proton's product surface keeps expanding. We treat manual toil as a bug: automation is how we scale, not headcount. You'll be joining at a critical phase — we're actively raising our automation ceiling, evaluating distributed database systems, and building the platform that will carry Proton through its next decade of growth. If you want narrow scope and a clean backlog, this isn't the right fit.</p> <h2>Tech Stack and Tools</h2> <ul> <li><strong>Database:</strong> MySQL, ProxySQL</li> <li><strong>Automation / Config management:</strong> Ansible, Puppet</li> <li><strong>Observability:</strong> Prometheus, Grafana, Loki, PMM, Icinga</li> <li><strong>OS / Infrastructure:</strong> Linux, bare-metal on-premise data centers</li> <li><strong>Distributed DB (exploratory):</strong> CockroachDB, YugabyteDB</li> </ul> <h2>&nbsp;</h2> <h2>What You'll Do</h2> <ul> <li>Own the administration and reliability of Proton's web-scale MySQL fleet, accessed via ProxySQL, including participating in a 24/7 on-call rotation</li> <li>Design and implement automation that eliminates manual operational toil and measurably improves platform reliability</li> <li>Write code and tooling to improve how we manage, monitor, and scale the database platform — treating infrastructure as software</li> <li>Own performance tuning across the full stack — hardware, OS, storage, network, and query level — and resolve bottlenecks before they become incidents</li> <li>Drive database best practices into product design reviews, providing clear guidance on architecture, data modeling, scalability, and system integration</li> <li>Lead the planning and execution of database version upgrades an",
-        "salary": "",
-        "source": "ATS·Greenhouse·proton",
-        "id": "1c8da6207f75a30a0e4086da",
-        "score": 55,
-        "reasons": [
-          "platform engineer"
-        ]
-      },
-      {
-        "title": "Senior Data Platform Engineer",
-        "company": "Proton",
-        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4917440101",
-        "date": "2026-07-07",
-        "location": "Geneva; Barcelona;",
-        "description": "<p data-renderer-start-pos=\"18\" data-local-id=\"384391c2485b\"><strong data-renderer-mark=\"true\">Join Proton and build a better internet where privacy is the default</strong></p> <p data-renderer-start-pos=\"88\" data-local-id=\"70873c53c148\">Proton was founded in 2014 by scientists from CERN on a simple truth: <strong data-renderer-mark=\"true\">privacy is a fundamental human right</strong>. Since then, we’ve built the world’s largest encrypted email service (Proton Mail) and expanded into Proton VPN, Proton Drive, Proton Pass, and Proton Calendar—tools used by millions globally to protect their freedom, fight censorship, and keep their data safe. In some situations, Proton has literally helped save lives!</p> <p data-renderer-start-pos=\"518\" data-local-id=\"bb6a25ba35fe\">We are profitable, independent (no VC control), and selectively hire from the top ~1% of applicants. Our 700+ team members across 50+ countries come from leading organizations and elite academic backgrounds. We move fast, keep hierarchy light, and prioritize impact over optics. If you want to do meaningful work with exceptionally high-caliber people, this is it. Join us and do work you can truly be proud of. Check our open-source projects <a class=\"_ymio1r31 _ypr0glyw _zcxs1o36 _mizu1v1w _1ah3dkaa _ra3xnqa1 _128mdkaa _1cvmnqa1 _4davt94y _4bfu1r31 _1hms8stv _ajmmnqa1 _vchhusvi _kqswh2mm _ect4ttxp _syaz13af _1a3b1r31 _4fpr8stv _5goinqa1 _f8pj13af _9oik1r31 _1bnxglyw _jf4cnqa1 _30l313af _1nrm1r31 _c2waglyw _1iohnqa1 _9h8h12zz _10531ra0 _1ien1ra0 _n0fx1ra0 _1vhv17z1\" href=\"https://proton.me/community/open-source\" data-renderer-mark=\"true\" data-is-router-link=\"false\" data-testid=\"link-with-safety\">here</a>!</p> <p data-renderer-start-pos=\"1\" data-local-id=\"fe50f7e6a474\">The Proton Data team is responsible for everything that enables the company to make data-driven decisions, with our on-premise, custom data platform at the center. We are looking for a <strong data-renderer-mark=\"true\">Senior Data Platform Engineer</strong>, to help maintain, improve and consolidate the data pipelines in our data platform, and help it take our data platform to the next level.</p> <p data-renderer-start-pos=\"1\" data-local-id=\"fe50f7e6a474\"><strong>What you will do:</strong></p> <ul> <li data-renderer-start-pos=\"367\" data-local-id=\"800c3dc305b1\">Drive end-to-end data engineering and data platform initiatives, from problem discovery and technical design to implementation, rollout, documentation, and long-term ownership.</li> <li data-renderer-start-pos=\"367\" data-local-id=\"800c3dc305b1\">Design, build, and operate reliable, scalable, and maintainable data pipelines that support analytics, product insights, experimentation, and business-critical reporting.</li> <li data-renderer-start-pos=\"721\" data-local-id=\"b39be4cc6e18\">Work with large-scale batch and streaming data processing systems, ensuring data is accurate, timely, observable, and easy to consume.</li> <li data-renderer-start-pos=\"859\" data-local-id=\"343f",
-        "salary": "",
-        "source": "ATS·Greenhouse·proton",
-        "id": "92debd32171be9cbd1bf8816",
-        "score": 60,
-        "reasons": [
-          "platform engineer",
-          "description: platform engineer"
-        ]
-      },
-      {
-        "title": "Lead, Platform Engineering",
-        "company": "MongoDB",
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=8071475",
-        "date": "2026-07-22",
-        "location": "Gurugram",
-        "description": "<p>The Infrastructure Engineering team is responsible for building and maintaining a self-service internal development platform that enables MongoDB engineering teams to reliably deploy and operate their own production services and products. We work with numerous engineering teams across the company to understand their infrastructure requirements and development workflows, develop broadly applicable self-service platform services and tooling, continuously monitor how platform services are being utilized, and look for ways to improve developer productivity through automation and education.</p> <p>We are big open source enthusiasts and use a number of open source tools in our stack (contributing upstream whenever possible). Some of the tools we use regularly include Go, AWS, Kubernetes, Crossplane, Terraform, Helm, Drone, Prometheus, and Grafana. However, technology is nothing without a stellar team of engineers that are focused on doing high quality work and working as a team to solve complex distributed computing and platform engineering problems. This is where you come in!</p> <p>We are looking to speak to candidates who are based in Gurugram for our hybrid working model.</p> <h3>Our ideal candidate</h3> <ul> <li>2+ years of experience managing and mentoring a team of 3+ engineers</li> <li>Has 5+ years of experience owning the design and implementation of large software/infrastructure projects</li> <li>Has built and operated large-scale distributed systems in cloud providers (AWS strongly preferred)</li> <li>Has a strong backend programming background. Fluency in Go is strongly preferred; deep experience with another compiled or strongly-typed backend language is acceptable</li> <li>Pragmatic, detail-oriented, self-motivated, and understands the benefits of collaboration</li> <li>Strong experience operating production Kubernetes clusters, not just deployed to it</li> <li>Has practical experience defining and operating against SLI/SLOs for services they owned</li> <li>Strong experience with observability tooling: metrics, logging, traces, Prometheus, Grafana, OpenTelemetry</li> <li>Strong Linux and TCP/IP networking skills</li> <li>Familiar with standard authentication protocols (OAuth, OIDC)</li> <li>Familiar with web services and/or Kubernetes controller development</li> <li>Strong experience using CI/CD workflows to deploy production services</li> <li>Has experience working with AI coding agents and can demonstrate building high quality context to yield high quality outputs</li> </ul> <h3>Position Expectations</h3> <ul> <li>Define, plan, and execute projects that help to run, grow, and transform MongoDB's self-service internal developer platform</li> <li>Take on direct reports and organize work for a team of platform engineers in coordination with other engineering leads</li> <li>\"Lead by example\" and act as a mentor to other engineers</li> <li>Work with engineering teams across MongoDB to investigate gaps and limitations in existing developme",
-        "salary": "",
-        "source": "ATS·Greenhouse·mongodb",
-        "id": "13823f8312e50049de058897",
-        "score": 70,
-        "reasons": [
-          "platform engineer",
-          "description: cloud + kubernetes + terraform + ci/cd + aws + platform engineer"
-        ]
-      },
-      {
-        "title": "Senior Software Engineer, Application Security",
-        "company": "Discord",
-        "url": "https://job-boards.greenhouse.io/discord/jobs/8656854002",
-        "date": "2026-07-31",
-        "location": "San Francisco Bay Area",
-        "description": "<div class=\"content-intro\"><p>Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: <strong>play video games.</strong> Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.</p></div><p>Discord empowers people to create spaces where they can find a sense of belonging in their lives. Millions of people trust Discord to keep their communications secure, private, and out of the hands of evildoers, so security and privacy are necessary to Discord's success.</p> <p>We are looking for a Senior Software Engineer to join our Application Security team and protect Discord’s users where it matters most, their accounts. If you are an engineer with a wealth of experience making the secure way the easy way, a deep sense of curiosity, and an endless desire to improve Discord, read on!</p> <p><strong>What you'll do</strong></p> <ul> <li>Join an engineering team designing and implementing full-stack, user-facing security solutions that protect hundreds of millions of Discord users.</li> <li>Lead full-stack work to strengthen session security and authentication for Discord’s users.</li> <li>Improve, operate, and maintain security-critical authentication services, owning their correctness and security.</li> <li>Partner with Product teams to drive adoption of stronger authentication and to ship user-facing account security tools.</li> <li>Identify and design solutions for emerging threats to user account security.</li> <li>Research and implement new security capabilities for the Discord platform, staying current on the authentication and session security landscape.</li> <li>Build security controls and tools that emphasize self-service, automation, and performance to help identify and mitigate account security flaws.</li> </ul> <p><strong>Who you are</strong></p> <ul> <li>You have 5+ years of experience securing production applications.</li> <li>You have 3+ years of experience programming in at least one general-purpose programming language (e.g., Python, Go, Java, or Rust).</li> <li>You have hands-on experience building and shipping production software, including security features, controls, frameworks, or guardrails.</li> <li>You have hands-on experience with authentication and account security, such as WebAuthn, passkeys, FIDO2, MFA, and session management.</li> <li>You are comfortable reasoning about the security of complex systems, even if they contain components you aren’t familiar with, and can give engineers clear, sound guidance on secure design and implementation.</li> <li>You have experience leading security projects with a cross-functional group.</li> <li>You have experience building or hardening client applications, such as desktop or native mobile apps.</li> <li>You have experience operating in cloud-based environm",
-        "salary": "",
-        "source": "ATS·Greenhouse·discord",
-        "id": "1af99c71e49fabeab3d90f03",
-        "score": 70,
-        "reasons": [
-          "security",
-          "description: cloud + security"
-        ]
-      },
-      {
-        "title": "Expert en Intelligence artificielle",
-        "company": "ALTEN Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-expert-en-intelligence-artificielle-recrutement-alten-maroc-fes-184768.html",
-        "date": "17/07/2026",
-        "location": "Fes (Maroc)",
-        "description": "familiarité avec les plateformes cloud (aws, google cloud, azure ) pour le déploiement et la gestion des modèles.",
-        "source": "Rekrute",
-        "offer_id": "184768",
-        "id": "6cfaae869fb602854ce3df31",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      },
-      {
-        "title": "Consultant Senior Salesforce Sales & Service Cloud",
-        "company": "Capgemini",
-        "url": "https://www.rekrute.com/offre-emploi-consultant-senior-salesforce-sales-service-cloud-recrutement-capgemini-casablanca-184571.html",
-        "date": "04/08/2026",
-        "location": "Casablanca (Maroc)",
-        "description": "maîtrise approfondie de la plateforme salesforce sales cloud et service cloud .",
-        "source": "Rekrute",
-        "offer_id": "184571",
-        "id": "c0cf8a894e81e27916711298",
-        "score": 65,
-        "reasons": [
-          "cloud",
-          "description: cloud"
-        ]
-      }
-    ],
-    "last_sent_date": ""
+    "buffer": [],
+    "last_sent_date": "2026-08-04"
   },
   "market": {
     "week": "2026-W32",
@@ -969,7 +654,9 @@
       "a534aae94bd7edd0814d4253",
       "6cfaae869fb602854ce3df31",
       "c0cf8a894e81e27916711298",
-      "71d4adbe7d8ab72fa1090ca5"
+      "71d4adbe7d8ab72fa1090ca5",
+      "16a06bdea04dd552072ef42a",
+      "d76e999e20cc14b3027a126a"
     ],
     "companies": {
       "ALTEN Maroc": 13,
@@ -989,7 +676,7 @@
       "Twilio": 1,
       "Stripe": 1,
       "Asana": 4,
-      "Discord": 4,
+      "Discord": 6,
       "contentsquare": 3,
       "veepee": 1,
       "Capgemini": 1
@@ -1006,14 +693,14 @@
       "azure security": 1,
       "devsecops": 7,
       "sre": 5,
-      "terraform": 8,
-      "ci/cd": 5,
+      "terraform": 10,
+      "ci/cd": 7,
       "kubernetes": 4,
-      "infrastructure as code": 3,
+      "infrastructure as code": 5,
       "security engineer": 16,
       "platform engineer": 6,
       "cloud security": 1,
-      "iam": 3,
+      "iam": 5,
       "identity and access management": 2,
       "site reliability": 2,
       "devops engineer": 1
@@ -1030,12 +717,12 @@
       "ATS·Greenhouse·twilio": 1,
       "ATS·Greenhouse·stripe": 1,
       "ATS·Greenhouse·asana": 4,
-      "ATS·Greenhouse·discord": 4,
+      "ATS·Greenhouse·discord": 6,
       "ATS·Lever·contentsquare": 3,
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 54,
+    "total": 56,
     "prev": null,
     "prev_reported": true
   },
