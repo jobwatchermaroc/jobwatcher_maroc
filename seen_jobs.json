@@ -515,6 +515,18 @@
       "score": 70,
       "seen_at": "2026-08-04T18:24:33",
       "key": "staff software engineer enterprise platform | discord"
+    },
+    "22a7e33b3abec76406d612f6": {
+      "source": "ATS·Greenhouse·twilio",
+      "score": 50,
+      "seen_at": "2026-08-04T20:17:13",
+      "key": "software engineer l2 email | twilio"
+    },
+    "7ece981482b73a56856d135d": {
+      "source": "ATS·Greenhouse·twilio",
+      "score": 50,
+      "seen_at": "2026-08-04T20:17:13",
+      "key": "software engineer l3 email | twilio"
     }
   },
   "keys": {
@@ -548,54 +560,87 @@
     "consultant senior salesforce sales service cloud | capgemini": "c0cf8a894e81e27916711298",
     "product security engineer | cloudflare": "71d4adbe7d8ab72fa1090ca5",
     "senior software engineer enterprise platform | discord": "16a06bdea04dd552072ef42a",
-    "staff software engineer enterprise platform | discord": "d76e999e20cc14b3027a126a"
+    "staff software engineer enterprise platform | discord": "d76e999e20cc14b3027a126a",
+    "software engineer l2 email | twilio": "22a7e33b3abec76406d612f6",
+    "software engineer l3 email | twilio": "7ece981482b73a56856d135d"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T18:44:18",
-      "last_run": "2026-08-04T18:44:18",
+      "last_ok_at": "2026-08-04T20:13:30",
+      "last_run": "2026-08-04T20:13:30",
       "last_error": "",
       "last_ok_count": 28
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T18:44:57",
-      "last_run": "2026-08-04T18:44:57",
+      "last_ok_at": "2026-08-04T20:14:05",
+      "last_run": "2026-08-04T20:14:05",
       "last_error": "",
       "last_ok_count": 49
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-04T18:46:35",
+      "last_run": "2026-08-04T20:15:42",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T18:47:06",
-      "last_run": "2026-08-04T18:47:06",
+      "last_ok_at": "2026-08-04T20:16:21",
+      "last_run": "2026-08-04T20:16:21",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-04T18:47:06",
+      "last_run": "2026-08-04T20:16:21",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T18:48:00",
-      "last_run": "2026-08-04T18:48:00",
+      "last_ok_at": "2026-08-04T20:17:09",
+      "last_run": "2026-08-04T20:17:09",
       "last_error": "",
       "last_ok_count": 1227
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Software Engineer (L2) Email",
+        "company": "Twilio",
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207",
+        "date": "2026-08-04",
+        "location": "Remote - US",
+        "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work :</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp;<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as Twilio’s next <strong>Software Engineer, Platform Engineering (L2)</strong></p> <p>&nbsp;</p> <p><strong>About the job</strong></p> <p>This position is an engineering role within Twilio Platform Engineering, suited to an engineer who is building hands-on experience with highly available, large-scale distributed systems.</p> <p>&nbsp;</p> <p>Our systems regularly process more than 12 billion emails during peak events like Black Friday, and our throughput requirements continue to scale rapidly. As an L2 engineer, you will help build and operate backend services at scale, working alongside more senior engineers on our dual-cloud infrastructure spanning Amazon Web Services (AWS) and Microsoft Azure. You'll get hands-on with Kubernetes, contribute to Terraform-based infrastructure automation, and write production code to help keep distributed systems healthy under real production load, using modern AI-assisted tooling to move faster and ramp up your skills.<br><br></p> <p><strong>Responsibilities</strong></p> <p><strong>In this role, you’ll:</strong></p> <ul> <li><strong>WEAR THE CUSTOMER'S SHOES: </strong>Help design, build, and operate services and automations that support Kubernetes clusters at scale, under the guidance of senior engineers. Work with product management and technical leadership to turn well-scoped tasks into working code.</li> <li><strong>BE AN",
+        "salary": "",
+        "source": "ATS·Greenhouse·twilio",
+        "id": "22a7e33b3abec76406d612f6",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      },
+      {
+        "title": "Software Engineer (L3) Email",
+        "company": "Twilio",
+        "url": "https://job-boards.greenhouse.io/twilio/jobs/8026203",
+        "date": "2026-08-04",
+        "location": "Remote - US",
+        "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work :</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp;<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as Twilio’s next <strong>Software Engineer, Platform Engineering (L3)</strong></p> <p>&nbsp;</p> <p><strong>About the job</strong></p> <p>This position is a critical engineering role within Twilio Platform Engineering, requiring a hands-on engineer capable of developing, deploying, and managing highly available, massive-scale distributed systems.</p> <p>Our systems regularly process more than 12 billion emails during peak events like Black Friday, and our throughput requirements continue to scale rapidly. As an L3 engineer, you will build and operate resilient backend services at scale and contribute to the design and reliability of our dual-cloud infrastructure span across Amazon Web Services (AWS) and Microsoft Azure. You'll run Kubernetes beyond the boundaries of managed services, automate infrastructure with Terraform, and write production code to help keep distributed systems healthy under real production load while using modern AI-assisted tooling to move faster.</p> <p><strong>Responsibilities</strong></p> <p><strong>In this role, you’ll:</strong></p> <ul> <li><strong>WEAR THE CUSTOMER’S SHOES: </strong>Design, build, and operate services and automations to manage kubernetes clusters at scale. Partner closely with product management and technical leadership to break down complex system requirements into manageable, iterative milestones.</li> <li><strong>",
+        "salary": "",
+        "source": "ATS·Greenhouse·twilio",
+        "id": "7ece981482b73a56856d135d",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      }
+    ],
     "last_sent_date": "2026-08-04"
   },
   "market": {
@@ -656,7 +701,9 @@
       "c0cf8a894e81e27916711298",
       "71d4adbe7d8ab72fa1090ca5",
       "16a06bdea04dd552072ef42a",
-      "d76e999e20cc14b3027a126a"
+      "d76e999e20cc14b3027a126a",
+      "22a7e33b3abec76406d612f6",
+      "7ece981482b73a56856d135d"
     ],
     "companies": {
       "ALTEN Maroc": 13,
@@ -673,7 +720,7 @@
       "Okta": 4,
       "Proton": 2,
       "MongoDB": 1,
-      "Twilio": 1,
+      "Twilio": 3,
       "Stripe": 1,
       "Asana": 4,
       "Discord": 6,
@@ -682,23 +729,23 @@
       "Capgemini": 1
     },
     "skills": {
-      "azure": 12,
+      "azure": 14,
       "azure ad": 1,
-      "aws": 14,
+      "aws": 16,
       "azure devops": 1,
-      "cloud": 24,
+      "cloud": 26,
       "devops": 11,
       "gcp": 6,
       "security": 31,
       "azure security": 1,
       "devsecops": 7,
       "sre": 5,
-      "terraform": 10,
+      "terraform": 12,
       "ci/cd": 7,
-      "kubernetes": 4,
+      "kubernetes": 6,
       "infrastructure as code": 5,
       "security engineer": 16,
-      "platform engineer": 6,
+      "platform engineer": 8,
       "cloud security": 1,
       "iam": 5,
       "identity and access management": 2,
@@ -714,7 +761,7 @@
       "ATS·Greenhouse·okta": 4,
       "ATS·Greenhouse·proton": 2,
       "ATS·Greenhouse·mongodb": 1,
-      "ATS·Greenhouse·twilio": 1,
+      "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·stripe": 1,
       "ATS·Greenhouse·asana": 4,
       "ATS·Greenhouse·discord": 6,
@@ -722,7 +769,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 56,
+    "total": 58,
     "prev": null,
     "prev_reported": true
   },
