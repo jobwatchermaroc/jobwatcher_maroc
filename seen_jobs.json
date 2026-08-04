@@ -485,6 +485,12 @@
       "score": 70,
       "seen_at": "2026-08-04T09:19:29",
       "key": "senior software engineer application security | discord"
+    },
+    "6cfaae869fb602854ce3df31": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-08-04T09:45:46",
+      "key": "expert en intelligence artificielle | alten maroc"
     }
   },
   "keys": {
@@ -513,48 +519,49 @@
     "senior data platform engineer | proton": "92debd32171be9cbd1bf8816",
     "lead platform engineering | mongodb": "13823f8312e50049de058897",
     "security engineer privy | stripe": "3e8574313413d10eac9706b5",
-    "senior software engineer application security | discord": "1af99c71e49fabeab3d90f03"
+    "senior software engineer application security | discord": "1af99c71e49fabeab3d90f03",
+    "expert en intelligence artificielle | alten maroc": "6cfaae869fb602854ce3df31"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T09:15:45",
-      "last_run": "2026-08-04T09:15:45",
+      "last_ok_at": "2026-08-04T09:42:10",
+      "last_run": "2026-08-04T09:42:10",
       "last_error": "",
-      "last_ok_count": 20
+      "last_ok_count": 21
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T09:16:16",
-      "last_run": "2026-08-04T09:16:16",
+      "last_ok_at": "2026-08-04T09:42:47",
+      "last_run": "2026-08-04T09:42:47",
       "last_error": "",
-      "last_ok_count": 48
+      "last_ok_count": 47
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-04T09:17:53",
+      "last_run": "2026-08-04T09:44:24",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T09:18:22",
-      "last_run": "2026-08-04T09:18:22",
+      "last_ok_at": "2026-08-04T09:44:55",
+      "last_run": "2026-08-04T09:44:55",
       "last_error": "",
       "last_ok_count": 106
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-04T09:18:22",
+      "last_run": "2026-08-04T09:44:55",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T09:19:21",
-      "last_run": "2026-08-04T09:19:21",
+      "last_ok_at": "2026-08-04T09:45:46",
+      "last_run": "2026-08-04T09:45:46",
       "last_error": "",
       "last_ok_count": 1227
     }
@@ -857,6 +864,21 @@
           "security",
           "description: cloud + security"
         ]
+      },
+      {
+        "title": "Expert en Intelligence artificielle",
+        "company": "ALTEN Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-expert-en-intelligence-artificielle-recrutement-alten-maroc-fes-184768.html",
+        "date": "17/07/2026",
+        "location": "Fes (Maroc)",
+        "description": "familiarité avec les plateformes cloud (aws, google cloud, azure ) pour le déploiement et la gestion des modèles.",
+        "source": "Rekrute",
+        "offer_id": "184768",
+        "id": "6cfaae869fb602854ce3df31",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
       }
     ],
     "last_sent_date": ""
@@ -914,10 +936,11 @@
       "bf1a00fd56286b5b22c48b48",
       "07e435477c7875fca8ffbab2",
       "1aab818fb49f45aa83cdf754",
-      "a534aae94bd7edd0814d4253"
+      "a534aae94bd7edd0814d4253",
+      "6cfaae869fb602854ce3df31"
     ],
     "companies": {
-      "ALTEN Maroc": 12,
+      "ALTEN Maroc": 13,
       "Akkodis Maroc": 1,
       "Perenity Software": 1,
       "Cnexia tech": 1,
@@ -939,11 +962,11 @@
       "veepee": 1
     },
     "skills": {
-      "azure": 11,
+      "azure": 12,
       "azure ad": 1,
-      "aws": 13,
+      "aws": 14,
       "azure devops": 1,
-      "cloud": 22,
+      "cloud": 23,
       "devops": 11,
       "gcp": 6,
       "security": 30,
@@ -963,7 +986,7 @@
       "devops engineer": 1
     },
     "sources": {
-      "Rekrute": 18,
+      "Rekrute": 19,
       "Dreamjob": 1,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·gitlab": 4,
@@ -979,7 +1002,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 51,
+    "total": 52,
     "prev": null,
     "prev_reported": true
   }
