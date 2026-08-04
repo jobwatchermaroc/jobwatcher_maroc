@@ -491,6 +491,18 @@
       "score": 50,
       "seen_at": "2026-08-04T09:45:46",
       "key": "expert en intelligence artificielle | alten maroc"
+    },
+    "c0cf8a894e81e27916711298": {
+      "source": "Rekrute",
+      "score": 65,
+      "seen_at": "2026-08-04T15:01:17",
+      "key": "consultant senior salesforce sales service cloud | capgemini"
+    },
+    "71d4adbe7d8ab72fa1090ca5": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 100,
+      "seen_at": "2026-08-04T15:01:17",
+      "key": "product security engineer | cloudflare"
     }
   },
   "keys": {
@@ -520,50 +532,52 @@
     "lead platform engineering | mongodb": "13823f8312e50049de058897",
     "security engineer privy | stripe": "3e8574313413d10eac9706b5",
     "senior software engineer application security | discord": "1af99c71e49fabeab3d90f03",
-    "expert en intelligence artificielle | alten maroc": "6cfaae869fb602854ce3df31"
+    "expert en intelligence artificielle | alten maroc": "6cfaae869fb602854ce3df31",
+    "consultant senior salesforce sales service cloud | capgemini": "c0cf8a894e81e27916711298",
+    "product security engineer | cloudflare": "71d4adbe7d8ab72fa1090ca5"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T10:59:18",
-      "last_run": "2026-08-04T12:31:09",
+      "last_ok_at": "2026-08-04T14:57:07",
+      "last_run": "2026-08-04T14:57:07",
       "last_error": "",
-      "last_ok_count": 23
+      "last_ok_count": 27
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T12:31:51",
-      "last_run": "2026-08-04T12:31:51",
+      "last_ok_at": "2026-08-04T14:57:41",
+      "last_run": "2026-08-04T14:57:41",
       "last_error": "",
-      "last_ok_count": 47
+      "last_ok_count": 48
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-04T12:33:27",
+      "last_run": "2026-08-04T14:59:18",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T11:02:16",
-      "last_run": "2026-08-04T12:34:00",
+      "last_ok_at": "2026-08-04T15:00:24",
+      "last_run": "2026-08-04T15:00:24",
       "last_error": "",
-      "last_ok_count": 106
+      "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-04T12:34:00",
+      "last_run": "2026-08-04T15:00:24",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-04T12:34:49",
-      "last_run": "2026-08-04T12:34:49",
+      "last_ok_at": "2026-08-04T15:01:17",
+      "last_run": "2026-08-04T15:01:17",
       "last_error": "",
-      "last_ok_count": 1225
+      "last_ok_count": 1224
     }
   },
   "digest": {
@@ -879,6 +893,22 @@
         "reasons": [
           "description: azure"
         ]
+      },
+      {
+        "title": "Consultant Senior Salesforce Sales & Service Cloud",
+        "company": "Capgemini",
+        "url": "https://www.rekrute.com/offre-emploi-consultant-senior-salesforce-sales-service-cloud-recrutement-capgemini-casablanca-184571.html",
+        "date": "04/08/2026",
+        "location": "Casablanca (Maroc)",
+        "description": "maîtrise approfondie de la plateforme salesforce sales cloud et service cloud .",
+        "source": "Rekrute",
+        "offer_id": "184571",
+        "id": "c0cf8a894e81e27916711298",
+        "score": 65,
+        "reasons": [
+          "cloud",
+          "description: cloud"
+        ]
       }
     ],
     "last_sent_date": ""
@@ -937,7 +967,9 @@
       "07e435477c7875fca8ffbab2",
       "1aab818fb49f45aa83cdf754",
       "a534aae94bd7edd0814d4253",
-      "6cfaae869fb602854ce3df31"
+      "6cfaae869fb602854ce3df31",
+      "c0cf8a894e81e27916711298",
+      "71d4adbe7d8ab72fa1090ca5"
     ],
     "companies": {
       "ALTEN Maroc": 13,
@@ -948,7 +980,7 @@
       "Sofrecom Maroc": 1,
       "CGI Technologies et Solutions Maroc": 1,
       "Inconnu": 1,
-      "Cloudflare": 4,
+      "Cloudflare": 5,
       "GitLab": 4,
       "Datadog": 3,
       "Okta": 4,
@@ -959,17 +991,18 @@
       "Asana": 4,
       "Discord": 4,
       "contentsquare": 3,
-      "veepee": 1
+      "veepee": 1,
+      "Capgemini": 1
     },
     "skills": {
       "azure": 12,
       "azure ad": 1,
       "aws": 14,
       "azure devops": 1,
-      "cloud": 23,
+      "cloud": 24,
       "devops": 11,
       "gcp": 6,
-      "security": 30,
+      "security": 31,
       "azure security": 1,
       "devsecops": 7,
       "sre": 5,
@@ -977,7 +1010,7 @@
       "ci/cd": 5,
       "kubernetes": 4,
       "infrastructure as code": 3,
-      "security engineer": 15,
+      "security engineer": 16,
       "platform engineer": 6,
       "cloud security": 1,
       "iam": 3,
@@ -986,9 +1019,9 @@
       "devops engineer": 1
     },
     "sources": {
-      "Rekrute": 19,
+      "Rekrute": 20,
       "Dreamjob": 1,
-      "ATS·Greenhouse·cloudflare": 4,
+      "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·gitlab": 4,
       "ATS·Greenhouse·datadog": 3,
       "ATS·Greenhouse·okta": 4,
@@ -1002,8 +1035,15 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 52,
+    "total": 54,
     "prev": null,
     "prev_reported": true
+  },
+  "contacts": {
+    "cloudflare": {
+      "domain": "cloudflare.com",
+      "emails": [],
+      "updated_at": "2026-08-04T15:01:42"
+    }
   }
 }
