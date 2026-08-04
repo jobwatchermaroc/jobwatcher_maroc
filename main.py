@@ -28,6 +28,7 @@ import yaml
 import scrapers
 import state as state_mod
 import market as market_mod
+import contacts as contacts_mod
 from dates import is_fresh, parse_date
 from notifier import TelegramNotifier
 from scoring import score_job
@@ -139,6 +140,8 @@ def run_once(cfg: dict, args) -> int:
     digest_threshold = int(notif_cfg.get("digest_threshold", 50))
     digest_hour = int(notif_cfg.get("digest_hour", 18))
     notify_limit = int(notif_cfg.get("max_new_jobs_per_run", 0))
+    contacts_cfg = cfg.get("contacts", {})
+    contacts_enabled = contacts_cfg.get("enabled", True) and not args.dry_run
 
     sources_cfg = cfg.get("sources", {})
     active = [name for name, sc in sources_cfg.items() if sc.get("enabled", False)]
@@ -187,6 +190,24 @@ def run_once(cfg: dict, args) -> int:
         else:
             digest_buffer.append(job)
         state_mod.record(job, state, score)
+
+    if contacts_enabled:
+        session = contacts_mod.make_session(http_cfg)
+        budget = int(contacts_cfg.get("max_lookups_per_run", 3))
+        max_emails = int(contacts_cfg.get("max_emails", 4))
+        targets = immediate if contacts_cfg.get("only_immediate", True) else immediate + digest_buffer
+        for job in targets:
+            if budget <= 0:
+                LOG.info("Prospection : budget de %d recherche(s)/run atteint", int(contacts_cfg.get("max_lookups_per_run", 3)))
+                break
+            info = contacts_mod.get_contacts(state, job, contacts_cfg, session)
+            if info:
+                if info.get("scraped"):
+                    budget -= 1
+                emails = info.get("emails") or []
+                if emails:
+                    job["emails"] = emails[:max_emails]
+                    LOG.info("Contacts [%s] : %s", job.get("company"), ", ".join(job["emails"]))
 
     immediate.sort(key=lambda j: parse_date(j.get("date")) or date.min, reverse=True)
     LOG.info(

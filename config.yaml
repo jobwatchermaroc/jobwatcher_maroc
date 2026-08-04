@@ -270,6 +270,51 @@ market_report:
 # ---------------------------------------------------------------------------
 
 # ---------------------------------------------------------------------------
+# PROSPECTION — emails publics des entreprises qui recrutent
+# Pour chaque offre immédiate (score >= 80), on cherche le domaine de
+# l'entreprise (indice URL sinon candidats .ma/.com/.fr vérifiés) puis on
+# crawl ses pages Contact/Carrières pour extraire les emails PUBLIÉS.
+# Résultat caché dans seen_jobs.json et rafraîchi chaque refresh_days.
+# Limites : uniquement ce qui est publié (pas LinkedIn, pas d'inférence).
+# ---------------------------------------------------------------------------
+contacts:
+  enabled: true
+  only_immediate: true        # true => offres immédiates uniquement
+  max_lookups_per_run: 3      # borne le temps de run (nouvelles entreprises)
+  refresh_days: 7
+  max_emails: 4               # emails gardés par entreprise dans les notifs
+  max_pages: 10
+  timeout_seconds: 10
+  delay_seconds:
+    min: 0.5
+    max: 1.5
+  tlds: [".ma", ".com", ".fr", ".net"]
+  scan_paths:
+    - ""
+    - "/contact"
+    - "/contactez-nous"
+    - "/contacts"
+    - "/contact-us"
+    - "/nous-contacter"
+    - "/carrieres"
+    - "/careers"
+    - "/a-propos"
+    - "/about"
+    - "/equipe"
+    - "/team"
+    - "/recrutement"
+    - "/rh"
+  excluded_emails:
+    - "example.com"
+    - "domain.com"
+    - "support@"
+    - "no-reply@"
+    - "noreply@"
+    - "unsubscribe@"
+    - "sentry.io"
+    - "wixpress.com"
+
+# ---------------------------------------------------------------------------
 # SOURCES
 # - dreamjob_api : WP REST API temps réel (JSON, horodatage exact) — PRIORITAIRE
 # - rekrute / indeed / dreamjob : scraping HTML (conservés en secours/complément)

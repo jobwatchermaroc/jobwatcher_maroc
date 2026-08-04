@@ -37,6 +37,9 @@ def format_job_message(job: dict) -> str:
         lines.append(f"\U0001F4C5 {_escape(job['date'])}")
     if job.get("source"):
         lines.append(f"\U0001F9F0 {_escape(job['source'])}")
+    if job.get("emails"):
+        lines.append(f"\U0001F4E8 <b>{len(job['emails'])} contact(s) public(s) :</b>")
+        lines.append(_escape(" · ".join(job["emails"])))
     url = job.get("url")
     if url:
         lines.append(f"\U0001F517 <a href=\"{_escape(url)}\">Voir l'offre</a>")
@@ -104,10 +107,13 @@ class TelegramNotifier:
             title = _escape((job.get("title") or "?")[:90])
             source = _escape(job.get("source", ""))
             url = job.get("url")
+            contact = ""
+            if job.get("emails"):
+                contact = " | 📬 " + _escape(job["emails"][0])
             if url:
-                lines.append(f"• [{score}] <a href=\"{_escape(url)}\">{title}</a> ({source})")
+                lines.append(f"• [{score}] <a href=\"{_escape(url)}\">{title}</a> ({source}){contact}")
             else:
-                lines.append(f"• [{score}] {title} ({source})")
+                lines.append(f"• [{score}] {title} ({source}){contact}")
         if len(jobs) > 40:
             lines.append(f"… et {len(jobs) - 40} de plus")
         self.send_message("\n".join(lines))

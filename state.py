@@ -31,6 +31,8 @@ def empty_state() -> dict:
         "keys": {},
         "health": {},
         "digest": {"buffer": [], "last_sent_date": ""},
+        "market": {},
+        "contacts": {},
     }
 
 

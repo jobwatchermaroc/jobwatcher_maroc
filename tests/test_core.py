@@ -9,6 +9,7 @@ from scoring import normalize, score_job, match_keyword, matched_terms
 import state as state_mod
 import market as market_mod
 import cv_check
+import contacts as contacts_mod
 
 
 TAXONOMY = {
@@ -258,3 +259,95 @@ def test_cv_check_report_weak_match(tmp_path):
     jd = "Profil : Azure Sentinel, Kubernetes, Terraform, Docker, Go, AWS exigés"
     code = cv_check.report(str(cv), jd, skills)
     assert code == 1  # faible compatibilité
+
+
+CONTACTS_CFG = {
+    "refresh_days": 7,
+    "max_emails": 4,
+    "max_pages": 10,
+    "timeout_seconds": 5,
+    "tlds": [".ma", ".com", ".fr", ".net"],
+    "scan_paths": ["", "/contact"],
+    "excluded_emails": ["example.com", "noreply@", "support@"],
+}
+
+
+class FakeSession:
+    """Session HTTP factice : sert des pages locales, enregistre les URLs visitées."""
+
+    def __init__(self, pages):
+        self.pages = {k.rstrip("/"): v for k, v in pages.items()}
+        self.calls = []
+
+    def get(self, url, timeout=5, allow_redirects=True):
+        self.calls.append(url)
+        url_norm = url.rstrip("/")
+        for key, html in self.pages.items():
+            if url_norm.endswith(key):
+                return FakeResponse(200, html)
+        return FakeResponse(404, "")
+
+
+class FakeResponse:
+    def __init__(self, status, text):
+        self.status_code = status
+        self.text = text
+
+    def raise_for_status(self):
+        if self.status_code >= 400:
+            import requests
+
+            raise requests.HTTPError(self.status_code)
+
+
+def test_extract_emails_filters_junk():
+    text = "Contacter rh@acme.ma ou contact@acme.ma — support@acme.ma et noreply@acme.ma, logo@2x.png"
+    emails = contacts_mod.extract_emails(text, CONTACTS_CFG["excluded_emails"])
+    assert "rh@acme.ma" in emails
+    assert "contact@acme.ma" in emails
+    assert "support@acme.ma" not in emails
+    assert "noreply@acme.ma" not in emails
+
+
+def test_domain_hint_from_url():
+    assert contacts_mod.domain_hint_from_url("ACME", "https://www.acme.ma/offre/1") == "acme.ma"
+    # Sur un board ATS le slug est dans le chemin, pas l'hôte -> pas d'indice (on retombe sur les candidats)
+    assert contacts_mod.domain_hint_from_url("ACME", "https://boards.greenhouse.io/acme/jobs/1") is None
+    assert contacts_mod.domain_hint_from_url("Cloudflare", "https://boards.eu.greenhouse.io/cloudflare/jobs/2") is None
+    assert contacts_mod.domain_hint_from_url("", "https://x.ma/o/1") is None
+
+
+def test_contact_lookup_caches_weekly():
+    html = """
+    <html><head><title>ACME Maroc</title></head><body>
+      <h1>ACME</h1>
+      <p>Envoyez votre CV à <a href="mailto:rh@acme.ma">rh@acme.ma</a></p>
+    </body></html>
+    """
+    session = FakeSession({"/": html, "/contact": html})
+    state = state_mod.empty_state()
+    job = {"company": "ACME", "url": "https://www.acme.ma/offre/1"}
+
+    info = contacts_mod.get_contacts(state, job, CONTACTS_CFG, session=session)
+    assert info["scraped"] is True
+    assert "rh@acme.ma" in info["emails"]
+    calls_first = list(session.calls)
+
+    info2 = contacts_mod.get_contacts(state, job, CONTACTS_CFG, session=session)
+    assert info2["scraped"] is False
+    assert session.calls == calls_first  # pas de nouveau réseau tant que le cache est frais
+
+
+def test_contact_lookup_no_company():
+    assert contacts_mod.get_contacts(state_mod.empty_state(), {"title": "x"}, CONTACTS_CFG) is None
+
+
+def test_contact_unverified_hint_no_fallback():
+    """Indice de domaine non vérifiable -> on ne devine PAS un homonyme."""
+    session = FakeSession({})  # aucune page ne répond
+    state = state_mod.empty_state()
+    job = {"company": "OCP", "url": "https://www.ocpgroup.ma/"}
+    info = contacts_mod.get_contacts(state, job, CONTACTS_CFG, session=session)
+    assert info["scraped"] is True
+    assert info["emails"] == []
+    assert state["contacts"]["ocp"]["domain"] == ""

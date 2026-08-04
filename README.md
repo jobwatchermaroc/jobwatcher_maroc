@@ -1,6 +1,6 @@
 # job-watcher-maroc
 
-Bot de veille d'emploi pour le domaine **Azure Cloud / Cloud Security / DevSecOps**, filtre sur le **Maroc + la France** et te notifie **sur Telegram** chaque offre pertinente — avec un moteur de **score de pertinence** (0-100), des notifications par tiers, une **veille marché hebdomadaire** et un **CV ATS Checker** (100 % heuristique, 0 €, sans IA).
+Bot de veille d'emploi pour le domaine **Azure Cloud / Cloud Security / DevSecOps**, filtre sur le **Maroc + la France** et te notifie **sur Telegram** chaque offre pertinente — avec un moteur de **score de pertinence** (0-100), des notifications par tiers, une **veille marché hebdomadaire**, un **CV ATS Checker** et une **prospection des emails publics** des entreprises qui recrutent (100 % heuristique, 0 €, sans IA).
 
 Prêt à tourner sur **GitHub Actions** (cron toutes les 5 min) et en **local**.
 
@@ -21,7 +21,21 @@ Prêt à tourner sur **GitHub Actions** (cron toutes les 5 min) et en **local**.
    - score **< 50** → ignorée
 7. **Alertes santé** : Telegram si une source échoue 3 fois de suite ou est à sec depuis 7 jours.
 8. **Veille marché hebdo** (`market.py`) : chaque offre pertinente vue est comptée une fois dans la semaine (entreprises, skills, sources, salaires) ; un **rapport hebdomadaire** Telegram est envoyé le lundi 8h UTC pour la semaine écoulée.
-9. **Persistance** : `seen_jobs.json` enrichi (`jobs`, `keys`, `health`, `digest`, `market`) commité en git après chaque run.
+9. **Persistance** : `seen_jobs.json` enrichi (`jobs`, `keys`, `health`, `digest`, `market`, `contacts`) commité en git après chaque run.
+
+## Prospection des contacts (emails publics)
+
+Pour chaque offre immédiate (score ≥ 80), le watcher identifie le domaine de l'entreprise
+(indice depuis l'URL de l'offre, sinon candidats `{slug}.ma/.com/.fr` **vérifiés**) puis
+crawl ses pages **Contact / Carrières / À propos** pour extraire les emails **publiés**
+(`mailto:` + texte). Résultat ajouté à la notification (`📬 contact(s) public(s)`),
+caché dans `seen_jobs.json` et rafraîchi chaque semaine.
+
+- **Limites assumées** : uniquement ce qui est publié (pas LinkedIn, pas d'inférence) ;
+  un domaine non vérifiable n'est pas deviné (évite les homonymes) ; sigles courts
+  (ex. OCP) plus stricts.
+- `contacts.max_lookups_per_run` borne le temps de run (3 nouvelles entreprises max/run).
+- Pour une entreprise sans résultat, aucun email n'est envoyé (pas de faux contact).
 
 ## CV ATS Checker (standalone, 0 €)
 
@@ -45,6 +59,7 @@ job-watcher-maroc/
 ├── ignored.yaml                # Feedback loop : entreprises + patterns à exclure
 ├── scoring.py                  # Moteur de score 0-100
 ├── market.py                   # Veille marché hebdo (comptage + rapport)
+├── contacts.py                 # Prospection : emails publics des recruteurs
 ├── cv_check.py                 # CV ATS Checker (comparateur CV vs offre, 0 €)
 ├── skills.yaml                 # Lexique des skills pour le CV checker
 ├── state.py                    # seen_jobs.json enrichi + dédup + santé
@@ -74,6 +89,7 @@ job-watcher-maroc/
 - `taxonomy.ignored_companies` + `ignored.yaml` : entreprises bannies (feedback loop).
 - `notifications` : `immediate_threshold` (80), `digest_threshold` (50), `digest_hour` (18 UTC), `max_new_jobs_per_run` (0 = illimité).
 - `market_report` : veille hebdo — `weekday` (0 = lundi), `hour_utc` (8 UTC = 9h MA) ; le rapport porte sur la semaine **écoulée**.
+- `contacts` : prospection — `only_immediate`, `max_lookups_per_run` (3), `refresh_days` (7), `scan_paths`, `excluded_emails`.
 - `locations` : filtre géographique Maroc + France (`moroccan_sources`, `country_terms`, `excluded_country_terms`).
 - `sources.*.enabled` : activer/désactiver une source.
 - `sources.ats_api.workable_boards` : comptes Workable (voodoo, qonto…).
