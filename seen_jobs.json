@@ -589,111 +589,49 @@
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-08-05T17:08:41",
-      "last_run": "2026-08-05T17:08:41",
+      "last_run": "2026-08-05T18:09:52",
       "last_error": "",
       "last_ok_count": 36
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-05T17:09:14",
-      "last_run": "2026-08-05T17:09:14",
+      "last_ok_at": "2026-08-05T18:10:29",
+      "last_run": "2026-08-05T18:10:29",
       "last_error": "",
       "last_ok_count": 49
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-05T17:10:51",
+      "last_run": "2026-08-05T18:12:06",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-05T17:11:20",
-      "last_run": "2026-08-05T17:11:20",
+      "last_ok_at": "2026-08-05T18:12:40",
+      "last_run": "2026-08-05T18:12:40",
       "last_error": "",
-      "last_ok_count": 107
+      "last_ok_count": 92
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-05T17:11:20",
+      "last_run": "2026-08-05T18:12:40",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-05T17:12:32",
-      "last_run": "2026-08-05T17:12:32",
+      "last_ok_at": "2026-08-05T18:13:30",
+      "last_run": "2026-08-05T18:13:30",
       "last_error": "",
       "last_ok_count": 1232
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Software Engineer (L2) Email",
-        "company": "Twilio",
-        "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207",
-        "date": "2026-08-04",
-        "location": "Remote - US",
-        "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work :</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp;<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as Twilio’s next <strong>Software Engineer, Platform Engineering (L2)</strong></p> <p>&nbsp;</p> <p><strong>About the job</strong></p> <p>This position is an engineering role within Twilio Platform Engineering, suited to an engineer who is building hands-on experience with highly available, large-scale distributed systems.</p> <p>&nbsp;</p> <p>Our systems regularly process more than 12 billion emails during peak events like Black Friday, and our throughput requirements continue to scale rapidly. As an L2 engineer, you will help build and operate backend services at scale, working alongside more senior engineers on our dual-cloud infrastructure spanning Amazon Web Services (AWS) and Microsoft Azure. You'll get hands-on with Kubernetes, contribute to Terraform-based infrastructure automation, and write production code to help keep distributed systems healthy under real production load, using modern AI-assisted tooling to move faster and ramp up your skills.<br><br></p> <p><strong>Responsibilities</strong></p> <p><strong>In this role, you’ll:</strong></p> <ul> <li><strong>WEAR THE CUSTOMER'S SHOES: </strong>Help design, build, and operate services and automations that support Kubernetes clusters at scale, under the guidance of senior engineers. Work with product management and technical leadership to turn well-scoped tasks into working code.</li> <li><strong>BE AN",
-        "salary": "",
-        "source": "ATS·Greenhouse·twilio",
-        "id": "22a7e33b3abec76406d612f6",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      },
-      {
-        "title": "Software Engineer (L3) Email",
-        "company": "Twilio",
-        "url": "https://job-boards.greenhouse.io/twilio/jobs/8026203",
-        "date": "2026-08-04",
-        "location": "Remote - US",
-        "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work :</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp;<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as Twilio’s next <strong>Software Engineer, Platform Engineering (L3)</strong></p> <p>&nbsp;</p> <p><strong>About the job</strong></p> <p>This position is a critical engineering role within Twilio Platform Engineering, requiring a hands-on engineer capable of developing, deploying, and managing highly available, massive-scale distributed systems.</p> <p>Our systems regularly process more than 12 billion emails during peak events like Black Friday, and our throughput requirements continue to scale rapidly. As an L3 engineer, you will build and operate resilient backend services at scale and contribute to the design and reliability of our dual-cloud infrastructure span across Amazon Web Services (AWS) and Microsoft Azure. You'll run Kubernetes beyond the boundaries of managed services, automate infrastructure with Terraform, and write production code to help keep distributed systems healthy under real production load while using modern AI-assisted tooling to move faster.</p> <p><strong>Responsibilities</strong></p> <p><strong>In this role, you’ll:</strong></p> <ul> <li><strong>WEAR THE CUSTOMER’S SHOES: </strong>Design, build, and operate services and automations to manage kubernetes clusters at scale. Partner closely with product management and technical leadership to break down complex system requirements into manageable, iterative milestones.</li> <li><strong>",
-        "salary": "",
-        "source": "ATS·Greenhouse·twilio",
-        "id": "7ece981482b73a56856d135d",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      },
-      {
-        "title": "Manager I, Engineering - Security Libraries",
-        "company": "Datadog",
-        "url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219",
-        "date": "2026-08-05",
-        "location": "Paris, France",
-        "description": "<p>The Security Libraries team owns the customer-side integrations behind Datadog’s run-time security products — <a href=\"https://www.datadoghq.com/product/app-and-api-protection/\">App &amp; API Protection</a>, <a href=\"https://www.datadoghq.com/product/workload-protection/\">Workload Protection</a>, and <a href=\"https://www.datadoghq.com/product/code-security/\">Code Security</a> — shipping and maintaining security capabilities across seven open-source language libraries (<a href=\"https://github.com/DataDog/dd-trace-dotnet\">.NET</a>, <a href=\"https://github.com/DataDog/dd-trace-java\">Java</a>, <a href=\"https://github.com/DataDog/dd-trace-go\">Go</a>, <a href=\"https://github.com/DataDog/dd-trace-js\">Node.js</a>, <a href=\"https://github.com/DataDog/dd-trace-py\">Python</a>, <a href=\"https://github.com/DataDog/dd-trace-rb\">Ruby</a>, <a href=\"https://github.com/DataDog/dd-trace-php\">PHP</a>) and a set of HTTP proxy integrations (Envoy, NGINX, and HAProxy), running inside thousands of production clusters worldwide.</p> <p>Recent work spans exploit prevention (RASP), WAF detections, API Security, code security (IAST and SCA), and AI-assisted onboarding. As Engineering Manager, you’ll lead part of this polyglot team, setting the technical bar and team culture while driving the pace at which new detections and AI-assisted capabilities reach customers. This is a hands-on role: you’ll balance people leadership, product and roadmap ownership, and the operational health of code that runs in production at massive scale, with room to grow into more of Datadog’s security portfolio over time.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Lead, grow, and develop a team of roughly 4-8 library engineers — coaching, giving direct feedback, and empowering senior ICs as technical leaders</li> <li>Own team delivery and productivity: planning, milestones, reviews, and the on-call rotation</li> <li>Set product direction with Product Management and balance priorities across App &amp; API Protection, Workload Protection, and Code Security</li> <li>Stay technically close to the work — apply strong technical judgment, contribute code where it matters most, and keep quality and architecture high</li> <li>Build strong relationships and drive alignment across the language teams and product, backend, and frontend partners</li> <li>Shape team identity and culture, and own accountability when problems occur</li> </ul> <p><strong>Who You Are:</strong></p> <ul> <li>Experience managing a team of engineers — setting direction with Product Managers, owning a backlog, and running delivery</li> <li>A senior software-engineering background with strong technical judgment</li> <li>A track record developing people: coaching, dir",
-        "salary": "",
-        "source": "ATS·Greenhouse·datadog",
-        "id": "f9c6753578a92c1a582a8147",
-        "score": 65,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      },
-      {
-        "title": "Senior Sales Engineer - Bay Area",
-        "company": "Datadog",
-        "url": "https://careers.datadoghq.com/detail/8105684/?gh_jid=8105684",
-        "date": "2026-08-05",
-        "location": "California, USA, Remote",
-        "description": "<p>As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption.</p> <p>You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won</li> <li>Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions</li> <li>Deliver engaging product demos, technical presentations, and workshops that connect platform capabilities to customer outcomes</li> <li>Project manage technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining success criteria, building a project plan with clear timelines, and holding all participants accountable to the process</li> <li>Identify and cultivate technical champions within customer accounts, empowering them to advocate for Datadog adoption and drive consensus internally</li> <li>Participat e actively in structured product and engineering field feedback sessions, serving as the technical voice of the customer to help shape product direction</li> <li>Maintain operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp;</li> <li>Collaborate cross-functionally with Product, Support, and GTM teams to address customer needs and resolve technical blockers</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>5+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment</li> <li>Skilled at navigating multi-stakeholder environments and adapting communication style to technical, business, and executive audiences</li> <li>Proficient background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Strong communication skills, with the ability to explain technical concepts to a range of audiences</li> <li>A consultative approach to problem-solving and customer engagement</li> <li>Ability to manage multiple opportunities and priorities in a fast-paced environment</li> <li>Growth mindset by embracing change and AI tools</li> <li>Willingness to travel as needed to support customer ",
-        "salary": "",
-        "source": "ATS·Greenhouse·datadog",
-        "id": "f66bd7cb5d31e3de3eef62b2",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-08-04"
+    "buffer": [],
+    "last_sent_date": "2026-08-05"
   },
   "market": {
     "week": "2026-W32",
