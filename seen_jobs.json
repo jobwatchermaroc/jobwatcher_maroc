@@ -527,6 +527,18 @@
       "score": 50,
       "seen_at": "2026-08-04T20:17:13",
       "key": "software engineer l3 email | twilio"
+    },
+    "c2bcd0afdc699c45b9d822ae": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 90,
+      "seen_at": "2026-08-05T09:49:59",
+      "key": "manager i engineering code security | datadog"
+    },
+    "f9c6753578a92c1a582a8147": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 65,
+      "seen_at": "2026-08-05T09:49:59",
+      "key": "manager i engineering security libraries | datadog"
     }
   },
   "keys": {
@@ -562,50 +574,52 @@
     "senior software engineer enterprise platform | discord": "16a06bdea04dd552072ef42a",
     "staff software engineer enterprise platform | discord": "d76e999e20cc14b3027a126a",
     "software engineer l2 email | twilio": "22a7e33b3abec76406d612f6",
-    "software engineer l3 email | twilio": "7ece981482b73a56856d135d"
+    "software engineer l3 email | twilio": "7ece981482b73a56856d135d",
+    "manager i engineering code security | datadog": "c2bcd0afdc699c45b9d822ae",
+    "manager i engineering security libraries | datadog": "f9c6753578a92c1a582a8147"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-05T07:06:47",
-      "last_run": "2026-08-05T07:06:47",
+      "last_ok_at": "2026-08-05T09:45:48",
+      "last_run": "2026-08-05T09:45:48",
       "last_error": "",
-      "last_ok_count": 28
+      "last_ok_count": 29
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-05T07:07:22",
-      "last_run": "2026-08-05T07:07:22",
+      "last_ok_at": "2026-08-05T09:46:32",
+      "last_run": "2026-08-05T09:46:32",
       "last_error": "",
-      "last_ok_count": 49
+      "last_ok_count": 50
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-05T07:08:59",
+      "last_run": "2026-08-05T09:48:09",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-05T07:09:31",
-      "last_run": "2026-08-05T07:09:31",
+      "last_ok_at": "2026-08-05T09:49:02",
+      "last_run": "2026-08-05T09:49:02",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-05T07:09:31",
+      "last_run": "2026-08-05T09:49:02",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-05T07:10:19",
-      "last_run": "2026-08-05T07:10:19",
+      "last_ok_at": "2026-08-05T09:49:57",
+      "last_run": "2026-08-05T09:49:57",
       "last_error": "",
-      "last_ok_count": 1227
+      "last_ok_count": 1228
     }
   },
   "digest": {
@@ -638,6 +652,22 @@
         "score": 50,
         "reasons": [
           "description: azure"
+        ]
+      },
+      {
+        "title": "Manager I, Engineering - Security Libraries",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8094219/?gh_jid=8094219",
+        "date": "2026-08-05",
+        "location": "Paris, France",
+        "description": "<p>The Security Libraries team owns the customer-side integrations behind Datadog’s run-time security products — <a href=\"https://www.datadoghq.com/product/app-and-api-protection/\">App &amp; API Protection</a>, <a href=\"https://www.datadoghq.com/product/workload-protection/\">Workload Protection</a>, and <a href=\"https://www.datadoghq.com/product/code-security/\">Code Security</a> — shipping and maintaining security capabilities across seven open-source language libraries (<a href=\"https://github.com/DataDog/dd-trace-dotnet\">.NET</a>, <a href=\"https://github.com/DataDog/dd-trace-java\">Java</a>, <a href=\"https://github.com/DataDog/dd-trace-go\">Go</a>, <a href=\"https://github.com/DataDog/dd-trace-js\">Node.js</a>, <a href=\"https://github.com/DataDog/dd-trace-py\">Python</a>, <a href=\"https://github.com/DataDog/dd-trace-rb\">Ruby</a>, <a href=\"https://github.com/DataDog/dd-trace-php\">PHP</a>) and a set of HTTP proxy integrations (Envoy, NGINX, and HAProxy), running inside thousands of production clusters worldwide.</p> <p>Recent work spans exploit prevention (RASP), WAF detections, API Security, code security (IAST and SCA), and AI-assisted onboarding. As Engineering Manager, you’ll lead part of this polyglot team, setting the technical bar and team culture while driving the pace at which new detections and AI-assisted capabilities reach customers. This is a hands-on role: you’ll balance people leadership, product and roadmap ownership, and the operational health of code that runs in production at massive scale, with room to grow into more of Datadog’s security portfolio over time.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Lead, grow, and develop a team of roughly 4-8 library engineers — coaching, giving direct feedback, and empowering senior ICs as technical leaders</li> <li>Own team delivery and productivity: planning, milestones, reviews, and the on-call rotation</li> <li>Set product direction with Product Management and balance priorities across App &amp; API Protection, Workload Protection, and Code Security</li> <li>Stay technically close to the work — apply strong technical judgment, contribute code where it matters most, and keep quality and architecture high</li> <li>Build strong relationships and drive alignment across the language teams and product, backend, and frontend partners</li> <li>Shape team identity and culture, and own accountability when problems occur</li> </ul> <p><strong>Who You Are:</strong></p> <ul> <li>Experience managing a team of engineers — setting direction with Product Managers, owning a backlog, and running delivery</li> <li>A senior software-engineering background with strong technical judgment</li> <li>A track record developing people: coaching, dir",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "f9c6753578a92c1a582a8147",
+        "score": 65,
+        "reasons": [
+          "security",
+          "description: security"
         ]
       }
     ],
@@ -703,7 +733,9 @@
       "16a06bdea04dd552072ef42a",
       "d76e999e20cc14b3027a126a",
       "22a7e33b3abec76406d612f6",
-      "7ece981482b73a56856d135d"
+      "7ece981482b73a56856d135d",
+      "c2bcd0afdc699c45b9d822ae",
+      "f9c6753578a92c1a582a8147"
     ],
     "companies": {
       "ALTEN Maroc": 13,
@@ -716,7 +748,7 @@
       "Inconnu": 1,
       "Cloudflare": 5,
       "GitLab": 4,
-      "Datadog": 3,
+      "Datadog": 5,
       "Okta": 4,
       "Proton": 2,
       "MongoDB": 1,
@@ -736,14 +768,14 @@
       "cloud": 26,
       "devops": 11,
       "gcp": 6,
-      "security": 31,
+      "security": 33,
       "azure security": 1,
       "devsecops": 7,
       "sre": 5,
       "terraform": 12,
       "ci/cd": 7,
       "kubernetes": 6,
-      "infrastructure as code": 5,
+      "infrastructure as code": 6,
       "security engineer": 16,
       "platform engineer": 8,
       "cloud security": 1,
@@ -757,7 +789,7 @@
       "Dreamjob": 1,
       "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·gitlab": 4,
-      "ATS·Greenhouse·datadog": 3,
+      "ATS·Greenhouse·datadog": 5,
       "ATS·Greenhouse·okta": 4,
       "ATS·Greenhouse·proton": 2,
       "ATS·Greenhouse·mongodb": 1,
@@ -769,7 +801,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 58,
+    "total": 60,
     "prev": null,
     "prev_reported": true
   },
@@ -778,6 +810,11 @@
       "domain": "cloudflare.com",
       "emails": [],
       "updated_at": "2026-08-04T15:01:42"
+    },
+    "datadog": {
+      "domain": "datadoghq.com",
+      "emails": [],
+      "updated_at": "2026-08-05T09:50:17"
     }
   }
 }
