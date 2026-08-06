@@ -545,6 +545,12 @@
       "score": 50,
       "seen_at": "2026-08-05T13:29:57",
       "key": "senior sales engineer bay area | datadog"
+    },
+    "f6bd09a2bb7f5279688259bc": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-08-06T09:54:05",
+      "key": "software engineer senior net cloud microservices | alten maroc"
     }
   },
   "keys": {
@@ -583,50 +589,51 @@
     "software engineer l3 email | twilio": "7ece981482b73a56856d135d",
     "manager i engineering code security | datadog": "c2bcd0afdc699c45b9d822ae",
     "manager i engineering security libraries | datadog": "f9c6753578a92c1a582a8147",
-    "senior sales engineer bay area | datadog": "f66bd7cb5d31e3de3eef62b2"
+    "senior sales engineer bay area | datadog": "f66bd7cb5d31e3de3eef62b2",
+    "software engineer senior net cloud microservices | alten maroc": "f6bd09a2bb7f5279688259bc"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-06T04:22:13",
-      "last_run": "2026-08-06T08:02:20",
+      "last_ok_at": "2026-08-06T09:50:06",
+      "last_run": "2026-08-06T09:50:06",
       "last_error": "",
-      "last_ok_count": 36
+      "last_ok_count": 39
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-06T08:03:03",
-      "last_run": "2026-08-06T08:03:03",
+      "last_ok_at": "2026-08-06T09:50:47",
+      "last_run": "2026-08-06T09:50:47",
       "last_error": "",
       "last_ok_count": 49
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-06T08:04:39",
+      "last_run": "2026-08-06T09:52:24",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-06T04:24:52",
-      "last_run": "2026-08-06T08:05:02",
+      "last_ok_at": "2026-08-06T09:53:20",
+      "last_run": "2026-08-06T09:53:20",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-06T08:05:02",
+      "last_run": "2026-08-06T09:53:20",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-06T08:05:53",
-      "last_run": "2026-08-06T08:05:53",
+      "last_ok_at": "2026-08-06T09:54:05",
+      "last_run": "2026-08-06T09:54:05",
       "last_error": "",
-      "last_ok_count": 1233
+      "last_ok_count": 1234
     }
   },
   "digest": {
@@ -696,10 +703,11 @@
       "7ece981482b73a56856d135d",
       "c2bcd0afdc699c45b9d822ae",
       "f9c6753578a92c1a582a8147",
-      "f66bd7cb5d31e3de3eef62b2"
+      "f66bd7cb5d31e3de3eef62b2",
+      "f6bd09a2bb7f5279688259bc"
     ],
     "companies": {
-      "ALTEN Maroc": 13,
+      "ALTEN Maroc": 14,
       "Akkodis Maroc": 1,
       "Perenity Software": 1,
       "Cnexia tech": 1,
@@ -722,11 +730,11 @@
       "Capgemini": 1
     },
     "skills": {
-      "azure": 15,
+      "azure": 16,
       "azure ad": 1,
-      "aws": 17,
+      "aws": 18,
       "azure devops": 1,
-      "cloud": 27,
+      "cloud": 28,
       "devops": 11,
       "gcp": 7,
       "security": 34,
@@ -746,7 +754,7 @@
       "devops engineer": 1
     },
     "sources": {
-      "Rekrute": 20,
+      "Rekrute": 21,
       "Dreamjob": 1,
       "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·gitlab": 4,
@@ -762,7 +770,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 61,
+    "total": 62,
     "prev": null,
     "prev_reported": true
   },
@@ -776,6 +784,11 @@
       "domain": "datadoghq.com",
       "emails": [],
       "updated_at": "2026-08-05T09:50:17"
+    },
+    "alten maroc": {
+      "domain": "alten.net",
+      "emails": [],
+      "updated_at": "2026-08-06T09:54:32"
     }
   }
 }
