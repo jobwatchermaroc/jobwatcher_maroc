@@ -551,6 +551,12 @@
       "score": 100,
       "seen_at": "2026-08-06T09:54:05",
       "key": "software engineer senior net cloud microservices | alten maroc"
+    },
+    "4cd6f65415cac79b6afa8e25": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-08-07T08:58:53",
+      "key": "chef de projet technique ingenieur systemes reseaux et it f h | sofrecom maroc"
     }
   },
   "keys": {
@@ -590,54 +596,71 @@
     "manager i engineering code security | datadog": "c2bcd0afdc699c45b9d822ae",
     "manager i engineering security libraries | datadog": "f9c6753578a92c1a582a8147",
     "senior sales engineer bay area | datadog": "f66bd7cb5d31e3de3eef62b2",
-    "software engineer senior net cloud microservices | alten maroc": "f6bd09a2bb7f5279688259bc"
+    "software engineer senior net cloud microservices | alten maroc": "f6bd09a2bb7f5279688259bc",
+    "chef de projet technique ingenieur systemes reseaux et it f h | sofrecom maroc": "4cd6f65415cac79b6afa8e25"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-07T07:56:30",
-      "last_run": "2026-08-07T07:56:30",
+      "last_ok_at": "2026-08-07T08:55:17",
+      "last_run": "2026-08-07T08:55:17",
       "last_error": "",
       "last_ok_count": 45
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-07T07:57:05",
-      "last_run": "2026-08-07T07:57:05",
+      "last_ok_at": "2026-08-07T08:55:54",
+      "last_run": "2026-08-07T08:55:54",
       "last_error": "",
       "last_ok_count": 49
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-07T07:58:42",
+      "last_run": "2026-08-07T08:57:30",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-07T07:59:18",
-      "last_run": "2026-08-07T07:59:18",
+      "last_ok_at": "2026-08-07T08:58:05",
+      "last_run": "2026-08-07T08:58:05",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-07T07:59:18",
+      "last_run": "2026-08-07T08:58:05",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-07T08:00:06",
-      "last_run": "2026-08-07T08:00:06",
+      "last_ok_at": "2026-08-07T08:58:53",
+      "last_run": "2026-08-07T08:58:53",
       "last_error": "",
-      "last_ok_count": 1236
+      "last_ok_count": 1235
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Chef de projet technique / Ingénieur Systèmes, Réseaux et IT (F/H)",
+        "company": "Sofrecom Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-chef-de-projet-technique-ingenieur-systemes-reseaux-et-it-fh-recrutement-sofrecom-maroc-casablanca-185329.html",
+        "date": "07/08/2026",
+        "location": "Casablanca (Maroc)",
+        "description": "notions cloud ( azure /aws/gcp) selon périmètre.",
+        "source": "Rekrute",
+        "offer_id": "185329",
+        "id": "4cd6f65415cac79b6afa8e25",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      }
+    ],
     "last_sent_date": "2026-08-05"
   },
   "market": {
@@ -704,7 +727,8 @@
       "c2bcd0afdc699c45b9d822ae",
       "f9c6753578a92c1a582a8147",
       "f66bd7cb5d31e3de3eef62b2",
-      "f6bd09a2bb7f5279688259bc"
+      "f6bd09a2bb7f5279688259bc",
+      "4cd6f65415cac79b6afa8e25"
     ],
     "companies": {
       "ALTEN Maroc": 14,
@@ -712,7 +736,7 @@
       "Perenity Software": 1,
       "Cnexia tech": 1,
       "Aba Technology": 1,
-      "Sofrecom Maroc": 1,
+      "Sofrecom Maroc": 2,
       "CGI Technologies et Solutions Maroc": 1,
       "Inconnu": 1,
       "Cloudflare": 5,
@@ -730,13 +754,13 @@
       "Capgemini": 1
     },
     "skills": {
-      "azure": 16,
+      "azure": 17,
       "azure ad": 1,
-      "aws": 18,
+      "aws": 19,
       "azure devops": 1,
-      "cloud": 28,
+      "cloud": 29,
       "devops": 11,
-      "gcp": 7,
+      "gcp": 8,
       "security": 34,
       "azure security": 1,
       "devsecops": 7,
@@ -754,7 +778,7 @@
       "devops engineer": 1
     },
     "sources": {
-      "Rekrute": 21,
+      "Rekrute": 22,
       "Dreamjob": 1,
       "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·gitlab": 4,
@@ -770,7 +794,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 62,
+    "total": 63,
     "prev": null,
     "prev_reported": true
   },
