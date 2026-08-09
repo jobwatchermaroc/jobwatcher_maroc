@@ -630,66 +630,50 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-09T17:47:02",
-      "last_run": "2026-08-09T17:47:02",
+      "last_ok_at": "2026-08-09T18:16:44",
+      "last_run": "2026-08-09T18:16:44",
       "last_error": "",
-      "last_ok_count": 27
+      "last_ok_count": 29
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-09T17:47:38",
-      "last_run": "2026-08-09T17:47:38",
+      "last_ok_at": "2026-08-09T18:17:23",
+      "last_run": "2026-08-09T18:17:23",
       "last_error": "",
       "last_ok_count": 48
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-09T17:49:15",
+      "last_run": "2026-08-09T18:19:00",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-09T17:49:44",
-      "last_run": "2026-08-09T17:49:44",
+      "last_ok_at": "2026-08-09T18:19:35",
+      "last_run": "2026-08-09T18:19:35",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-09T17:49:44",
+      "last_run": "2026-08-09T18:19:35",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-09T17:50:34",
-      "last_run": "2026-08-09T17:50:34",
+      "last_ok_at": "2026-08-09T18:20:22",
+      "last_run": "2026-08-09T18:20:22",
       "last_error": "",
       "last_ok_count": 1231
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Rejoignez Intelcia Tech avec 4 postes ouverts en ingénierie Cloud",
-        "company": "",
-        "url": "https://www.dreamjob.ma/emploi/rejoignez-intelcia-tech-avec-4-postes-ouverts-en-ingenierie-cloud/",
-        "date": "2026-08-09T13:00:30",
-        "location": "",
-        "description": "Intelcia Tech recrute 4 profils Senior et Expert Cloud à Casablanca. Dans le cadre du lancement de nouveaux projets, Intelcia Tech recrute quatre profils Senior et Expert pour rejoindre ses équipes à Casablanca en mode hybride. Créé au Maroc il y a plus de 20 ans, Intelcia est un acteur international de référence dans les […]",
-        "source": "Dreamjob API",
-        "id": "af97816a2d1dc09c4d1726f0",
-        "score": 65,
-        "reasons": [
-          "cloud",
-          "description: cloud"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-08-07"
+    "buffer": [],
+    "last_sent_date": "2026-08-09"
   },
   "market": {
     "week": "2026-W32",
