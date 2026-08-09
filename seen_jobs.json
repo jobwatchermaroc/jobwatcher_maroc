@@ -575,6 +575,12 @@
       "score": 75,
       "seen_at": "2026-08-07T16:33:55",
       "key": "ingenieur devops f h | sofrecom maroc"
+    },
+    "af97816a2d1dc09c4d1726f0": {
+      "source": "Dreamjob API",
+      "score": 65,
+      "seen_at": "2026-08-09T12:54:48",
+      "key": "rejoignez intelcia tech avec 4 postes ouverts en ingenierie cloud"
     }
   },
   "keys": {
@@ -618,54 +624,71 @@
     "chef de projet technique ingenieur systemes reseaux et it f h | sofrecom maroc": "4cd6f65415cac79b6afa8e25",
     "cyber security engineer | cnexia": "51a1c4d61dcaf061859e8f05",
     "senior observability automation engineer | dxc cdg": "ae3a02e157013ffd77a33a9e",
-    "ingenieur devops f h | sofrecom maroc": "fc6fb8640044ed7978d090e7"
+    "ingenieur devops f h | sofrecom maroc": "fc6fb8640044ed7978d090e7",
+    "rejoignez intelcia tech avec 4 postes ouverts en ingenierie cloud": "af97816a2d1dc09c4d1726f0"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-09T11:58:05",
-      "last_run": "2026-08-09T11:58:05",
+      "last_ok_at": "2026-08-09T12:51:15",
+      "last_run": "2026-08-09T12:51:15",
       "last_error": "",
       "last_ok_count": 33
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-09T11:58:43",
-      "last_run": "2026-08-09T11:58:43",
+      "last_ok_at": "2026-08-09T12:51:46",
+      "last_run": "2026-08-09T12:51:46",
       "last_error": "",
-      "last_ok_count": 48
+      "last_ok_count": 49
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-09T12:00:19",
+      "last_run": "2026-08-09T12:53:22",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-09T12:00:55",
-      "last_run": "2026-08-09T12:00:55",
+      "last_ok_at": "2026-08-09T12:53:58",
+      "last_run": "2026-08-09T12:53:58",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-09T12:00:55",
+      "last_run": "2026-08-09T12:53:58",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-09T12:01:43",
-      "last_run": "2026-08-09T12:01:43",
+      "last_ok_at": "2026-08-09T12:54:48",
+      "last_run": "2026-08-09T12:54:48",
       "last_error": "",
       "last_ok_count": 1231
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Rejoignez Intelcia Tech avec 4 postes ouverts en ingénierie Cloud",
+        "company": "",
+        "url": "https://www.dreamjob.ma/emploi/rejoignez-intelcia-tech-avec-4-postes-ouverts-en-ingenierie-cloud/",
+        "date": "2026-08-09T13:00:30",
+        "location": "",
+        "description": "Intelcia Tech recrute 4 profils Senior et Expert Cloud à Casablanca. Dans le cadre du lancement de nouveaux projets, Intelcia Tech recrute quatre profils Senior et Expert pour rejoindre ses équipes à Casablanca en mode hybride. Créé au Maroc il y a plus de 20 ans, Intelcia est un acteur international de référence dans les […]",
+        "source": "Dreamjob API",
+        "id": "af97816a2d1dc09c4d1726f0",
+        "score": 65,
+        "reasons": [
+          "cloud",
+          "description: cloud"
+        ]
+      }
+    ],
     "last_sent_date": "2026-08-07"
   },
   "market": {
@@ -736,7 +759,8 @@
       "4cd6f65415cac79b6afa8e25",
       "51a1c4d61dcaf061859e8f05",
       "ae3a02e157013ffd77a33a9e",
-      "fc6fb8640044ed7978d090e7"
+      "fc6fb8640044ed7978d090e7",
+      "af97816a2d1dc09c4d1726f0"
     ],
     "companies": {
       "ALTEN Maroc": 14,
@@ -746,7 +770,7 @@
       "Aba Technology": 1,
       "Sofrecom Maroc": 3,
       "CGI Technologies et Solutions Maroc": 1,
-      "Inconnu": 1,
+      "Inconnu": 2,
       "Cloudflare": 5,
       "GitLab": 4,
       "Datadog": 6,
@@ -768,7 +792,7 @@
       "azure ad": 1,
       "aws": 21,
       "azure devops": 1,
-      "cloud": 31,
+      "cloud": 32,
       "devops": 12,
       "gcp": 9,
       "security": 35,
@@ -803,10 +827,11 @@
       "ATS·Greenhouse·asana": 4,
       "ATS·Greenhouse·discord": 6,
       "ATS·Lever·contentsquare": 3,
-      "ATS·Lever·veepee": 1
+      "ATS·Lever·veepee": 1,
+      "Dreamjob API": 1
     },
     "salaries": [],
-    "total": 66,
+    "total": 67,
     "prev": null,
     "prev_reported": true
   },
