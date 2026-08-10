@@ -581,6 +581,12 @@
       "score": 65,
       "seen_at": "2026-08-09T12:54:48",
       "key": "rejoignez intelcia tech avec 4 postes ouverts en ingenierie cloud"
+    },
+    "af7a57916ba0de60793e85d5": {
+      "source": "ATS·Greenhouse·proton",
+      "score": 100,
+      "seen_at": "2026-08-10T12:31:44",
+      "key": "product security engineer | proton"
     }
   },
   "keys": {
@@ -625,48 +631,49 @@
     "cyber security engineer | cnexia": "51a1c4d61dcaf061859e8f05",
     "senior observability automation engineer | dxc cdg": "ae3a02e157013ffd77a33a9e",
     "ingenieur devops f h | sofrecom maroc": "fc6fb8640044ed7978d090e7",
-    "rejoignez intelcia tech avec 4 postes ouverts en ingenierie cloud": "af97816a2d1dc09c4d1726f0"
+    "rejoignez intelcia tech avec 4 postes ouverts en ingenierie cloud": "af97816a2d1dc09c4d1726f0",
+    "product security engineer | proton": "af7a57916ba0de60793e85d5"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-10T10:42:50",
-      "last_run": "2026-08-10T11:34:57",
+      "last_ok_at": "2026-08-10T12:27:55",
+      "last_run": "2026-08-10T12:27:55",
       "last_error": "",
       "last_ok_count": 26
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-10T11:35:32",
-      "last_run": "2026-08-10T11:35:32",
+      "last_ok_at": "2026-08-10T12:28:39",
+      "last_run": "2026-08-10T12:28:39",
       "last_error": "",
       "last_ok_count": 48
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-10T11:37:08",
+      "last_run": "2026-08-10T12:30:15",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-10T11:37:44",
-      "last_run": "2026-08-10T11:37:44",
+      "last_ok_at": "2026-08-10T12:30:51",
+      "last_run": "2026-08-10T12:30:51",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-10T11:37:44",
+      "last_run": "2026-08-10T12:30:51",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-10T11:38:32",
-      "last_run": "2026-08-10T11:38:32",
+      "last_ok_at": "2026-08-10T12:31:41",
+      "last_run": "2026-08-10T12:31:41",
       "last_error": "",
       "last_ok_count": 1227
     }
@@ -730,7 +737,8 @@
       "07e435477c7875fca8ffbab2",
       "1aab818fb49f45aa83cdf754",
       "a534aae94bd7edd0814d4253",
-      "db448887ea55fa233171398e"
+      "db448887ea55fa233171398e",
+      "af7a57916ba0de60793e85d5"
     ],
     "companies": {
       "Inconnu": 2,
@@ -747,7 +755,7 @@
       "GitLab": 2,
       "Datadog": 5,
       "Okta": 3,
-      "Proton": 2,
+      "Proton": 3,
       "Twilio": 3,
       "Stripe": 1,
       "Asana": 4,
@@ -762,8 +770,8 @@
       "docker": 1,
       "gcp": 6,
       "kubernetes": 6,
-      "security": 29,
-      "security engineer": 14,
+      "security": 30,
+      "security engineer": 15,
       "azure ad": 1,
       "ci/cd": 6,
       "devops": 10,
@@ -788,7 +796,7 @@
       "ATS·Greenhouse·gitlab": 2,
       "ATS·Greenhouse·datadog": 5,
       "ATS·Greenhouse·okta": 3,
-      "ATS·Greenhouse·proton": 2,
+      "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·stripe": 1,
       "ATS·Greenhouse·asana": 4,
@@ -797,7 +805,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 53,
+    "total": 54,
     "prev": {
       "week": "2026-W32",
       "companies": {
@@ -895,6 +903,11 @@
         "ask-peopleandculture@cnexia.com"
       ],
       "updated_at": "2026-08-07T10:47:15"
+    },
+    "proton": {
+      "domain": "proton.com",
+      "emails": [],
+      "updated_at": "2026-08-10T12:32:42"
     }
   }
 }
