@@ -651,67 +651,50 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-10T17:33:53",
-      "last_run": "2026-08-10T17:33:53",
+      "last_ok_at": "2026-08-10T18:28:41",
+      "last_run": "2026-08-10T18:28:41",
       "last_error": "",
       "last_ok_count": 22
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-10T17:34:25",
-      "last_run": "2026-08-10T17:34:25",
+      "last_ok_at": "2026-08-10T18:29:20",
+      "last_run": "2026-08-10T18:29:20",
       "last_error": "",
       "last_ok_count": 47
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-10T17:36:01",
+      "last_run": "2026-08-10T18:30:56",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-10T17:36:37",
-      "last_run": "2026-08-10T17:36:37",
+      "last_ok_at": "2026-08-10T18:31:26",
+      "last_run": "2026-08-10T18:31:26",
       "last_error": "",
       "last_ok_count": 105
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-10T17:36:37",
+      "last_run": "2026-08-10T18:31:26",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-10T17:37:22",
-      "last_run": "2026-08-10T17:37:22",
+      "last_ok_at": "2026-08-10T18:32:14",
+      "last_run": "2026-08-10T18:32:14",
       "last_error": "",
-      "last_ok_count": 1226
+      "last_ok_count": 1227
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "AI Security Research & Red Team Engineer",
-        "company": "Cloudflare",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8097321?gh_jid=8097321",
-        "date": "2026-08-10",
-        "location": "Hybrid",
-        "description": "<div class=\"content-intro\"><div><strong>About Us</strong></div> <div> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.&nbsp;</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p> </div></div><p><strong>The Role:</strong></p> <p>We are seeking a highly skilled AI Security Research &amp; Red team engineer<strong> </strong>&nbsp;to join our Red Team within the Security Threat Detection, Response and Emulation organization. This is a critical role that will be at the forefront of protecting our company and customers from malicious threats. You will be responsible for driving security research, exercises, and activities that emulate real world attackers and attacks to drive improvements in Cloudflare’s security posture focusing on AI, Agents, harnesses and LLM’s.&nbsp;</p> <p><strong>Key Responsibilities:</strong></p> <ul> <li><strong>AI Security and Vulnerability Research: </strong>Stay current with emerging threats and perform deep-dive research to identify AI-specific vulnerabilities and risks in addition to general vulnerabilities across Cloudflare’s products and services.</li> <li><strong>Agentic testing and adoption: </strong>As a core function, identifying AI-related attack surfaces through rigorous testing of agentic implementations and LLM usage which will help&nbsp; define requirements and implementation guidance while proactively.&nbsp;</li> <li><strong>Adversary Simulation:</strong> Execution of full-chain red team operations targeting Cloudflare’s global infrastructure, corporate networks, and product ecosystems.</li> <li",
-        "salary": "",
-        "source": "ATS·Greenhouse·cloudflare",
-        "id": "5e40a10397142bc603fb4bc2",
-        "score": 60,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-08-09"
+    "buffer": [],
+    "last_sent_date": "2026-08-10"
   },
   "market": {
     "week": "2026-W33",
