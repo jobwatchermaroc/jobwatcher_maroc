@@ -665,82 +665,50 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-11T17:29:49",
-      "last_run": "2026-08-11T17:29:49",
+      "last_ok_at": "2026-08-11T18:04:40",
+      "last_run": "2026-08-11T18:04:40",
       "last_error": "",
       "last_ok_count": 29
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-11T17:30:25",
-      "last_run": "2026-08-11T17:30:25",
+      "last_ok_at": "2026-08-11T18:05:18",
+      "last_run": "2026-08-11T18:05:18",
       "last_error": "",
-      "last_ok_count": 47
+      "last_ok_count": 48
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-11T17:32:03",
+      "last_run": "2026-08-11T18:06:56",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-11T17:33:04",
-      "last_run": "2026-08-11T17:33:04",
+      "last_ok_at": "2026-08-11T18:07:25",
+      "last_run": "2026-08-11T18:07:25",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-11T17:33:04",
+      "last_run": "2026-08-11T18:07:25",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-11T17:34:11",
-      "last_run": "2026-08-11T17:34:11",
+      "last_ok_at": "2026-08-11T18:08:14",
+      "last_run": "2026-08-11T18:08:14",
       "last_error": "",
-      "last_ok_count": 1168
+      "last_ok_count": 1228
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Regional Security Manager, Bay Area",
-        "company": "Discord",
-        "url": "https://job-boards.greenhouse.io/discord/jobs/8678376002",
-        "date": "2026-08-10",
-        "location": "San Francisco",
-        "description": "<div class=\"content-intro\"><p>Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: <strong>play video games.</strong> Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.</p></div><p>Want to work at a dynamic and rapidly growing company? Discord is the place for you! Discord’s Corporate Security team is searching for a <strong>Regional Security Manager, Bay Area</strong> to join us in our mission to provide a safe and fun work environment! As a Regional Security Manager, you’ll be in charge of running and growing Discord’s office security program. You’ll contribute to the company by managing the security officer team, monitoring and ensuring the health of technical security systems, and contributing to security planning for new Discord offices. This role reports into our Senior Manager of Corporate Security and is based onsite at our San Francisco HQ office.</p> <p>If you’re a security professional with a high level of initiative, boundless curiosity, and a desire to help keep Discord employees safe, please join us.&nbsp;&nbsp;</p> <p><strong>What you'll be doing:</strong></p> <ul> <li>As RSM, be responsible for all aspects of safety and security for Discord’s San Francisco headquarters and European office locations, including day-to-day operations and long-term projects</li> <li>Manage Discord’s contract Security Officer team, ensuring high levels of service and professionalism</li> <li>Serve as the in-office security representative for CorpSec. These duties include answering questions from employees, engaging with visitors, securing internal events, conducting security interviews, investigations, and training sessions</li> <li>Develop and uphold standard operating procedures and protocols for facility protection and personnel management within the vendor guard force.</li> <li>Act as the incident response coordinator for Discord HQ. Lead annual incident management exercises, construct scenarios, and create training objectives</li> <li>Define and manage KPIs/SLAs for security vendors; conduct audits and drive performance improvements</li> <li>Monitor and maintain security systems, conducting preemptive health checks and ensuring maximum uptime. Planning and building out security technical architecture, including VMS, ACS, system controls, subsystems, and ancillary security products</li> <li>Work cross-functionally with other teams, particularly Information Technology, Workplace Services, and Facilities, to ensure the safety and security of Discord employees and guests</li> </ul> <p><strong>What you should have:</strong></p> <ul> <li>5+ years of physical security experience, particularly in guard force management and overseeing corporate office security</li> <li>2+ years of people management experience</li",
-        "salary": "",
-        "source": "ATS·Greenhouse·discord",
-        "id": "a419da5ae3c9e7e746e68458",
-        "score": 60,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      },
-      {
-        "title": "Maroc Climate and Security recrute des Télévendeurs Francophones",
-        "company": "",
-        "url": "https://www.dreamjob.ma/emploi/maroc-climate-and-security-recrute-des-televendeurs-francophones/",
-        "date": "2026-08-11T10:30:27",
-        "location": "",
-        "description": "Maroc Climate and Security recrute des Télévendeurs(ses) Francophones pour renforcer ses équipes dans le cadre du développement de ses activités. Les postes s’adressent à des profils disposant d’une excellente maîtrise du français, d’un bon sens commercial et d’une première expérience en télévente, téléprospection ou centre d’appels. Créée en 2014, Maroc Climate and Security (MCS) est […]",
-        "source": "Dreamjob API",
-        "id": "3dc51c69ba9fbf2202e6952b",
-        "score": 65,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-08-10"
+    "buffer": [],
+    "last_sent_date": "2026-08-11"
   },
   "market": {
     "week": "2026-W33",
