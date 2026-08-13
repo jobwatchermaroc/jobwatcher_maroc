@@ -693,66 +693,50 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-13T17:36:25",
-      "last_run": "2026-08-13T17:36:25",
+      "last_ok_at": "2026-08-13T18:32:57",
+      "last_run": "2026-08-13T18:32:57",
       "last_error": "",
-      "last_ok_count": 46
+      "last_ok_count": 47
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-13T17:37:03",
-      "last_run": "2026-08-13T17:37:03",
+      "last_ok_at": "2026-08-13T18:33:31",
+      "last_run": "2026-08-13T18:33:31",
       "last_error": "",
       "last_ok_count": 44
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-13T17:38:41",
+      "last_run": "2026-08-13T18:35:09",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-13T17:39:15",
-      "last_run": "2026-08-13T17:39:15",
+      "last_ok_at": "2026-08-13T18:36:03",
+      "last_run": "2026-08-13T18:36:03",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-13T17:39:15",
+      "last_run": "2026-08-13T18:36:03",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-13T17:40:06",
-      "last_run": "2026-08-13T17:40:06",
+      "last_ok_at": "2026-08-13T18:36:52",
+      "last_run": "2026-08-13T18:36:52",
       "last_error": "",
       "last_ok_count": 1226
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Senior Sales Engineer - Majors (West)",
-        "company": "Datadog",
-        "url": "https://careers.datadoghq.com/detail/8126596/?gh_jid=8126596",
-        "date": "2026-08-13",
-        "location": "California, USA, Remote",
-        "description": "<p>As a Senior Enterprise Sales Engineer, you’ll serve as a trusted technical advisor and strategic partner to both customers and Sales. You’ll lead complex technical evaluations, align solutions to business outcomes, and help shape deal strategy in high-impact opportunities.</p> <p>This role goes beyond delivering demos - you’ll own the evaluation experience end-to-end, influence key stakeholders, and help drive successful outcomes across enterprise accounts.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won</li> <li>Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions and measurable business outcomes&nbsp;</li> <li>Deliver engaging product demos, technical presentations, and solution workshops that connect platform capabilities to customer outcomes for diverse stakeholder audiences including executives&nbsp;</li> <li>Full ownership of the technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining competitive success criteria, building a project plan with clear timelines, and holding all participants accountable to the process</li> <li>Identify, develop, and leverage technical champions across multi-stakeholder environments, building a structured plan for champion cultivation and influence throughout the deal cycle&nbsp;</li> <li>Contribute to product direction through active participation in structured product and engineering field feedback sessions, bringing field insights and customer patterns to PM and engineering teams</li> <li>Drive operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp;</li> <li>Identify and proactively resolve technical and organizational blockers by collaborating across Product, Support, and GTM teams before customers are impacted</li> <li>Contribute to team enablement by mentoring peers, sharing best practices, and creating reusable assets that scale knowledge across the region</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>7+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment</li> <li>Skilled at influencing and adapting communication across technical, business, and executive audiences&nbsp;</li> <li>Advanced background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Strong communication skills, with the ability to explain tech",
-        "salary": "",
-        "source": "ATS·Greenhouse·datadog",
-        "id": "3e2a458c629b487afcaacf3f",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-08-11"
+    "buffer": [],
+    "last_sent_date": "2026-08-13"
   },
   "market": {
     "week": "2026-W33",
