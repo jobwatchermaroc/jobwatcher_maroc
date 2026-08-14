@@ -647,6 +647,12 @@
       "score": 70,
       "seen_at": "2026-08-14T18:13:14",
       "key": "staff product manager | mongodb"
+    },
+    "4559f3423b82b3cf1a9f57e6": {
+      "source": "ATS·Greenhouse·stripe",
+      "score": 60,
+      "seen_at": "2026-08-14T21:26:34",
+      "key": "regional security manager americas | stripe"
     }
   },
   "keys": {
@@ -702,54 +708,72 @@
     "devops sre administrateur gcp build devsecops | alten maroc": "0db96c663d9d5d10b35300bc",
     "staff engineer cloud networks | datadog": "7f350bd7fb6921601131cde5",
     "qa devops engineer | discord": "108babad21a91904f7af9090",
-    "staff product manager | mongodb": "37538fec7c2647d1ecb1b1c9"
+    "staff product manager | mongodb": "37538fec7c2647d1ecb1b1c9",
+    "regional security manager americas | stripe": "4559f3423b82b3cf1a9f57e6"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-14T21:02:21",
-      "last_run": "2026-08-14T21:02:21",
+      "last_ok_at": "2026-08-14T21:22:20",
+      "last_run": "2026-08-14T21:22:20",
       "last_error": "",
       "last_ok_count": 44
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-14T21:03:12",
-      "last_run": "2026-08-14T21:03:12",
+      "last_ok_at": "2026-08-14T21:22:59",
+      "last_run": "2026-08-14T21:22:59",
       "last_error": "",
       "last_ok_count": 45
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-14T21:04:49",
+      "last_run": "2026-08-14T21:24:37",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-14T21:05:26",
-      "last_run": "2026-08-14T21:05:26",
+      "last_ok_at": "2026-08-14T21:25:26",
+      "last_run": "2026-08-14T21:25:26",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-14T21:05:26",
+      "last_run": "2026-08-14T21:25:26",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-14T21:06:29",
-      "last_run": "2026-08-14T21:06:29",
+      "last_ok_at": "2026-08-14T21:26:30",
+      "last_run": "2026-08-14T21:26:30",
       "last_error": "",
       "last_ok_count": 1221
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Regional Security Manager, Americas",
+        "company": "Stripe",
+        "url": "https://stripe.com/jobs/search?gh_jid=8125586",
+        "date": "2026-08-14",
+        "location": "San Francisco, Seattle, NYC, Chicago",
+        "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>Corporate Security helps keep Stripe secure and Stripes safe by building practical, risk-based programs that enable the company to operate and grow. We are looking for an experienced Regional Security Manager to join our team. As the Regional Security Manager Americas at Stripe, you will be responsible for developing our core physical-security deliverables to office locations in the Americas (North America and parts of Latin America), and help evolve our program to support Stripe around the globe. You will work cross functionally within the Corporate Security team, and alongside other business teams at the company to keep Stripe secure and Stripes safe.</p> <h2><strong>What you’ll do</strong></h2> <p>As Regional Security Manager Americas, reporting to the Head of Global Security Operations, you will lead and continuously improve physical security operations across North America and relevant parts of Latin America. This is an individual-contributor role: you will manage regional contractors and vendor relationships, but will not directly manage employees at this time. You will translate regional risk into scalable programs, build trusted partnerships with internal teams and service providers, and help evolve Stripe’s global security operating model.</p> <p>This is a hybrid role. The successful candidate will spend 50% of their time in one of our AMER office locations in San Francisco, New York, Seattle, or Chicago. We are not entertaining remote candidates at this time.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Own regional physical-security operations for the Americas, including security governance, escalations, incident response, service delivery, and performance reporting; contribute to global programs as needed.</li> <li>Partner with teams such as Workplace, People, IT, Events, business leaders, and external providers to deliver a security program that scales with business needs while preserving a high-quality employee and visitor experience.</li> <li>Lead or coordinate risk, threat, vulnerability, and site-security assessments; document material risks; prioritize mitigations; and track delivery to closure. Conduct annual site-security assessments and risk reviews for company sites and relevant vendor sites to evaluate and improve controls in line with regional risk and estab",
+        "salary": "",
+        "source": "ATS·Greenhouse·stripe",
+        "id": "4559f3423b82b3cf1a9f57e6",
+        "score": 60,
+        "reasons": [
+          "security",
+          "description: security"
+        ]
+      }
+    ],
     "last_sent_date": "2026-08-14"
   },
   "market": {
@@ -820,7 +844,8 @@
       "7f350bd7fb6921601131cde5",
       "108babad21a91904f7af9090",
       "33f37ae7506ea96bc3baca6b",
-      "37538fec7c2647d1ecb1b1c9"
+      "37538fec7c2647d1ecb1b1c9",
+      "4559f3423b82b3cf1a9f57e6"
     ],
     "companies": {
       "Inconnu": 3,
@@ -839,7 +864,7 @@
       "Okta": 3,
       "Proton": 3,
       "Twilio": 3,
-      "Stripe": 1,
+      "Stripe": 2,
       "Asana": 4,
       "Discord": 7,
       "contentsquare": 3,
@@ -853,7 +878,7 @@
       "docker": 1,
       "gcp": 11,
       "kubernetes": 7,
-      "security": 36,
+      "security": 37,
       "security engineer": 16,
       "azure ad": 1,
       "ci/cd": 9,
@@ -883,7 +908,7 @@
       "ATS·Greenhouse·okta": 3,
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·twilio": 3,
-      "ATS·Greenhouse·stripe": 1,
+      "ATS·Greenhouse·stripe": 2,
       "ATS·Greenhouse·asana": 4,
       "ATS·Greenhouse·discord": 7,
       "ATS·Lever·contentsquare": 3,
@@ -891,7 +916,7 @@
       "ATS·Greenhouse·mongodb": 1
     },
     "salaries": [],
-    "total": 66,
+    "total": 67,
     "prev": {
       "week": "2026-W32",
       "companies": {
