@@ -671,6 +671,12 @@
       "score": 75,
       "seen_at": "2026-08-17T14:00:23",
       "key": "data engineer gcp f h | cgi technologies et solutions maroc"
+    },
+    "710ca38b7dd2096823197fe6": {
+      "source": "Rekrute",
+      "score": 75,
+      "seen_at": "2026-08-17T18:04:40",
+      "key": "devops automation engineer intermediate | cnexia"
     }
   },
   "keys": {
@@ -730,87 +736,56 @@
     "regional security manager americas | stripe": "4559f3423b82b3cf1a9f57e6",
     "senior solutions architect | gitlab": "f5628dfade5f88aae4671a92",
     "senior devops engineer platform | proton": "ee86c2406546018d6b22d235",
-    "data engineer gcp f h | cgi technologies et solutions maroc": "15670e2ae151383bb722c8be"
+    "data engineer gcp f h | cgi technologies et solutions maroc": "15670e2ae151383bb722c8be",
+    "devops automation engineer intermediate | cnexia": "710ca38b7dd2096823197fe6"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-08-17T17:00:07",
-      "last_run": "2026-08-17T17:00:07",
+      "last_run": "2026-08-17T18:01:08",
       "last_error": "",
       "last_ok_count": 20
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-17T17:00:43",
-      "last_run": "2026-08-17T17:00:43",
+      "last_ok_at": "2026-08-17T18:01:46",
+      "last_run": "2026-08-17T18:01:46",
       "last_error": "",
-      "last_ok_count": 46
+      "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-17T17:02:22",
+      "last_run": "2026-08-17T18:03:24",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-17T17:02:56",
-      "last_run": "2026-08-17T17:02:56",
+      "last_ok_at": "2026-08-17T18:03:53",
+      "last_run": "2026-08-17T18:03:53",
       "last_error": "",
       "last_ok_count": 102
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-17T17:02:56",
+      "last_run": "2026-08-17T18:03:53",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-17T17:03:44",
-      "last_run": "2026-08-17T17:03:44",
+      "last_ok_at": "2026-08-17T18:04:40",
+      "last_run": "2026-08-17T18:04:40",
       "last_error": "",
       "last_ok_count": 1232
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Senior Solutions Architect",
-        "company": "GitLab",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8627768002",
-        "date": "2026-08-17",
-        "location": "Remote",
-        "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><p><strong>An overview of this role</strong></p> <p>As a Senior Solutions Architect based in Singapore (reporting to the Asia Solutions Architect Manager), you'll join GitLab's Asia team as the trusted advisor to prospects, customers and partners across the region, helping them understand how GitLab's AI-powered DevSecOps platform addresses both technical requirements and business objectives across the entire software development lifecycle.</p> <p>You'll guide organisations through their digital transformation journeys, from planning through monitoring, using your technical and AI expertise, understanding of cloud and modern software development practices, and strong customer empathy.</p> <p>Partnering closely with your peers, Account Executives and cross-functional teams, you'll own technical evaluations, including proofs of value and workshops, shape solution architectures, and serve as the voice of the customer back to Product Management. You'll drive successful platform adoption, influence revenue growth through solution and value selling, and build long-term, trust-based relationships that showcase GitLab's differentiated position in an AI-driven DevSecOps landscape.</p> <p><strong>What you'll do</strong></p> <ul> <li>Lead technical discovery, demos, and validation to show how GitLab's AI-powered DevSecOps platform meets customers' technical and business needs across the full lifecycle.</li> <li>Drive the technical evaluation process as the directly responsible individual, including solut",
-        "salary": "",
-        "source": "ATS·Greenhouse·gitlab",
-        "id": "f5628dfade5f88aae4671a92",
-        "score": 50,
-        "reasons": [
-          "description: devsecops"
-        ]
-      },
-      {
-        "title": "Data Engineer GCP (F/H)",
-        "company": "CGI Technologies et Solutions Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-data-engineer-gcp-fh-recrutement-cgi-technologies-et-solutions-maroc-casablanca-183936.html",
-        "date": "17/08/2026",
-        "location": "Casablanca (Maroc)",
-        "description": "• gcp (bigquery, dataflow, composer, pub/sub, cloud run, gcs) • python, sql • airflow / orchestration de traitements • data engineering, etl/elt, collecte de données • une expérience kafka, spark ou nifi est un plus.",
-        "source": "Rekrute",
-        "offer_id": "183936",
-        "id": "15670e2ae151383bb722c8be",
-        "score": 75,
-        "reasons": [
-          "gcp",
-          "description: cloud + gcp"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-08-15"
+    "buffer": [],
+    "last_sent_date": "2026-08-17"
   },
   "market": {
     "week": "2026-W34",
@@ -872,11 +847,12 @@
       "a534aae94bd7edd0814d4253",
       "f5628dfade5f88aae4671a92",
       "ee86c2406546018d6b22d235",
-      "15670e2ae151383bb722c8be"
+      "15670e2ae151383bb722c8be",
+      "710ca38b7dd2096823197fe6"
     ],
     "companies": {
       "DXC - CDG": 1,
-      "Cnexia": 1,
+      "Cnexia": 2,
       "Sofrecom Maroc": 3,
       "ALTEN Maroc": 9,
       "Akkodis Maroc": 1,
@@ -898,17 +874,17 @@
       "CGI Technologies et Solutions Maroc": 1
     },
     "skills": {
-      "aws": 16,
+      "aws": 17,
       "azure": 15,
-      "cloud": 30,
+      "cloud": 31,
       "docker": 1,
       "gcp": 12,
-      "kubernetes": 7,
+      "kubernetes": 8,
       "security": 33,
       "security engineer": 12,
       "azure ad": 1,
       "ci/cd": 10,
-      "devops": 10,
+      "devops": 11,
       "devsecops": 7,
       "gitlab ci": 3,
       "infrastructure as code": 7,
@@ -920,10 +896,10 @@
       "platform engineer": 6,
       "site reliability": 2,
       "zero trust": 1,
-      "devops engineer": 2
+      "devops engineer": 3
     },
     "sources": {
-      "Rekrute": 18,
+      "Rekrute": 19,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·gitlab": 3,
@@ -939,7 +915,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 58,
+    "total": 59,
     "prev": {
       "week": "2026-W33",
       "companies": {
