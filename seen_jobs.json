@@ -701,6 +701,18 @@
       "score": 100,
       "seen_at": "2026-08-19T10:58:26",
       "key": "application security engineer | contentsquare"
+    },
+    "0a188cd9a052773c5964160d": {
+      "source": "ATS·Greenhouse·okta",
+      "score": 70,
+      "seen_at": "2026-08-19T22:01:14",
+      "key": "cloud alliance manager | okta"
+    },
+    "7a6d20618490978265c99c6f": {
+      "source": "ATS·Greenhouse·stripe",
+      "score": 90,
+      "seen_at": "2026-08-19T22:01:17",
+      "key": "security incident response engineer | stripe"
     }
   },
   "keys": {
@@ -765,55 +777,57 @@
     "director enterprise sales engineering us central | datadog": "7fd3fae8675c193c89e1e1a0",
     "security sales engineer | datadog": "002fe351414d4df950277175",
     "network and cyber security engineer | cnexia": "4fa021bce73dd4605e8c05bd",
-    "application security engineer | contentsquare": "bc31f19db846f39bbf2fb85e"
+    "application security engineer | contentsquare": "bc31f19db846f39bbf2fb85e",
+    "cloud alliance manager | okta": "0a188cd9a052773c5964160d",
+    "security incident response engineer | stripe": "7a6d20618490978265c99c6f"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-19T19:12:34",
-      "last_run": "2026-08-19T19:12:34",
+      "last_ok_at": "2026-08-19T21:57:29",
+      "last_run": "2026-08-19T21:57:29",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-19T19:13:08",
-      "last_run": "2026-08-19T19:13:08",
+      "last_ok_at": "2026-08-19T21:58:04",
+      "last_run": "2026-08-19T21:58:04",
       "last_error": "",
       "last_ok_count": 42
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-19T19:14:44",
+      "last_run": "2026-08-19T21:59:41",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-19T19:15:55",
-      "last_run": "2026-08-19T19:15:55",
+      "last_ok_at": "2026-08-19T22:00:18",
+      "last_run": "2026-08-19T22:00:18",
       "last_error": "",
       "last_ok_count": 103
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-19T19:15:55",
+      "last_run": "2026-08-19T22:00:18",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-19T19:17:05",
-      "last_run": "2026-08-19T19:17:05",
+      "last_ok_at": "2026-08-19T22:01:12",
+      "last_run": "2026-08-19T22:01:12",
       "last_error": "",
-      "last_ok_count": 1172
+      "last_ok_count": 1232
     }
   },
   "digest": {
     "buffer": [],
-    "last_sent_date": "2026-08-18"
+    "last_sent_date": "2026-08-19"
   },
   "market": {
     "week": "2026-W34",
@@ -884,7 +898,9 @@
       "bc31f19db846f39bbf2fb85e",
       "c0cf8a894e81e27916711298",
       "af7a57916ba0de60793e85d5",
-      "960676a74676a177551ad494"
+      "960676a74676a177551ad494",
+      "0a188cd9a052773c5964160d",
+      "7a6d20618490978265c99c6f"
     ],
     "companies": {
       "DXC - CDG": 1,
@@ -898,11 +914,11 @@
       "Cloudflare": 4,
       "GitLab": 3,
       "Datadog": 9,
-      "Okta": 3,
+      "Okta": 4,
       "Proton": 4,
       "MongoDB": 1,
       "Twilio": 2,
-      "Stripe": 1,
+      "Stripe": 2,
       "Asana": 4,
       "Discord": 7,
       "contentsquare": 3,
@@ -911,14 +927,14 @@
       "Capgemini": 1
     },
     "skills": {
-      "aws": 21,
+      "aws": 22,
       "azure": 19,
-      "cloud": 37,
+      "cloud": 38,
       "docker": 1,
       "gcp": 14,
       "kubernetes": 8,
-      "security": 40,
-      "security engineer": 16,
+      "security": 41,
+      "security engineer": 17,
       "azure ad": 1,
       "ci/cd": 10,
       "devops": 13,
@@ -941,18 +957,18 @@
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·gitlab": 3,
       "ATS·Greenhouse·datadog": 9,
-      "ATS·Greenhouse·okta": 3,
+      "ATS·Greenhouse·okta": 4,
       "ATS·Greenhouse·proton": 4,
       "ATS·Greenhouse·mongodb": 1,
       "ATS·Greenhouse·twilio": 2,
-      "ATS·Greenhouse·stripe": 1,
+      "ATS·Greenhouse·stripe": 2,
       "ATS·Greenhouse·asana": 4,
       "ATS·Greenhouse·discord": 7,
       "ATS·Lever·contentsquare": 3,
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 67,
+    "total": 69,
     "prev": {
       "week": "2026-W33",
       "companies": {
@@ -1070,6 +1086,11 @@
       "domain": "contentsquare.com",
       "emails": [],
       "updated_at": "2026-08-19T10:58:51"
+    },
+    "stripe": {
+      "domain": "stripe.com",
+      "emails": [],
+      "updated_at": "2026-08-19T22:01:33"
     }
   }
 }
