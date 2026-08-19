@@ -770,43 +770,43 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-19T15:19:52",
-      "last_run": "2026-08-19T15:19:52",
+      "last_ok_at": "2026-08-19T17:53:11",
+      "last_run": "2026-08-19T17:53:11",
       "last_error": "",
-      "last_ok_count": 45
+      "last_ok_count": 47
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-19T15:20:24",
-      "last_run": "2026-08-19T15:20:24",
+      "last_ok_at": "2026-08-19T17:53:48",
+      "last_run": "2026-08-19T17:53:48",
       "last_error": "",
       "last_ok_count": 42
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-19T15:22:00",
+      "last_run": "2026-08-19T17:55:24",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-19T15:22:34",
-      "last_run": "2026-08-19T15:22:34",
+      "last_ok_at": "2026-08-19T17:55:57",
+      "last_run": "2026-08-19T17:55:57",
       "last_error": "",
       "last_ok_count": 103
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-19T15:22:34",
+      "last_run": "2026-08-19T17:55:57",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-19T15:23:23",
-      "last_run": "2026-08-19T15:23:23",
+      "last_ok_at": "2026-08-19T17:56:46",
+      "last_run": "2026-08-19T17:56:46",
       "last_error": "",
       "last_ok_count": 1232
     }
@@ -883,11 +883,12 @@
       "4fa021bce73dd4605e8c05bd",
       "bc31f19db846f39bbf2fb85e",
       "c0cf8a894e81e27916711298",
-      "af7a57916ba0de60793e85d5"
+      "af7a57916ba0de60793e85d5",
+      "960676a74676a177551ad494"
     ],
     "companies": {
       "DXC - CDG": 1,
-      "Cnexia": 3,
+      "Cnexia": 4,
       "Sofrecom Maroc": 3,
       "ALTEN Maroc": 9,
       "Akkodis Maroc": 1,
@@ -910,14 +911,14 @@
       "Capgemini": 1
     },
     "skills": {
-      "aws": 20,
-      "azure": 18,
-      "cloud": 36,
+      "aws": 21,
+      "azure": 19,
+      "cloud": 37,
       "docker": 1,
       "gcp": 14,
       "kubernetes": 8,
-      "security": 39,
-      "security engineer": 15,
+      "security": 40,
+      "security engineer": 16,
       "azure ad": 1,
       "ci/cd": 10,
       "devops": 13,
@@ -935,7 +936,7 @@
       "devops engineer": 3
     },
     "sources": {
-      "Rekrute": 21,
+      "Rekrute": 22,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·gitlab": 3,
@@ -951,7 +952,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 66,
+    "total": 67,
     "prev": {
       "week": "2026-W33",
       "companies": {
