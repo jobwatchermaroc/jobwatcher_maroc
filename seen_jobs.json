@@ -713,6 +713,12 @@
       "score": 90,
       "seen_at": "2026-08-19T22:01:17",
       "key": "security incident response engineer | stripe"
+    },
+    "4e47700abb693d723bcb9641": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 50,
+      "seen_at": "2026-08-21T09:24:35",
+      "key": "senior sales engineer paris | datadog"
     }
   },
   "keys": {
@@ -779,54 +785,71 @@
     "network and cyber security engineer | cnexia": "4fa021bce73dd4605e8c05bd",
     "application security engineer | contentsquare": "bc31f19db846f39bbf2fb85e",
     "cloud alliance manager | okta": "0a188cd9a052773c5964160d",
-    "security incident response engineer | stripe": "7a6d20618490978265c99c6f"
+    "security incident response engineer | stripe": "7a6d20618490978265c99c6f",
+    "senior sales engineer paris | datadog": "4e47700abb693d723bcb9641"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-21T07:31:21",
-      "last_run": "2026-08-21T07:31:21",
+      "last_ok_at": "2026-08-21T09:20:49",
+      "last_run": "2026-08-21T09:20:49",
       "last_error": "",
-      "last_ok_count": 53
+      "last_ok_count": 51
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-21T07:31:58",
-      "last_run": "2026-08-21T07:31:58",
+      "last_ok_at": "2026-08-21T09:21:35",
+      "last_run": "2026-08-21T09:21:35",
       "last_error": "",
       "last_ok_count": 42
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-21T07:33:35",
+      "last_run": "2026-08-21T09:23:11",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-21T07:34:40",
-      "last_run": "2026-08-21T07:34:40",
+      "last_ok_at": "2026-08-21T09:23:42",
+      "last_run": "2026-08-21T09:23:42",
       "last_error": "",
       "last_ok_count": 103
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-21T07:34:40",
+      "last_run": "2026-08-21T09:23:42",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-21T07:35:30",
-      "last_run": "2026-08-21T07:35:30",
+      "last_ok_at": "2026-08-21T09:24:33",
+      "last_run": "2026-08-21T09:24:33",
       "last_error": "",
       "last_ok_count": 1234
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Senior Sales Engineer - Paris",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8142150/?gh_jid=8142150",
+        "date": "2026-08-21",
+        "location": "Paris, France",
+        "description": "<p>As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption.</p> <p>&nbsp;</p> <p>You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts.</p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won</li> <li>Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions</li> <li>Deliver engaging product demos, technical presentations, and workshops that connect platform capabilities to customer outcomes</li> <li>Project manage technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining success criteria, building a project plan with clear timelines, and holding all participants accountable to the process</li> <li>Identify and cultivate technical champions within customer accounts, empowering them to advocate for Datadog adoption and drive consensus internally</li> <li>Participat e actively in structured product and engineering field feedback sessions, serving as the technical voice of the customer to help shape product direction</li> <li>Maintain operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp;</li> <li>Collaborate cross-functionally with Product, Support, and GTM teams to address customer needs and resolve technical blockers</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>5+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment</li> <li>Skilled at navigating multi-stakeholder environments and adapting communication style to technical, business, and executive audiences</li> <li>Proficient background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Strong communication skills, with the ability to explain technical concepts to a range of audiences</li> <li>A consultative approach to problem-solving and customer engagement</li> <li>Ability to manage multiple opportunities and priorities in a fast-paced environment</li> <li>Growth mindset by embracing change and AI tools</li> <li>Willingness to travel as needed to support customer engagements</li> </ul> <p><em>Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about technology and want to grow your skills, we encourage yo",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "4e47700abb693d723bcb9641",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      }
+    ],
     "last_sent_date": "2026-08-19"
   },
   "market": {
@@ -900,7 +923,8 @@
       "af7a57916ba0de60793e85d5",
       "960676a74676a177551ad494",
       "0a188cd9a052773c5964160d",
-      "7a6d20618490978265c99c6f"
+      "7a6d20618490978265c99c6f",
+      "4e47700abb693d723bcb9641"
     ],
     "companies": {
       "DXC - CDG": 1,
@@ -913,7 +937,7 @@
       "Inconnu": 3,
       "Cloudflare": 4,
       "GitLab": 3,
-      "Datadog": 9,
+      "Datadog": 10,
       "Okta": 4,
       "Proton": 4,
       "MongoDB": 1,
@@ -927,13 +951,13 @@
       "Capgemini": 1
     },
     "skills": {
-      "aws": 22,
-      "azure": 19,
-      "cloud": 38,
+      "aws": 23,
+      "azure": 20,
+      "cloud": 39,
       "docker": 1,
-      "gcp": 14,
-      "kubernetes": 8,
-      "security": 41,
+      "gcp": 15,
+      "kubernetes": 9,
+      "security": 42,
       "security engineer": 17,
       "azure ad": 1,
       "ci/cd": 10,
@@ -956,7 +980,7 @@
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·gitlab": 3,
-      "ATS·Greenhouse·datadog": 9,
+      "ATS·Greenhouse·datadog": 10,
       "ATS·Greenhouse·okta": 4,
       "ATS·Greenhouse·proton": 4,
       "ATS·Greenhouse·mongodb": 1,
@@ -968,7 +992,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 69,
+    "total": 70,
     "prev": {
       "week": "2026-W33",
       "companies": {
