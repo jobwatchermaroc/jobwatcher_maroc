@@ -719,6 +719,30 @@
       "score": 50,
       "seen_at": "2026-08-21T09:24:35",
       "key": "senior sales engineer paris | datadog"
+    },
+    "bf0df3a2a1f417674e52f5a8": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 50,
+      "seen_at": "2026-08-21T15:56:49",
+      "key": "enterprise sales engineer fed | datadog"
+    },
+    "835b2153d16963032cf0c285": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 50,
+      "seen_at": "2026-08-21T15:56:49",
+      "key": "senior sales engineer fed | datadog"
+    },
+    "29acc90dfdd781ae739ae586": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 50,
+      "seen_at": "2026-08-21T15:56:49",
+      "key": "senior sales engineer northcentral | datadog"
+    },
+    "beff4105f878bd42bcc0be75": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 50,
+      "seen_at": "2026-08-21T15:56:50",
+      "key": "senior software engineer identity access management | mongodb"
     }
   },
   "keys": {
@@ -786,48 +810,52 @@
     "application security engineer | contentsquare": "bc31f19db846f39bbf2fb85e",
     "cloud alliance manager | okta": "0a188cd9a052773c5964160d",
     "security incident response engineer | stripe": "7a6d20618490978265c99c6f",
-    "senior sales engineer paris | datadog": "4e47700abb693d723bcb9641"
+    "senior sales engineer paris | datadog": "4e47700abb693d723bcb9641",
+    "enterprise sales engineer fed | datadog": "bf0df3a2a1f417674e52f5a8",
+    "senior sales engineer fed | datadog": "835b2153d16963032cf0c285",
+    "senior sales engineer northcentral | datadog": "29acc90dfdd781ae739ae586",
+    "senior software engineer identity access management | mongodb": "beff4105f878bd42bcc0be75"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-21T14:06:14",
-      "last_run": "2026-08-21T14:06:14",
+      "last_ok_at": "2026-08-21T15:53:00",
+      "last_run": "2026-08-21T15:53:00",
       "last_error": "",
       "last_ok_count": 51
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-21T14:06:50",
-      "last_run": "2026-08-21T14:06:50",
+      "last_ok_at": "2026-08-21T15:53:43",
+      "last_run": "2026-08-21T15:53:43",
       "last_error": "",
       "last_ok_count": 42
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-21T14:08:27",
+      "last_run": "2026-08-21T15:55:20",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-21T14:08:55",
-      "last_run": "2026-08-21T14:08:55",
+      "last_ok_at": "2026-08-21T15:55:59",
+      "last_run": "2026-08-21T15:55:59",
       "last_error": "",
       "last_ok_count": 103
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-21T14:08:55",
+      "last_run": "2026-08-21T15:55:59",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-21T14:09:43",
-      "last_run": "2026-08-21T14:09:43",
+      "last_ok_at": "2026-08-21T15:56:47",
+      "last_run": "2026-08-21T15:56:47",
       "last_error": "",
       "last_ok_count": 1235
     }
@@ -847,6 +875,66 @@
         "score": 50,
         "reasons": [
           "description: azure"
+        ]
+      },
+      {
+        "title": "Enterprise Sales Engineer - FED",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8144607/?gh_jid=8144607",
+        "date": "2026-08-21",
+        "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
+        "description": "<p>As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption.</p> <p>You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won</li> <li>Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions</li> <li>Deliver engaging product demos, technical presentations, and workshops that connect platform capabilities to customer outcomes</li> <li>Project manage technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining success criteria, building a project plan with clear timelines, and holding all participants accountable to the process</li> <li>Identify and cultivate technical champions within customer accounts, empowering them to advocate for Datadog adoption and drive consensus internally</li> <li>Participate actively in structured product and engineering field feedback sessions, serving as the technical voice of the customer to help shape product direction</li> <li>Maintain operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp;</li> <li>Collaborate cross-functionally with Product, Support, and GTM teams to address customer needs and resolve technical blockers</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>5+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment</li> <li>Skilled at navigating multi-stakeholder environments and adapting communication style to technical, business, and executive audiences</li> <li>Proficient background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Strong communication skills, with the ability to explain technical concepts to a range of audiences</li> <li>A consultative approach to problem-solving and customer engagement</li> <li>Ability to manage multiple opportunities and priorities in a fast-paced environment</li> <li>Growth mindset by embracing change and AI tools</li> <li>Willingness to travel as needed to support customer e",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "bf0df3a2a1f417674e52f5a8",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      },
+      {
+        "title": "Senior Sales Engineer - FED",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8144628/?gh_jid=8144628",
+        "date": "2026-08-21",
+        "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
+        "description": "<p>As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption.</p> <p>You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won</li> <li>Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions</li> <li>Deliver engaging product demos, technical presentations, and workshops that connect platform capabilities to customer outcomes</li> <li>Project manage technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining success criteria, building a project plan with clear timelines, and holding all participants accountable to the process</li> <li>Identify and cultivate technical champions within customer accounts, empowering them to advocate for Datadog adoption and drive consensus internally</li> <li>Participate actively in structured product and engineering field feedback sessions, serving as the technical voice of the customer to help shape product direction</li> <li>Maintain operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp;</li> <li>Collaborate cross-functionally with Product, Support, and GTM teams to address customer needs and resolve technical blockers</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>5+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment</li> <li>Skilled at navigating multi-stakeholder environments and adapting communication style to technical, business, and executive audiences</li> <li>Proficient background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Strong communication skills, with the ability to explain technical concepts to a range of audiences</li> <li>A consultative approach to problem-solving and customer engagement</li> <li>Ability to manage multiple opportunities and priorities in a fast-paced environment</li> <li>Growth mindset by embracing change and AI tools</li> <li>Willingness to travel as needed to support customer e",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "835b2153d16963032cf0c285",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      },
+      {
+        "title": "Senior Sales Engineer - NorthCentral",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8142217/?gh_jid=8142217",
+        "date": "2026-08-21",
+        "location": "Illinois, USA, Remote; Minnesota, USA, Remote",
+        "description": "<p>As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption.</p> <p>You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won</li> <li>Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions</li> <li>Deliver engaging product demos, technical presentations, and workshops that connect platform capabilities to customer outcomes</li> <li>Project manage technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining success criteria, building a project plan with clear timelines, and holding all participants accountable to the process</li> <li>Identify and cultivate technical champions within customer accounts, empowering them to advocate for Datadog adoption and drive consensus internally</li> <li>Participate actively in structured product and engineering field feedback sessions, serving as the technical voice of the customer to help shape product direction</li> <li>Maintain operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp;</li> <li>Collaborate cross-functionally with Product, Support, and GTM teams to address customer needs and resolve technical blockers</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>5+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment</li> <li>Skilled at navigating multi-stakeholder environments and adapting communication style to technical, business, and executive audiences</li> <li>Proficient background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Strong communication skills, with the ability to explain technical concepts to a range of audiences</li> <li>A consultative approach to problem-solving and customer engagement</li> <li>Ability to manage multiple opportunities and priorities in a fast-paced environment</li> <li>Growth mindset by embracing change and AI tools</li> <li>Willingness to travel as needed to support customer e",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "29acc90dfdd781ae739ae586",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer, Identity & Access Management",
+        "company": "MongoDB",
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=8140617",
+        "date": "2026-08-21",
+        "location": "New York City",
+        "description": "<p>The MongoDB Atlas team is a diverse group of contributors working together to help our users manage MongoDB at global scale. We are responsible for MongoDB Atlas: our database as a service offering and fastest growing product which allows users to deploy fault-tolerant, globally distributed MongoDB clusters in just minutes.</p> <p>We're seeking a Senior Engineer to join the Atlas Identity and Access Management (IAM) team. IAM is a platform and a product team. We serve internal engineers by providing them a secure and durable suite of services, and we serve external customers by providing them user facing features and products. We are the owners of Atlas’ authentication (OAuth, SSO, Federated Identity) and authorization (RBAC, ABAC) systems, along with many others. The IAM team’s mission is to enable customers to securely build their applications with Atlas through our best in class user experience.</p> <p>We are looking to speak to candidates who are based in New York City, NY for our hybrid working model.</p> <h3>Role Responsibilities</h3> <ul> <li>Design, architect, build, and deliver core pieces of IAM</li> <li>Lead projects from specification to delivery</li> <li>Mentor and grow other team members</li> <li>Improve our codebase, best practices, and design principles</li> <li>Define your top priorities and focuses, communicate them, and execute against them</li> <li>Lead and contribute to complex technical projects and initiatives</li> </ul> <h3>Candidate Profile</h3> <ul> <li>5+ years experience of software engineering, primarily focused on backend systems</li> <li>Proficient in a modern compiled programming language (Java, Go, C#, C++, etc.)</li> <li>Willingness to learn JavaScript and/or TypeScript along with modern frontend technologies (React, Redux, etc.); prior experience a plus</li> <li>Excellent communication skills, both written and verbal</li> <li>Desire to collaborate with colleagues and mentor fellow engineers</li> <li>Is curious, collaborative, empathetic, and intellectually honest</li> <li>Has a passion for problem solving and learning new things in the domains of computer science and software engineering</li> <li>Experience building identity and access management systems such as authentication (OAuth, SSO), authorization (RBAC, ABAC, ReBAC), and login and registration systems a plus</li> </ul> <h3>Success Measures</h3> <ul> <li>In 1 week you'll have completed your first pull request</li> <li>In 3 months, you'll have contributed to a large project</li> <li>In 6 months, you’ll be leading the design and execution of your own project</li> </ul> <h3>About MongoDB</h3> <p>MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB’s unified data platform, the most widely available, globally distributed data platform on the market, helps organizatio",
+        "salary": "",
+        "source": "ATS·Greenhouse·mongodb",
+        "id": "beff4105f878bd42bcc0be75",
+        "score": 50,
+        "reasons": [
+          "description: identity and access management + iam"
         ]
       }
     ],
@@ -924,7 +1012,11 @@
       "960676a74676a177551ad494",
       "0a188cd9a052773c5964160d",
       "7a6d20618490978265c99c6f",
-      "4e47700abb693d723bcb9641"
+      "4e47700abb693d723bcb9641",
+      "bf0df3a2a1f417674e52f5a8",
+      "835b2153d16963032cf0c285",
+      "29acc90dfdd781ae739ae586",
+      "beff4105f878bd42bcc0be75"
     ],
     "companies": {
       "DXC - CDG": 1,
@@ -937,10 +1029,10 @@
       "Inconnu": 3,
       "Cloudflare": 4,
       "GitLab": 3,
-      "Datadog": 10,
+      "Datadog": 13,
       "Okta": 4,
       "Proton": 4,
-      "MongoDB": 1,
+      "MongoDB": 2,
       "Twilio": 2,
       "Stripe": 2,
       "Asana": 4,
@@ -951,13 +1043,13 @@
       "Capgemini": 1
     },
     "skills": {
-      "aws": 23,
-      "azure": 20,
-      "cloud": 39,
+      "aws": 26,
+      "azure": 23,
+      "cloud": 42,
       "docker": 1,
-      "gcp": 15,
-      "kubernetes": 9,
-      "security": 42,
+      "gcp": 18,
+      "kubernetes": 12,
+      "security": 45,
       "security engineer": 17,
       "azure ad": 1,
       "ci/cd": 10,
@@ -967,8 +1059,8 @@
       "infrastructure as code": 7,
       "sre": 4,
       "terraform": 11,
-      "iam": 7,
-      "identity and access management": 3,
+      "iam": 8,
+      "identity and access management": 4,
       "cloud security": 3,
       "platform engineer": 6,
       "site reliability": 2,
@@ -980,10 +1072,10 @@
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·gitlab": 3,
-      "ATS·Greenhouse·datadog": 10,
+      "ATS·Greenhouse·datadog": 13,
       "ATS·Greenhouse·okta": 4,
       "ATS·Greenhouse·proton": 4,
-      "ATS·Greenhouse·mongodb": 1,
+      "ATS·Greenhouse·mongodb": 2,
       "ATS·Greenhouse·twilio": 2,
       "ATS·Greenhouse·stripe": 2,
       "ATS·Greenhouse·asana": 4,
@@ -992,7 +1084,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 70,
+    "total": 74,
     "prev": {
       "week": "2026-W33",
       "companies": {
