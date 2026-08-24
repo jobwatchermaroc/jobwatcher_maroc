@@ -826,66 +826,50 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-24T17:50:18",
-      "last_run": "2026-08-24T17:50:18",
+      "last_ok_at": "2026-08-24T19:19:05",
+      "last_run": "2026-08-24T19:19:05",
       "last_error": "",
       "last_ok_count": 26
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-24T17:50:58",
-      "last_run": "2026-08-24T17:50:58",
+      "last_ok_at": "2026-08-24T19:19:38",
+      "last_run": "2026-08-24T19:19:38",
       "last_error": "",
       "last_ok_count": 44
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-24T17:52:35",
+      "last_run": "2026-08-24T19:21:15",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-24T17:53:06",
-      "last_run": "2026-08-24T17:53:06",
+      "last_ok_at": "2026-08-24T19:21:47",
+      "last_run": "2026-08-24T19:21:47",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-24T17:53:06",
+      "last_run": "2026-08-24T19:21:47",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-24T17:53:57",
-      "last_run": "2026-08-24T17:53:57",
+      "last_ok_at": "2026-08-24T19:22:36",
+      "last_run": "2026-08-24T19:22:36",
       "last_error": "",
       "last_ok_count": 1235
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Services Architect 3 - Paris/London",
-        "company": "Datadog",
-        "url": "https://careers.datadoghq.com/detail/8128182/?gh_jid=8128182",
-        "date": "2026-08-24",
-        "location": "Paris, France",
-        "description": "<p>Datadog’s Implementation Services team helps customers implement and deploy Datadog quickly. Our team of architects leads the discovery, design, build, and launch of the Datadog platform to help customers accelerate time to value and get the most out of their investment. As a member of our team, you will be responsible for developing the technical roadmap for a customer’s implementation, and leading them through it every step of the way.&nbsp;&nbsp;&nbsp;</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p>What You’ll Do:</p> <ul> <li>Design and guide execution of Datadog implementations, including gathering requirements, building technical architecture, and supporting deployment and launch</li> <li>Guide customer onboarding through co-development working sessions and assist when they run into roadblocks</li> <li>Write automation and design architecture for deployment templates&nbsp;</li> <li>Manage the operation of implementation projects&nbsp;</li> <li>Collaborate with other teams, including Customer Success, Technical Account Management, and Sales to deliver an exceptional onboarding experience</li> </ul> <p>Who You Are:</p> <ul> <li>Experience designing and delivering technical solutions for DevOps Monitoring or architecture systems</li> <li>Hands-on experience with cloud platforms (AWS, Azure, GCP) and compute technologies (EC2, serverless, VMware, VMs, Docker, Kubernetes).</li> <li>Experience with Config Management, IAC and CI/CD tools, including Ansible, Puppet, Terraform, Chef, Jenkins, Circle CI, GitHub Actions, Azure Pipelines, etc…</li> <li>Experience programming/scripting with any of the following: Java, Python, Ruby, Go, Node.JS, PHP, and .NET etc</li> <li>Successful track record with 5+ years experience as an Architect or Consultant in a professional services team</li> <li>Able to sit up to 4 hours, traveling to and from client sites&nbsp;</li> <li>Able to travel via auto, train or air up to 30% of the time</li> <li>Growth mindset by embracing change and AI tools</li> </ul> <p><em>Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.</em></p> <p>Benefits and Growth:</p> <ul> <li>Best-in-breed onboarding</li> <li>Generous global benefits</li> <li>Intra-departmental mentor and buddy program for in-house networking</li> <li>New hire stock equity (RSUs) and employee stock purchase plan (ESPP)</li> <li>Continuous professional development, product training, and career pathing</li> <li>An inclusive company culture, able to join our Community Guilds and Inclusion Talks</li> </ul> <p><em>Benefits and Growth listed above may vary based on the country",
-        "salary": "",
-        "source": "ATS·Greenhouse·datadog",
-        "id": "ee39451dd2f0aa285aa9d37f",
-        "score": 75,
-        "reasons": [
-          "description: azure + azure pipeline"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-08-21"
+    "buffer": [],
+    "last_sent_date": "2026-08-24"
   },
   "market": {
     "week": "2026-W35",
