@@ -743,6 +743,12 @@
       "score": 50,
       "seen_at": "2026-08-21T15:56:50",
       "key": "senior software engineer identity access management | mongodb"
+    },
+    "ee39451dd2f0aa285aa9d37f": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 75,
+      "seen_at": "2026-08-24T14:15:55",
+      "key": "services architect 3 paris london | datadog"
     }
   },
   "keys": {
@@ -814,54 +820,71 @@
     "enterprise sales engineer fed | datadog": "bf0df3a2a1f417674e52f5a8",
     "senior sales engineer fed | datadog": "835b2153d16963032cf0c285",
     "senior sales engineer northcentral | datadog": "29acc90dfdd781ae739ae586",
-    "senior software engineer identity access management | mongodb": "beff4105f878bd42bcc0be75"
+    "senior software engineer identity access management | mongodb": "beff4105f878bd42bcc0be75",
+    "services architect 3 paris london | datadog": "ee39451dd2f0aa285aa9d37f"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-24T11:48:34",
-      "last_run": "2026-08-24T11:48:34",
+      "last_ok_at": "2026-08-24T14:12:00",
+      "last_run": "2026-08-24T14:12:00",
       "last_error": "",
-      "last_ok_count": 24
+      "last_ok_count": 25
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-24T11:49:08",
-      "last_run": "2026-08-24T11:49:08",
+      "last_ok_at": "2026-08-24T14:12:37",
+      "last_run": "2026-08-24T14:12:37",
       "last_error": "",
-      "last_ok_count": 43
+      "last_ok_count": 44
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-24T11:50:45",
+      "last_run": "2026-08-24T14:14:15",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-24T11:51:14",
-      "last_run": "2026-08-24T11:51:14",
+      "last_ok_at": "2026-08-24T14:14:46",
+      "last_run": "2026-08-24T14:14:46",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-24T11:51:14",
+      "last_run": "2026-08-24T14:14:46",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-24T11:52:03",
-      "last_run": "2026-08-24T11:52:03",
+      "last_ok_at": "2026-08-24T14:15:54",
+      "last_run": "2026-08-24T14:15:54",
       "last_error": "",
-      "last_ok_count": 1232
+      "last_ok_count": 1213
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Services Architect 3 - Paris/London",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8128182/?gh_jid=8128182",
+        "date": "2026-08-24",
+        "location": "Paris, France",
+        "description": "<p>Datadog’s Implementation Services team helps customers implement and deploy Datadog quickly. Our team of architects leads the discovery, design, build, and launch of the Datadog platform to help customers accelerate time to value and get the most out of their investment. As a member of our team, you will be responsible for developing the technical roadmap for a customer’s implementation, and leading them through it every step of the way.&nbsp;&nbsp;&nbsp;</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p>What You’ll Do:</p> <ul> <li>Design and guide execution of Datadog implementations, including gathering requirements, building technical architecture, and supporting deployment and launch</li> <li>Guide customer onboarding through co-development working sessions and assist when they run into roadblocks</li> <li>Write automation and design architecture for deployment templates&nbsp;</li> <li>Manage the operation of implementation projects&nbsp;</li> <li>Collaborate with other teams, including Customer Success, Technical Account Management, and Sales to deliver an exceptional onboarding experience</li> </ul> <p>Who You Are:</p> <ul> <li>Experience designing and delivering technical solutions for DevOps Monitoring or architecture systems</li> <li>Hands-on experience with cloud platforms (AWS, Azure, GCP) and compute technologies (EC2, serverless, VMware, VMs, Docker, Kubernetes).</li> <li>Experience with Config Management, IAC and CI/CD tools, including Ansible, Puppet, Terraform, Chef, Jenkins, Circle CI, GitHub Actions, Azure Pipelines, etc…</li> <li>Experience programming/scripting with any of the following: Java, Python, Ruby, Go, Node.JS, PHP, and .NET etc</li> <li>Successful track record with 5+ years experience as an Architect or Consultant in a professional services team</li> <li>Able to sit up to 4 hours, traveling to and from client sites&nbsp;</li> <li>Able to travel via auto, train or air up to 30% of the time</li> <li>Growth mindset by embracing change and AI tools</li> </ul> <p><em>Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.</em></p> <p>Benefits and Growth:</p> <ul> <li>Best-in-breed onboarding</li> <li>Generous global benefits</li> <li>Intra-departmental mentor and buddy program for in-house networking</li> <li>New hire stock equity (RSUs) and employee stock purchase plan (ESPP)</li> <li>Continuous professional development, product training, and career pathing</li> <li>An inclusive company culture, able to join our Community Guilds and Inclusion Talks</li> </ul> <p><em>Benefits and Growth listed above may vary based on the country",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "ee39451dd2f0aa285aa9d37f",
+        "score": 75,
+        "reasons": [
+          "description: azure + azure pipeline"
+        ]
+      }
+    ],
     "last_sent_date": "2026-08-21"
   },
   "market": {
@@ -923,7 +946,8 @@
       "bc31f19db846f39bbf2fb85e",
       "bf1a00fd56286b5b22c48b48",
       "07e435477c7875fca8ffbab2",
-      "a534aae94bd7edd0814d4253"
+      "a534aae94bd7edd0814d4253",
+      "ee39451dd2f0aa285aa9d37f"
     ],
     "companies": {
       "Cnexia": 3,
@@ -935,7 +959,7 @@
       "CGI Technologies et Solutions Maroc": 1,
       "Inconnu": 3,
       "Cloudflare": 2,
-      "Datadog": 9,
+      "Datadog": 10,
       "Okta": 1,
       "Proton": 4,
       "MongoDB": 2,
@@ -947,35 +971,37 @@
       "veepee": 1
     },
     "skills": {
-      "aws": 21,
-      "azure": 20,
-      "cloud": 33,
+      "aws": 22,
+      "azure": 21,
+      "cloud": 34,
       "security": 29,
       "security engineer": 12,
-      "docker": 2,
-      "gcp": 16,
-      "kubernetes": 11,
+      "docker": 3,
+      "gcp": 17,
+      "kubernetes": 12,
       "azure ad": 1,
-      "devops": 12,
+      "devops": 13,
       "devops engineer": 3,
-      "ci/cd": 9,
+      "ci/cd": 10,
       "devsecops": 4,
       "gitlab ci": 4,
       "infrastructure as code": 6,
       "sre": 2,
-      "terraform": 10,
+      "terraform": 11,
       "k8s": 1,
       "iam": 6,
       "identity and access management": 3,
       "cloud security": 2,
       "platform engineer": 4,
-      "zero trust": 1
+      "zero trust": 1,
+      "azure pipeline": 1,
+      "github actions": 1
     },
     "sources": {
       "Rekrute": 19,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 2,
-      "ATS·Greenhouse·datadog": 9,
+      "ATS·Greenhouse·datadog": 10,
       "ATS·Greenhouse·okta": 1,
       "ATS·Greenhouse·proton": 4,
       "ATS·Greenhouse·mongodb": 2,
@@ -987,7 +1013,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 57,
+    "total": 58,
     "prev": {
       "week": "2026-W34",
       "companies": {
