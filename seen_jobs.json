@@ -749,6 +749,12 @@
       "score": 75,
       "seen_at": "2026-08-24T14:15:55",
       "key": "services architect 3 paris london | datadog"
+    },
+    "d61c641a96026987cbff36be": {
+      "source": "ATS·Greenhouse·gitlab",
+      "score": 100,
+      "seen_at": "2026-08-25T16:23:01",
+      "key": "senior fp a analyst cloud hosting | gitlab"
     }
   },
   "keys": {
@@ -821,48 +827,49 @@
     "senior sales engineer fed | datadog": "835b2153d16963032cf0c285",
     "senior sales engineer northcentral | datadog": "29acc90dfdd781ae739ae586",
     "senior software engineer identity access management | mongodb": "beff4105f878bd42bcc0be75",
-    "services architect 3 paris london | datadog": "ee39451dd2f0aa285aa9d37f"
+    "services architect 3 paris london | datadog": "ee39451dd2f0aa285aa9d37f",
+    "senior fp a analyst cloud hosting | gitlab": "d61c641a96026987cbff36be"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-25T14:29:19",
-      "last_run": "2026-08-25T14:29:19",
+      "last_ok_at": "2026-08-25T16:19:21",
+      "last_run": "2026-08-25T16:19:21",
       "last_error": "",
-      "last_ok_count": 31
+      "last_ok_count": 33
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-25T14:29:50",
-      "last_run": "2026-08-25T14:29:50",
+      "last_ok_at": "2026-08-25T16:20:00",
+      "last_run": "2026-08-25T16:20:00",
       "last_error": "",
       "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-25T14:31:28",
+      "last_run": "2026-08-25T16:21:37",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-25T14:32:33",
-      "last_run": "2026-08-25T14:32:33",
+      "last_ok_at": "2026-08-25T16:22:12",
+      "last_run": "2026-08-25T16:22:12",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-25T14:32:33",
+      "last_run": "2026-08-25T16:22:12",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-25T14:33:39",
-      "last_run": "2026-08-25T14:33:39",
+      "last_ok_at": "2026-08-25T16:22:59",
+      "last_run": "2026-08-25T16:22:59",
       "last_error": "",
       "last_ok_count": 1237
     }
@@ -931,7 +938,9 @@
       "bf1a00fd56286b5b22c48b48",
       "07e435477c7875fca8ffbab2",
       "a534aae94bd7edd0814d4253",
-      "ee39451dd2f0aa285aa9d37f"
+      "ee39451dd2f0aa285aa9d37f",
+      "d61c641a96026987cbff36be",
+      "a5732031875e4a1a7f5febf3"
     ],
     "companies": {
       "Cnexia": 3,
@@ -944,7 +953,7 @@
       "Inconnu": 3,
       "Cloudflare": 2,
       "Datadog": 10,
-      "Okta": 1,
+      "Okta": 2,
       "Proton": 4,
       "MongoDB": 2,
       "Twilio": 2,
@@ -952,13 +961,14 @@
       "Asana": 4,
       "Discord": 6,
       "contentsquare": 3,
-      "veepee": 1
+      "veepee": 1,
+      "GitLab": 1
     },
     "skills": {
       "aws": 22,
       "azure": 21,
-      "cloud": 34,
-      "security": 29,
+      "cloud": 35,
+      "security": 31,
       "security engineer": 12,
       "docker": 3,
       "gcp": 17,
@@ -967,14 +977,14 @@
       "devops": 13,
       "devops engineer": 3,
       "ci/cd": 10,
-      "devsecops": 4,
+      "devsecops": 5,
       "gitlab ci": 4,
       "infrastructure as code": 6,
       "sre": 2,
       "terraform": 11,
       "k8s": 1,
-      "iam": 6,
-      "identity and access management": 3,
+      "iam": 7,
+      "identity and access management": 4,
       "cloud security": 2,
       "platform engineer": 4,
       "zero trust": 1,
@@ -986,7 +996,7 @@
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 2,
       "ATS·Greenhouse·datadog": 10,
-      "ATS·Greenhouse·okta": 1,
+      "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 4,
       "ATS·Greenhouse·mongodb": 2,
       "ATS·Greenhouse·twilio": 2,
@@ -994,10 +1004,11 @@
       "ATS·Greenhouse·asana": 4,
       "ATS·Greenhouse·discord": 6,
       "ATS·Lever·contentsquare": 3,
-      "ATS·Lever·veepee": 1
+      "ATS·Lever·veepee": 1,
+      "ATS·Greenhouse·gitlab": 1
     },
     "salaries": [],
-    "total": 58,
+    "total": 60,
     "prev": {
       "week": "2026-W34",
       "companies": {
@@ -1117,6 +1128,11 @@
       "domain": "stripe.com",
       "emails": [],
       "updated_at": "2026-08-19T22:01:33"
+    },
+    "gitlab": {
+      "domain": "gitlab.com",
+      "emails": [],
+      "updated_at": "2026-08-25T16:23:20"
     }
   }
 }
