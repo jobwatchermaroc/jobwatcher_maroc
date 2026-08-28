@@ -761,6 +761,30 @@
       "score": 100,
       "seen_at": "2026-08-26T14:12:35",
       "key": "staff security engineer | swile"
+    },
+    "00aa589abf7a533d69eeb9db": {
+      "source": "Rekrute",
+      "score": 90,
+      "seen_at": "2026-08-28T01:34:54",
+      "key": "data engineer gcp | capgemini"
+    },
+    "bb08b053e0336bcc59c6a123": {
+      "source": "ATS·Greenhouse·okta",
+      "score": 100,
+      "seen_at": "2026-08-28T01:34:57",
+      "key": "staff site reliability engineer kubernetes | okta"
+    },
+    "a2b211f56cb8bece098dac00": {
+      "source": "ATS·Greenhouse·okta",
+      "score": 100,
+      "seen_at": "2026-08-28T01:34:57",
+      "key": "manager site reliability engineering auth0 | okta"
+    },
+    "309b3e78bc0bb8882ca7fa63": {
+      "source": "ATS·Greenhouse·twilio",
+      "score": 100,
+      "seen_at": "2026-08-28T01:34:58",
+      "key": "staff enterprise security engineer ai security | twilio"
     }
   },
   "keys": {
@@ -835,50 +859,54 @@
     "senior software engineer identity access management | mongodb": "beff4105f878bd42bcc0be75",
     "services architect 3 paris london | datadog": "ee39451dd2f0aa285aa9d37f",
     "senior fp a analyst cloud hosting | gitlab": "d61c641a96026987cbff36be",
-    "staff security engineer | swile": "8d9c716907ee1f16a5f330a4"
+    "staff security engineer | swile": "8d9c716907ee1f16a5f330a4",
+    "data engineer gcp | capgemini": "00aa589abf7a533d69eeb9db",
+    "staff site reliability engineer kubernetes | okta": "bb08b053e0336bcc59c6a123",
+    "manager site reliability engineering auth0 | okta": "a2b211f56cb8bece098dac00",
+    "staff enterprise security engineer ai security | twilio": "309b3e78bc0bb8882ca7fa63"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-26T16:56:58",
-      "last_run": "2026-08-26T16:56:58",
+      "last_ok_at": "2026-08-28T01:30:46",
+      "last_run": "2026-08-28T01:30:46",
       "last_error": "",
-      "last_ok_count": 52
+      "last_ok_count": 56
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-26T16:57:34",
-      "last_run": "2026-08-26T16:57:34",
+      "last_ok_at": "2026-08-28T01:31:21",
+      "last_run": "2026-08-28T01:31:21",
       "last_error": "",
-      "last_ok_count": 43
+      "last_ok_count": 44
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-26T16:59:12",
+      "last_run": "2026-08-28T01:32:58",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-26T17:00:25",
-      "last_run": "2026-08-26T17:00:25",
+      "last_ok_at": "2026-08-28T01:34:07",
+      "last_run": "2026-08-28T01:34:07",
       "last_error": "",
-      "last_ok_count": 104
+      "last_ok_count": 105
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-26T17:00:25",
+      "last_run": "2026-08-28T01:34:07",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-26T17:01:30",
-      "last_run": "2026-08-26T17:01:30",
+      "last_ok_at": "2026-08-28T01:34:54",
+      "last_run": "2026-08-28T01:34:54",
       "last_error": "",
-      "last_ok_count": 1236
+      "last_ok_count": 1235
     }
   },
   "digest": {
@@ -950,7 +978,12 @@
       "a5732031875e4a1a7f5febf3",
       "7a6d20618490978265c99c6f",
       "b4ddd0f1e4cedf35125a4f06",
-      "8d9c716907ee1f16a5f330a4"
+      "8d9c716907ee1f16a5f330a4",
+      "00aa589abf7a533d69eeb9db",
+      "bb08b053e0336bcc59c6a123",
+      "4840d622bdbb0c12ff3c809f",
+      "a2b211f56cb8bece098dac00",
+      "309b3e78bc0bb8882ca7fa63"
     ],
     "companies": {
       "Cnexia": 3,
@@ -958,15 +991,15 @@
       "Sofrecom Maroc": 3,
       "ALTEN Maroc": 9,
       "Akkodis Maroc": 1,
-      "Capgemini": 1,
+      "Capgemini": 2,
       "CGI Technologies et Solutions Maroc": 1,
       "Inconnu": 3,
       "Cloudflare": 2,
       "Datadog": 10,
-      "Okta": 2,
+      "Okta": 5,
       "Proton": 4,
       "MongoDB": 2,
-      "Twilio": 2,
+      "Twilio": 3,
       "Stripe": 2,
       "Asana": 4,
       "Discord": 7,
@@ -976,41 +1009,43 @@
       "swile": 1
     },
     "skills": {
-      "aws": 22,
-      "azure": 21,
-      "cloud": 35,
-      "security": 34,
-      "security engineer": 15,
+      "aws": 24,
+      "azure": 22,
+      "cloud": 38,
+      "security": 37,
+      "security engineer": 16,
       "docker": 3,
-      "gcp": 17,
-      "kubernetes": 12,
+      "gcp": 18,
+      "kubernetes": 13,
       "azure ad": 1,
       "devops": 13,
       "devops engineer": 3,
       "ci/cd": 10,
       "devsecops": 5,
       "gitlab ci": 4,
-      "infrastructure as code": 6,
-      "sre": 2,
+      "infrastructure as code": 7,
+      "sre": 4,
       "terraform": 11,
       "k8s": 1,
-      "iam": 7,
-      "identity and access management": 4,
+      "iam": 9,
+      "identity and access management": 5,
       "cloud security": 2,
       "platform engineer": 4,
       "zero trust": 1,
       "azure pipeline": 1,
-      "github actions": 1
+      "github actions": 1,
+      "cloud architect": 1,
+      "site reliability": 2
     },
     "sources": {
-      "Rekrute": 19,
+      "Rekrute": 20,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 2,
       "ATS·Greenhouse·datadog": 10,
-      "ATS·Greenhouse·okta": 2,
+      "ATS·Greenhouse·okta": 5,
       "ATS·Greenhouse·proton": 4,
       "ATS·Greenhouse·mongodb": 2,
-      "ATS·Greenhouse·twilio": 2,
+      "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·stripe": 2,
       "ATS·Greenhouse·asana": 4,
       "ATS·Greenhouse·discord": 7,
@@ -1020,7 +1055,7 @@
       "ATS·Lever·swile": 1
     },
     "salaries": [],
-    "total": 63,
+    "total": 68,
     "prev": {
       "week": "2026-W34",
       "companies": {
@@ -1150,6 +1185,21 @@
       "domain": "swile.ma",
       "emails": [],
       "updated_at": "2026-08-26T14:12:51"
+    },
+    "capgemini": {
+      "domain": "capgemini.com",
+      "emails": [],
+      "updated_at": "2026-08-28T01:35:16"
+    },
+    "okta": {
+      "domain": "okta.com",
+      "emails": [],
+      "updated_at": "2026-08-28T01:35:28"
+    },
+    "twilio": {
+      "domain": "twilio.com",
+      "emails": [],
+      "updated_at": "2026-08-28T01:35:39"
     }
   }
 }
