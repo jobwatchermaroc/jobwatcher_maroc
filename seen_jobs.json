@@ -797,6 +797,12 @@
       "score": 70,
       "seen_at": "2026-08-28T21:58:19",
       "key": "senior enterprise engineer | duolingo"
+    },
+    "1817f6f4b4f7ae9720468c0d": {
+      "source": "ATS·Greenhouse·reddit",
+      "score": 70,
+      "seen_at": "2026-08-29T00:35:03",
+      "key": "staff software engineer site experience sre | reddit"
     }
   },
   "keys": {
@@ -877,54 +883,72 @@
     "manager site reliability engineering auth0 | okta": "a2b211f56cb8bece098dac00",
     "staff enterprise security engineer ai security | twilio": "309b3e78bc0bb8882ca7fa63",
     "senior systems reliability engineer sre edge | cloudflare": "5a7c510174c08f76c2897465",
-    "senior enterprise engineer | duolingo": "4a3cca456f14bbdb28a28749"
+    "senior enterprise engineer | duolingo": "4a3cca456f14bbdb28a28749",
+    "staff software engineer site experience sre | reddit": "1817f6f4b4f7ae9720468c0d"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-29T00:24:42",
-      "last_run": "2026-08-29T00:24:42",
+      "last_ok_at": "2026-08-29T00:31:13",
+      "last_run": "2026-08-29T00:31:13",
       "last_error": "",
       "last_ok_count": 53
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-29T00:25:19",
-      "last_run": "2026-08-29T00:25:19",
+      "last_ok_at": "2026-08-29T00:31:56",
+      "last_run": "2026-08-29T00:31:56",
       "last_error": "",
       "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-29T00:26:56",
+      "last_run": "2026-08-29T00:33:33",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-29T00:27:32",
-      "last_run": "2026-08-29T00:27:32",
+      "last_ok_at": "2026-08-29T00:34:07",
+      "last_run": "2026-08-29T00:34:07",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-29T00:27:32",
+      "last_run": "2026-08-29T00:34:07",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-29T00:28:20",
-      "last_run": "2026-08-29T00:28:20",
+      "last_ok_at": "2026-08-29T00:34:55",
+      "last_run": "2026-08-29T00:34:55",
       "last_error": "",
       "last_ok_count": 1234
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Staff Software Engineer - Site Experience SRE",
+        "company": "Reddit",
+        "url": "https://job-boards.greenhouse.io/reddit/jobs/8090680",
+        "date": "2026-08-28",
+        "location": "San Francisco, CA",
+        "description": "<div class=\"content-intro\"><div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-rich_text_section\">Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communities and approximately 130 million daily active unique visitors, Reddit is one of the internet’s largest sources of information. For more information, visit <a class=\"c-link\" href=\"http://www.redditinc.com/\" target=\"_blank\" data-stringify-link=\"http://redditinc.com\" data-sk=\"tooltip_parent\">www.redditinc.com</a>.</div> </div> </div> </div> </div> </div></div><p>This role is remote friendly. Reddit has a flexible first workforce</p> <p>The Site Experience SRE team sits at the intersection of infrastructure, product engineering, and user experience - ensuring that every interaction across web, mobile, APIs, feeds, media delivery, and real time systems is fast, reliable, and resilient.</p> <p>&nbsp;</p> <p>We are looking for a Staff Site Reliability Engineer to lead reliability engineering initiatives for critical user facing systems at internet scale. In this role, you will partner closely with product and infrastructure teams to improve availability, latency, scalability, and operational excellence across Reddit’s most business critical experiences.</p> <p>&nbsp;</p> <p>This is a highly technical leadership role for someone who thrives in large-scale distributed systems, enjoys solving complex reliability challenges, and can influence engineering culture across the organization.</p> <p>&nbsp;</p> <h4><strong>What you’ll do:</strong></h4> <ul> <li><strong>Lead Reliability Engineering for User Experience</strong></li> <ul> <li>Drive reliability, scalability, and operational excellence for critical user facing systems and services. Improve performance and resiliency across APIs, content delivery, feed generation, search, messaging, and real-time experiences.</li> </ul> <li><strong>Architect for Scale</strong></li> <ul> <li>Partner with product and infrastructure engineering teams to design systems that remain highly available and performant under massive global load. Guide architectural decisions around failover, redundancy, graceful degradation, traffic management, and capacity planning.</li> </ul> <li><strong>Reduce Operational Risk</strong></li> <ul> <li>Identify systemic risks and reliability bottlenecks across services, dependencies, deployments, and infrastructure. Build proactive mitigation strategies and drive engineering improvements that reduce incidents and",
+        "salary": "",
+        "source": "ATS·Greenhouse·reddit",
+        "id": "1817f6f4b4f7ae9720468c0d",
+        "score": 70,
+        "reasons": [
+          "sre",
+          "description: site reliability + sre"
+        ]
+      }
+    ],
     "last_sent_date": "2026-08-28"
   },
   "market": {
@@ -1002,7 +1026,8 @@
       "b03eabc033f26802baad0557",
       "5a7c510174c08f76c2897465",
       "4a3cca456f14bbdb28a28749",
-      "0d4edb8f0d17b565f5d2d765"
+      "0d4edb8f0d17b565f5d2d765",
+      "1817f6f4b4f7ae9720468c0d"
     ],
     "companies": {
       "Cnexia": 3,
@@ -1026,7 +1051,8 @@
       "veepee": 1,
       "GitLab": 1,
       "swile": 1,
-      "Duolingo": 2
+      "Duolingo": 2,
+      "Reddit": 1
     },
     "skills": {
       "aws": 25,
@@ -1044,7 +1070,7 @@
       "devsecops": 5,
       "gitlab ci": 4,
       "infrastructure as code": 9,
-      "sre": 5,
+      "sre": 6,
       "terraform": 12,
       "k8s": 1,
       "iam": 9,
@@ -1055,7 +1081,7 @@
       "azure pipeline": 1,
       "github actions": 1,
       "cloud architect": 1,
-      "site reliability": 2
+      "site reliability": 3
     },
     "sources": {
       "Rekrute": 22,
@@ -1073,10 +1099,11 @@
       "ATS·Lever·veepee": 1,
       "ATS·Greenhouse·gitlab": 1,
       "ATS·Lever·swile": 1,
-      "ATS·Greenhouse·duolingo": 2
+      "ATS·Greenhouse·duolingo": 2,
+      "ATS·Greenhouse·reddit": 1
     },
     "salaries": [],
-    "total": 73,
+    "total": 74,
     "prev": {
       "week": "2026-W34",
       "companies": {
