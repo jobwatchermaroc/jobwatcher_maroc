@@ -896,43 +896,43 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-31T14:33:19",
-      "last_run": "2026-08-31T14:33:19",
+      "last_ok_at": "2026-08-31T14:39:58",
+      "last_run": "2026-08-31T14:39:58",
       "last_error": "",
-      "last_ok_count": 26
+      "last_ok_count": 27
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-31T14:34:01",
-      "last_run": "2026-08-31T14:34:01",
+      "last_ok_at": "2026-08-31T14:40:35",
+      "last_run": "2026-08-31T14:40:35",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-31T14:35:39",
+      "last_run": "2026-08-31T14:42:12",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-31T14:36:17",
-      "last_run": "2026-08-31T14:36:17",
+      "last_ok_at": "2026-08-31T14:42:42",
+      "last_run": "2026-08-31T14:42:42",
       "last_error": "",
       "last_ok_count": 108
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-31T14:36:17",
+      "last_run": "2026-08-31T14:42:42",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-31T14:37:06",
-      "last_run": "2026-08-31T14:37:06",
+      "last_ok_at": "2026-08-31T14:43:35",
+      "last_run": "2026-08-31T14:43:35",
       "last_error": "",
       "last_ok_count": 1240
     }
@@ -1004,10 +1004,11 @@
       "bc31f19db846f39bbf2fb85e",
       "bf1a00fd56286b5b22c48b48",
       "a534aae94bd7edd0814d4253",
-      "a849a69d96b2c0ea0d99567e"
+      "a849a69d96b2c0ea0d99567e",
+      "b2c624336464829276f96ca0"
     ],
     "companies": {
-      "ALTEN Maroc": 9,
+      "ALTEN Maroc": 10,
       "Cnexia": 3,
       "DXC - CDG": 1,
       "Sofrecom Maroc": 5,
@@ -1028,9 +1029,9 @@
       "veepee": 1
     },
     "skills": {
-      "aws": 22,
-      "azure": 20,
-      "cloud": 34,
+      "aws": 23,
+      "azure": 21,
+      "cloud": 35,
       "security": 31,
       "security engineer": 13,
       "docker": 4,
@@ -1056,7 +1057,7 @@
       "zero trust": 1
     },
     "sources": {
-      "Rekrute": 20,
+      "Rekrute": 21,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 2,
       "ATS·Greenhouse·datadog": 8,
@@ -1073,7 +1074,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 61,
+    "total": 62,
     "prev": {
       "week": "2026-W35",
       "companies": {
