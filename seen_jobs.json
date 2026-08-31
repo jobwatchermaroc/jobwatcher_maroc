@@ -803,6 +803,12 @@
       "score": 70,
       "seen_at": "2026-08-29T00:35:03",
       "key": "staff software engineer site experience sre | reddit"
+    },
+    "a849a69d96b2c0ea0d99567e": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-08-31T14:10:03",
+      "key": "developpeur python cloud f h | sofrecom maroc"
     }
   },
   "keys": {
@@ -884,50 +890,51 @@
     "staff enterprise security engineer ai security | twilio": "309b3e78bc0bb8882ca7fa63",
     "senior systems reliability engineer sre edge | cloudflare": "5a7c510174c08f76c2897465",
     "senior enterprise engineer | duolingo": "4a3cca456f14bbdb28a28749",
-    "staff software engineer site experience sre | reddit": "1817f6f4b4f7ae9720468c0d"
+    "staff software engineer site experience sre | reddit": "1817f6f4b4f7ae9720468c0d",
+    "developpeur python cloud f h | sofrecom maroc": "a849a69d96b2c0ea0d99567e"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-31T13:59:47",
-      "last_run": "2026-08-31T13:59:47",
+      "last_ok_at": "2026-08-31T14:06:18",
+      "last_run": "2026-08-31T14:06:18",
       "last_error": "",
-      "last_ok_count": 26
+      "last_ok_count": 27
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-08-31T14:00:17",
-      "last_run": "2026-08-31T14:00:17",
+      "last_ok_at": "2026-08-31T14:06:56",
+      "last_run": "2026-08-31T14:06:56",
       "last_error": "",
-      "last_ok_count": 43
+      "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-31T14:01:55",
+      "last_run": "2026-08-31T14:08:34",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-08-31T14:02:27",
-      "last_run": "2026-08-31T14:02:27",
+      "last_ok_at": "2026-08-31T14:09:04",
+      "last_run": "2026-08-31T14:09:04",
       "last_error": "",
       "last_ok_count": 108
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-08-31T14:02:27",
+      "last_run": "2026-08-31T14:09:04",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-08-31T14:03:44",
-      "last_run": "2026-08-31T14:03:44",
+      "last_ok_at": "2026-08-31T14:10:03",
+      "last_run": "2026-08-31T14:10:03",
       "last_error": "",
-      "last_ok_count": 1217
+      "last_ok_count": 1241
     }
   },
   "digest": {
@@ -996,13 +1003,14 @@
       "8d9c716907ee1f16a5f330a4",
       "bc31f19db846f39bbf2fb85e",
       "bf1a00fd56286b5b22c48b48",
-      "a534aae94bd7edd0814d4253"
+      "a534aae94bd7edd0814d4253",
+      "a849a69d96b2c0ea0d99567e"
     ],
     "companies": {
       "ALTEN Maroc": 9,
       "Cnexia": 3,
       "DXC - CDG": 1,
-      "Sofrecom Maroc": 4,
+      "Sofrecom Maroc": 5,
       "Capgemini": 2,
       "Inconnu": 3,
       "Cloudflare": 2,
@@ -1020,24 +1028,24 @@
       "veepee": 1
     },
     "skills": {
-      "aws": 21,
-      "azure": 19,
-      "cloud": 33,
+      "aws": 22,
+      "azure": 20,
+      "cloud": 34,
       "security": 31,
       "security engineer": 13,
-      "docker": 3,
-      "gcp": 14,
+      "docker": 4,
+      "gcp": 15,
       "kubernetes": 14,
-      "devops": 14,
-      "terraform": 9,
+      "devops": 15,
+      "terraform": 10,
       "cloud architect": 1,
       "devops engineer": 3,
       "devsecops": 3,
       "sre": 5,
-      "gitlab ci": 2,
+      "gitlab ci": 3,
       "k8s": 1,
       "ci/cd": 10,
-      "infrastructure as code": 7,
+      "infrastructure as code": 8,
       "iam": 9,
       "identity and access management": 7,
       "azure pipeline": 1,
@@ -1048,7 +1056,7 @@
       "zero trust": 1
     },
     "sources": {
-      "Rekrute": 19,
+      "Rekrute": 20,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 2,
       "ATS·Greenhouse·datadog": 8,
@@ -1065,7 +1073,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 60,
+    "total": 61,
     "prev": {
       "week": "2026-W35",
       "companies": {
@@ -1177,7 +1185,7 @@
     "sofrecom maroc": {
       "domain": "sofrecom.com",
       "emails": [],
-      "updated_at": "2026-08-10T17:37:47"
+      "updated_at": "2026-08-31T14:10:30"
     },
     "discord": {
       "domain": "discord.com",
