@@ -896,45 +896,45 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-01T13:30:10",
-      "last_run": "2026-09-01T13:30:10",
+      "last_ok_at": "2026-09-01T13:41:18",
+      "last_run": "2026-09-01T13:41:18",
       "last_error": "",
-      "last_ok_count": 30
+      "last_ok_count": 31
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-01T13:30:45",
-      "last_run": "2026-09-01T13:30:45",
+      "last_ok_at": "2026-09-01T13:41:54",
+      "last_run": "2026-09-01T13:41:54",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-01T13:32:23",
+      "last_run": "2026-09-01T13:43:31",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-01T13:32:58",
-      "last_run": "2026-09-01T13:32:58",
+      "last_ok_at": "2026-09-01T13:44:01",
+      "last_run": "2026-09-01T13:44:01",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-01T13:32:58",
+      "last_run": "2026-09-01T13:44:01",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-01T13:34:01",
-      "last_run": "2026-09-01T13:34:01",
+      "last_ok_at": "2026-09-01T13:44:51",
+      "last_run": "2026-09-01T13:44:51",
       "last_error": "",
-      "last_ok_count": 1240
+      "last_ok_count": 1242
     }
   },
   "digest": {
@@ -1005,7 +1005,9 @@
       "bf1a00fd56286b5b22c48b48",
       "a534aae94bd7edd0814d4253",
       "a849a69d96b2c0ea0d99567e",
-      "b2c624336464829276f96ca0"
+      "b2c624336464829276f96ca0",
+      "b98bf547766ae2345f14ec59",
+      "95073dd45648c344ccd399fb"
     ],
     "companies": {
       "ALTEN Maroc": 10,
@@ -1024,7 +1026,7 @@
       "Reddit": 1,
       "Discord": 5,
       "Duolingo": 2,
-      "swile": 1,
+      "swile": 3,
       "contentsquare": 2,
       "veepee": 1
     },
@@ -1032,8 +1034,8 @@
       "aws": 23,
       "azure": 21,
       "cloud": 35,
-      "security": 31,
-      "security engineer": 13,
+      "security": 33,
+      "security engineer": 15,
       "docker": 4,
       "gcp": 15,
       "kubernetes": 14,
@@ -1069,12 +1071,12 @@
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 5,
       "ATS·Greenhouse·duolingo": 2,
-      "ATS·Lever·swile": 1,
+      "ATS·Lever·swile": 3,
       "ATS·Lever·contentsquare": 2,
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 62,
+    "total": 64,
     "prev": {
       "week": "2026-W35",
       "companies": {
