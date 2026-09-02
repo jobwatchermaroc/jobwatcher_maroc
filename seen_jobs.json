@@ -839,6 +839,12 @@
       "score": 70,
       "seen_at": "2026-09-02T19:06:42",
       "key": "platform engineer ii | duolingo"
+    },
+    "d7fe56ff70c8fd5f40b2f477": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 100,
+      "seen_at": "2026-09-02T20:48:28",
+      "key": "senior security engineer vulnerability management | datadog"
     }
   },
   "keys": {
@@ -926,48 +932,49 @@
     "vice president cloudflare one gtm | cloudflare": "868a12fd173cb4249da9d1b0",
     "director of security engineering | asana": "09d6234b1f38ad48fe6e4aa5",
     "manager i engineering cloud finops | datadog": "9e42b81152d527e82aea3296",
-    "platform engineer ii | duolingo": "04ae5789d8e389d28ef968ac"
+    "platform engineer ii | duolingo": "04ae5789d8e389d28ef968ac",
+    "senior security engineer vulnerability management | datadog": "d7fe56ff70c8fd5f40b2f477"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T20:33:57",
-      "last_run": "2026-09-02T20:33:57",
+      "last_ok_at": "2026-09-02T20:44:50",
+      "last_run": "2026-09-02T20:44:50",
       "last_error": "",
       "last_ok_count": 49
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T20:34:34",
-      "last_run": "2026-09-02T20:34:34",
+      "last_ok_at": "2026-09-02T20:45:29",
+      "last_run": "2026-09-02T20:45:29",
       "last_error": "",
       "last_ok_count": 38
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-02T20:36:12",
+      "last_run": "2026-09-02T20:47:07",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T20:36:45",
-      "last_run": "2026-09-02T20:36:45",
+      "last_ok_at": "2026-09-02T20:47:36",
+      "last_run": "2026-09-02T20:47:36",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-02T20:36:45",
+      "last_run": "2026-09-02T20:47:36",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T20:37:34",
-      "last_run": "2026-09-02T20:37:34",
+      "last_ok_at": "2026-09-02T20:48:26",
+      "last_run": "2026-09-02T20:48:26",
       "last_error": "",
       "last_ok_count": 1250
     }
@@ -1066,7 +1073,8 @@
       "868a12fd173cb4249da9d1b0",
       "09d6234b1f38ad48fe6e4aa5",
       "9e42b81152d527e82aea3296",
-      "04ae5789d8e389d28ef968ac"
+      "04ae5789d8e389d28ef968ac",
+      "d7fe56ff70c8fd5f40b2f477"
     ],
     "companies": {
       "ALTEN Maroc": 10,
@@ -1076,7 +1084,7 @@
       "Capgemini": 2,
       "Inconnu": 3,
       "Cloudflare": 5,
-      "Datadog": 9,
+      "Datadog": 10,
       "Okta": 4,
       "Proton": 3,
       "MongoDB": 2,
@@ -1092,9 +1100,9 @@
     "skills": {
       "aws": 24,
       "azure": 22,
-      "cloud": 39,
-      "security": 37,
-      "security engineer": 18,
+      "cloud": 40,
+      "security": 38,
+      "security engineer": 19,
       "docker": 4,
       "gcp": 15,
       "kubernetes": 15,
@@ -1107,7 +1115,7 @@
       "gitlab ci": 3,
       "k8s": 1,
       "ci/cd": 11,
-      "infrastructure as code": 8,
+      "infrastructure as code": 9,
       "iam": 9,
       "identity and access management": 7,
       "azure pipeline": 1,
@@ -1123,7 +1131,7 @@
       "Rekrute": 22,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 5,
-      "ATS·Greenhouse·datadog": 9,
+      "ATS·Greenhouse·datadog": 10,
       "ATS·Greenhouse·okta": 4,
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·mongodb": 2,
@@ -1137,7 +1145,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 71,
+    "total": 72,
     "prev": {
       "week": "2026-W35",
       "companies": {
@@ -1227,7 +1235,7 @@
     "datadog": {
       "domain": "datadoghq.com",
       "emails": [],
-      "updated_at": "2026-08-13T17:40:28"
+      "updated_at": "2026-09-02T20:48:48"
     },
     "alten maroc": {
       "domain": "alten.net",
