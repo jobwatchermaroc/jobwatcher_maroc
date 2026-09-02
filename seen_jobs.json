@@ -833,6 +833,12 @@
       "score": 60,
       "seen_at": "2026-09-02T17:47:52",
       "key": "manager i engineering cloud finops | datadog"
+    },
+    "04ae5789d8e389d28ef968ac": {
+      "source": "ATS·Greenhouse·duolingo",
+      "score": 70,
+      "seen_at": "2026-09-02T19:06:42",
+      "key": "platform engineer ii | duolingo"
     }
   },
   "keys": {
@@ -919,54 +925,72 @@
     "senior cloudflare one gtm specialist central or east | cloudflare": "b884edf0ce8b9855bba2cb18",
     "vice president cloudflare one gtm | cloudflare": "868a12fd173cb4249da9d1b0",
     "director of security engineering | asana": "09d6234b1f38ad48fe6e4aa5",
-    "manager i engineering cloud finops | datadog": "9e42b81152d527e82aea3296"
+    "manager i engineering cloud finops | datadog": "9e42b81152d527e82aea3296",
+    "platform engineer ii | duolingo": "04ae5789d8e389d28ef968ac"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T18:55:42",
-      "last_run": "2026-09-02T18:55:42",
+      "last_ok_at": "2026-09-02T19:02:57",
+      "last_run": "2026-09-02T19:02:57",
       "last_error": "",
       "last_ok_count": 47
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T18:56:23",
-      "last_run": "2026-09-02T18:56:23",
+      "last_ok_at": "2026-09-02T19:03:36",
+      "last_run": "2026-09-02T19:03:36",
       "last_error": "",
       "last_ok_count": 38
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-02T18:58:01",
+      "last_run": "2026-09-02T19:05:14",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T18:58:28",
-      "last_run": "2026-09-02T18:58:28",
+      "last_ok_at": "2026-09-02T19:05:45",
+      "last_run": "2026-09-02T19:05:45",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-02T18:58:28",
+      "last_run": "2026-09-02T19:05:45",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T18:59:36",
-      "last_run": "2026-09-02T18:59:36",
+      "last_ok_at": "2026-09-02T19:06:34",
+      "last_run": "2026-09-02T19:06:34",
       "last_error": "",
       "last_ok_count": 1250
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Platform Engineer II",
+        "company": "Duolingo",
+        "url": "https://careers.duolingo.com/jobs/8778700002?gh_jid=8778700002",
+        "date": "2026-09-02",
+        "location": "Pittsburgh, PA",
+        "description": "<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p> <p>At Duolingo, you’ll join a team that cares about finding <a href=\"https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224\">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p> <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p> <hr> <p style=\"text-align: left;\"><strong>About the role...</strong></p> <p>As a Platform Engineer on the Compute team, you’ll improve how engineers build and run services, helping ensure our compute platform is reliable at scale for our learners and fellow Duo engineers.</p> <p>The Compute team builds and operates the core compute platform that powers our applications. We build paved roads (self-service platform primitives, templates, and tooling) and we operate them so product engineers can focus on shipping features with confidence.</p> <p><strong>🧠&nbsp; You will...</strong></p> <ul> <li>Build and operate core compute primitives that power production workloads based on Kubernetes, across different regions and cloud providers.&nbsp;</li> <li>Improve the delivery pipeline from commit to production by evolving our GitOps and deployment patterns, making rollouts safer and faster.</li> <li>Raise the operational bar: define SLOs, build dashboards/alerts, write runbooks, and participate in on-call/incident response to keep the platform dependable.</li> <li>Enable effective self-service by turning platform capabilities into reusable abstractions.</li> </ul> <p><strong>✅&nbsp; You have...</strong></p> <ul> <li>Strong problem-solving skills and experience delivering and shipping pragmatic solutions in production environments.</li> <li>Experience with distributed systems fundamentals (networking, service-to-service communication, failure modes, caching/storage concepts).</li> <li>Experience working on production systems (through industry roles, internships, or substantial open-source work).</li> <li>Experience with one or more CI/CD tools (Jenkins, Argo CD, GitHub Actions) and infrastructure management tools (Terraform, CloudFormation)</li> <li>Clear written and verbal communication skills—comfortable writing docs/runbooks and collaborating across teams.</li> <li>Functional knowledge of Linux system administration and automation</li> </ul> <p><strong>⭐&nbsp; Exceptional candidates will have...</strong></p> <ul> <li>A Bachelor’s degree in Computer Science, related technical fi",
+        "salary": "",
+        "source": "ATS·Greenhouse·duolingo",
+        "id": "04ae5789d8e389d28ef968ac",
+        "score": 70,
+        "reasons": [
+          "platform engineer",
+          "description: cloud + kubernetes + terraform + ci/cd + github actions + platform engineer"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-02"
   },
   "market": {
@@ -1041,7 +1065,8 @@
       "0ec6418e5dff9aba79049efe",
       "868a12fd173cb4249da9d1b0",
       "09d6234b1f38ad48fe6e4aa5",
-      "9e42b81152d527e82aea3296"
+      "9e42b81152d527e82aea3296",
+      "04ae5789d8e389d28ef968ac"
     ],
     "companies": {
       "ALTEN Maroc": 10,
@@ -1059,7 +1084,7 @@
       "Asana": 5,
       "Reddit": 1,
       "Discord": 5,
-      "Duolingo": 2,
+      "Duolingo": 3,
       "swile": 3,
       "contentsquare": 2,
       "veepee": 1
@@ -1067,29 +1092,29 @@
     "skills": {
       "aws": 24,
       "azure": 22,
-      "cloud": 38,
+      "cloud": 39,
       "security": 37,
       "security engineer": 18,
       "docker": 4,
       "gcp": 15,
-      "kubernetes": 14,
+      "kubernetes": 15,
       "devops": 15,
-      "terraform": 10,
+      "terraform": 11,
       "cloud architect": 1,
       "devops engineer": 3,
       "devsecops": 3,
       "sre": 5,
       "gitlab ci": 3,
       "k8s": 1,
-      "ci/cd": 10,
+      "ci/cd": 11,
       "infrastructure as code": 8,
       "iam": 9,
       "identity and access management": 7,
       "azure pipeline": 1,
-      "github actions": 1,
+      "github actions": 2,
       "cloud security": 2,
       "site reliability": 3,
-      "platform engineer": 3,
+      "platform engineer": 4,
       "zero trust": 3,
       "casb": 1,
       "sase": 2
@@ -1106,13 +1131,13 @@
       "ATS·Greenhouse·asana": 5,
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 5,
-      "ATS·Greenhouse·duolingo": 2,
+      "ATS·Greenhouse·duolingo": 3,
       "ATS·Lever·swile": 3,
       "ATS·Lever·contentsquare": 2,
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 70,
+    "total": 71,
     "prev": {
       "week": "2026-W35",
       "companies": {
