@@ -924,97 +924,50 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T17:50:47",
-      "last_run": "2026-09-02T17:50:47",
+      "last_ok_at": "2026-09-02T17:57:01",
+      "last_run": "2026-09-02T17:57:01",
       "last_error": "",
       "last_ok_count": 46
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T17:51:19",
-      "last_run": "2026-09-02T17:51:19",
+      "last_ok_at": "2026-09-02T17:57:33",
+      "last_run": "2026-09-02T17:57:33",
       "last_error": "",
       "last_ok_count": 38
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-02T17:52:56",
+      "last_run": "2026-09-02T17:59:15",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T17:53:33",
-      "last_run": "2026-09-02T17:53:33",
+      "last_ok_at": "2026-09-02T17:59:47",
+      "last_run": "2026-09-02T17:59:47",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-02T17:53:33",
+      "last_run": "2026-09-02T17:59:47",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T17:54:33",
-      "last_run": "2026-09-02T17:54:33",
+      "last_ok_at": "2026-09-02T18:00:50",
+      "last_run": "2026-09-02T18:00:50",
       "last_error": "",
       "last_ok_count": 1251
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Senior Cloudflare One GTM Specialist (Central or East)",
-        "company": "Cloudflare",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/7960701?gh_jid=7960701",
-        "date": "2026-09-01",
-        "location": "Hybrid",
-        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>This role will be located in either Austin or located in our Central/East regions</strong></p> <p><strong>About the Department</strong></p> <p>Account Executives, Channel Account Managers, Business Development Representatives, Solution Engineers, Product Specialists, Customer Success, and Sales Operations - all working together help our customers adopt Cloudflare and create great Internet-enabled experiences. The sales team at Cloudflare helps customers solve real, technical problems while creating the revenue streams that help the company provide free service to millions in our community.</p> <p>Our Cloudflare One Go-To-Market Specialist team provides deep subject matter expertise on converging Network and Security services in our Cloudflare One (CF1) portfolio, including Secure Access Service Edge (SASE), Security Service Edge (SSE), Zero Trust Network Access (ZTNA), Secure Web Gateway (SWG), Cloud Access Security Broker (CASB), Remote Browser Isolation (RBI), Data Protection (including DLP), and Email Security (CES).</p> <p><strong>What you’ll do</strong></p> <p>As a <strong>Senior Cloudflare One GTM Specialist</strong> you will be responsible for growing CloudflareOne (CF1) revenue and product adoption. In this role, you will serve as the segment lead for CF1 sales. You will advise the sales leaders on opportunities and programs to grow CF1 revenue, partner with th",
-        "salary": "",
-        "source": "ATS·Greenhouse·cloudflare",
-        "id": "b884edf0ce8b9855bba2cb18",
-        "score": 70,
-        "reasons": [
-          "description: zero trust + sase + casb"
-        ]
-      },
-      {
-        "title": "Vice President, Cloudflare One GTM",
-        "company": "Cloudflare",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8172411?gh_jid=8172411",
-        "date": "2026-09-02",
-        "location": "Distributed; Hybrid",
-        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations:&nbsp; </strong>Austin, TX</p> <p><strong>About the Role</strong></p> <p>Cloudflare’s mission is to help build a better Internet - one that is more secure, faster, and more reliable for every organization on the planet. The Secure Access Service Edge (SASE) and Zero Trust market represents one of the most transformative growth opportunities in enterprise technology, reshaping how businesses connect, protect, and empower their global workforce.</p> <p>To lead this next chapter, Cloudflare has created the Cloudflare One (CF1) Speedboat - a dedicated, cross-functional organization designed to operate with the focus, agility, and autonomy of a startup, backed by the global scale and infrastructure of Cloudflare.</p> <p>We are seeking a visionary, entrepreneurial executive to serve as the Vice President, CF1 GTM. In this role, you will own and scale a high-growth global business, define the GTM strategy, and build a multi-billion-dollar business in one of the most dynamic markets of the decade. This is an extraordinary opportunity to lead a “company within a company,” shaping the future of how enterprises secure and connect to the Internet.</p> <p><strong>Key Responsibilities</strong></p> <ul> <li><strong>Own and Scale the Business:</strong> Act as the general manager of Cloudflare One business unit, with full accountability for global GTM strategy, exec",
-        "salary": "",
-        "source": "ATS·Greenhouse·cloudflare",
-        "id": "868a12fd173cb4249da9d1b0",
-        "score": 50,
-        "reasons": [
-          "description: zero trust + sase"
-        ]
-      },
-      {
-        "title": "Manager I, Engineering - Cloud FinOps",
-        "company": "Datadog",
-        "url": "https://careers.datadoghq.com/detail/8173897/?gh_jid=8173897",
-        "date": "2026-09-02",
-        "location": "New York, New York, USA",
-        "description": "<p>Datadog's Cloud FinOps team answers a question the business runs on: what does each product and each customer actually cost us to serve? Finance uses this team's output to close Datadog's books, Product uses it to compare cost to serve against what a customer pays, and engineering leaders use it to catch cost movements before they compound. As the Engineering Manager for this team, you'll own delivery across the runtime pipeline, coverage onboarding, and cost-to-customer identity mapping. You'll own the contracts that Finance and platform teams depend on. The core engineering problem is reproducibility: every dollar of cloud cost is placed against the product and customer that caused it, with lineage on every result and closed periods that replay exactly. This role starts by closing a coverage gap and grows into owning the model every platform team at Datadog onboards through.</p> <p><em>At Datadog, we place value in our office culture - the relationships that it builds, the creativity it brings to the table, and the collaboration of being together. We operate as a hybrid workplace to ensure our employees can create a work-life harmony that best fits them.</em></p> <p><strong>What You'll Do:</strong></p> <ul> <li>Lead and grow a team of engineers building the platform that allocates Datadog's cloud cost to products and customers, setting the operating rhythm across runtime and release, coverage onboarding, and identity and mapping.</li> <li>Own the publication contract with Finance: versioned metrics with effective dates, backfill, and reproducible history, so any closed period can be replayed on demand and trusted for close.</li> <li>Own the metric contracts with platform teams across Engineering, shifting cost facts to the teams that generate the cost so coverage growth stops scaling linearly with your headcount.</li> <li>Partner with Revenue Engineering on the cost-to-revenue identity join that turns cost data into margin per product and per customer.</li> <li>Drive continuous improvement in product and customer cost coverage and accuracy, and hold delivery commitments with teams that don't report to you.</li> <li>Reduce key-person risk on runtime and compiler architecture by spreading ownership across the team, and use AI tooling (Claude Code, Cursor, and similar) to raise the team's speed and leverage.</li> </ul> <p><strong>Who You Are:</strong></p> <ul> <li>An engineering leader with experience managing data platform or data engineering teams building batch and pipeline systems judged on correctness and reproducibility.</li> <li>You've shipped versioned publication with effective dates, backfill, and reproducible history.</li> <li>You've held a delivery commitment with a team outside your reporting line, and you can describe what happened the first time a contract was missed.</li> <li>You bring domain experience in metering, usage-based billing, cloud cost, revenue data, or financial data platforms.</li> <li>You operate without a product",
-        "salary": "",
-        "source": "ATS·Greenhouse·datadog",
-        "id": "9e42b81152d527e82aea3296",
-        "score": 60,
-        "reasons": [
-          "cloud",
-          "description: cloud"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-08-29"
+    "buffer": [],
+    "last_sent_date": "2026-09-02"
   },
   "market": {
     "week": "2026-W36",
