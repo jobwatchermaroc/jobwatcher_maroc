@@ -821,6 +821,12 @@
       "score": 50,
       "seen_at": "2026-09-02T15:54:52",
       "key": "vice president cloudflare one gtm | cloudflare"
+    },
+    "09d6234b1f38ad48fe6e4aa5": {
+      "source": "ATS·Greenhouse·asana",
+      "score": 100,
+      "seen_at": "2026-09-02T17:04:47",
+      "key": "director of security engineering | asana"
     }
   },
   "keys": {
@@ -905,48 +911,49 @@
     "staff software engineer site experience sre | reddit": "1817f6f4b4f7ae9720468c0d",
     "developpeur python cloud f h | sofrecom maroc": "a849a69d96b2c0ea0d99567e",
     "senior cloudflare one gtm specialist central or east | cloudflare": "b884edf0ce8b9855bba2cb18",
-    "vice president cloudflare one gtm | cloudflare": "868a12fd173cb4249da9d1b0"
+    "vice president cloudflare one gtm | cloudflare": "868a12fd173cb4249da9d1b0",
+    "director of security engineering | asana": "09d6234b1f38ad48fe6e4aa5"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T16:47:42",
-      "last_run": "2026-09-02T16:47:42",
+      "last_ok_at": "2026-09-02T17:00:31",
+      "last_run": "2026-09-02T17:00:31",
       "last_error": "",
       "last_ok_count": 46
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T16:48:17",
-      "last_run": "2026-09-02T16:48:17",
+      "last_ok_at": "2026-09-02T17:00:59",
+      "last_run": "2026-09-02T17:00:59",
       "last_error": "",
       "last_ok_count": 38
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-02T16:49:54",
+      "last_run": "2026-09-02T17:02:36",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T16:50:28",
-      "last_run": "2026-09-02T16:50:28",
+      "last_ok_at": "2026-09-02T17:03:45",
+      "last_run": "2026-09-02T17:03:45",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-02T16:50:28",
+      "last_run": "2026-09-02T17:03:45",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-02T16:51:22",
-      "last_run": "2026-09-02T16:51:22",
+      "last_ok_at": "2026-09-02T17:04:42",
+      "last_run": "2026-09-02T17:04:42",
       "last_error": "",
       "last_ok_count": 1251
     }
@@ -1056,7 +1063,8 @@
       "3229ad5a99909a8f153d141d",
       "b884edf0ce8b9855bba2cb18",
       "0ec6418e5dff9aba79049efe",
-      "868a12fd173cb4249da9d1b0"
+      "868a12fd173cb4249da9d1b0",
+      "09d6234b1f38ad48fe6e4aa5"
     ],
     "companies": {
       "ALTEN Maroc": 10,
@@ -1071,7 +1079,7 @@
       "Proton": 3,
       "MongoDB": 2,
       "Twilio": 3,
-      "Asana": 4,
+      "Asana": 5,
       "Reddit": 1,
       "Discord": 5,
       "Duolingo": 2,
@@ -1083,8 +1091,8 @@
       "aws": 24,
       "azure": 22,
       "cloud": 37,
-      "security": 36,
-      "security engineer": 17,
+      "security": 37,
+      "security engineer": 18,
       "docker": 4,
       "gcp": 15,
       "kubernetes": 14,
@@ -1118,7 +1126,7 @@
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·mongodb": 2,
       "ATS·Greenhouse·twilio": 3,
-      "ATS·Greenhouse·asana": 4,
+      "ATS·Greenhouse·asana": 5,
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 5,
       "ATS·Greenhouse·duolingo": 2,
@@ -1127,7 +1135,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 68,
+    "total": 69,
     "prev": {
       "week": "2026-W35",
       "companies": {
@@ -1280,6 +1288,11 @@
       "domain": "twilio.com",
       "emails": [],
       "updated_at": "2026-08-28T01:35:39"
+    },
+    "asana": {
+      "domain": "asana.com",
+      "emails": [],
+      "updated_at": "2026-09-02T17:05:02"
     }
   }
 }
