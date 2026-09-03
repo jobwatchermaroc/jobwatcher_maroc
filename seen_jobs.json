@@ -869,6 +869,12 @@
       "score": 70,
       "seen_at": "2026-09-03T15:14:41",
       "key": "software engineer security rules | cloudflare"
+    },
+    "810323208d6827e5ee0323cd": {
+      "source": "Rekrute",
+      "score": 65,
+      "seen_at": "2026-09-03T18:39:31",
+      "key": "chief security officer | axa services maroc"
     }
   },
   "keys": {
@@ -959,118 +965,56 @@
     "platform engineer ii | duolingo": "04ae5789d8e389d28ef968ac",
     "senior security engineer vulnerability management | datadog": "d7fe56ff70c8fd5f40b2f477",
     "business consultant | okta": "a5732031875e4a1a7f5febf3",
-    "software engineer security rules | cloudflare": "5be19afc5ff4b715b27ab6f7"
+    "software engineer security rules | cloudflare": "5be19afc5ff4b715b27ab6f7",
+    "chief security officer | axa services maroc": "810323208d6827e5ee0323cd"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-03T15:10:26",
-      "last_run": "2026-09-03T15:10:26",
+      "last_ok_at": "2026-09-03T18:35:47",
+      "last_run": "2026-09-03T18:35:47",
       "last_error": "",
       "last_ok_count": 50
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-03T15:11:05",
-      "last_run": "2026-09-03T15:11:05",
+      "last_ok_at": "2026-09-03T18:36:26",
+      "last_run": "2026-09-03T18:36:26",
       "last_error": "",
-      "last_ok_count": 39
+      "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-03T15:12:42",
+      "last_run": "2026-09-03T18:38:03",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-03T15:13:48",
-      "last_run": "2026-09-03T15:13:48",
+      "last_ok_at": "2026-09-03T18:38:43",
+      "last_run": "2026-09-03T18:38:43",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-03T15:13:48",
+      "last_run": "2026-09-03T18:38:43",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-03T15:14:40",
-      "last_run": "2026-09-03T15:14:40",
+      "last_ok_at": "2026-09-03T18:39:31",
+      "last_run": "2026-09-03T18:39:31",
       "last_error": "",
-      "last_ok_count": 1247
+      "last_ok_count": 1244
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Platform Engineer II",
-        "company": "Duolingo",
-        "url": "https://careers.duolingo.com/jobs/8778700002?gh_jid=8778700002",
-        "date": "2026-09-02",
-        "location": "Pittsburgh, PA",
-        "description": "<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p> <p>At Duolingo, you’ll join a team that cares about finding <a href=\"https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224\">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p> <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p> <hr> <p style=\"text-align: left;\"><strong>About the role...</strong></p> <p>As a Platform Engineer on the Compute team, you’ll improve how engineers build and run services, helping ensure our compute platform is reliable at scale for our learners and fellow Duo engineers.</p> <p>The Compute team builds and operates the core compute platform that powers our applications. We build paved roads (self-service platform primitives, templates, and tooling) and we operate them so product engineers can focus on shipping features with confidence.</p> <p><strong>🧠&nbsp; You will...</strong></p> <ul> <li>Build and operate core compute primitives that power production workloads based on Kubernetes, across different regions and cloud providers.&nbsp;</li> <li>Improve the delivery pipeline from commit to production by evolving our GitOps and deployment patterns, making rollouts safer and faster.</li> <li>Raise the operational bar: define SLOs, build dashboards/alerts, write runbooks, and participate in on-call/incident response to keep the platform dependable.</li> <li>Enable effective self-service by turning platform capabilities into reusable abstractions.</li> </ul> <p><strong>✅&nbsp; You have...</strong></p> <ul> <li>Strong problem-solving skills and experience delivering and shipping pragmatic solutions in production environments.</li> <li>Experience with distributed systems fundamentals (networking, service-to-service communication, failure modes, caching/storage concepts).</li> <li>Experience working on production systems (through industry roles, internships, or substantial open-source work).</li> <li>Experience with one or more CI/CD tools (Jenkins, Argo CD, GitHub Actions) and infrastructure management tools (Terraform, CloudFormation)</li> <li>Clear written and verbal communication skills—comfortable writing docs/runbooks and collaborating across teams.</li> <li>Functional knowledge of Linux system administration and automation</li> </ul> <p><strong>⭐&nbsp; Exceptional candidates will have...</strong></p> <ul> <li>A Bachelor’s degree in Computer Science, related technical fi",
-        "salary": "",
-        "source": "ATS·Greenhouse·duolingo",
-        "id": "04ae5789d8e389d28ef968ac",
-        "score": 70,
-        "reasons": [
-          "platform engineer",
-          "description: cloud + kubernetes + terraform + ci/cd + github actions + platform engineer"
-        ]
-      },
-      {
-        "title": "Business Consultant",
-        "company": "Okta",
-        "url": "https://www.okta.com/company/careers/opportunity/8145325?gh_jid=8145325",
-        "date": "2026-08-25",
-        "location": "Chicago, Illinois",
-        "description": "<div class=\"content-intro\"><p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.<br><br>This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.</p></div><h1><strong>The Customer First Team</strong></h1> <p>We are a team of Identity and Access Management experts. We help customers, businesses, and organisations maximise their Okta IAM platform investment, providing rapid time-to-value in adoption and usage and promoting scalability and agility. Our team sits within the Customer First area - focused on ensuring the long term success of our customers.&nbsp; Join our team! We’re building a world where Identity belongs to you.</p> <h1><strong>Role Summary</strong></h1> <p>The Business Analyst (BA) is an essential member of the Okta Professional Services team. This role offers a unique opportunity to learn Identity and Access Management (IAM) fundamentals from the ground up. You will serve as a bridge between customer business objectives and technical implementation, developing the skills to own the requirements lifecycle and ensuring final deliveries are secure, scalable, and aligned with strategic needs.</p> <h1><strong>Key Responsibilities</strong></h1> <ul> <li><strong>Discovery &amp; Requirements Facilitation:</strong> Facilitate stakeholder workshops to uncover requirements, map current-state IAM processes, and identify dependencies and pain points across IT, security, and application teams.</li> <li><strong>Documentation &amp; Solution Design:</strong> Translate business needs into detailed functional and non-functional requirements. Produce clear business process flows and solution design diagrams to visualize the \"how\" and \"why\" behind the technical configuration.</li> <li><strong>Traceability &amp; Solution Integrity:</strong> Support senior team members in maintaining the requirements traceability matrix to ensure alignment between business goals and technical outcomes.</li> <li><strong>Lifecycle Partnership:</strong> Partner with technical architects and consultants to translate requirements into actionable technical specifications. Provide functional oversight during the build phase to clarify business needs, resolve variances, and advise QA on defining robust acceptance criteria.</li> <li><strong>Transition &amp; Hand-off:</strong> Partner with project leadership to execute change management plans, create user training documentation, and assist with go-live support during the hypercare period. Upon completion of the hypercare phase, facilitate a structured hand-off to the customer and account team for final pro",
-        "salary": "",
-        "source": "ATS·Greenhouse·okta",
-        "id": "a5732031875e4a1a7f5febf3",
-        "score": 60,
-        "reasons": [
-          "description: identity and access management + iam"
-        ]
-      },
-      {
-        "title": "Business Analyst",
-        "company": "Okta",
-        "url": "https://www.okta.com/company/careers/opportunity/8144827?gh_jid=8144827",
-        "date": "2026-08-26",
-        "location": "Chicago, Illinois",
-        "description": "<div class=\"content-intro\"><p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.<br><br>This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.</p></div><div class=\"col-lg-7\"> <h1 class=\"mb-1\">Business Analyst</h1> <div class=\"mb-4 h5\">Chicago, Illinois</div> </div> <div class=\"col-lg-7\"> <article class=\"Job__content\"> <p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.<br><br>This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.</p> <strong>The Customer First Team</strong> <p>We are a team of Identity and Access Management experts. We help customers, businesses, and organizations maximize their Okta IAM platform investment, providing rapid time-to-value in adoption and usage and promoting scalability and agility. Our team sits within the Customer First area - focused on ensuring the long term success of our customers.&nbsp; Join our team! We’re building a world where Identity belongs to you.</p> <strong>Role Summary</strong> <p>The Business Analyst (BA) is a central figure on the Okta Professional Services team. Your mission is to serve as the bridge between customer business objectives and technical implementation, driving high-impact outcomes for Okta Identity and Access Management (IAM) deployments. You will own the requirements lifecycle—from initial discovery and stakeholder alignment to functional design and solution integrity—ensuring that the final delivery is secure, scalable, and aligned with the customer's strategic needs.</p> <strong>Key Responsibilities</strong> <ul> <li><strong>Discovery &amp; Requirements Facilitation:</strong>&nbsp;Facilitate stakeholder workshops brainstorming sessions to uncover requirements, map current-state IAM processes, and identify dependencies and pain points across IT, security, and product teams.</li> <li><strong>Documentation &amp; Solution Design:</strong>&nbsp;Translate business needs into detailed functional and non-functional requirements. Produce clear business process flows and solution design diagrams to visualize the \"how\" and \"why\" behind the technical configuration.</li> <li><strong>Traceability &amp; Solution Integrity:</strong>&nb",
-        "salary": "",
-        "source": "ATS·Greenhouse·okta",
-        "id": "4840d622bdbb0c12ff3c809f",
-        "score": 60,
-        "reasons": [
-          "description: identity and access management + iam"
-        ]
-      },
-      {
-        "title": "Software Engineer, Security Rules",
-        "company": "Cloudflare",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8160660?gh_jid=8160660",
-        "date": "2026-09-03",
-        "location": "Hybrid",
-        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations: </strong>London (UK), Lisbon (Portugal)</p> <p><strong>About the role</strong></p> <p>Cloudflare’s Engineers build and operate the software that helps power 25+ million Internet properties and millions of businesses around the world. Across our engineering organizations, we have opportunities for high caliber, curious and empathetic people to take on big challenges and build some of the best skills in the industry. We’re looking for talented team members to help build high-growth products, help scale our expanding network, build tools to improve availability, performance, uptime, and response times, and make systems failure-resistant and ready-to-scale.</p> <p>We are looking for a talented Systems Engineer to join the Security Rules team. You will work on a range of microservices written mainly in Rust. Technologies we use include Docker, Go, PostgreSQL, Redis, Memcached, gRPC, Kafka, Clickhouse and the usual Unix/Linux tools and workflows. We strive to build reliable, fault-tolerant systems that can operate at Cloudflare’s scale. You will join a team of bright, hard-working, and supportive engineers who are passionate about their craft, and you will be comfortable operating in a fast-paced but sane work environment. This role may require flexibility to be on-call outside of standard working hours to address technical issues as needed.</p> <h4><str",
-        "salary": "",
-        "source": "ATS·Greenhouse·cloudflare",
-        "id": "5be19afc5ff4b715b27ab6f7",
-        "score": 70,
-        "reasons": [
-          "security",
-          "description: docker + security"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-09-02"
+    "buffer": [],
+    "last_sent_date": "2026-09-03"
   },
   "market": {
     "week": "2026-W36",
@@ -1148,7 +1092,8 @@
       "04ae5789d8e389d28ef968ac",
       "d7fe56ff70c8fd5f40b2f477",
       "974a301fd771e468a53c11a1",
-      "5be19afc5ff4b715b27ab6f7"
+      "5be19afc5ff4b715b27ab6f7",
+      "810323208d6827e5ee0323cd"
     ],
     "companies": {
       "ALTEN Maroc": 10,
@@ -1169,13 +1114,14 @@
       "Duolingo": 3,
       "swile": 3,
       "contentsquare": 2,
-      "veepee": 1
+      "veepee": 1,
+      "AXA Services Maroc": 1
     },
     "skills": {
       "aws": 25,
       "azure": 23,
       "cloud": 41,
-      "security": 40,
+      "security": 41,
       "security engineer": 20,
       "docker": 5,
       "gcp": 15,
@@ -1202,7 +1148,7 @@
       "sase": 2
     },
     "sources": {
-      "Rekrute": 23,
+      "Rekrute": 24,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·datadog": 10,
@@ -1219,7 +1165,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 74,
+    "total": 75,
     "prev": {
       "week": "2026-W35",
       "companies": {
