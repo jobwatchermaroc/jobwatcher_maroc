@@ -905,6 +905,12 @@
       "score": 70,
       "seen_at": "2026-09-04T19:38:04",
       "key": "senior site reliability engineering | duolingo"
+    },
+    "61a0699d32bccb14651027c5": {
+      "source": "ATS·Greenhouse·duolingo",
+      "score": 70,
+      "seen_at": "2026-09-04T21:49:32",
+      "key": "senior site reliability engineer | duolingo"
     }
   },
   "keys": {
@@ -1001,54 +1007,72 @@
     "security incident response manager abuse operations | stripe": "8410be9fdfa6b281cbb8f42a",
     "staff identity engineer | okta": "2e115f9bf6cbf5a4e9cff3cd",
     "staff security engineer | twilio": "6a593c7222a9ec5d5f60f1e1",
-    "senior site reliability engineering | duolingo": "17f3020158510cd72228fbfb"
+    "senior site reliability engineering | duolingo": "17f3020158510cd72228fbfb",
+    "senior site reliability engineer | duolingo": "61a0699d32bccb14651027c5"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T19:34:23",
-      "last_run": "2026-09-04T19:34:23",
+      "last_ok_at": "2026-09-04T21:45:08",
+      "last_run": "2026-09-04T21:45:08",
       "last_error": "",
-      "last_ok_count": 44
+      "last_ok_count": 43
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T19:34:58",
-      "last_run": "2026-09-04T19:34:58",
+      "last_ok_at": "2026-09-04T21:45:49",
+      "last_run": "2026-09-04T21:45:49",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-04T19:36:35",
+      "last_run": "2026-09-04T21:47:27",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T19:37:09",
-      "last_run": "2026-09-04T19:37:09",
+      "last_ok_at": "2026-09-04T21:48:35",
+      "last_run": "2026-09-04T21:48:35",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-04T19:37:09",
+      "last_run": "2026-09-04T21:48:35",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T19:37:55",
-      "last_run": "2026-09-04T19:37:55",
+      "last_ok_at": "2026-09-04T21:49:23",
+      "last_run": "2026-09-04T21:49:23",
       "last_error": "",
       "last_ok_count": 1247
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Senior Site Reliability Engineer",
+        "company": "Duolingo",
+        "url": "https://careers.duolingo.com/jobs/8784381002?gh_jid=8784381002",
+        "date": "2026-09-04",
+        "location": "Pittsburgh, PA",
+        "description": "<p>Our mission at Duolingo is to develop the best education in the world and make it universally available. It’s a big mission, and that’s where you come in!</p> <p>At Duolingo, you’ll join a team that cares about finding <a href=\"https://blog.duolingo.com/tag/engineering/?utm_source=greenhouse.com&amp;utm_medium=referral&amp;utm_campaign=engblog_gh_091224\">innovative solutions to complex technical problems</a>, running countless experiments (300+ at a time!) with our massive user base to make data-driven decisions, and educating our users and employees alike. You’ll have limitless learning opportunities, mentorship and collaboration with world-class minds, and a variety of projects with large scopes — while doing work that’s both fun and meaningful.&nbsp;</p> <p>Join our life-changing mission to develop education for our half a billion (and growing!) learners around the world.</p> <hr> <p style=\"text-align: left;\"><strong>About the role...</strong></p> <p>As a Senior Site Reliability Engineer, you will work closely with both product and platform engineering teams to ensure Duolingo’s sophisticated distributed systems and products are built and maintained with extraordinary quality, and operated in measurable and scalable ways.</p> <p><strong>🧠&nbsp; You will...</strong></p> <ul> <li>Collaborate with internal teams to identify sources of instability in distributed systems and drive operational excellence</li> <li>Support core infrastructure (i.e understand, diagnose, and debug these systems in production)</li> <li>Provide system design consulting, develop software platforms/frameworks, and conduct launch reviews and root cause analysis</li> <li>Maintain and document sustainable postmortem/incident response practices</li> <li>Advocate for and implement changes that improve reliability, scalability, and velocity</li> <li>Reduce the burden of toil with iterative development of tooling and automation</li> <li>Collaborate with engineering teams to release new features and become an authority on our services</li> </ul> <p><strong>✅&nbsp; You have...<br></strong></p> <ul> <li>5+ years of experience within site reliability engineering/DevOps of a product with millions of users</li> <li>Experience identifying and solving issues in large-scale distributed systems</li> <li>Experience with Java, Kotlin, Python or Go</li> <li>An understanding of containerization toolsets and container orchestration technologies (Docker, Mesos, Kubernetes, Nomad, etc)</li> </ul> <p><strong>⭐&nbsp; Exceptional candidates will have...<br></strong></p> <ul> <li>Experience in improving automation and tooling to reduce service maintenance toil</li> <li>Proven experience driving improvements to incident response processes</li> <li>Experience assessing reliability and troubleshooting issues in Dynamo, MySQL, and/or PostgreSQL databases</li> </ul> <p><strong>&nbsp;</strong></p> <hr><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p><em>The offered",
+        "salary": "",
+        "source": "ATS·Greenhouse·duolingo",
+        "id": "61a0699d32bccb14651027c5",
+        "score": 70,
+        "reasons": [
+          "site reliability",
+          "description: devops + kubernetes + docker + site reliability + platform engineer"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-04"
   },
   "market": {
