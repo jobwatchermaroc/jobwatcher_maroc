@@ -899,6 +899,12 @@
       "score": 100,
       "seen_at": "2026-09-04T17:17:00",
       "key": "staff security engineer | twilio"
+    },
+    "17f3020158510cd72228fbfb": {
+      "source": "ATS·Greenhouse·duolingo",
+      "score": 70,
+      "seen_at": "2026-09-04T19:38:04",
+      "key": "senior site reliability engineering | duolingo"
     }
   },
   "keys": {
@@ -994,86 +1000,56 @@
     "technicien support it | alten maroc": "1de638ada4dc451db73d2dc1",
     "security incident response manager abuse operations | stripe": "8410be9fdfa6b281cbb8f42a",
     "staff identity engineer | okta": "2e115f9bf6cbf5a4e9cff3cd",
-    "staff security engineer | twilio": "6a593c7222a9ec5d5f60f1e1"
+    "staff security engineer | twilio": "6a593c7222a9ec5d5f60f1e1",
+    "senior site reliability engineering | duolingo": "17f3020158510cd72228fbfb"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T17:12:27",
-      "last_run": "2026-09-04T17:12:27",
+      "last_ok_at": "2026-09-04T19:34:23",
+      "last_run": "2026-09-04T19:34:23",
       "last_error": "",
-      "last_ok_count": 45
+      "last_ok_count": 44
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T17:13:06",
-      "last_run": "2026-09-04T17:13:06",
+      "last_ok_at": "2026-09-04T19:34:58",
+      "last_run": "2026-09-04T19:34:58",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-04T17:14:43",
+      "last_run": "2026-09-04T19:36:35",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T17:16:02",
-      "last_run": "2026-09-04T17:16:02",
+      "last_ok_at": "2026-09-04T19:37:09",
+      "last_run": "2026-09-04T19:37:09",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-04T17:16:02",
+      "last_run": "2026-09-04T19:37:09",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T17:16:55",
-      "last_run": "2026-09-04T17:16:55",
+      "last_ok_at": "2026-09-04T19:37:55",
+      "last_run": "2026-09-04T19:37:55",
       "last_error": "",
       "last_ok_count": 1247
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Technicien Support IT",
-        "company": "ALTEN Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-technicien-support-it-recrutement-alten-maroc-fes-186020.html",
-        "date": "04/09/2026",
-        "location": "Fès (Maroc)",
-        "description": "cloud azure , active directory, réseaux tcp/ip, wifi",
-        "source": "Rekrute",
-        "offer_id": "186020",
-        "id": "1de638ada4dc451db73d2dc1",
-        "score": 65,
-        "reasons": [
-          "description: azure + azure active directory"
-        ]
-      },
-      {
-        "title": "Staff Identity Engineer",
-        "company": "Okta",
-        "url": "https://www.okta.com/company/careers/opportunity/8171262?gh_jid=8171262",
-        "date": "2026-09-04",
-        "location": "Bellevue, Washington; Chicago, Illinois; Washington, DC",
-        "description": "<div class=\"content-intro\"><p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.<br><br>This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.</p></div><div class=\"SingleJob-content\"> <p><strong>The Identity Team</strong></p> <p>Okta's internal Identity team secures the foundational trust layer for our modern enterprise. As organizations adopt phishing-resistant MFA, attackers have shifted toward session hijacking and cookie theft. Furthermore, with the rise of autonomous AI workloads, we are extending our platform to protect and govern a growing sprawl of non-human, agentic workflows. Our mission is to ensure every person and machine can safely connect to the right technology at the right time.</p> <p><strong>The Staff Identity Engineer Opportunity</strong></p> <p>As a Staff Engineer at Okta, you will be a technical authority within our internal IAM team, driving the architecture and execution of our identity fabric. You will champion our \"Customer Zero\" philosophy, partnering with product engineering to deploy Okta's newest features internally before they reach global markets. This role requires a technical leader who acts with ownership and urgency, turning action into traction and ruthlessly simplifying complex problems. You will serve as a mentor, influence architectural decisions, and help determine the future of the platform.</p> <p><strong>What you’ll be doing&nbsp;</strong></p> <ul> <li><strong>Drive Customer Zero Execution:</strong> Act as a key technical bridge between internal stakeholders, the Okta on Okta team, and core Product teams. Lead the early adoption of cutting-edge internal capabilities, providing rigorous technical feedback to mature products before global release.</li> <li><strong>Architecture &amp; Hands-On Implementation:</strong> Own the lifecycle, policy design, adaptive MFA, and federation (SAML, OIDC) for enterprise Okta tenants. Architect and enforce cloud IAM guardrails across AWS, GCP, and Azure, building API-based pipelines to automate complex workflows.</li> <li><strong>Technical Leadership &amp; Mentorship:</strong> Serve as a core technical anchor for the engineering team. Mentor engineers, act as a primary review authority for IAM designs, and set technical standards across the organization.</li> <li><strong>Operational &amp; Security Governance:</strong> Drive automation-first initiatives to eliminate systemic inefficiencies. Partner directly with Security, Audit, and Compliance teams to ensure identity controls natively meet audit requirements (SOC 2, ISO 27001, FedRAMP).</li> ",
-        "salary": "",
-        "source": "ATS·Greenhouse·okta",
-        "id": "2e115f9bf6cbf5a4e9cff3cd",
-        "score": 70,
-        "reasons": [
-          "description: azure + iam"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-09-03"
+    "buffer": [],
+    "last_sent_date": "2026-09-04"
   },
   "market": {
     "week": "2026-W36",
@@ -1157,7 +1133,9 @@
       "8410be9fdfa6b281cbb8f42a",
       "2f4d491f0e20890b63a7ff4b",
       "2e115f9bf6cbf5a4e9cff3cd",
-      "6a593c7222a9ec5d5f60f1e1"
+      "6a593c7222a9ec5d5f60f1e1",
+      "17f3020158510cd72228fbfb",
+      "61a0699d32bccb14651027c5"
     ],
     "companies": {
       "ALTEN Maroc": 11,
@@ -1175,7 +1153,7 @@
       "Asana": 5,
       "Reddit": 1,
       "Discord": 5,
-      "Duolingo": 3,
+      "Duolingo": 5,
       "swile": 3,
       "contentsquare": 2,
       "veepee": 1,
@@ -1188,10 +1166,10 @@
       "cloud": 44,
       "security": 45,
       "security engineer": 23,
-      "docker": 5,
+      "docker": 7,
       "gcp": 16,
-      "kubernetes": 15,
-      "devops": 15,
+      "kubernetes": 17,
+      "devops": 17,
       "terraform": 11,
       "cloud architect": 1,
       "devops engineer": 3,
@@ -1206,8 +1184,8 @@
       "azure pipeline": 1,
       "github actions": 2,
       "cloud security": 2,
-      "site reliability": 3,
-      "platform engineer": 4,
+      "site reliability": 5,
+      "platform engineer": 6,
       "zero trust": 3,
       "casb": 1,
       "sase": 2,
@@ -1225,14 +1203,14 @@
       "ATS·Greenhouse·asana": 5,
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 5,
-      "ATS·Greenhouse·duolingo": 3,
+      "ATS·Greenhouse·duolingo": 5,
       "ATS·Lever·swile": 3,
       "ATS·Lever·contentsquare": 2,
       "ATS·Lever·veepee": 1,
       "ATS·Greenhouse·stripe": 1
     },
     "salaries": [],
-    "total": 80,
+    "total": 82,
     "prev": {
       "week": "2026-W35",
       "companies": {
