@@ -875,6 +875,12 @@
       "score": 65,
       "seen_at": "2026-09-03T18:39:31",
       "key": "chief security officer | axa services maroc"
+    },
+    "1de638ada4dc451db73d2dc1": {
+      "source": "Rekrute",
+      "score": 65,
+      "seen_at": "2026-09-04T10:01:57",
+      "key": "technicien support it | alten maroc"
     }
   },
   "keys": {
@@ -966,54 +972,71 @@
     "senior security engineer vulnerability management | datadog": "d7fe56ff70c8fd5f40b2f477",
     "business consultant | okta": "a5732031875e4a1a7f5febf3",
     "software engineer security rules | cloudflare": "5be19afc5ff4b715b27ab6f7",
-    "chief security officer | axa services maroc": "810323208d6827e5ee0323cd"
+    "chief security officer | axa services maroc": "810323208d6827e5ee0323cd",
+    "technicien support it | alten maroc": "1de638ada4dc451db73d2dc1"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T05:44:37",
-      "last_run": "2026-09-04T05:44:37",
+      "last_ok_at": "2026-09-04T09:57:27",
+      "last_run": "2026-09-04T09:57:27",
       "last_error": "",
-      "last_ok_count": 50
+      "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T05:45:16",
-      "last_run": "2026-09-04T05:45:16",
+      "last_ok_at": "2026-09-04T09:58:01",
+      "last_run": "2026-09-04T09:58:01",
       "last_error": "",
-      "last_ok_count": 40
+      "last_ok_count": 42
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-04T05:46:53",
+      "last_run": "2026-09-04T09:59:39",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T05:48:01",
-      "last_run": "2026-09-04T05:48:01",
+      "last_ok_at": "2026-09-04T10:01:07",
+      "last_run": "2026-09-04T10:01:07",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-04T05:48:01",
+      "last_run": "2026-09-04T10:01:07",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-04T05:48:51",
-      "last_run": "2026-09-04T05:48:51",
+      "last_ok_at": "2026-09-04T10:01:57",
+      "last_run": "2026-09-04T10:01:57",
       "last_error": "",
-      "last_ok_count": 1244
+      "last_ok_count": 1245
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Technicien Support IT",
+        "company": "ALTEN Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-technicien-support-it-recrutement-alten-maroc-fes-186020.html",
+        "date": "04/09/2026",
+        "location": "Fès (Maroc)",
+        "description": "cloud azure , active directory, réseaux tcp/ip, wifi",
+        "source": "Rekrute",
+        "offer_id": "186020",
+        "id": "1de638ada4dc451db73d2dc1",
+        "score": 65,
+        "reasons": [
+          "description: azure + azure active directory"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-03"
   },
   "market": {
@@ -1093,10 +1116,11 @@
       "d7fe56ff70c8fd5f40b2f477",
       "974a301fd771e468a53c11a1",
       "5be19afc5ff4b715b27ab6f7",
-      "810323208d6827e5ee0323cd"
+      "810323208d6827e5ee0323cd",
+      "1de638ada4dc451db73d2dc1"
     ],
     "companies": {
-      "ALTEN Maroc": 10,
+      "ALTEN Maroc": 11,
       "Cnexia": 5,
       "DXC - CDG": 1,
       "Sofrecom Maroc": 5,
@@ -1119,8 +1143,8 @@
     },
     "skills": {
       "aws": 25,
-      "azure": 23,
-      "cloud": 41,
+      "azure": 24,
+      "cloud": 42,
       "security": 41,
       "security engineer": 20,
       "docker": 5,
@@ -1145,10 +1169,11 @@
       "platform engineer": 4,
       "zero trust": 3,
       "casb": 1,
-      "sase": 2
+      "sase": 2,
+      "azure active directory": 1
     },
     "sources": {
-      "Rekrute": 24,
+      "Rekrute": 25,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·datadog": 10,
@@ -1165,7 +1190,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 75,
+    "total": 76,
     "prev": {
       "week": "2026-W35",
       "companies": {
