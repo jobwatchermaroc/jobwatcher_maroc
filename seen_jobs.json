@@ -929,6 +929,12 @@
       "score": 100,
       "seen_at": "2026-09-06T15:57:16",
       "key": "forward deployed security engineer | stripe"
+    },
+    "b03eabc033f26802baad0557": {
+      "source": "Rekrute",
+      "score": 75,
+      "seen_at": "2026-09-06T17:51:08",
+      "key": "ingenieur devops f h | sofrecom maroc"
     }
   },
   "keys": {
@@ -972,7 +978,7 @@
     "chef de projet technique ingenieur systemes reseaux et it f h | sofrecom maroc": "4cd6f65415cac79b6afa8e25",
     "cyber security engineer | cnexia": "51a1c4d61dcaf061859e8f05",
     "senior observability automation engineer | dxc cdg": "ae3a02e157013ffd77a33a9e",
-    "ingenieur devops f h | sofrecom maroc": "fc6fb8640044ed7978d090e7",
+    "ingenieur devops f h | sofrecom maroc": "b03eabc033f26802baad0557",
     "rejoignez intelcia tech avec 4 postes ouverts en ingenierie cloud": "af97816a2d1dc09c4d1726f0",
     "product security engineer | proton": "af7a57916ba0de60793e85d5",
     "ai security research red team engineer | cloudflare": "5e40a10397142bc603fb4bc2",
@@ -1033,49 +1039,66 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-06T15:53:11",
-      "last_run": "2026-09-06T15:53:11",
+      "last_ok_at": "2026-09-06T17:47:25",
+      "last_run": "2026-09-06T17:47:25",
       "last_error": "",
-      "last_ok_count": 21
+      "last_ok_count": 19
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-06T15:53:41",
-      "last_run": "2026-09-06T15:53:41",
+      "last_ok_at": "2026-09-06T17:48:02",
+      "last_run": "2026-09-06T17:48:02",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-06T15:55:18",
+      "last_run": "2026-09-06T17:49:39",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-06T15:56:22",
-      "last_run": "2026-09-06T15:56:22",
+      "last_ok_at": "2026-09-06T17:50:18",
+      "last_run": "2026-09-06T17:50:18",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-06T15:56:22",
+      "last_run": "2026-09-06T17:50:18",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-06T15:57:11",
-      "last_run": "2026-09-06T15:57:11",
+      "last_ok_at": "2026-09-06T17:51:08",
+      "last_run": "2026-09-06T17:51:08",
       "last_error": "",
       "last_ok_count": 1246
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Ingénieur DevOps (F/H)",
+        "company": "Sofrecom Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-ingenieur-devops-fh-recrutement-sofrecom-maroc-rabat-185770.html",
+        "date": "28/08/2026",
+        "location": "Rabat (Maroc)",
+        "description": "Sofrecom, filiale du groupe Orange, recherche un Ingénieur DevOps (H/F) pour automatiser les déploiements d'infrastructure IT On-Premise et migrer vers Ansible. Vous utiliserez des outils Open Source (Ansible, Python, Terraform, Gitlab) et participerez aux cérémonies Agile. Profil Bac+5 avec 6 ans d'expérience en automatisation et CI/CD requis.",
+        "source": "Rekrute",
+        "offer_id": "185770",
+        "id": "b03eabc033f26802baad0557",
+        "score": 75,
+        "reasons": [
+          "devops",
+          "description: devops + terraform + ci/cd"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-05"
   },
   "market": {
