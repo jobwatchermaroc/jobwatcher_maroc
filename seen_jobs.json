@@ -923,6 +923,12 @@
       "score": 100,
       "seen_at": "2026-09-05T12:50:54",
       "key": "software engineer senior net cloud microservices | alten maroc"
+    },
+    "0dc7dd3360d285a2d1942400": {
+      "source": "ATS·Greenhouse·stripe",
+      "score": 100,
+      "seen_at": "2026-09-06T15:57:16",
+      "key": "forward deployed security engineer | stripe"
     }
   },
   "keys": {
@@ -1021,48 +1027,49 @@
     "staff security engineer | twilio": "6a593c7222a9ec5d5f60f1e1",
     "senior site reliability engineering | duolingo": "17f3020158510cd72228fbfb",
     "senior site reliability engineer | duolingo": "61a0699d32bccb14651027c5",
-    "staff product manager ai builder experience | mongodb": "a1169c366584e46db98b4b0f"
+    "staff product manager ai builder experience | mongodb": "a1169c366584e46db98b4b0f",
+    "forward deployed security engineer | stripe": "0dc7dd3360d285a2d1942400"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-06T12:55:26",
-      "last_run": "2026-09-06T12:55:26",
+      "last_ok_at": "2026-09-06T15:53:11",
+      "last_run": "2026-09-06T15:53:11",
       "last_error": "",
-      "last_ok_count": 24
+      "last_ok_count": 21
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-06T12:56:13",
-      "last_run": "2026-09-06T12:56:13",
+      "last_ok_at": "2026-09-06T15:53:41",
+      "last_run": "2026-09-06T15:53:41",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-06T12:57:50",
+      "last_run": "2026-09-06T15:55:18",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-06T12:58:20",
-      "last_run": "2026-09-06T12:58:20",
+      "last_ok_at": "2026-09-06T15:56:22",
+      "last_run": "2026-09-06T15:56:22",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-06T12:58:20",
+      "last_run": "2026-09-06T15:56:22",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-06T12:59:09",
-      "last_run": "2026-09-06T12:59:09",
+      "last_ok_at": "2026-09-06T15:57:11",
+      "last_run": "2026-09-06T15:57:11",
       "last_error": "",
       "last_ok_count": 1246
     }
@@ -1156,7 +1163,8 @@
       "6a593c7222a9ec5d5f60f1e1",
       "17f3020158510cd72228fbfb",
       "61a0699d32bccb14651027c5",
-      "a1169c366584e46db98b4b0f"
+      "a1169c366584e46db98b4b0f",
+      "0dc7dd3360d285a2d1942400"
     ],
     "companies": {
       "ALTEN Maroc": 11,
@@ -1179,14 +1187,14 @@
       "contentsquare": 2,
       "veepee": 1,
       "AXA Services Maroc": 1,
-      "Stripe": 1
+      "Stripe": 2
     },
     "skills": {
       "aws": 27,
       "azure": 26,
       "cloud": 45,
-      "security": 46,
-      "security engineer": 24,
+      "security": 47,
+      "security engineer": 25,
       "docker": 7,
       "gcp": 16,
       "kubernetes": 17,
@@ -1228,10 +1236,10 @@
       "ATS·Lever·swile": 3,
       "ATS·Lever·contentsquare": 2,
       "ATS·Lever·veepee": 1,
-      "ATS·Greenhouse·stripe": 1
+      "ATS·Greenhouse·stripe": 2
     },
     "salaries": [],
-    "total": 83,
+    "total": 84,
     "prev": {
       "week": "2026-W35",
       "companies": {
