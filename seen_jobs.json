@@ -947,6 +947,18 @@
       "score": 100,
       "seen_at": "2026-09-07T10:38:54",
       "key": "ingenieur iam confirme senior h f | afd tech"
+    },
+    "7eb7984eac9ed6d0b1639434": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-09-07T16:06:48",
+      "key": "ingenieurs cloud devops h f | afd tech"
+    },
+    "a1a15e290863f5ead6622572": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 70,
+      "seen_at": "2026-09-07T16:06:48",
+      "key": "senior software engineer security rules | cloudflare"
     }
   },
   "keys": {
@@ -1048,50 +1060,52 @@
     "staff product manager ai builder experience | mongodb": "a1169c366584e46db98b4b0f",
     "forward deployed security engineer | stripe": "0dc7dd3360d285a2d1942400",
     "business continuity datacenter governance expert h f | afd tech": "ffb765e62c1cc26b033233ee",
-    "ingenieur iam confirme senior h f | afd tech": "e84c96879f9a30a25ce0b186"
+    "ingenieur iam confirme senior h f | afd tech": "e84c96879f9a30a25ce0b186",
+    "ingenieurs cloud devops h f | afd tech": "7eb7984eac9ed6d0b1639434",
+    "senior software engineer security rules | cloudflare": "a1a15e290863f5ead6622572"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-09-07T10:34:40",
-      "last_run": "2026-09-07T10:34:40",
+      "last_run": "2026-09-07T16:01:46",
       "last_error": "",
       "last_ok_count": 21
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-07T10:35:23",
-      "last_run": "2026-09-07T10:35:23",
+      "last_ok_at": "2026-09-07T16:02:29",
+      "last_run": "2026-09-07T16:02:29",
       "last_error": "",
-      "last_ok_count": 40
+      "last_ok_count": 39
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-07T10:37:00",
+      "last_run": "2026-09-07T16:04:08",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-09-07T10:38:03",
-      "last_run": "2026-09-07T10:38:03",
+      "last_run": "2026-09-07T16:05:48",
       "last_error": "",
       "last_ok_count": 106
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-07T10:38:03",
+      "last_run": "2026-09-07T16:05:48",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-07T10:38:54",
-      "last_run": "2026-09-07T10:38:54",
+      "last_ok_at": "2026-09-07T16:06:48",
+      "last_run": "2026-09-07T16:06:48",
       "last_error": "",
-      "last_ok_count": 1244
+      "last_ok_count": 1246
     }
   },
   "digest": {
@@ -1109,6 +1123,22 @@
         "score": 50,
         "reasons": [
           "description: azure"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer, Security Rules",
+        "company": "Cloudflare",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8184838?gh_jid=8184838",
+        "date": "2026-09-07",
+        "location": "Hybrid",
+        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations: </strong>London (UK), Lisbon (Portugal)</p> <p><strong>About the role</strong></p> <p>Cloudflare’s Engineers build and operate the software that helps power 25+ million Internet properties and millions of businesses around the world. Across our engineering organizations, we have opportunities for high caliber, curious and empathetic people to take on big challenges and build some of the best skills in the industry. We’re looking for talented team members to help build high-growth products, help scale our expanding network, build tools to improve availability, performance, uptime, and response times, and make systems failure-resistant and ready-to-scale.</p> <p>We are looking for a talented Systems Engineer to join the Security Rules team. You will work on a range of microservices written mainly in Rust. Technologies we use include Docker, Go, PostgreSQL, Redis, Memcached, gRPC, Kafka, Clickhouse and the usual Unix/Linux tools and workflows. We strive to build reliable, fault-tolerant systems that can operate at Cloudflare’s scale. You will join a team of bright, hard-working, and supportive engineers who are passionate about their craft, and you will be comfortable operating in a fast-paced but sane work environment.</p> <p>As a senior engineer, you will take ownership of complex technical problems, lead projects from design through production oper",
+        "salary": "",
+        "source": "ATS·Greenhouse·cloudflare",
+        "id": "a1a15e290863f5ead6622572",
+        "score": 70,
+        "reasons": [
+          "security",
+          "description: docker + security"
         ]
       }
     ],
@@ -1184,7 +1214,9 @@
       "bf1a00fd56286b5b22c48b48",
       "a534aae94bd7edd0814d4253",
       "ffb765e62c1cc26b033233ee",
-      "e84c96879f9a30a25ce0b186"
+      "e84c96879f9a30a25ce0b186",
+      "7eb7984eac9ed6d0b1639434",
+      "a1a15e290863f5ead6622572"
     ],
     "companies": {
       "Cnexia": 5,
@@ -1193,7 +1225,7 @@
       "DXC - CDG": 1,
       "AXA Services Maroc": 1,
       "Inconnu": 3,
-      "Cloudflare": 5,
+      "Cloudflare": 6,
       "Datadog": 9,
       "Okta": 5,
       "Proton": 3,
@@ -1207,18 +1239,18 @@
       "swile": 3,
       "contentsquare": 2,
       "veepee": 1,
-      "AFD.Tech": 2
+      "AFD.Tech": 3
     },
     "skills": {
-      "aws": 22,
-      "azure": 23,
-      "cloud": 33,
-      "security": 39,
+      "aws": 23,
+      "azure": 24,
+      "cloud": 34,
+      "security": 40,
       "security engineer": 19,
       "azure active directory": 1,
-      "devops": 15,
-      "docker": 7,
-      "gcp": 15,
+      "devops": 16,
+      "docker": 8,
+      "gcp": 16,
       "gitlab ci": 2,
       "infrastructure as code": 8,
       "terraform": 9,
@@ -1241,9 +1273,9 @@
       "entra id": 1
     },
     "sources": {
-      "Rekrute": 19,
+      "Rekrute": 20,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 5,
+      "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·datadog": 9,
       "ATS·Greenhouse·okta": 5,
       "ATS·Greenhouse·proton": 3,
@@ -1259,7 +1291,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 68,
+    "total": 70,
     "prev": {
       "week": "2026-W36",
       "companies": {
