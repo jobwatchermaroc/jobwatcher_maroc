@@ -935,6 +935,18 @@
       "score": 75,
       "seen_at": "2026-09-06T17:51:08",
       "key": "ingenieur devops f h | sofrecom maroc"
+    },
+    "ffb765e62c1cc26b033233ee": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-09-07T10:38:54",
+      "key": "business continuity datacenter governance expert h f | afd tech"
+    },
+    "e84c96879f9a30a25ce0b186": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-09-07T10:38:54",
+      "key": "ingenieur iam confirme senior h f | afd tech"
     }
   },
   "keys": {
@@ -1034,54 +1046,72 @@
     "senior site reliability engineering | duolingo": "17f3020158510cd72228fbfb",
     "senior site reliability engineer | duolingo": "61a0699d32bccb14651027c5",
     "staff product manager ai builder experience | mongodb": "a1169c366584e46db98b4b0f",
-    "forward deployed security engineer | stripe": "0dc7dd3360d285a2d1942400"
+    "forward deployed security engineer | stripe": "0dc7dd3360d285a2d1942400",
+    "business continuity datacenter governance expert h f | afd tech": "ffb765e62c1cc26b033233ee",
+    "ingenieur iam confirme senior h f | afd tech": "e84c96879f9a30a25ce0b186"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-07T05:27:11",
-      "last_run": "2026-09-07T05:27:11",
+      "last_ok_at": "2026-09-07T10:34:40",
+      "last_run": "2026-09-07T10:34:40",
       "last_error": "",
-      "last_ok_count": 18
+      "last_ok_count": 21
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-07T05:27:45",
-      "last_run": "2026-09-07T05:27:45",
+      "last_ok_at": "2026-09-07T10:35:23",
+      "last_run": "2026-09-07T10:35:23",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-07T05:29:22",
+      "last_run": "2026-09-07T10:37:00",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-07T05:30:36",
-      "last_run": "2026-09-07T05:30:36",
+      "last_ok_at": "2026-09-07T10:38:03",
+      "last_run": "2026-09-07T10:38:03",
       "last_error": "",
-      "last_ok_count": 109
+      "last_ok_count": 106
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-07T05:30:36",
+      "last_run": "2026-09-07T10:38:03",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-07T05:31:29",
-      "last_run": "2026-09-07T05:31:29",
+      "last_ok_at": "2026-09-07T10:38:54",
+      "last_run": "2026-09-07T10:38:54",
       "last_error": "",
-      "last_ok_count": 1246
+      "last_ok_count": 1244
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Business Continuity & Datacenter Governance Expert - (H/F)",
+        "company": "AFD.Tech",
+        "url": "https://www.rekrute.com/offre-emploi-business-continuity-datacenter-governance-expert---hf-recrutement-afd.tech-rabat-186053.html",
+        "date": "07/09/2026",
+        "location": "Rabat (Maroc)",
+        "description": "connaissances des stratégies de disaster recovery dans les environnements cloud ( azure , gcp).",
+        "source": "Rekrute",
+        "offer_id": "186053",
+        "id": "ffb765e62c1cc26b033233ee",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-06"
   },
   "market": {
@@ -1152,7 +1182,9 @@
       "8d9c716907ee1f16a5f330a4",
       "bc31f19db846f39bbf2fb85e",
       "bf1a00fd56286b5b22c48b48",
-      "a534aae94bd7edd0814d4253"
+      "a534aae94bd7edd0814d4253",
+      "ffb765e62c1cc26b033233ee",
+      "e84c96879f9a30a25ce0b186"
     ],
     "companies": {
       "Cnexia": 5,
@@ -1174,18 +1206,19 @@
       "Duolingo": 4,
       "swile": 3,
       "contentsquare": 2,
-      "veepee": 1
+      "veepee": 1,
+      "AFD.Tech": 2
     },
     "skills": {
       "aws": 22,
-      "azure": 21,
-      "cloud": 32,
+      "azure": 23,
+      "cloud": 33,
       "security": 39,
       "security engineer": 19,
       "azure active directory": 1,
       "devops": 15,
       "docker": 7,
-      "gcp": 14,
+      "gcp": 15,
       "gitlab ci": 2,
       "infrastructure as code": 8,
       "terraform": 9,
@@ -1199,14 +1232,16 @@
       "casb": 1,
       "azure pipeline": 1,
       "github actions": 1,
-      "iam": 8,
+      "iam": 9,
       "site reliability": 5,
       "identity and access management": 5,
       "devops engineer": 2,
-      "platform engineer": 5
+      "platform engineer": 5,
+      "azure ad": 1,
+      "entra id": 1
     },
     "sources": {
-      "Rekrute": 17,
+      "Rekrute": 19,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·datadog": 9,
@@ -1224,7 +1259,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 66,
+    "total": 68,
     "prev": {
       "week": "2026-W36",
       "companies": {
@@ -1302,7 +1337,7 @@
       "salaries": [],
       "total": 84
     },
-    "prev_reported": false
+    "prev_reported": true
   },
   "contacts": {
     "cloudflare": {
@@ -1381,6 +1416,11 @@
       "domain": "asana.com",
       "emails": [],
       "updated_at": "2026-09-02T17:05:02"
+    },
+    "afd.tech": {
+      "domain": "",
+      "emails": [],
+      "updated_at": "2026-09-07T10:39:43"
     }
   }
 }
