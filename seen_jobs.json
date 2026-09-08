@@ -977,6 +977,12 @@
       "score": 100,
       "seen_at": "2026-09-08T20:10:41",
       "key": "senior platform security engineer | discord"
+    },
+    "5368ffd7d62e4d5a674d843f": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 60,
+      "seen_at": "2026-09-08T22:38:02",
+      "key": "senior product manager browser extension | cloudflare"
     }
   },
   "keys": {
@@ -1083,54 +1089,71 @@
     "senior software engineer security rules | cloudflare": "a1a15e290863f5ead6622572",
     "developpeur senior kafka | dxc cdg": "44758bdcadbad863abda6ec4",
     "site reliability engineer infrastructure platforms uk intermediate to senior staff | gitlab": "e67ad82bc3f946b9829d3cb0",
-    "senior platform security engineer | discord": "815b5d2827acf4e2ddc0cc94"
+    "senior platform security engineer | discord": "815b5d2827acf4e2ddc0cc94",
+    "senior product manager browser extension | cloudflare": "5368ffd7d62e4d5a674d843f"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-09-08T20:06:29",
-      "last_run": "2026-09-08T20:06:29",
+      "last_run": "2026-09-08T22:34:24",
       "last_error": "",
       "last_ok_count": 33
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-08T20:07:01",
-      "last_run": "2026-09-08T20:07:01",
+      "last_ok_at": "2026-09-08T22:35:00",
+      "last_run": "2026-09-08T22:35:00",
       "last_error": "",
       "last_ok_count": 39
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-08T20:08:39",
+      "last_run": "2026-09-08T22:36:37",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-08T20:09:43",
-      "last_run": "2026-09-08T20:09:43",
+      "last_ok_at": "2026-09-08T22:37:12",
+      "last_run": "2026-09-08T22:37:12",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-08T20:09:43",
+      "last_run": "2026-09-08T22:37:12",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-08T20:10:35",
-      "last_run": "2026-09-08T20:10:35",
+      "last_ok_at": "2026-09-08T22:38:02",
+      "last_run": "2026-09-08T22:38:02",
       "last_error": "",
       "last_ok_count": 1246
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Senior Product Manager, Browser Extension",
+        "company": "Cloudflare",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8173899?gh_jid=8173899",
+        "date": "2026-09-08",
+        "location": "Hybrid",
+        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations: </strong>Austin, TX | London, UK | Lisbon, Portugal</p> <h4><strong>About the Department</strong></h4> <p>The Product Management team at Cloudflare steers the strategy, roadmap, and execution that powers a faster, more secure internet. As part of the Zero Trust Security organization, our mission is to redefine corporate networking and security. We build solutions that protect users, devices, and data globally without sacrificing performance, replacing legacy architectures with our modern, identity-aware global network.</p> <h4><strong>About the role</strong></h4> <p>You will own the vision, strategy, roadmap, and execution for the Cloudflare One Browser Extension. You will also work alongside the Digital Experience Monitoring (DEX) and WARP Client teams, heavily influencing their direction and owning selected initiatives as customer needs and business priorities evolve.</p> <p>This role combines focused ownership with range. You will take an emerging product from early adoption to a scaled enterprise capability, while moving across adjacent Cloudflare One priorities where strong product leadership is needed. More than narrow domain expertise, success requires exceptional problem solving, sound judgment, and the ability to quickly understand and lead in new technical areas. This work will help advance Cloudflare’s long-term position in SASE and SSE.",
+        "salary": "",
+        "source": "ATS·Greenhouse·cloudflare",
+        "id": "5368ffd7d62e4d5a674d843f",
+        "score": 60,
+        "reasons": [
+          "description: zero trust + sase"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-08"
   },
   "market": {
@@ -1208,7 +1231,8 @@
       "a1a15e290863f5ead6622572",
       "44758bdcadbad863abda6ec4",
       "e67ad82bc3f946b9829d3cb0",
-      "815b5d2827acf4e2ddc0cc94"
+      "815b5d2827acf4e2ddc0cc94",
+      "5368ffd7d62e4d5a674d843f"
     ],
     "companies": {
       "Cnexia": 5,
@@ -1217,7 +1241,7 @@
       "DXC - CDG": 2,
       "AXA Services Maroc": 1,
       "Inconnu": 3,
-      "Cloudflare": 6,
+      "Cloudflare": 7,
       "Datadog": 9,
       "Okta": 5,
       "Proton": 3,
@@ -1238,7 +1262,7 @@
       "aws": 23,
       "azure": 25,
       "cloud": 35,
-      "security": 42,
+      "security": 43,
       "security engineer": 20,
       "azure active directory": 1,
       "devops": 16,
@@ -1252,8 +1276,8 @@
       "devsecops": 4,
       "sre": 6,
       "k8s": 2,
-      "sase": 2,
-      "zero trust": 3,
+      "sase": 3,
+      "zero trust": 4,
       "casb": 1,
       "azure pipeline": 1,
       "github actions": 1,
@@ -1268,7 +1292,7 @@
     "sources": {
       "Rekrute": 21,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 6,
+      "ATS·Greenhouse·cloudflare": 7,
       "ATS·Greenhouse·datadog": 9,
       "ATS·Greenhouse·okta": 5,
       "ATS·Greenhouse·proton": 3,
@@ -1285,7 +1309,7 @@
       "ATS·Greenhouse·gitlab": 1
     },
     "salaries": [],
-    "total": 73,
+    "total": 74,
     "prev": {
       "week": "2026-W36",
       "companies": {
