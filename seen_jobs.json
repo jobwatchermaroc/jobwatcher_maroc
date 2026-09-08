@@ -959,6 +959,12 @@
       "score": 70,
       "seen_at": "2026-09-07T16:06:48",
       "key": "senior software engineer security rules | cloudflare"
+    },
+    "44758bdcadbad863abda6ec4": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-09-08T13:45:10",
+      "key": "developpeur senior kafka | dxc cdg"
     }
   },
   "keys": {
@@ -1062,54 +1068,71 @@
     "business continuity datacenter governance expert h f | afd tech": "ffb765e62c1cc26b033233ee",
     "ingenieur iam confirme senior h f | afd tech": "e84c96879f9a30a25ce0b186",
     "ingenieurs cloud devops h f | afd tech": "7eb7984eac9ed6d0b1639434",
-    "senior software engineer security rules | cloudflare": "a1a15e290863f5ead6622572"
+    "senior software engineer security rules | cloudflare": "a1a15e290863f5ead6622572",
+    "developpeur senior kafka | dxc cdg": "44758bdcadbad863abda6ec4"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-08T04:57:20",
-      "last_run": "2026-09-08T09:18:00",
+      "last_ok_at": "2026-09-08T13:40:40",
+      "last_run": "2026-09-08T13:40:40",
       "last_error": "",
-      "last_ok_count": 21
+      "last_ok_count": 30
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-08T09:18:36",
-      "last_run": "2026-09-08T09:18:36",
+      "last_ok_at": "2026-09-08T13:41:25",
+      "last_run": "2026-09-08T13:41:25",
       "last_error": "",
-      "last_ok_count": 39
+      "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-08T09:20:13",
+      "last_run": "2026-09-08T13:43:03",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-08T05:00:49",
-      "last_run": "2026-09-08T09:20:43",
+      "last_ok_at": "2026-09-08T13:44:10",
+      "last_run": "2026-09-08T13:44:10",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-08T09:20:43",
+      "last_run": "2026-09-08T13:44:10",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-08T09:21:32",
-      "last_run": "2026-09-08T09:21:32",
+      "last_ok_at": "2026-09-08T13:45:10",
+      "last_run": "2026-09-08T13:45:10",
       "last_error": "",
       "last_ok_count": 1246
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Développeur Senior Kafka",
+        "company": "DXC - CDG",
+        "url": "https://www.rekrute.com/offre-emploi-developpeur-senior-kafka-recrutement-dxc---cdg-casablanca-186112.html",
+        "date": "08/09/2026",
+        "location": "Casablanca (Maroc)",
+        "description": "kafka, gcp, k8s, scripting, ansible, azure , rabbit, nifi",
+        "source": "Rekrute",
+        "offer_id": "186112",
+        "id": "44758bdcadbad863abda6ec4",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-07"
   },
   "market": {
@@ -1184,13 +1207,14 @@
       "ffb765e62c1cc26b033233ee",
       "e84c96879f9a30a25ce0b186",
       "7eb7984eac9ed6d0b1639434",
-      "a1a15e290863f5ead6622572"
+      "a1a15e290863f5ead6622572",
+      "44758bdcadbad863abda6ec4"
     ],
     "companies": {
       "Cnexia": 5,
       "ALTEN Maroc": 7,
       "Sofrecom Maroc": 3,
-      "DXC - CDG": 1,
+      "DXC - CDG": 2,
       "AXA Services Maroc": 1,
       "Inconnu": 3,
       "Cloudflare": 6,
@@ -1211,14 +1235,14 @@
     },
     "skills": {
       "aws": 23,
-      "azure": 24,
+      "azure": 25,
       "cloud": 34,
       "security": 40,
       "security engineer": 19,
       "azure active directory": 1,
       "devops": 16,
       "docker": 8,
-      "gcp": 16,
+      "gcp": 17,
       "gitlab ci": 2,
       "infrastructure as code": 8,
       "terraform": 9,
@@ -1226,7 +1250,7 @@
       "ci/cd": 10,
       "devsecops": 3,
       "sre": 6,
-      "k8s": 1,
+      "k8s": 2,
       "sase": 2,
       "zero trust": 2,
       "casb": 1,
@@ -1241,7 +1265,7 @@
       "entra id": 1
     },
     "sources": {
-      "Rekrute": 20,
+      "Rekrute": 21,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·datadog": 9,
@@ -1259,7 +1283,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 70,
+    "total": 71,
     "prev": {
       "week": "2026-W36",
       "companies": {
