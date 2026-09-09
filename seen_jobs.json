@@ -1095,43 +1095,43 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T00:30:18",
-      "last_run": "2026-09-09T00:30:18",
+      "last_ok_at": "2026-09-09T05:01:39",
+      "last_run": "2026-09-09T05:01:39",
       "last_error": "",
       "last_ok_count": 33
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T00:31:02",
-      "last_run": "2026-09-09T00:31:02",
+      "last_ok_at": "2026-09-09T05:02:10",
+      "last_run": "2026-09-09T05:02:10",
       "last_error": "",
       "last_ok_count": 39
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-09T00:32:39",
+      "last_run": "2026-09-09T05:03:47",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T00:33:45",
-      "last_run": "2026-09-09T00:33:45",
+      "last_ok_at": "2026-09-09T05:04:49",
+      "last_run": "2026-09-09T05:04:49",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-09T00:33:45",
+      "last_run": "2026-09-09T05:04:49",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T00:34:38",
-      "last_run": "2026-09-09T00:34:38",
+      "last_ok_at": "2026-09-09T05:05:40",
+      "last_run": "2026-09-09T05:05:40",
       "last_error": "",
       "last_ok_count": 1246
     }
@@ -1232,7 +1232,8 @@
       "44758bdcadbad863abda6ec4",
       "e67ad82bc3f946b9829d3cb0",
       "815b5d2827acf4e2ddc0cc94",
-      "5368ffd7d62e4d5a674d843f"
+      "5368ffd7d62e4d5a674d843f",
+      "415a66da1edcc82c19938cad"
     ],
     "companies": {
       "Cnexia": 5,
@@ -1256,13 +1257,13 @@
       "contentsquare": 2,
       "veepee": 1,
       "AFD.Tech": 3,
-      "GitLab": 1
+      "GitLab": 2
     },
     "skills": {
       "aws": 23,
       "azure": 25,
-      "cloud": 35,
-      "security": 43,
+      "cloud": 36,
+      "security": 44,
       "security engineer": 20,
       "azure active directory": 1,
       "devops": 16,
@@ -1273,7 +1274,7 @@
       "terraform": 9,
       "kubernetes": 16,
       "ci/cd": 11,
-      "devsecops": 4,
+      "devsecops": 5,
       "sre": 6,
       "k8s": 2,
       "sase": 3,
@@ -1306,10 +1307,10 @@
       "ATS·Lever·swile": 3,
       "ATS·Lever·contentsquare": 2,
       "ATS·Lever·veepee": 1,
-      "ATS·Greenhouse·gitlab": 1
+      "ATS·Greenhouse·gitlab": 2
     },
     "salaries": [],
-    "total": 74,
+    "total": 75,
     "prev": {
       "week": "2026-W36",
       "companies": {
