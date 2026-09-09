@@ -1001,6 +1001,12 @@
       "score": 85,
       "seen_at": "2026-09-09T17:24:56",
       "key": "senior security technical program manager | asana"
+    },
+    "58b6496749cf9736cc8197b1": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 100,
+      "seen_at": "2026-09-09T19:55:13",
+      "key": "senior solutions engineer cloudflare one sase sse | cloudflare"
     }
   },
   "keys": {
@@ -1111,101 +1117,56 @@
     "senior product manager browser extension | cloudflare": "5368ffd7d62e4d5a674d843f",
     "tech lead databricks f h | cgi technologies et solutions maroc": "079cdae3395ea1054979d09a",
     "senior sales engineer key accounts amer east | datadog": "ba134df1acbf12503d179bf6",
-    "senior security technical program manager | asana": "89869b70a649d195b5953e2c"
+    "senior security technical program manager | asana": "89869b70a649d195b5953e2c",
+    "senior solutions engineer cloudflare one sase sse | cloudflare": "58b6496749cf9736cc8197b1"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T17:20:37",
-      "last_run": "2026-09-09T17:20:37",
+      "last_ok_at": "2026-09-09T19:51:07",
+      "last_run": "2026-09-09T19:51:07",
       "last_error": "",
-      "last_ok_count": 42
+      "last_ok_count": 44
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T17:21:21",
-      "last_run": "2026-09-09T17:21:21",
+      "last_ok_at": "2026-09-09T19:51:42",
+      "last_run": "2026-09-09T19:51:42",
       "last_error": "",
       "last_ok_count": 39
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-09T17:22:58",
+      "last_run": "2026-09-09T19:53:20",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T17:23:32",
-      "last_run": "2026-09-09T17:23:32",
+      "last_ok_at": "2026-09-09T19:54:25",
+      "last_run": "2026-09-09T19:54:25",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-09T17:23:32",
+      "last_run": "2026-09-09T19:54:25",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T17:24:50",
-      "last_run": "2026-09-09T17:24:50",
+      "last_ok_at": "2026-09-09T19:55:13",
+      "last_run": "2026-09-09T19:55:13",
       "last_error": "",
-      "last_ok_count": 1183
+      "last_ok_count": 1242
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Senior Product Manager, Browser Extension",
-        "company": "Cloudflare",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8173899?gh_jid=8173899",
-        "date": "2026-09-08",
-        "location": "Hybrid",
-        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations: </strong>Austin, TX | London, UK | Lisbon, Portugal</p> <h4><strong>About the Department</strong></h4> <p>The Product Management team at Cloudflare steers the strategy, roadmap, and execution that powers a faster, more secure internet. As part of the Zero Trust Security organization, our mission is to redefine corporate networking and security. We build solutions that protect users, devices, and data globally without sacrificing performance, replacing legacy architectures with our modern, identity-aware global network.</p> <h4><strong>About the role</strong></h4> <p>You will own the vision, strategy, roadmap, and execution for the Cloudflare One Browser Extension. You will also work alongside the Digital Experience Monitoring (DEX) and WARP Client teams, heavily influencing their direction and owning selected initiatives as customer needs and business priorities evolve.</p> <p>This role combines focused ownership with range. You will take an emerging product from early adoption to a scaled enterprise capability, while moving across adjacent Cloudflare One priorities where strong product leadership is needed. More than narrow domain expertise, success requires exceptional problem solving, sound judgment, and the ability to quickly understand and lead in new technical areas. This work will help advance Cloudflare’s long-term position in SASE and SSE.",
-        "salary": "",
-        "source": "ATS·Greenhouse·cloudflare",
-        "id": "5368ffd7d62e4d5a674d843f",
-        "score": 60,
-        "reasons": [
-          "description: zero trust + sase"
-        ]
-      },
-      {
-        "title": "Tech Lead Databricks F/H",
-        "company": "CGI Technologies et Solutions Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-tech-lead-databricks-fh-recrutement-cgi-technologies-et-solutions-maroc-rabat-186155.html",
-        "date": "09/09/2026",
-        "location": "Rabat (Maroc)",
-        "description": "qualités requises pour réussir dans ce rôle • expertise databricks • très bonne maîtrise spark / pyspark / sql • expérience solide en data engineering et architecture data • connaissance cloud : azure , aws ou gcp • expérience ci/cd, git, orchestration (airflow, adf…) profil • expérience confirmée en rôle de tech lead ou expert data • capacité à accompagner et challenger les équipes techniques • français courant obligatoire • anglais professionnel apprécié environnement databricks – spark – pyspark – sql – cloud – delta lake – ci/cd – airflow – terraform.",
-        "source": "Rekrute",
-        "offer_id": "186155",
-        "id": "079cdae3395ea1054979d09a",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      },
-      {
-        "title": "Senior Sales Engineer - Key Accounts (AMER - East)",
-        "company": "Datadog",
-        "url": "https://careers.datadoghq.com/detail/8180585/?gh_jid=8180585",
-        "date": "2026-09-09",
-        "location": "Florida, USA, Remote; Georgia, USA, Remote; Maryland, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; North Carolina, USA, Remote; Pennsylvania, USA, Remote; Virginia, USA, Remote",
-        "description": "<p>As a Senior Enterprise Sales Engineer, you’ll serve as a trusted technical advisor and strategic partner to both customers and Sales. You’ll lead complex technical evaluations, align solutions to business outcomes, and help shape deal strategy in high-impact opportunities.</p> <p>This role goes beyond delivering demos - you’ll own the evaluation experience end-to-end, influence key stakeholders, and help drive successful outcomes across enterprise accounts.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won</li> <li>Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions and measurable business outcomes&nbsp;</li> <li>Deliver engaging product demos, technical presentations, and solution workshops that connect platform capabilities to customer outcomes for diverse stakeholder audiences including executives&nbsp;</li> <li>Full ownership of the technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining competitive success criteria, building a project plan with clear timelines, and holding all participants accountable to the process</li> <li>Identify, develop, and leverage technical champions across multi-stakeholder environments, building a structured plan for champion cultivation and influence throughout the deal cycle&nbsp;</li> <li>Contribute to product direction through active participation in structured product and engineering field feedback sessions, bringing field insights and customer patterns to PM and engineering teams</li> <li>Drive operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp;</li> <li>Identify and proactively resolve technical and organizational blockers by collaborating across Product, Support, and GTM teams before customers are impacted</li> <li>Contribute to team enablement by mentoring peers, sharing best practices, and creating reusable assets that scale knowledge across the region</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>7+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment</li> <li>Skilled at influencing and adapting communication across technical, business, and executive audiences&nbsp;</li> <li>Advanced background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Strong communication skills, with the ability to explain tech",
-        "salary": "",
-        "source": "ATS·Greenhouse·datadog",
-        "id": "ba134df1acbf12503d179bf6",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-09-08"
+    "buffer": [],
+    "last_sent_date": "2026-09-09"
   },
   "market": {
     "week": "2026-W37",
@@ -1287,7 +1248,8 @@
       "415a66da1edcc82c19938cad",
       "079cdae3395ea1054979d09a",
       "ba134df1acbf12503d179bf6",
-      "89869b70a649d195b5953e2c"
+      "89869b70a649d195b5953e2c",
+      "58b6496749cf9736cc8197b1"
     ],
     "companies": {
       "Cnexia": 5,
@@ -1296,7 +1258,7 @@
       "DXC - CDG": 2,
       "AXA Services Maroc": 1,
       "Inconnu": 3,
-      "Cloudflare": 7,
+      "Cloudflare": 8,
       "Datadog": 10,
       "Okta": 5,
       "Proton": 3,
@@ -1318,7 +1280,7 @@
       "aws": 25,
       "azure": 27,
       "cloud": 38,
-      "security": 46,
+      "security": 47,
       "security engineer": 21,
       "azure active directory": 1,
       "devops": 16,
@@ -1332,8 +1294,8 @@
       "devsecops": 5,
       "sre": 6,
       "k8s": 2,
-      "sase": 3,
-      "zero trust": 4,
+      "sase": 4,
+      "zero trust": 5,
       "casb": 1,
       "azure pipeline": 1,
       "github actions": 1,
@@ -1348,7 +1310,7 @@
     "sources": {
       "Rekrute": 22,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 7,
+      "ATS·Greenhouse·cloudflare": 8,
       "ATS·Greenhouse·datadog": 10,
       "ATS·Greenhouse·okta": 5,
       "ATS·Greenhouse·proton": 3,
@@ -1365,7 +1327,7 @@
       "ATS·Greenhouse·gitlab": 2
     },
     "salaries": [],
-    "total": 78,
+    "total": 79,
     "prev": {
       "week": "2026-W36",
       "companies": {
