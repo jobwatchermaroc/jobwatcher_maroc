@@ -989,6 +989,18 @@
       "score": 50,
       "seen_at": "2026-09-09T09:34:41",
       "key": "tech lead databricks f h | cgi technologies et solutions maroc"
+    },
+    "ba134df1acbf12503d179bf6": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 50,
+      "seen_at": "2026-09-09T17:24:52",
+      "key": "senior sales engineer key accounts amer east | datadog"
+    },
+    "89869b70a649d195b5953e2c": {
+      "source": "ATS·Greenhouse·asana",
+      "score": 85,
+      "seen_at": "2026-09-09T17:24:56",
+      "key": "senior security technical program manager | asana"
     }
   },
   "keys": {
@@ -1097,50 +1109,52 @@
     "site reliability engineer infrastructure platforms uk intermediate to senior staff | gitlab": "e67ad82bc3f946b9829d3cb0",
     "senior platform security engineer | discord": "815b5d2827acf4e2ddc0cc94",
     "senior product manager browser extension | cloudflare": "5368ffd7d62e4d5a674d843f",
-    "tech lead databricks f h | cgi technologies et solutions maroc": "079cdae3395ea1054979d09a"
+    "tech lead databricks f h | cgi technologies et solutions maroc": "079cdae3395ea1054979d09a",
+    "senior sales engineer key accounts amer east | datadog": "ba134df1acbf12503d179bf6",
+    "senior security technical program manager | asana": "89869b70a649d195b5953e2c"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T13:50:26",
-      "last_run": "2026-09-09T13:50:26",
+      "last_ok_at": "2026-09-09T17:20:37",
+      "last_run": "2026-09-09T17:20:37",
       "last_error": "",
-      "last_ok_count": 38
+      "last_ok_count": 42
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T13:50:59",
-      "last_run": "2026-09-09T13:50:59",
+      "last_ok_at": "2026-09-09T17:21:21",
+      "last_run": "2026-09-09T17:21:21",
       "last_error": "",
       "last_ok_count": 39
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-09T13:52:36",
+      "last_run": "2026-09-09T17:22:58",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T13:53:40",
-      "last_run": "2026-09-09T13:53:40",
+      "last_ok_at": "2026-09-09T17:23:32",
+      "last_run": "2026-09-09T17:23:32",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-09T13:53:40",
+      "last_run": "2026-09-09T17:23:32",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T13:54:29",
-      "last_run": "2026-09-09T13:54:29",
+      "last_ok_at": "2026-09-09T17:24:50",
+      "last_run": "2026-09-09T17:24:50",
       "last_error": "",
-      "last_ok_count": 1243
+      "last_ok_count": 1183
     }
   },
   "digest": {
@@ -1170,6 +1184,21 @@
         "source": "Rekrute",
         "offer_id": "186155",
         "id": "079cdae3395ea1054979d09a",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      },
+      {
+        "title": "Senior Sales Engineer - Key Accounts (AMER - East)",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8180585/?gh_jid=8180585",
+        "date": "2026-09-09",
+        "location": "Florida, USA, Remote; Georgia, USA, Remote; Maryland, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote; North Carolina, USA, Remote; Pennsylvania, USA, Remote; Virginia, USA, Remote",
+        "description": "<p>As a Senior Enterprise Sales Engineer, you’ll serve as a trusted technical advisor and strategic partner to both customers and Sales. You’ll lead complex technical evaluations, align solutions to business outcomes, and help shape deal strategy in high-impact opportunities.</p> <p>This role goes beyond delivering demos - you’ll own the evaluation experience end-to-end, influence key stakeholders, and help drive successful outcomes across enterprise accounts.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won</li> <li>Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions and measurable business outcomes&nbsp;</li> <li>Deliver engaging product demos, technical presentations, and solution workshops that connect platform capabilities to customer outcomes for diverse stakeholder audiences including executives&nbsp;</li> <li>Full ownership of the technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining competitive success criteria, building a project plan with clear timelines, and holding all participants accountable to the process</li> <li>Identify, develop, and leverage technical champions across multi-stakeholder environments, building a structured plan for champion cultivation and influence throughout the deal cycle&nbsp;</li> <li>Contribute to product direction through active participation in structured product and engineering field feedback sessions, bringing field insights and customer patterns to PM and engineering teams</li> <li>Drive operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp;</li> <li>Identify and proactively resolve technical and organizational blockers by collaborating across Product, Support, and GTM teams before customers are impacted</li> <li>Contribute to team enablement by mentoring peers, sharing best practices, and creating reusable assets that scale knowledge across the region</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>7+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment</li> <li>Skilled at influencing and adapting communication across technical, business, and executive audiences&nbsp;</li> <li>Advanced background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Strong communication skills, with the ability to explain tech",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "ba134df1acbf12503d179bf6",
         "score": 50,
         "reasons": [
           "description: azure"
@@ -1256,7 +1285,9 @@
       "815b5d2827acf4e2ddc0cc94",
       "5368ffd7d62e4d5a674d843f",
       "415a66da1edcc82c19938cad",
-      "079cdae3395ea1054979d09a"
+      "079cdae3395ea1054979d09a",
+      "ba134df1acbf12503d179bf6",
+      "89869b70a649d195b5953e2c"
     ],
     "companies": {
       "Cnexia": 5,
@@ -1266,13 +1297,13 @@
       "AXA Services Maroc": 1,
       "Inconnu": 3,
       "Cloudflare": 7,
-      "Datadog": 9,
+      "Datadog": 10,
       "Okta": 5,
       "Proton": 3,
       "MongoDB": 1,
       "Twilio": 4,
       "Stripe": 2,
-      "Asana": 1,
+      "Asana": 2,
       "Reddit": 1,
       "Discord": 6,
       "Duolingo": 4,
@@ -1284,19 +1315,19 @@
       "CGI Technologies et Solutions Maroc": 1
     },
     "skills": {
-      "aws": 24,
-      "azure": 26,
-      "cloud": 37,
-      "security": 44,
-      "security engineer": 20,
+      "aws": 25,
+      "azure": 27,
+      "cloud": 38,
+      "security": 46,
+      "security engineer": 21,
       "azure active directory": 1,
       "devops": 16,
       "docker": 8,
-      "gcp": 18,
+      "gcp": 19,
       "gitlab ci": 2,
       "infrastructure as code": 8,
       "terraform": 10,
-      "kubernetes": 16,
+      "kubernetes": 17,
       "ci/cd": 12,
       "devsecops": 5,
       "sre": 6,
@@ -1318,13 +1349,13 @@
       "Rekrute": 22,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 7,
-      "ATS·Greenhouse·datadog": 9,
+      "ATS·Greenhouse·datadog": 10,
       "ATS·Greenhouse·okta": 5,
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·mongodb": 1,
       "ATS·Greenhouse·twilio": 4,
       "ATS·Greenhouse·stripe": 2,
-      "ATS·Greenhouse·asana": 1,
+      "ATS·Greenhouse·asana": 2,
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 6,
       "ATS·Greenhouse·duolingo": 4,
@@ -1334,7 +1365,7 @@
       "ATS·Greenhouse·gitlab": 2
     },
     "salaries": [],
-    "total": 76,
+    "total": 78,
     "prev": {
       "week": "2026-W36",
       "companies": {
@@ -1490,7 +1521,7 @@
     "asana": {
       "domain": "asana.com",
       "emails": [],
-      "updated_at": "2026-09-02T17:05:02"
+      "updated_at": "2026-09-09T17:25:11"
     },
     "afd.tech": {
       "domain": "",
