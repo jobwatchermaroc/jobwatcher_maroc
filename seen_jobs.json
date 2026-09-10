@@ -1007,6 +1007,12 @@
       "score": 100,
       "seen_at": "2026-09-09T19:55:13",
       "key": "senior solutions engineer cloudflare one sase sse | cloudflare"
+    },
+    "40ee4a39d5b69fb6491a1eb2": {
+      "source": "ATS·Greenhouse·stripe",
+      "score": 100,
+      "seen_at": "2026-09-10T01:36:12",
+      "key": "security engineer | stripe"
     }
   },
   "keys": {
@@ -1118,48 +1124,49 @@
     "tech lead databricks f h | cgi technologies et solutions maroc": "079cdae3395ea1054979d09a",
     "senior sales engineer key accounts amer east | datadog": "ba134df1acbf12503d179bf6",
     "senior security technical program manager | asana": "89869b70a649d195b5953e2c",
-    "senior solutions engineer cloudflare one sase sse | cloudflare": "58b6496749cf9736cc8197b1"
+    "senior solutions engineer cloudflare one sase sse | cloudflare": "58b6496749cf9736cc8197b1",
+    "security engineer | stripe": "40ee4a39d5b69fb6491a1eb2"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T22:00:13",
-      "last_run": "2026-09-09T23:52:26",
+      "last_ok_at": "2026-09-10T01:32:02",
+      "last_run": "2026-09-10T01:32:02",
       "last_error": "",
       "last_ok_count": 44
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T23:53:07",
-      "last_run": "2026-09-09T23:53:07",
+      "last_ok_at": "2026-09-10T01:32:40",
+      "last_run": "2026-09-10T01:32:40",
       "last_error": "",
       "last_ok_count": 39
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-09T23:54:44",
+      "last_run": "2026-09-10T01:34:17",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T22:02:58",
-      "last_run": "2026-09-09T23:55:11",
+      "last_ok_at": "2026-09-10T01:35:19",
+      "last_run": "2026-09-10T01:35:19",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-09T23:55:11",
+      "last_run": "2026-09-10T01:35:19",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-09T23:55:59",
-      "last_run": "2026-09-09T23:55:59",
+      "last_ok_at": "2026-09-10T01:36:07",
+      "last_run": "2026-09-10T01:36:07",
       "last_error": "",
       "last_ok_count": 1242
     }
@@ -1250,7 +1257,8 @@
       "ba134df1acbf12503d179bf6",
       "89869b70a649d195b5953e2c",
       "58b6496749cf9736cc8197b1",
-      "205a4c0099cab17f97f88698"
+      "205a4c0099cab17f97f88698",
+      "40ee4a39d5b69fb6491a1eb2"
     ],
     "companies": {
       "Cnexia": 5,
@@ -1265,7 +1273,7 @@
       "Proton": 3,
       "MongoDB": 1,
       "Twilio": 4,
-      "Stripe": 3,
+      "Stripe": 4,
       "Asana": 2,
       "Reddit": 1,
       "Discord": 6,
@@ -1281,8 +1289,8 @@
       "aws": 25,
       "azure": 27,
       "cloud": 38,
-      "security": 48,
-      "security engineer": 22,
+      "security": 49,
+      "security engineer": 23,
       "azure active directory": 1,
       "devops": 16,
       "docker": 8,
@@ -1317,7 +1325,7 @@
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·mongodb": 1,
       "ATS·Greenhouse·twilio": 4,
-      "ATS·Greenhouse·stripe": 3,
+      "ATS·Greenhouse·stripe": 4,
       "ATS·Greenhouse·asana": 2,
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 6,
@@ -1328,7 +1336,7 @@
       "ATS·Greenhouse·gitlab": 2
     },
     "salaries": [],
-    "total": 80,
+    "total": 81,
     "prev": {
       "week": "2026-W36",
       "companies": {
