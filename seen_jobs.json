@@ -1013,6 +1013,12 @@
       "score": 100,
       "seen_at": "2026-09-10T01:36:12",
       "key": "security engineer | stripe"
+    },
+    "cfa2c788c73bdd2aba683981": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-09-10T11:48:52",
+      "key": "stage pfe | cnexia"
     }
   },
   "keys": {
@@ -1125,54 +1131,71 @@
     "senior sales engineer key accounts amer east | datadog": "ba134df1acbf12503d179bf6",
     "senior security technical program manager | asana": "89869b70a649d195b5953e2c",
     "senior solutions engineer cloudflare one sase sse | cloudflare": "58b6496749cf9736cc8197b1",
-    "security engineer | stripe": "40ee4a39d5b69fb6491a1eb2"
+    "security engineer | stripe": "40ee4a39d5b69fb6491a1eb2",
+    "stage pfe | cnexia": "cfa2c788c73bdd2aba683981"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-10T06:33:42",
-      "last_run": "2026-09-10T06:33:42",
+      "last_ok_at": "2026-09-10T11:44:45",
+      "last_run": "2026-09-10T11:44:45",
       "last_error": "",
-      "last_ok_count": 44
+      "last_ok_count": 45
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-10T06:34:12",
-      "last_run": "2026-09-10T06:34:12",
+      "last_ok_at": "2026-09-10T11:45:25",
+      "last_run": "2026-09-10T11:45:25",
       "last_error": "",
       "last_ok_count": 39
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-10T06:35:50",
+      "last_run": "2026-09-10T11:47:02",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-10T06:36:50",
-      "last_run": "2026-09-10T06:36:50",
+      "last_ok_at": "2026-09-10T11:48:00",
+      "last_run": "2026-09-10T11:48:00",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-10T06:36:50",
+      "last_run": "2026-09-10T11:48:00",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-10T06:37:42",
-      "last_run": "2026-09-10T06:37:42",
+      "last_ok_at": "2026-09-10T11:48:52",
+      "last_run": "2026-09-10T11:48:52",
       "last_error": "",
       "last_ok_count": 1241
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "STAGE PFE",
+        "company": "Cnexia",
+        "url": "https://www.rekrute.com/offre-emploi-stage-pfe-recrutement-cnexia-rabat-186213.html",
+        "date": "10/09/2026",
+        "location": "Rabat (Maroc)",
+        "description": "* étudiant(e) en dernière année d’école d’ingénieurs ou de formation bac+5 en cloud computing, devops, infrastructure, systèmes, réseaux ou domaine similaire. * bonne connaissance de google cloud platform (gcp). * maîtrise ou bonnes connaissances de kubernetes et docker. * connaissances en terraform et en infrastructure as code. * bonne compréhension des principes et outils ci/cd. * bonnes bases en linux et en scripting/automatisation. * connaissances de git. * esprit analytique, autonomie, curiosité technique et capacité à travailler en équipe. * bon niveau de communication en français et/ou anglais.",
+        "source": "Rekrute",
+        "offer_id": "186213",
+        "id": "cfa2c788c73bdd2aba683981",
+        "score": 50,
+        "reasons": [
+          "description: infrastructure as code"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-09"
   },
   "market": {
@@ -1258,10 +1281,11 @@
       "89869b70a649d195b5953e2c",
       "58b6496749cf9736cc8197b1",
       "205a4c0099cab17f97f88698",
-      "40ee4a39d5b69fb6491a1eb2"
+      "40ee4a39d5b69fb6491a1eb2",
+      "cfa2c788c73bdd2aba683981"
     ],
     "companies": {
-      "Cnexia": 5,
+      "Cnexia": 6,
       "ALTEN Maroc": 7,
       "Sofrecom Maroc": 3,
       "DXC - CDG": 2,
@@ -1288,18 +1312,18 @@
     "skills": {
       "aws": 25,
       "azure": 27,
-      "cloud": 38,
+      "cloud": 39,
       "security": 49,
       "security engineer": 23,
       "azure active directory": 1,
-      "devops": 16,
-      "docker": 8,
-      "gcp": 19,
+      "devops": 17,
+      "docker": 9,
+      "gcp": 20,
       "gitlab ci": 2,
-      "infrastructure as code": 8,
-      "terraform": 10,
-      "kubernetes": 17,
-      "ci/cd": 12,
+      "infrastructure as code": 9,
+      "terraform": 11,
+      "kubernetes": 18,
+      "ci/cd": 13,
       "devsecops": 5,
       "sre": 6,
       "k8s": 2,
@@ -1317,7 +1341,7 @@
       "entra id": 1
     },
     "sources": {
-      "Rekrute": 22,
+      "Rekrute": 23,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 8,
       "ATS·Greenhouse·datadog": 10,
@@ -1336,7 +1360,7 @@
       "ATS·Greenhouse·gitlab": 2
     },
     "salaries": [],
-    "total": 81,
+    "total": 82,
     "prev": {
       "week": "2026-W36",
       "companies": {
