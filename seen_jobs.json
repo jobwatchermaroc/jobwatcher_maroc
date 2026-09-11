@@ -1043,6 +1043,12 @@
       "score": 60,
       "seen_at": "2026-09-11T17:24:47",
       "key": "principal global security operations center | okta"
+    },
+    "c4f0007cd6c6dfe62c0eeed9": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 85,
+      "seen_at": "2026-09-11T19:54:06",
+      "key": "senior product manager email security | cloudflare"
     }
   },
   "keys": {
@@ -1160,88 +1166,56 @@
     "backend python engineer azure devops | afd tech": "7143b3b52982ebf935d6dff3",
     "solutions engineering associate okta | okta": "3499ff15f8c04047fdf40afe",
     "data engineer bigquery sql python gcp | alten maroc": "35b126cb2209c3274312c4a2",
-    "principal global security operations center | okta": "126638f84cedbfa6b18dd86d"
+    "principal global security operations center | okta": "126638f84cedbfa6b18dd86d",
+    "senior product manager email security | cloudflare": "c4f0007cd6c6dfe62c0eeed9"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-11T17:21:03",
-      "last_run": "2026-09-11T17:21:03",
+      "last_ok_at": "2026-09-11T19:50:00",
+      "last_run": "2026-09-11T19:50:00",
       "last_error": "",
-      "last_ok_count": 43
+      "last_ok_count": 44
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-11T17:21:45",
-      "last_run": "2026-09-11T17:21:45",
+      "last_ok_at": "2026-09-11T19:50:41",
+      "last_run": "2026-09-11T19:50:41",
       "last_error": "",
       "last_ok_count": 41
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-11T17:23:23",
+      "last_run": "2026-09-11T19:52:18",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-11T17:23:56",
-      "last_run": "2026-09-11T17:23:56",
+      "last_ok_at": "2026-09-11T19:53:13",
+      "last_run": "2026-09-11T19:53:13",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-11T17:23:56",
+      "last_run": "2026-09-11T19:53:13",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-11T17:24:45",
-      "last_run": "2026-09-11T17:24:45",
+      "last_ok_at": "2026-09-11T19:54:05",
+      "last_run": "2026-09-11T19:54:05",
       "last_error": "",
       "last_ok_count": 1240
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Data Engineer – BigQuery / SQL / Python / GCP",
-        "company": "ALTEN Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-data-engineer-bigquery-sql-python-gcp-recrutement-alten-maroc-fes-186283.html",
-        "date": "11/09/2026",
-        "location": "Fes (Maroc)",
-        "description": "expérience pratique avec google cloud platform (gcp).",
-        "source": "Rekrute",
-        "offer_id": "186283",
-        "id": "35b126cb2209c3274312c4a2",
-        "score": 75,
-        "reasons": [
-          "gcp",
-          "description: cloud + gcp"
-        ]
-      },
-      {
-        "title": "Principal, Global Security Operations Center",
-        "company": "Okta",
-        "url": "https://www.okta.com/company/careers/opportunity/8186035?gh_jid=8186035",
-        "date": "2026-09-11",
-        "location": "Washington, DC",
-        "description": "<div class=\"content-intro\"><p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.<br><br>This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.</p></div><p><strong>Secure Every Identity, From AI to Human</strong></p> <p>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.</p> <p>This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.</p> <p><strong>The (Function/Dept) Team</strong></p> <p>(The Global Security &amp; Safety team protects Okta’s most valuable assets - our people, workplaces, and operations across the globe. By integrating cutting-edge physical security technologies, AI-driven automation, and proactive intelligence, we build resilient, secure environments that empower Oktanauts to do their best work safely. We operate as trusted partners across the business, driving forward-thinking safety initiatives and modernizing global operations to stay ahead of evolving risks.)</p> <p><strong>The Principal, Global Security Operations Center Opportunity</strong></p> <p>Reporting to the Director, Global Security &amp; Safety, this role will serve as the lead operational driver and technical subject matter expert for Okta’s global security operations center.</p> <p>Transitioning from traditional database management to proactive, automated security solutions, this role is responsible for driving the operational deployment, optimization, and day-to-day leveraging of complex physical security technologies. You will autonomously lead global programs with minimal oversight, leveraging Artificial Intelligence (AI), automation, and advanced analytics within our operations to help create a highly efficient, future-proof GSOC environment. This role focuses on high-level operational execution, integration, and performance optimization, with a critical emphasis on identifying and leveraging world-class technologies—both internal platforms and external cutting-edge solutions—to deliver the highest level of protection, responsiveness, and support for Okta globally.</p> <p><strong>What you'll be doing</strong></p> <ul> <li>Strategic GSOC Leadership: Assume full operational responsibility for the Global Security Operations Center, driving the transition from legacy syste",
-        "salary": "",
-        "source": "ATS·Greenhouse·okta",
-        "id": "126638f84cedbfa6b18dd86d",
-        "score": 60,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-09-10"
+    "buffer": [],
+    "last_sent_date": "2026-09-11"
   },
   "market": {
     "week": "2026-W37",
@@ -1331,7 +1305,9 @@
       "7143b3b52982ebf935d6dff3",
       "3499ff15f8c04047fdf40afe",
       "35b126cb2209c3274312c4a2",
-      "126638f84cedbfa6b18dd86d"
+      "126638f84cedbfa6b18dd86d",
+      "144f188dafd5f4c5b34b2d53",
+      "c4f0007cd6c6dfe62c0eeed9"
     ],
     "companies": {
       "Cnexia": 6,
@@ -1340,7 +1316,7 @@
       "DXC - CDG": 2,
       "AXA Services Maroc": 1,
       "Inconnu": 3,
-      "Cloudflare": 8,
+      "Cloudflare": 10,
       "Datadog": 10,
       "Okta": 7,
       "Proton": 3,
@@ -1362,8 +1338,8 @@
       "aws": 26,
       "azure": 29,
       "cloud": 41,
-      "security": 51,
-      "security engineer": 23,
+      "security": 53,
+      "security engineer": 24,
       "azure active directory": 1,
       "devops": 18,
       "docker": 9,
@@ -1377,13 +1353,13 @@
       "sre": 6,
       "k8s": 2,
       "sase": 4,
-      "zero trust": 5,
+      "zero trust": 6,
       "casb": 1,
       "azure pipeline": 1,
       "github actions": 1,
-      "iam": 10,
+      "iam": 11,
       "site reliability": 6,
-      "identity and access management": 7,
+      "identity and access management": 8,
       "devops engineer": 2,
       "platform engineer": 5,
       "azure ad": 1,
@@ -1393,7 +1369,7 @@
     "sources": {
       "Rekrute": 25,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 8,
+      "ATS·Greenhouse·cloudflare": 10,
       "ATS·Greenhouse·datadog": 10,
       "ATS·Greenhouse·okta": 7,
       "ATS·Greenhouse·proton": 3,
@@ -1410,7 +1386,7 @@
       "ATS·Greenhouse·gitlab": 2
     },
     "salaries": [],
-    "total": 86,
+    "total": 88,
     "prev": {
       "week": "2026-W36",
       "companies": {
@@ -1494,7 +1470,7 @@
     "cloudflare": {
       "domain": "cloudflare.com",
       "emails": [],
-      "updated_at": "2026-09-03T09:23:49"
+      "updated_at": "2026-09-11T19:54:26"
     },
     "datadog": {
       "domain": "datadoghq.com",
