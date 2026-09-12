@@ -1178,43 +1178,43 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-12T07:43:20",
-      "last_run": "2026-09-12T07:43:20",
+      "last_ok_at": "2026-09-12T11:43:58",
+      "last_run": "2026-09-12T11:43:58",
       "last_error": "",
-      "last_ok_count": 42
+      "last_ok_count": 40
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-12T07:43:58",
-      "last_run": "2026-09-12T07:43:58",
+      "last_ok_at": "2026-09-12T11:44:39",
+      "last_run": "2026-09-12T11:44:39",
       "last_error": "",
       "last_ok_count": 41
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-12T07:45:36",
+      "last_run": "2026-09-12T11:46:17",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-12T07:46:40",
-      "last_run": "2026-09-12T07:46:40",
+      "last_ok_at": "2026-09-12T11:47:26",
+      "last_run": "2026-09-12T11:47:26",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-12T07:46:40",
+      "last_run": "2026-09-12T11:47:26",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-12T07:47:28",
-      "last_run": "2026-09-12T07:47:28",
+      "last_ok_at": "2026-09-12T11:48:12",
+      "last_run": "2026-09-12T11:48:12",
       "last_error": "",
       "last_ok_count": 1241
     }
