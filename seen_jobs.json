@@ -1055,6 +1055,12 @@
       "score": 100,
       "seen_at": "2026-09-12T07:47:28",
       "key": "iam security engineer | cloudflare"
+    },
+    "0c5fc6f83886cebd74d97b82": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-09-12T17:20:53",
+      "key": "devops sre administrateur gcp build devsecops | alten maroc"
     }
   },
   "keys": {
@@ -1107,7 +1113,7 @@
     "maroc climate and security recrute des televendeurs francophones": "3dc51c69ba9fbf2202e6952b",
     "iam security engineer | cloudflare": "144f188dafd5f4c5b34b2d53",
     "senior sales engineer majors west | datadog": "3e2a458c629b487afcaacf3f",
-    "devops sre administrateur gcp build devsecops | alten maroc": "0db96c663d9d5d10b35300bc",
+    "devops sre administrateur gcp build devsecops | alten maroc": "0c5fc6f83886cebd74d97b82",
     "staff engineer cloud networks | datadog": "7f350bd7fb6921601131cde5",
     "qa devops engineer | discord": "108babad21a91904f7af9090",
     "staff product manager | mongodb": "37538fec7c2647d1ecb1b1c9",
@@ -1178,43 +1184,43 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-12T14:23:07",
-      "last_run": "2026-09-12T14:23:07",
+      "last_ok_at": "2026-09-12T17:17:24",
+      "last_run": "2026-09-12T17:17:24",
       "last_error": "",
-      "last_ok_count": 41
+      "last_ok_count": 35
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-12T14:23:49",
-      "last_run": "2026-09-12T14:23:49",
+      "last_ok_at": "2026-09-12T17:18:00",
+      "last_run": "2026-09-12T17:18:00",
       "last_error": "",
       "last_ok_count": 41
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-12T14:25:26",
+      "last_run": "2026-09-12T17:19:37",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-12T14:26:22",
-      "last_run": "2026-09-12T14:26:22",
+      "last_ok_at": "2026-09-12T17:20:03",
+      "last_run": "2026-09-12T17:20:03",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-12T14:26:22",
+      "last_run": "2026-09-12T17:20:03",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-12T14:27:10",
-      "last_run": "2026-09-12T14:27:10",
+      "last_ok_at": "2026-09-12T17:20:53",
+      "last_run": "2026-09-12T17:20:53",
       "last_error": "",
       "last_ok_count": 1241
     }
@@ -1486,7 +1492,7 @@
     "alten maroc": {
       "domain": "alten.net",
       "emails": [],
-      "updated_at": "2026-09-05T12:51:14"
+      "updated_at": "2026-09-12T17:21:15"
     },
     "cnexia": {
       "domain": "cnexia.com",
