@@ -1091,6 +1091,12 @@
       "score": 60,
       "seen_at": "2026-09-15T18:34:30",
       "key": "senior software engineer tech foundations | airbnb"
+    },
+    "dbe3852bd6781d0480408b9c": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 70,
+      "seen_at": "2026-09-15T21:43:54",
+      "key": "senior software engineer identity access management fedramp | mongodb"
     }
   },
   "keys": {
@@ -1214,54 +1220,71 @@
     "architecte cloud data big data f h | sofrecom maroc": "cd26430ca48c4aea5708edd7",
     "senior engineering director security products | cloudflare": "46895f994509d2b76247937b",
     "solutions architect public sector east | gitlab": "0b74d5e8201891305cadcf3c",
-    "senior software engineer tech foundations | airbnb": "ef7c46c9c55cf49e0a20b089"
+    "senior software engineer tech foundations | airbnb": "ef7c46c9c55cf49e0a20b089",
+    "senior software engineer identity access management fedramp | mongodb": "dbe3852bd6781d0480408b9c"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-15T14:47:39",
-      "last_run": "2026-09-15T18:30:45",
+      "last_ok_at": "2026-09-15T21:39:47",
+      "last_run": "2026-09-15T21:39:47",
       "last_error": "",
-      "last_ok_count": 29
+      "last_ok_count": 31
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-15T18:31:23",
-      "last_run": "2026-09-15T18:31:23",
+      "last_ok_at": "2026-09-15T21:40:24",
+      "last_run": "2026-09-15T21:40:24",
       "last_error": "",
       "last_ok_count": 42
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-15T18:33:00",
+      "last_run": "2026-09-15T21:42:02",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-15T18:33:32",
-      "last_run": "2026-09-15T18:33:32",
+      "last_ok_at": "2026-09-15T21:43:02",
+      "last_run": "2026-09-15T21:43:02",
       "last_error": "",
-      "last_ok_count": 104
+      "last_ok_count": 105
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-15T18:33:32",
+      "last_run": "2026-09-15T21:43:02",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-15T18:34:21",
-      "last_run": "2026-09-15T18:34:21",
+      "last_ok_at": "2026-09-15T21:43:52",
+      "last_run": "2026-09-15T21:43:52",
       "last_error": "",
-      "last_ok_count": 1242
+      "last_ok_count": 1244
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Senior Software Engineer, Identity & Access Management (FedRamp)",
+        "company": "MongoDB",
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=8140620",
+        "date": "2026-09-15",
+        "location": "Austin; Boston; Chicago; New York City; Palo Alto; Philadelphia; San Francisco",
+        "description": "<p>The MongoDB Atlas team is a diverse group of contributors working together to help our users manage MongoDB at global scale. We are responsible for MongoDB Atlas: our database as a service offering and fastest growing product which allows users to deploy fault-tolerant, globally distributed MongoDB clusters in just minutes.</p> <p>We're seeking a Senior Engineer to join the Atlas Identity and Access Management (IAM) team. IAM is a platform and a product team. We serve internal engineers by providing them a secure and durable suite of services, and we serve external customers by providing them user facing features and products. We are the owners of Atlas’ authentication (OAuth, SSO, Federated Identity) and authorization (RBAC, ABAC) systems, along with many others. The IAM team’s mission is to enable customers to securely build their applications with Atlas through our best in class user experience.</p> <p>The Federal Risk and Authorization Management Program (FedRAMP) is a US government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. Our FedRAMP program requires that anyone who is accessing customer data or metadata inside the Authorization Boundary be a US Citizen on US Soil.</p> <p>This role will be based remotely in the United States.</p> <h3>Role Responsibilities</h3> <ul> <li>Design, architect, build, and deliver core pieces of IAM</li> <li>Lead projects from specification to delivery</li> <li>Mentor and grow other team members</li> <li>Improve our codebase, best practices, and design principles</li> <li>Define your top priorities and focuses, communicate them, and execute against them</li> <li>Lead and contribute to complex technical projects and initiatives</li> </ul> <h3>Candidate Profile</h3> <ul> <li>5+ years experience of software engineering, primarily focused on backend systems</li> <li>Proficient in a modern compiled programming language (Java, Go, C#, C++, etc.)</li> <li>Willingness to learn JavaScript and/or TypeScript along with modern frontend technologies (React, Redux, etc.); prior experience a plus</li> <li>Excellent communication skills, both written and verbal</li> <li>Desire to collaborate with colleagues and mentor fellow engineers</li> <li>Is curious, collaborative, empathetic, and intellectually honest</li> <li>Has a passion for problem solving and learning new things in the domains of computer science and software engineering</li> <li>Experience building identity and access management systems such as authentication (OAuth, SSO), authorization (RBAC, ABAC, ReBAC), and login and registration systems a plus</li> </ul> <h3>Success Measures</h3> <ul> <li>In 1 week you'll have completed your first pull request</li> <li>In 3 months, you'll have contributed to a large project</li> <li>In 6 months, you’ll be leading the design and execution of your own project</li> </ul> <h3>About MongoDB</h3> <p>MongoDB is built for change, ",
+        "salary": "",
+        "source": "ATS·Greenhouse·mongodb",
+        "id": "dbe3852bd6781d0480408b9c",
+        "score": 70,
+        "reasons": [
+          "description: identity and access management + iam"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-15"
   },
   "market": {
@@ -1338,7 +1361,8 @@
       "cd26430ca48c4aea5708edd7",
       "46895f994509d2b76247937b",
       "0b74d5e8201891305cadcf3c",
-      "ef7c46c9c55cf49e0a20b089"
+      "ef7c46c9c55cf49e0a20b089",
+      "dbe3852bd6781d0480408b9c"
     ],
     "companies": {
       "AFD.Tech": 4,
@@ -1354,7 +1378,7 @@
       "Datadog": 4,
       "Okta": 7,
       "Proton": 3,
-      "MongoDB": 1,
+      "MongoDB": 2,
       "Twilio": 2,
       "Stripe": 2,
       "Asana": 2,
@@ -1372,14 +1396,14 @@
       "ci/cd": 12,
       "devops": 14,
       "aws": 14,
-      "cloud": 29,
+      "cloud": 30,
       "gcp": 16,
       "terraform": 7,
       "k8s": 2,
       "azure ad": 1,
       "entra id": 1,
-      "iam": 11,
-      "security": 46,
+      "iam": 12,
+      "security": 47,
       "security engineer": 22,
       "docker": 8,
       "infrastructure as code": 9,
@@ -1387,7 +1411,7 @@
       "devsecops": 7,
       "sre": 5,
       "gitlab ci": 2,
-      "identity and access management": 7,
+      "identity and access management": 8,
       "zero trust": 5,
       "sase": 2,
       "site reliability": 6,
@@ -1402,7 +1426,7 @@
       "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·okta": 7,
       "ATS·Greenhouse·proton": 3,
-      "ATS·Greenhouse·mongodb": 1,
+      "ATS·Greenhouse·mongodb": 2,
       "ATS·Greenhouse·twilio": 2,
       "ATS·Greenhouse·stripe": 2,
       "ATS·Greenhouse·asana": 2,
@@ -1415,7 +1439,7 @@
       "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 72,
+    "total": 73,
     "prev": {
       "week": "2026-W37",
       "companies": {
