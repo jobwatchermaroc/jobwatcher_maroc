@@ -1245,97 +1245,50 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-16T16:43:50",
-      "last_run": "2026-09-16T16:43:50",
+      "last_ok_at": "2026-09-16T19:42:30",
+      "last_run": "2026-09-16T19:42:30",
       "last_error": "",
-      "last_ok_count": 39
+      "last_ok_count": 41
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-16T16:44:27",
-      "last_run": "2026-09-16T16:44:27",
+      "last_ok_at": "2026-09-16T19:43:28",
+      "last_run": "2026-09-16T19:43:28",
       "last_error": "",
-      "last_ok_count": 41
+      "last_ok_count": 29
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-16T16:46:06",
+      "last_run": "2026-09-16T19:45:05",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-16T16:47:06",
-      "last_run": "2026-09-16T16:47:06",
+      "last_ok_at": "2026-09-16T19:45:40",
+      "last_run": "2026-09-16T19:45:40",
       "last_error": "",
       "last_ok_count": 105
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-16T16:47:06",
+      "last_run": "2026-09-16T19:45:40",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-16T16:47:57",
-      "last_run": "2026-09-16T16:47:57",
+      "last_ok_at": "2026-09-16T19:46:46",
+      "last_run": "2026-09-16T19:46:46",
       "last_error": "",
-      "last_ok_count": 1247
+      "last_ok_count": 1246
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Senior Software Engineer, Identity & Access Management (FedRamp)",
-        "company": "MongoDB",
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=8140620",
-        "date": "2026-09-15",
-        "location": "Austin; Boston; Chicago; New York City; Palo Alto; Philadelphia; San Francisco",
-        "description": "<p>The MongoDB Atlas team is a diverse group of contributors working together to help our users manage MongoDB at global scale. We are responsible for MongoDB Atlas: our database as a service offering and fastest growing product which allows users to deploy fault-tolerant, globally distributed MongoDB clusters in just minutes.</p> <p>We're seeking a Senior Engineer to join the Atlas Identity and Access Management (IAM) team. IAM is a platform and a product team. We serve internal engineers by providing them a secure and durable suite of services, and we serve external customers by providing them user facing features and products. We are the owners of Atlas’ authentication (OAuth, SSO, Federated Identity) and authorization (RBAC, ABAC) systems, along with many others. The IAM team’s mission is to enable customers to securely build their applications with Atlas through our best in class user experience.</p> <p>The Federal Risk and Authorization Management Program (FedRAMP) is a US government-wide program that provides a standardized approach to security assessment, authorization, and continuous monitoring for cloud products and services. Our FedRAMP program requires that anyone who is accessing customer data or metadata inside the Authorization Boundary be a US Citizen on US Soil.</p> <p>This role will be based remotely in the United States.</p> <h3>Role Responsibilities</h3> <ul> <li>Design, architect, build, and deliver core pieces of IAM</li> <li>Lead projects from specification to delivery</li> <li>Mentor and grow other team members</li> <li>Improve our codebase, best practices, and design principles</li> <li>Define your top priorities and focuses, communicate them, and execute against them</li> <li>Lead and contribute to complex technical projects and initiatives</li> </ul> <h3>Candidate Profile</h3> <ul> <li>5+ years experience of software engineering, primarily focused on backend systems</li> <li>Proficient in a modern compiled programming language (Java, Go, C#, C++, etc.)</li> <li>Willingness to learn JavaScript and/or TypeScript along with modern frontend technologies (React, Redux, etc.); prior experience a plus</li> <li>Excellent communication skills, both written and verbal</li> <li>Desire to collaborate with colleagues and mentor fellow engineers</li> <li>Is curious, collaborative, empathetic, and intellectually honest</li> <li>Has a passion for problem solving and learning new things in the domains of computer science and software engineering</li> <li>Experience building identity and access management systems such as authentication (OAuth, SSO), authorization (RBAC, ABAC, ReBAC), and login and registration systems a plus</li> </ul> <h3>Success Measures</h3> <ul> <li>In 1 week you'll have completed your first pull request</li> <li>In 3 months, you'll have contributed to a large project</li> <li>In 6 months, you’ll be leading the design and execution of your own project</li> </ul> <h3>About MongoDB</h3> <p>MongoDB is built for change, ",
-        "salary": "",
-        "source": "ATS·Greenhouse·mongodb",
-        "id": "dbe3852bd6781d0480408b9c",
-        "score": 70,
-        "reasons": [
-          "description: identity and access management + iam"
-        ]
-      },
-      {
-        "title": "Consultant Senior Salesforce Sales & Service Cloud",
-        "company": "Capgemini",
-        "url": "https://www.rekrute.com/offre-emploi-consultant-senior-salesforce-sales-service-cloud-recrutement-capgemini-casablanca-186488.html",
-        "date": "16/09/2026",
-        "location": "Casablanca (Maroc)",
-        "description": "maîtrise approfondie de la plateforme salesforce sales cloud et service cloud .",
-        "source": "Rekrute",
-        "offer_id": "186488",
-        "id": "31cb7c3bd6224b5903a3445a",
-        "score": 65,
-        "reasons": [
-          "cloud",
-          "description: cloud"
-        ]
-      },
-      {
-        "title": "Senior Solutions Architect",
-        "company": "GitLab",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8783485002",
-        "date": "2026-09-08",
-        "location": "Remote, South Korea",
-        "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><strong>An overview of this role</strong></h2> <p>As a Senior Solutions Architect on GitLab's South Korea team, you'll be a trusted advisor to enterprise prospects, customers, and partners. You'll help them understand how GitLab's AI-powered DevSecOps platform addresses technical requirements and business objectives across the software development lifecycle. Experience working with Chaebol’s or other large conglomerate organizations is highly valued given the accounts you'll support. Using your technical expertise, knowledge of cloud and modern software development practices, and customer empathy, you'll guide organizations through digital transformation from planning through monitoring.</p> <p>You'll partner closely with our Account Executives and cross-functional teams. You'll own technical evaluations, including proofs of value and workshops, shape solution architectures, and represent the voice of the customer to product management. You'll also support GitLab's South Korea go-to-market partners, who act as our regional professional services arm, by helping enable and guide their technical delivery. Your work will drive successful platform adoption, support revenue growth through solution selling, and build long-term, trust-based relationships that show GitLab's differentiated position in an AI-driven DevSecOps landscape.</p> <h2><strong>What you’ll do</strong></h2> <ul> <li>Lead technical discovery, demonstrations, and validation to show how GitLab's AI-powered DevSecOps platform meets",
-        "salary": "",
-        "source": "ATS·Greenhouse·gitlab",
-        "id": "415a66da1edcc82c19938cad",
-        "score": 50,
-        "reasons": [
-          "description: devsecops"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-09-15"
+    "buffer": [],
+    "last_sent_date": "2026-09-16"
   },
   "market": {
     "week": "2026-W38",
