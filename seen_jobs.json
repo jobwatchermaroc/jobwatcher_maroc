@@ -1133,6 +1133,12 @@
       "score": 100,
       "seen_at": "2026-09-18T11:29:24",
       "key": "network and cyber security engineer | cnexia"
+    },
+    "043af7980545fa9af9b0f136": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 50,
+      "seen_at": "2026-09-18T15:07:10",
+      "key": "researcher web security detection | cloudflare"
     }
   },
   "keys": {
@@ -1260,48 +1266,49 @@
     "senior software engineer identity access management fedramp | mongodb": "dbe3852bd6781d0480408b9c",
     "security engineer intern | swile": "fa781b2e3efa9734a74e5d34",
     "staff security engineer abuse control | stripe": "e81d8ff9c24477f3901393ed",
-    "developpeur senior kafka h f | dxc cdg": "439690c337633cb411bb6d89"
+    "developpeur senior kafka h f | dxc cdg": "439690c337633cb411bb6d89",
+    "researcher web security detection | cloudflare": "043af7980545fa9af9b0f136"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-09-18T11:25:08",
-      "last_run": "2026-09-18T11:25:08",
+      "last_run": "2026-09-18T15:03:38",
       "last_error": "",
       "last_ok_count": 47
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-18T11:25:48",
-      "last_run": "2026-09-18T11:25:48",
+      "last_ok_at": "2026-09-18T15:04:09",
+      "last_run": "2026-09-18T15:04:09",
       "last_error": "",
       "last_ok_count": 41
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-18T11:27:25",
+      "last_run": "2026-09-18T15:05:47",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-09-18T11:28:37",
-      "last_run": "2026-09-18T11:28:37",
+      "last_run": "2026-09-18T15:06:23",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-18T11:28:37",
+      "last_run": "2026-09-18T15:06:23",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-18T11:29:24",
-      "last_run": "2026-09-18T11:29:24",
+      "last_ok_at": "2026-09-18T15:07:09",
+      "last_run": "2026-09-18T15:07:09",
       "last_error": "",
       "last_ok_count": 1249
     }
@@ -1321,6 +1328,21 @@
         "score": 50,
         "reasons": [
           "description: azure"
+        ]
+      },
+      {
+        "title": "Researcher Web Security, Detection",
+        "company": "Cloudflare",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8204795?gh_jid=8204795",
+        "date": "2026-09-18",
+        "location": "Hybrid",
+        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Location- New York, NY&nbsp;</strong></p> <p><strong><br>About the Department</strong></p> <p>Cloudflare’s Engineering Team is home to some of the industry’s top engineers, dedicated to building and scaling innovative software that handles a huge proportion of the Internet. Our Detection department sits at the heart of that mission: we identify automated, fraudulent, and malicious activity across the Internet and through our gateway. We develop advanced detection systems and machine learning models that operate at scale, collaborating with Product and Engineering teams across the company to protect our customers and stay ahead of the constantly evolving threat landscape.</p> <p><strong>What You’ll Do</strong></p> <ul> <li>Study our adversaries deeply – reverse-engineer bot tools, automation frameworks, and fraud kits to understand how they work and how they evolve.</li> <li>Play the cat-and-mouse game: probe our own detections like an attacker would, close the gaps, and stay a step ahead as adversaries adapt.</li> <li>Track the bot and fraud ecosystem through tooling, marketplaces, and emerging techniques. Turn that intelligence into actionable detection signals.</li> <li>Develop heuristics, signatures, and detection ideas grounded in real adversary behavior, partnering with Data Scientists and Engineers to bring them to life.</li> <li>Design mitigations that neutraliz",
+        "salary": "",
+        "source": "ATS·Greenhouse·cloudflare",
+        "id": "043af7980545fa9af9b0f136",
+        "score": 50,
+        "reasons": [
+          "security"
         ]
       }
     ],
@@ -1406,7 +1428,8 @@
       "fa781b2e3efa9734a74e5d34",
       "e81d8ff9c24477f3901393ed",
       "c372ea046b41c2b8e4d9a7c5",
-      "439690c337633cb411bb6d89"
+      "439690c337633cb411bb6d89",
+      "043af7980545fa9af9b0f136"
     ],
     "companies": {
       "AFD.Tech": 4,
@@ -1417,7 +1440,7 @@
       "AXA Services Maroc": 1,
       "Sofrecom Maroc": 4,
       "Inconnu": 3,
-      "Cloudflare": 8,
+      "Cloudflare": 9,
       "GitLab": 3,
       "Datadog": 4,
       "Okta": 7,
@@ -1448,7 +1471,7 @@
       "azure ad": 1,
       "entra id": 1,
       "iam": 12,
-      "security": 50,
+      "security": 51,
       "security engineer": 25,
       "docker": 8,
       "infrastructure as code": 9,
@@ -1466,7 +1489,7 @@
     "sources": {
       "Rekrute": 22,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 8,
+      "ATS·Greenhouse·cloudflare": 9,
       "ATS·Greenhouse·gitlab": 3,
       "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·okta": 7,
@@ -1484,7 +1507,7 @@
       "ATS·Greenhouse·airbnb": 2
     },
     "salaries": [],
-    "total": 78,
+    "total": 79,
     "prev": {
       "week": "2026-W37",
       "companies": {
