@@ -1293,67 +1293,50 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-21T13:12:57",
-      "last_run": "2026-09-21T13:12:57",
+      "last_ok_at": "2026-09-21T18:41:07",
+      "last_run": "2026-09-21T18:41:07",
       "last_error": "",
-      "last_ok_count": 18
+      "last_ok_count": 20
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-21T13:13:40",
-      "last_run": "2026-09-21T13:13:40",
+      "last_ok_at": "2026-09-21T18:41:39",
+      "last_run": "2026-09-21T18:41:39",
       "last_error": "",
-      "last_ok_count": 37
+      "last_ok_count": 35
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-21T13:15:17",
+      "last_run": "2026-09-21T18:43:16",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-21T13:16:30",
-      "last_run": "2026-09-21T13:16:30",
+      "last_ok_at": "2026-09-21T18:44:20",
+      "last_run": "2026-09-21T18:44:20",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-21T13:16:30",
+      "last_run": "2026-09-21T18:44:20",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-21T13:17:20",
-      "last_run": "2026-09-21T13:17:20",
+      "last_ok_at": "2026-09-21T18:45:31",
+      "last_run": "2026-09-21T18:45:31",
       "last_error": "",
-      "last_ok_count": 1252
+      "last_ok_count": 1221
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Senior Cloud Network Engineer",
-        "company": "Cnexia tech",
-        "url": "https://www.rekrute.com/offre-emploi-senior-cloud-network-engineer-recrutement-cnexia-tech-rabat-183551.html",
-        "date": "21/09/2026",
-        "location": "Rabat (Maroc)",
-        "description": "minimum of 5+ years’ with google cloud platform (gcp) networking",
-        "source": "Rekrute",
-        "offer_id": "183551",
-        "id": "bf04351b8c3da3ede9c09b2c",
-        "score": 75,
-        "reasons": [
-          "cloud",
-          "description: cloud + gcp"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-09-18"
+    "buffer": [],
+    "last_sent_date": "2026-09-21"
   },
   "market": {
     "week": "2026-W39",
