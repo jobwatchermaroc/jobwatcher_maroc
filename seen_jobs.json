@@ -1175,6 +1175,12 @@
       "score": 50,
       "seen_at": "2026-09-22T14:54:08",
       "key": "data scientist machine learning engineer f h | cgi technologies et solutions maroc"
+    },
+    "4d8db25e3748a1159d72ba6d": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 70,
+      "seen_at": "2026-09-22T18:25:03",
+      "key": "senior oracle security and ai engineer | cloudflare"
     }
   },
   "keys": {
@@ -1309,71 +1315,56 @@
     "senior cloud network engineer | cnexia tech": "bf04351b8c3da3ede9c09b2c",
     "senior software engineer zero trust client | cloudflare": "dfd571237a27b85a69895581",
     "lead technique devops n3 f h | cgi technologies et solutions maroc": "c2429e1c289523405cf4b928",
-    "data scientist machine learning engineer f h | cgi technologies et solutions maroc": "0451a9b50fc63cb89c1aad64"
+    "data scientist machine learning engineer f h | cgi technologies et solutions maroc": "0451a9b50fc63cb89c1aad64",
+    "senior oracle security and ai engineer | cloudflare": "4d8db25e3748a1159d72ba6d"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T14:49:54",
-      "last_run": "2026-09-22T14:49:54",
+      "last_ok_at": "2026-09-22T18:21:12",
+      "last_run": "2026-09-22T18:21:12",
       "last_error": "",
-      "last_ok_count": 22
+      "last_ok_count": 23
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T14:50:33",
-      "last_run": "2026-09-22T14:50:33",
+      "last_ok_at": "2026-09-22T18:21:48",
+      "last_run": "2026-09-22T18:21:48",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-22T14:52:11",
+      "last_run": "2026-09-22T18:23:26",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T14:53:20",
-      "last_run": "2026-09-22T14:53:20",
+      "last_ok_at": "2026-09-22T18:24:01",
+      "last_run": "2026-09-22T18:24:01",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-22T14:53:20",
+      "last_run": "2026-09-22T18:24:01",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T14:54:08",
-      "last_run": "2026-09-22T14:54:08",
+      "last_ok_at": "2026-09-22T18:25:03",
+      "last_run": "2026-09-22T18:25:03",
       "last_error": "",
-      "last_ok_count": 1251
+      "last_ok_count": 1252
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Data Scientist / Machine Learning Engineer (F/H)",
-        "company": "CGI Technologies et Solutions Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-data-scientist-machine-learning-engineer-fh-recrutement-cgi-technologies-et-solutions-maroc-rabat-186703.html",
-        "date": "22/09/2026",
-        "location": "Rabat (Maroc)",
-        "description": "une expérience avec un environnement cloud ( azure , aws ou gcp) est appréciée.",
-        "source": "Rekrute",
-        "offer_id": "186703",
-        "id": "0451a9b50fc63cb89c1aad64",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-09-21"
+    "buffer": [],
+    "last_sent_date": "2026-09-22"
   },
   "market": {
     "week": "2026-W39",
@@ -1439,7 +1430,8 @@
       "bf04351b8c3da3ede9c09b2c",
       "dfd571237a27b85a69895581",
       "c2429e1c289523405cf4b928",
-      "0451a9b50fc63cb89c1aad64"
+      "0451a9b50fc63cb89c1aad64",
+      "4d8db25e3748a1159d72ba6d"
     ],
     "companies": {
       "AXA GBS Morocco": 2,
@@ -1452,7 +1444,7 @@
       "AXA Services Maroc": 1,
       "ALTEN Maroc": 2,
       "Inconnu": 3,
-      "Cloudflare": 6,
+      "Cloudflare": 7,
       "GitLab": 3,
       "Datadog": 1,
       "Okta": 2,
@@ -1478,12 +1470,12 @@
       "k8s": 1,
       "aws": 8,
       "ci/cd": 13,
-      "cloud": 23,
+      "cloud": 24,
       "iam": 6,
       "infrastructure as code": 7,
       "kubernetes": 9,
       "terraform": 8,
-      "security": 35,
+      "security": 36,
       "security engineer": 17,
       "docker": 4,
       "devsecops": 6,
@@ -1500,7 +1492,7 @@
     "sources": {
       "Rekrute": 19,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 6,
+      "ATS·Greenhouse·cloudflare": 7,
       "ATS·Greenhouse·gitlab": 3,
       "ATS·Greenhouse·datadog": 1,
       "ATS·Greenhouse·okta": 2,
@@ -1518,7 +1510,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 62,
+    "total": 63,
     "prev": {
       "week": "2026-W38",
       "companies": {
