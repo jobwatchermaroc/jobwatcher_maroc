@@ -1181,6 +1181,12 @@
       "score": 70,
       "seen_at": "2026-09-22T18:25:03",
       "key": "senior oracle security and ai engineer | cloudflare"
+    },
+    "7f12e8c194b8f90f826d26d4": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 70,
+      "seen_at": "2026-09-22T21:34:09",
+      "key": "senior software engineer source security | datadog"
     }
   },
   "keys": {
@@ -1316,54 +1322,72 @@
     "senior software engineer zero trust client | cloudflare": "dfd571237a27b85a69895581",
     "lead technique devops n3 f h | cgi technologies et solutions maroc": "c2429e1c289523405cf4b928",
     "data scientist machine learning engineer f h | cgi technologies et solutions maroc": "0451a9b50fc63cb89c1aad64",
-    "senior oracle security and ai engineer | cloudflare": "4d8db25e3748a1159d72ba6d"
+    "senior oracle security and ai engineer | cloudflare": "4d8db25e3748a1159d72ba6d",
+    "senior software engineer source security | datadog": "7f12e8c194b8f90f826d26d4"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T18:21:12",
-      "last_run": "2026-09-22T18:21:12",
+      "last_ok_at": "2026-09-22T21:30:03",
+      "last_run": "2026-09-22T21:30:03",
       "last_error": "",
-      "last_ok_count": 23
+      "last_ok_count": 25
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T18:21:48",
-      "last_run": "2026-09-22T18:21:48",
+      "last_ok_at": "2026-09-22T21:30:41",
+      "last_run": "2026-09-22T21:30:41",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-22T18:23:26",
+      "last_run": "2026-09-22T21:32:18",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T18:24:01",
-      "last_run": "2026-09-22T18:24:01",
+      "last_ok_at": "2026-09-22T21:33:14",
+      "last_run": "2026-09-22T21:33:14",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-22T18:24:01",
+      "last_run": "2026-09-22T21:33:14",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T18:25:03",
-      "last_run": "2026-09-22T18:25:03",
+      "last_ok_at": "2026-09-22T21:34:08",
+      "last_run": "2026-09-22T21:34:08",
       "last_error": "",
-      "last_ok_count": 1252
+      "last_ok_count": 1253
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Senior Software Engineer - Source Security",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8223819/?gh_jid=8223819",
+        "date": "2026-09-22",
+        "location": "New York, New York, USA",
+        "description": "<h3><strong>About Datadog</strong></h3> <p>We're on a mission to build the best platform in the world for engineers to understand and scale their systems, applications, and teams. We operate at a high scale - trillions of data points per day — providing always-on alerting, metrics visualization, logs, and application tracing for tens of thousands of companies. Our engineering culture values pragmatism, honesty, and simplicity to solve hard problems the right way.</p> <h3><strong><br>The Opportunity</strong></h3> <p>We are looking for an experienced software engineer to join our CI/CD Security Team within our SDLC Security organization. We work at the intersection of security and engineering infrastructure to secure Datadog's continuous integration and continuous delivery systems. Our responsibilities include hardening pipelines, protecting credentials, and enforcing tightly scoped access controls. We also develop authorization and verification mechanisms to ensure that only trusted code and approved processes can reach production.</p> <p>&nbsp;</p> <p>In this role, you will shape and build a new security layer for our CI/CD infrastructure and drive its adoption across the engineering organization. You will solve challenging systems problems around trusted build provenance, secure secret delivery, and real-time policy enforcement at high throughput. The work sits directly in the critical path of software delivery, where strong security guarantees have to coexist with low latency, high reliability, and a seamless developer experience.</p> <p>&nbsp;</p> <p>You’ll join at an ideal time to make a big impact, as the need for robust software supply chain security is higher than ever. Datadog is growing rapidly, and AI-assisted development is increasing both the pace of software delivery and the amount of activity flowing through our CI/CD systems. Securing that scale without slowing engineers down requires strong software engineering fundamentals, thoughtful automation, and security controls designed to operate reliably at high throughput.</p> <p>&nbsp;</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds, and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p>&nbsp;</p> <h3><strong>What You’ll Do:</strong></h3> <ul> <li>Design and build highly performant infrastructure that operates in the critical path of our CI/CD systems</li> <li>Help drive the technical roadmap for trusted build provenance, secure secret access, and real-time rule enforcement at the network layer</li> <li>Partner closely with platform, infrastructure, and developer experience teams to make secure workflows easy to adopt and difficult to bypass</li> <li>Use modern AI-assisted development tools to accelerate engineering, debugging, testing, and analysis</li> <li>Help guide and mentor junior engineers</li> <li>Participate in",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "7f12e8c194b8f90f826d26d4",
+        "score": 70,
+        "reasons": [
+          "security",
+          "description: ci/cd + security"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-22"
   },
   "market": {
@@ -1431,7 +1455,8 @@
       "dfd571237a27b85a69895581",
       "c2429e1c289523405cf4b928",
       "0451a9b50fc63cb89c1aad64",
-      "4d8db25e3748a1159d72ba6d"
+      "4d8db25e3748a1159d72ba6d",
+      "7f12e8c194b8f90f826d26d4"
     ],
     "companies": {
       "AXA GBS Morocco": 2,
@@ -1446,7 +1471,7 @@
       "Inconnu": 3,
       "Cloudflare": 7,
       "GitLab": 3,
-      "Datadog": 1,
+      "Datadog": 2,
       "Okta": 2,
       "Proton": 3,
       "MongoDB": 1,
@@ -1469,13 +1494,13 @@
       "gcp": 12,
       "k8s": 1,
       "aws": 8,
-      "ci/cd": 13,
+      "ci/cd": 14,
       "cloud": 24,
       "iam": 6,
       "infrastructure as code": 7,
       "kubernetes": 9,
       "terraform": 8,
-      "security": 36,
+      "security": 37,
       "security engineer": 17,
       "docker": 4,
       "devsecops": 6,
@@ -1494,7 +1519,7 @@
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 7,
       "ATS·Greenhouse·gitlab": 3,
-      "ATS·Greenhouse·datadog": 1,
+      "ATS·Greenhouse·datadog": 2,
       "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·mongodb": 1,
@@ -1510,7 +1535,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 63,
+    "total": 64,
     "prev": {
       "week": "2026-W38",
       "companies": {
