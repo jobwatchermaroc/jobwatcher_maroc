@@ -1157,6 +1157,12 @@
       "score": 75,
       "seen_at": "2026-09-21T13:17:21",
       "key": "senior cloud network engineer | cnexia tech"
+    },
+    "dfd571237a27b85a69895581": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 100,
+      "seen_at": "2026-09-22T00:53:56",
+      "key": "senior software engineer zero trust client | cloudflare"
     }
   },
   "keys": {
@@ -1288,50 +1294,51 @@
     "researcher web security detection | cloudflare": "043af7980545fa9af9b0f136",
     "artificial intelligence engineer | axa gbs morocco": "858800f0e543ca82c8fa8031",
     "senior salesforce developer | axa gbs morocco": "a3c5218c49e907c5af24e022",
-    "senior cloud network engineer | cnexia tech": "bf04351b8c3da3ede9c09b2c"
+    "senior cloud network engineer | cnexia tech": "bf04351b8c3da3ede9c09b2c",
+    "senior software engineer zero trust client | cloudflare": "dfd571237a27b85a69895581"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-21T22:13:03",
-      "last_run": "2026-09-21T22:13:03",
+      "last_ok_at": "2026-09-22T00:49:36",
+      "last_run": "2026-09-22T00:49:36",
       "last_error": "",
       "last_ok_count": 19
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-21T22:13:40",
-      "last_run": "2026-09-21T22:13:40",
+      "last_ok_at": "2026-09-22T00:50:16",
+      "last_run": "2026-09-22T00:50:16",
       "last_error": "",
       "last_ok_count": 35
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-21T22:15:17",
+      "last_run": "2026-09-22T00:51:54",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-21T22:15:49",
-      "last_run": "2026-09-21T22:15:49",
+      "last_ok_at": "2026-09-22T00:52:58",
+      "last_run": "2026-09-22T00:52:58",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-21T22:15:49",
+      "last_run": "2026-09-22T00:52:58",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-21T22:16:37",
-      "last_run": "2026-09-21T22:16:37",
+      "last_ok_at": "2026-09-22T00:53:56",
+      "last_run": "2026-09-22T00:53:56",
       "last_error": "",
-      "last_ok_count": 1254
+      "last_ok_count": 1255
     }
   },
   "digest": {
@@ -1399,7 +1406,8 @@
       "8d9c716907ee1f16a5f330a4",
       "bc31f19db846f39bbf2fb85e",
       "a534aae94bd7edd0814d4253",
-      "bf04351b8c3da3ede9c09b2c"
+      "bf04351b8c3da3ede9c09b2c",
+      "dfd571237a27b85a69895581"
     ],
     "companies": {
       "AXA GBS Morocco": 2,
@@ -1412,7 +1420,7 @@
       "AXA Services Maroc": 1,
       "ALTEN Maroc": 2,
       "Inconnu": 3,
-      "Cloudflare": 5,
+      "Cloudflare": 6,
       "GitLab": 3,
       "Datadog": 1,
       "Okta": 2,
@@ -1450,7 +1458,7 @@
       "sre": 3,
       "gitlab ci": 1,
       "identity and access management": 6,
-      "zero trust": 4,
+      "zero trust": 5,
       "sase": 1,
       "site reliability": 4,
       "devops engineer": 2,
@@ -1460,7 +1468,7 @@
     "sources": {
       "Rekrute": 17,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 5,
+      "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·gitlab": 3,
       "ATS·Greenhouse·datadog": 1,
       "ATS·Greenhouse·okta": 2,
@@ -1478,7 +1486,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 59,
+    "total": 60,
     "prev": {
       "week": "2026-W38",
       "companies": {
@@ -1567,7 +1575,7 @@
     "cloudflare": {
       "domain": "cloudflare.com",
       "emails": [],
-      "updated_at": "2026-09-11T19:54:26"
+      "updated_at": "2026-09-22T00:54:13"
     },
     "datadog": {
       "domain": "datadoghq.com",
