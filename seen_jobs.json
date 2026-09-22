@@ -1187,6 +1187,12 @@
       "score": 70,
       "seen_at": "2026-09-22T21:34:09",
       "key": "senior software engineer source security | datadog"
+    },
+    "f2830cc2895a5c9b25214b42": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 60,
+      "seen_at": "2026-09-22T23:45:29",
+      "key": "senior systems engineer application security | cloudflare"
     }
   },
   "keys": {
@@ -1323,48 +1329,49 @@
     "lead technique devops n3 f h | cgi technologies et solutions maroc": "c2429e1c289523405cf4b928",
     "data scientist machine learning engineer f h | cgi technologies et solutions maroc": "0451a9b50fc63cb89c1aad64",
     "senior oracle security and ai engineer | cloudflare": "4d8db25e3748a1159d72ba6d",
-    "senior software engineer source security | datadog": "7f12e8c194b8f90f826d26d4"
+    "senior software engineer source security | datadog": "7f12e8c194b8f90f826d26d4",
+    "senior systems engineer application security | cloudflare": "f2830cc2895a5c9b25214b42"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T21:30:03",
-      "last_run": "2026-09-22T21:30:03",
+      "last_ok_at": "2026-09-22T23:41:40",
+      "last_run": "2026-09-22T23:41:40",
       "last_error": "",
       "last_ok_count": 25
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T21:30:41",
-      "last_run": "2026-09-22T21:30:41",
+      "last_ok_at": "2026-09-22T23:42:14",
+      "last_run": "2026-09-22T23:42:14",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-22T21:32:18",
+      "last_run": "2026-09-22T23:43:52",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T21:33:14",
-      "last_run": "2026-09-22T21:33:14",
+      "last_ok_at": "2026-09-22T23:44:32",
+      "last_run": "2026-09-22T23:44:32",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-22T21:33:14",
+      "last_run": "2026-09-22T23:44:32",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T21:34:08",
-      "last_run": "2026-09-22T21:34:08",
+      "last_ok_at": "2026-09-22T23:45:29",
+      "last_run": "2026-09-22T23:45:29",
       "last_error": "",
       "last_ok_count": 1253
     }
@@ -1385,6 +1392,22 @@
         "reasons": [
           "security",
           "description: ci/cd + security"
+        ]
+      },
+      {
+        "title": "Senior Systems Engineer - Application Security",
+        "company": "Cloudflare",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8222091?gh_jid=8222091",
+        "date": "2026-09-22",
+        "location": "Hybrid",
+        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><h2><span style=\"font-size: 12pt;\"><strong>Available locations: <span class=\"collapsed-field-text\">Amsterdam, Netherlands, Brussels, Belgium, Lisbon, Portugal, London, UK, Munich, Germany, Paris, France, Sweden, Switzerland.</span>&nbsp;This role requires two days in office, it is not a fully remote role.</strong></span></h2> <h2>About The Team</h2> <p>Application Security is responsible for Cloudflare’s fast-growing security product portfolio including WAF, Page Shield, Web Asset Management and API Shield. Being part of Cloudflare means working at internet scale and we are uniquely positioned to tackle challenging problems related to being connected to more networks, websites and customers than any other provider worldwide. Working at great scale by default (to an extent not offered by most other employers in big tech) means pushing boundaries well beyond what commodity solutions like Nginx and Kafka provide out of the box. You’ll be working with custom components that have been created in an engineering-driven and pragmatic way - our code is well-tested and documented and uses modern ecosystems like Go and Rust. This gives you confidence that you will spend your time having an impact and not firefighting!</p> <p>You’d be joining a high-profile part of the business that can really accelerate and support your career. Cloudflare has a strong track record of growing in a thoughtful",
+        "salary": "",
+        "source": "ATS·Greenhouse·cloudflare",
+        "id": "f2830cc2895a5c9b25214b42",
+        "score": 60,
+        "reasons": [
+          "security",
+          "description: security"
         ]
       }
     ],
@@ -1456,7 +1479,8 @@
       "c2429e1c289523405cf4b928",
       "0451a9b50fc63cb89c1aad64",
       "4d8db25e3748a1159d72ba6d",
-      "7f12e8c194b8f90f826d26d4"
+      "7f12e8c194b8f90f826d26d4",
+      "f2830cc2895a5c9b25214b42"
     ],
     "companies": {
       "AXA GBS Morocco": 2,
@@ -1469,7 +1493,7 @@
       "AXA Services Maroc": 1,
       "ALTEN Maroc": 2,
       "Inconnu": 3,
-      "Cloudflare": 7,
+      "Cloudflare": 8,
       "GitLab": 3,
       "Datadog": 2,
       "Okta": 2,
@@ -1500,7 +1524,7 @@
       "infrastructure as code": 7,
       "kubernetes": 9,
       "terraform": 8,
-      "security": 37,
+      "security": 38,
       "security engineer": 17,
       "docker": 4,
       "devsecops": 6,
@@ -1517,7 +1541,7 @@
     "sources": {
       "Rekrute": 19,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 7,
+      "ATS·Greenhouse·cloudflare": 8,
       "ATS·Greenhouse·gitlab": 3,
       "ATS·Greenhouse·datadog": 2,
       "ATS·Greenhouse·okta": 2,
@@ -1535,7 +1559,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 64,
+    "total": 65,
     "prev": {
       "week": "2026-W38",
       "companies": {
