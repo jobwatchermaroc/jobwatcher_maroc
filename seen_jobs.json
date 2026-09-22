@@ -1163,6 +1163,18 @@
       "score": 100,
       "seen_at": "2026-09-22T00:53:56",
       "key": "senior software engineer zero trust client | cloudflare"
+    },
+    "c2429e1c289523405cf4b928": {
+      "source": "Rekrute",
+      "score": 90,
+      "seen_at": "2026-09-22T14:54:08",
+      "key": "lead technique devops n3 f h | cgi technologies et solutions maroc"
+    },
+    "0451a9b50fc63cb89c1aad64": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-09-22T14:54:08",
+      "key": "data scientist machine learning engineer f h | cgi technologies et solutions maroc"
     }
   },
   "keys": {
@@ -1295,54 +1307,72 @@
     "artificial intelligence engineer | axa gbs morocco": "858800f0e543ca82c8fa8031",
     "senior salesforce developer | axa gbs morocco": "a3c5218c49e907c5af24e022",
     "senior cloud network engineer | cnexia tech": "bf04351b8c3da3ede9c09b2c",
-    "senior software engineer zero trust client | cloudflare": "dfd571237a27b85a69895581"
+    "senior software engineer zero trust client | cloudflare": "dfd571237a27b85a69895581",
+    "lead technique devops n3 f h | cgi technologies et solutions maroc": "c2429e1c289523405cf4b928",
+    "data scientist machine learning engineer f h | cgi technologies et solutions maroc": "0451a9b50fc63cb89c1aad64"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T10:11:07",
-      "last_run": "2026-09-22T10:11:07",
+      "last_ok_at": "2026-09-22T14:49:54",
+      "last_run": "2026-09-22T14:49:54",
       "last_error": "",
-      "last_ok_count": 20
+      "last_ok_count": 22
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T10:11:42",
-      "last_run": "2026-09-22T10:11:42",
+      "last_ok_at": "2026-09-22T14:50:33",
+      "last_run": "2026-09-22T14:50:33",
       "last_error": "",
-      "last_ok_count": 35
+      "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-22T10:13:19",
+      "last_run": "2026-09-22T14:52:11",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T10:14:19",
-      "last_run": "2026-09-22T10:14:19",
+      "last_ok_at": "2026-09-22T14:53:20",
+      "last_run": "2026-09-22T14:53:20",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-22T10:14:19",
+      "last_run": "2026-09-22T14:53:20",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-22T10:15:09",
-      "last_run": "2026-09-22T10:15:09",
+      "last_ok_at": "2026-09-22T14:54:08",
+      "last_run": "2026-09-22T14:54:08",
       "last_error": "",
-      "last_ok_count": 1253
+      "last_ok_count": 1251
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Data Scientist / Machine Learning Engineer (F/H)",
+        "company": "CGI Technologies et Solutions Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-data-scientist-machine-learning-engineer-fh-recrutement-cgi-technologies-et-solutions-maroc-rabat-186703.html",
+        "date": "22/09/2026",
+        "location": "Rabat (Maroc)",
+        "description": "une expérience avec un environnement cloud ( azure , aws ou gcp) est appréciée.",
+        "source": "Rekrute",
+        "offer_id": "186703",
+        "id": "0451a9b50fc63cb89c1aad64",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-21"
   },
   "market": {
@@ -1407,14 +1437,16 @@
       "bc31f19db846f39bbf2fb85e",
       "a534aae94bd7edd0814d4253",
       "bf04351b8c3da3ede9c09b2c",
-      "dfd571237a27b85a69895581"
+      "dfd571237a27b85a69895581",
+      "c2429e1c289523405cf4b928",
+      "0451a9b50fc63cb89c1aad64"
     ],
     "companies": {
       "AXA GBS Morocco": 2,
       "DXC - CDG": 1,
       "Sofrecom Maroc": 3,
       "AFD.Tech": 2,
-      "CGI Technologies et Solutions Maroc": 1,
+      "CGI Technologies et Solutions Maroc": 3,
       "Capgemini": 1,
       "Cnexia": 3,
       "AXA Services Maroc": 1,
@@ -1439,14 +1471,14 @@
       "Cnexia tech": 1
     },
     "skills": {
-      "azure": 9,
+      "azure": 11,
       "azure devops": 3,
-      "devops": 13,
-      "gcp": 11,
+      "devops": 14,
+      "gcp": 12,
       "k8s": 1,
-      "aws": 7,
+      "aws": 8,
       "ci/cd": 13,
-      "cloud": 21,
+      "cloud": 23,
       "iam": 6,
       "infrastructure as code": 7,
       "kubernetes": 9,
@@ -1466,7 +1498,7 @@
       "github actions": 1
     },
     "sources": {
-      "Rekrute": 17,
+      "Rekrute": 19,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·gitlab": 3,
@@ -1486,7 +1518,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 60,
+    "total": 62,
     "prev": {
       "week": "2026-W38",
       "companies": {
@@ -1653,6 +1685,11 @@
       "domain": "",
       "emails": [],
       "updated_at": "2026-09-07T10:39:43"
+    },
+    "cgi technologies et solutions maroc": {
+      "domain": "cgi.com",
+      "emails": [],
+      "updated_at": "2026-09-22T14:54:33"
     }
   }
 }
