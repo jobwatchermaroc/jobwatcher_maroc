@@ -1193,6 +1193,12 @@
       "score": 60,
       "seen_at": "2026-09-22T23:45:29",
       "key": "senior systems engineer application security | cloudflare"
+    },
+    "b872ab6e5db9b4ea47ced75e": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 100,
+      "seen_at": "2026-09-23T06:48:23",
+      "key": "cloud operations engineer | mongodb"
     }
   },
   "keys": {
@@ -1330,48 +1336,49 @@
     "data scientist machine learning engineer f h | cgi technologies et solutions maroc": "0451a9b50fc63cb89c1aad64",
     "senior oracle security and ai engineer | cloudflare": "4d8db25e3748a1159d72ba6d",
     "senior software engineer source security | datadog": "7f12e8c194b8f90f826d26d4",
-    "senior systems engineer application security | cloudflare": "f2830cc2895a5c9b25214b42"
+    "senior systems engineer application security | cloudflare": "f2830cc2895a5c9b25214b42",
+    "cloud operations engineer | mongodb": "b872ab6e5db9b4ea47ced75e"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-23T01:47:11",
-      "last_run": "2026-09-23T01:47:11",
+      "last_ok_at": "2026-09-23T06:44:37",
+      "last_run": "2026-09-23T06:44:37",
       "last_error": "",
       "last_ok_count": 25
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-23T01:47:51",
-      "last_run": "2026-09-23T01:47:51",
+      "last_ok_at": "2026-09-23T06:45:14",
+      "last_run": "2026-09-23T06:45:14",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-23T01:49:28",
+      "last_run": "2026-09-23T06:46:51",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-23T01:50:16",
-      "last_run": "2026-09-23T01:50:16",
+      "last_ok_at": "2026-09-23T06:47:33",
+      "last_run": "2026-09-23T06:47:33",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-23T01:50:16",
+      "last_run": "2026-09-23T06:47:33",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-23T01:51:15",
-      "last_run": "2026-09-23T01:51:15",
+      "last_ok_at": "2026-09-23T06:48:20",
+      "last_run": "2026-09-23T06:48:20",
       "last_error": "",
       "last_ok_count": 1253
     }
@@ -1480,7 +1487,8 @@
       "0451a9b50fc63cb89c1aad64",
       "4d8db25e3748a1159d72ba6d",
       "7f12e8c194b8f90f826d26d4",
-      "f2830cc2895a5c9b25214b42"
+      "f2830cc2895a5c9b25214b42",
+      "b872ab6e5db9b4ea47ced75e"
     ],
     "companies": {
       "AXA GBS Morocco": 2,
@@ -1498,7 +1506,7 @@
       "Datadog": 2,
       "Okta": 2,
       "Proton": 3,
-      "MongoDB": 1,
+      "MongoDB": 2,
       "Twilio": 2,
       "Stripe": 1,
       "Asana": 2,
@@ -1512,23 +1520,23 @@
       "Cnexia tech": 1
     },
     "skills": {
-      "azure": 11,
+      "azure": 12,
       "azure devops": 3,
-      "devops": 14,
-      "gcp": 12,
+      "devops": 15,
+      "gcp": 13,
       "k8s": 1,
       "aws": 8,
       "ci/cd": 14,
-      "cloud": 24,
+      "cloud": 25,
       "iam": 6,
       "infrastructure as code": 7,
-      "kubernetes": 9,
+      "kubernetes": 10,
       "terraform": 8,
       "security": 38,
       "security engineer": 17,
       "docker": 4,
       "devsecops": 6,
-      "sre": 3,
+      "sre": 4,
       "gitlab ci": 1,
       "identity and access management": 6,
       "zero trust": 5,
@@ -1536,7 +1544,9 @@
       "site reliability": 4,
       "devops engineer": 2,
       "platform engineer": 4,
-      "github actions": 1
+      "github actions": 1,
+      "cloud engineer": 1,
+      "cloud operations": 1
     },
     "sources": {
       "Rekrute": 19,
@@ -1546,7 +1556,7 @@
       "ATS·Greenhouse·datadog": 2,
       "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 3,
-      "ATS·Greenhouse·mongodb": 1,
+      "ATS·Greenhouse·mongodb": 2,
       "ATS·Greenhouse·twilio": 2,
       "ATS·Greenhouse·stripe": 1,
       "ATS·Greenhouse·asana": 2,
@@ -1559,7 +1569,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 65,
+    "total": 66,
     "prev": {
       "week": "2026-W38",
       "companies": {
@@ -1731,6 +1741,11 @@
       "domain": "cgi.com",
       "emails": [],
       "updated_at": "2026-09-22T14:54:33"
+    },
+    "mongodb": {
+      "domain": "mongodb.com",
+      "emails": [],
+      "updated_at": "2026-09-23T06:48:38"
     }
   }
 }
