@@ -1211,6 +1211,30 @@
       "score": 65,
       "seen_at": "2026-09-23T12:17:50",
       "key": "sr data engineer | axa gbs morocco"
+    },
+    "107f5ce08527d1a3fef61199": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-09-24T15:22:27",
+      "key": "production engineer | axa gbs morocco"
+    },
+    "9b7d235c81575f44e2541ba6": {
+      "source": "Rekrute",
+      "score": 65,
+      "seen_at": "2026-09-24T15:22:27",
+      "key": "tech lead sas | axa gbs morocco"
+    },
+    "785d047d90a7a8f0227b9529": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-09-24T15:22:27",
+      "key": "security engineer analyst | axa gbs morocco"
+    },
+    "fea0ce4b14c86dbe97b2b865": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 50,
+      "seen_at": "2026-09-24T15:22:29",
+      "key": "senior sales engineer new england | datadog"
     }
   },
   "keys": {
@@ -1351,54 +1375,104 @@
     "senior systems engineer application security | cloudflare": "f2830cc2895a5c9b25214b42",
     "cloud operations engineer | mongodb": "b872ab6e5db9b4ea47ced75e",
     "cloud security engineer | axa gbs morocco": "1d875f50eae1d01f0d92c941",
-    "sr data engineer | axa gbs morocco": "895fd137f795f69dd36ac184"
+    "sr data engineer | axa gbs morocco": "895fd137f795f69dd36ac184",
+    "production engineer | axa gbs morocco": "107f5ce08527d1a3fef61199",
+    "tech lead sas | axa gbs morocco": "9b7d235c81575f44e2541ba6",
+    "security engineer analyst | axa gbs morocco": "785d047d90a7a8f0227b9529",
+    "senior sales engineer new england | datadog": "fea0ce4b14c86dbe97b2b865"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-24T10:25:04",
-      "last_run": "2026-09-24T10:25:04",
+      "last_ok_at": "2026-09-24T15:18:11",
+      "last_run": "2026-09-24T15:18:11",
       "last_error": "",
-      "last_ok_count": 36
+      "last_ok_count": 38
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-24T10:25:48",
-      "last_run": "2026-09-24T10:25:48",
+      "last_ok_at": "2026-09-24T15:18:47",
+      "last_run": "2026-09-24T15:18:47",
       "last_error": "",
-      "last_ok_count": 36
+      "last_ok_count": 38
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-24T10:27:25",
+      "last_run": "2026-09-24T15:20:24",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-24T10:28:19",
-      "last_run": "2026-09-24T10:28:19",
+      "last_ok_at": "2026-09-24T15:21:26",
+      "last_run": "2026-09-24T15:21:26",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-24T10:28:19",
+      "last_run": "2026-09-24T15:21:26",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-24T10:29:09",
-      "last_run": "2026-09-24T10:29:09",
+      "last_ok_at": "2026-09-24T15:22:27",
+      "last_run": "2026-09-24T15:22:27",
       "last_error": "",
-      "last_ok_count": 1249
+      "last_ok_count": 1248
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Production Engineer",
+        "company": "AXA GBS Morocco",
+        "url": "https://www.rekrute.com/offre-emploi-production-engineer-recrutement-axa-gbs-morocco-sala-al-jadida-186848.html",
+        "date": "24/09/2026",
+        "location": "Sala al Jadida (Maroc)",
+        "description": "experience with cloud platforms, including microsoft azure and aws.",
+        "source": "Rekrute",
+        "offer_id": "186848",
+        "id": "107f5ce08527d1a3fef61199",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      },
+      {
+        "title": "Tech Lead SAS",
+        "company": "AXA GBS Morocco",
+        "url": "https://www.rekrute.com/offre-emploi-tech-lead-sas-recrutement-axa-gbs-morocco-sala-al-jadida-186846.html",
+        "date": "24/09/2026",
+        "location": "Sala al Jadida (Maroc)",
+        "description": "strong knowledge of azure devops tools (repos, pipelines, releases) and version control using git.",
+        "source": "Rekrute",
+        "offer_id": "186846",
+        "id": "9b7d235c81575f44e2541ba6",
+        "score": 65,
+        "reasons": [
+          "description: azure + azure devops"
+        ]
+      },
+      {
+        "title": "Senior Sales Engineer - New England",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8230456/?gh_jid=8230456",
+        "date": "2026-09-24",
+        "location": "Massachusetts, USA, Remote",
+        "description": "<p>As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption.</p> <p>You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won</li> <li>Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions</li> <li>Deliver engaging product demos, technical presentations, and workshops that connect platform capabilities to customer outcomes</li> <li>Project manage technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining success criteria, building a project plan with clear timelines, and holding all participants accountable to the process</li> <li>Identify and cultivate technical champions within customer accounts, empowering them to advocate for Datadog adoption and drive consensus internally</li> <li>Participate actively in structured product and engineering field feedback sessions, serving as the technical voice of the customer to help shape product direction</li> <li>Maintain operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp;</li> <li>Collaborate cross-functionally with Product, Support, and GTM teams to address customer needs and resolve technical blockers</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>5+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment</li> <li>Skilled at navigating multi-stakeholder environments and adapting communication style to technical, business, and executive audiences</li> <li>Proficient background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Strong communication skills, with the ability to explain technical concepts to a range of audiences</li> <li>A consultative approach to problem-solving and customer engagement</li> <li>Ability to manage multiple opportunities and priorities in a fast-paced environment</li> <li>Growth mindset by embracing change and AI tools</li> <li>Willingness to travel as needed to support customer e",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "fea0ce4b14c86dbe97b2b865",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      }
+    ],
     "last_sent_date": "2026-09-23"
   },
   "market": {
@@ -1472,10 +1546,14 @@
       "b872ab6e5db9b4ea47ced75e",
       "1d875f50eae1d01f0d92c941",
       "895fd137f795f69dd36ac184",
-      "ba8efba2e900c6ec452ff172"
+      "ba8efba2e900c6ec452ff172",
+      "107f5ce08527d1a3fef61199",
+      "9b7d235c81575f44e2541ba6",
+      "785d047d90a7a8f0227b9529",
+      "fea0ce4b14c86dbe97b2b865"
     ],
     "companies": {
-      "AXA GBS Morocco": 4,
+      "AXA GBS Morocco": 7,
       "DXC - CDG": 1,
       "Sofrecom Maroc": 4,
       "AFD.Tech": 2,
@@ -1487,7 +1565,7 @@
       "Inconnu": 3,
       "Cloudflare": 8,
       "GitLab": 3,
-      "Datadog": 2,
+      "Datadog": 3,
       "Okta": 2,
       "Proton": 3,
       "MongoDB": 2,
@@ -1504,20 +1582,20 @@
       "Cnexia tech": 1
     },
     "skills": {
-      "azure": 14,
-      "azure devops": 3,
-      "devops": 16,
-      "gcp": 14,
+      "azure": 17,
+      "azure devops": 4,
+      "devops": 17,
+      "gcp": 15,
       "k8s": 1,
-      "aws": 9,
+      "aws": 11,
       "ci/cd": 15,
-      "cloud": 27,
+      "cloud": 29,
       "iam": 7,
       "infrastructure as code": 7,
-      "kubernetes": 11,
+      "kubernetes": 12,
       "terraform": 9,
-      "security": 39,
-      "security engineer": 18,
+      "security": 41,
+      "security engineer": 19,
       "docker": 5,
       "devsecops": 7,
       "sre": 4,
@@ -1536,11 +1614,11 @@
       "cloud architect": 1
     },
     "sources": {
-      "Rekrute": 22,
+      "Rekrute": 25,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 8,
       "ATS·Greenhouse·gitlab": 3,
-      "ATS·Greenhouse·datadog": 2,
+      "ATS·Greenhouse·datadog": 3,
       "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·mongodb": 2,
@@ -1556,7 +1634,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 69,
+    "total": 73,
     "prev": {
       "week": "2026-W38",
       "companies": {
