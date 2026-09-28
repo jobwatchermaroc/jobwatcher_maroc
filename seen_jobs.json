@@ -1289,6 +1289,12 @@
       "score": 100,
       "seen_at": "2026-09-28T06:00:16",
       "key": "technical support engineer zero trust | cloudflare"
+    },
+    "9cd17f05b5f81b393a70c264": {
+      "source": "Rekrute",
+      "score": 65,
+      "seen_at": "2026-09-28T19:50:30",
+      "key": "senior data engineer | axa gbs morocco"
     }
   },
   "keys": {
@@ -1440,71 +1446,56 @@
     "data ops senior | alten maroc": "c76526b8cfa101b468a22eea",
     "offensive security engineer | stripe": "ab3090edf360e1cb7aa3b526",
     "principal resident consultant professional services application security | cloudflare": "118c4d8bf287ef1ff3c50be1",
-    "technical support engineer zero trust | cloudflare": "1f2ded5c9dbc16335efeb581"
+    "technical support engineer zero trust | cloudflare": "1f2ded5c9dbc16335efeb581",
+    "senior data engineer | axa gbs morocco": "9cd17f05b5f81b393a70c264"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-09-28T12:24:17",
-      "last_run": "2026-09-28T12:24:17",
+      "last_run": "2026-09-28T19:45:05",
       "last_error": "",
       "last_ok_count": 17
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-28T12:24:53",
-      "last_run": "2026-09-28T12:24:53",
+      "last_ok_at": "2026-09-28T19:45:49",
+      "last_run": "2026-09-28T19:45:49",
       "last_error": "",
-      "last_ok_count": 37
+      "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-28T12:26:30",
+      "last_run": "2026-09-28T19:47:26",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-09-28T12:27:30",
-      "last_run": "2026-09-28T12:27:30",
+      "last_run": "2026-09-28T19:49:06",
       "last_error": "",
       "last_ok_count": 102
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-28T12:27:30",
+      "last_run": "2026-09-28T19:49:06",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-28T12:28:23",
-      "last_run": "2026-09-28T12:28:23",
+      "last_ok_at": "2026-09-28T19:50:30",
+      "last_run": "2026-09-28T19:50:30",
       "last_error": "",
-      "last_ok_count": 1249
+      "last_ok_count": 1248
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Principal Resident Consultant, Professional Services (Application Security)",
-        "company": "Cloudflare",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8203794?gh_jid=8203794",
-        "date": "2026-09-27",
-        "location": "Hybrid",
-        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><h3>Available Location: Singapore</h3> <h3>About the Role</h3> <p>Cloudflare’s Principal Resident Consultant, Professional Services provides customers with a dedicated, hands-on technical expert embedded directly within their environment. This is not a traditional support or purely advisory engagement—it is a staff-augmentation model where you act as an extension of the customer’s team, taking the lead in managing, optimizing, and evolving their Cloudflare solutions.</p> <p>As a Principal Resident Consultant, you are a recognized subject-matter expert in your specialization and a trusted advisor to both the customer and Cloudflare leadership. You will own the most complex, high-stakes customer engagements, and contribute to the evolution of Cloudflare's service methodologies and offerings. You operate with a high degree of autonomy, make architectural decisions that impact mission-critical infrastructure, and partner with executive stakeholders to align technical outcomes with business objectives.</p> <p>This role is ideal for senior technologists who have a proven track record of owning end-to-end customer transformations, leading through influence, and scaling expertise across teams.</p> <h3>What You Will Do</h3> <h3>Embed &amp; Integrate</h3> <ul> <li>Become a trusted, embedded member of the customer’s technical team, operating within their tools, processes, and change-managem",
-        "salary": "",
-        "source": "ATS·Greenhouse·cloudflare",
-        "id": "118c4d8bf287ef1ff3c50be1",
-        "score": 50,
-        "reasons": [
-          "security"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-09-27"
+    "buffer": [],
+    "last_sent_date": "2026-09-28"
   },
   "market": {
     "week": "2026-W40",
@@ -1567,13 +1558,16 @@
       "bc31f19db846f39bbf2fb85e",
       "a534aae94bd7edd0814d4253",
       "118c4d8bf287ef1ff3c50be1",
-      "1f2ded5c9dbc16335efeb581"
+      "1f2ded5c9dbc16335efeb581",
+      "9cd17f05b5f81b393a70c264",
+      "24b08340a661f1e9e3b25df3",
+      "b03eabc033f26802baad0557"
     ],
     "companies": {
-      "AXA GBS Morocco": 5,
+      "AXA GBS Morocco": 6,
       "CGI Technologies et Solutions Maroc": 3,
-      "ALTEN Maroc": 1,
-      "Sofrecom Maroc": 4,
+      "ALTEN Maroc": 2,
+      "Sofrecom Maroc": 5,
       "AFD.Tech": 1,
       "Cnexia": 1,
       "Cnexia tech": 1,
@@ -1594,24 +1588,24 @@
       "veepee": 1
     },
     "skills": {
-      "aws": 9,
-      "azure": 12,
-      "cloud": 25,
+      "aws": 10,
+      "azure": 14,
+      "cloud": 28,
       "azure devops": 1,
-      "devops": 11,
+      "devops": 12,
       "cloud security": 1,
       "cloud security engineer": 1,
       "devsecops": 3,
       "security": 33,
       "security engineer": 17,
-      "cloud architect": 1,
+      "cloud architect": 2,
       "gcp": 11,
       "ci/cd": 16,
       "infrastructure as code": 8,
       "kubernetes": 10,
       "docker": 5,
       "iam": 6,
-      "terraform": 9,
+      "terraform": 10,
       "gitlab ci": 2,
       "zero trust": 4,
       "site reliability": 4,
@@ -1624,7 +1618,7 @@
       "github actions": 1
     },
     "sources": {
-      "Rekrute": 16,
+      "Rekrute": 19,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 7,
       "ATS·Greenhouse·gitlab": 2,
@@ -1642,7 +1636,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 59,
+    "total": 62,
     "prev": {
       "week": "2026-W39",
       "companies": {
