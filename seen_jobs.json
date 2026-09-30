@@ -1319,6 +1319,12 @@
       "score": 55,
       "seen_at": "2026-09-30T16:58:24",
       "key": "sre w m x | veepee"
+    },
+    "8220d2674b9b70f5e23ba052": {
+      "source": "ATS·Greenhouse·gitlab",
+      "score": 75,
+      "seen_at": "2026-09-30T21:06:58",
+      "key": "professional services engineer west | gitlab"
     }
   },
   "keys": {
@@ -1475,101 +1481,56 @@
     "security grc analyst program manager bridge | stripe": "5074bf44900694f2ed16fee6",
     "senior solutions architect sydney | gitlab": "c4dce1fc38b3cc25dce61cc3",
     "software engineer security business enablement | stripe": "42e7561440a0801bc7244665",
-    "sre w m x | veepee": "27ebb71bbd5ecdcbfb53b1dd"
+    "sre w m x | veepee": "27ebb71bbd5ecdcbfb53b1dd",
+    "professional services engineer west | gitlab": "8220d2674b9b70f5e23ba052"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-30T16:54:08",
-      "last_run": "2026-09-30T16:54:08",
+      "last_ok_at": "2026-09-30T21:02:47",
+      "last_run": "2026-09-30T21:02:47",
       "last_error": "",
-      "last_ok_count": 39
+      "last_ok_count": 40
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-09-30T16:54:45",
-      "last_run": "2026-09-30T16:54:45",
+      "last_ok_at": "2026-09-30T21:03:29",
+      "last_run": "2026-09-30T21:03:29",
       "last_error": "",
       "last_ok_count": 37
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-30T16:56:22",
+      "last_run": "2026-09-30T21:05:06",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-09-30T16:57:22",
-      "last_run": "2026-09-30T16:57:22",
+      "last_ok_at": "2026-09-30T21:06:07",
+      "last_run": "2026-09-30T21:06:07",
       "last_error": "",
       "last_ok_count": 103
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-09-30T16:57:22",
+      "last_run": "2026-09-30T21:06:07",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-09-30T16:58:14",
-      "last_run": "2026-09-30T16:58:14",
+      "last_ok_at": "2026-09-30T21:06:56",
+      "last_run": "2026-09-30T21:06:56",
       "last_error": "",
-      "last_ok_count": 1249
+      "last_ok_count": 1247
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Senior Solutions Architect- Sydney",
-        "company": "GitLab",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8826637002",
-        "date": "2026-09-29",
-        "location": "Remote",
-        "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><p><strong>An overview of this role</strong></p> <p>Based in Sydney, as a Senior Solutions Architect in GitLab's ANZ team, you'll be a trusted advisor to GitLab prospects and customers in the region, helping them understand how GitLab's AI-powered DevSecOps platform addresses both technical requirements and business objectives across the entire software development lifecycle. You'll guide organisations through their digital transformation journeys, from planning through monitoring, using your technical expertise, understanding of cloud and modern software development practices, and strong customer empathy.</p> <p>You will partner closely with Account Executives and cross-functional teams, own technical evaluations, including proofs of value and workshops, shape solution architectures, and serve as the voice of the customer back to Product Management. You'll focus on driving successful platform adoption, influencing revenue growth through solution selling, and building long-term, trust-based relationships that showcase GitLab's differentiated position in an AI-driven DevSecOps landscape.</p> <p><strong>What you'll do</strong></p> <ul> <li>Lead technical discovery, demos, and validation to show how GitLab's AI-powered DevSecOps platform meets customers' technical and business needs across the full lifecycle.</li> <li>Drive the technical evaluation process as the directly responsible individual, including solution design, proof of concept or proof of value ownership, workshop design, and the tech",
-        "salary": "",
-        "source": "ATS·Greenhouse·gitlab",
-        "id": "c4dce1fc38b3cc25dce61cc3",
-        "score": 50,
-        "reasons": [
-          "description: devsecops"
-        ]
-      },
-      {
-        "title": "Software Engineer, Security Business Enablement",
-        "company": "Stripe",
-        "url": "https://stripe.com/jobs/search?gh_jid=8175656",
-        "date": "2026-09-30",
-        "location": "Dublin",
-        "description": "<h2>Who we are</h2> <h3>About Stripe</h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world’s largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone’s reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>Security Business Enablement (SBE) is Stripe's commercial security function: the interface between Stripe's internal security program and its Go-to-Market organization. We make sure security and compliance requirements never block, delay, or devalue Stripe's deals.</p> <p>This work is about customer trust: businesses entrust Stripe with critical financial infrastructure, and their security teams need confidence that Stripe meets rigorous standards before, during, and after the sale. We make that trust tangible with accurate, consistent evidence of Stripe's security posture.</p> <p>We own security due diligence end to end: questionnaire response, compliance evidence, live security reviews, gap and exception management, contractual security exhibits, rapid response during industry-wide events, and executive briefings. We engage customers directly, up to CISO level, and equip sales teams to handle security conversations on their own.</p> <p>Our scope is unusually broad: one assessment can span security, privacy, business continuity, and resilience, translating deep control detail into language procurement, legal, and a CISO can each act on. We are often the first team asked to represent emerging parts of Stripe's posture.</p> <p>We work at the intersection of security, AI, and Go-to-Market. Our platform is built on authoritative grounding: answers are retrieved from a knowledge base we maintain and validate, not generated from first principles, so they are consistent and source-traceable. Our POC proved the concept and outgrew what agent builders alone can do; taking it to production quality is the engineering problem this role exists to solve.</p> <h2>What you’ll do</h2> <h3>Responsibilities</h3> <ul> <li>Design, build, and scale an AI-powered platform that delivers validated answers to security questions on demand, for both the sales teams who ask them and the customers who need them, replacing inconsistent ad-hoc responses with consistent, source-traceable ones</li> <li>Build the retrieval, content pipeline orchestration, and integration layers that off-the-shelf tooling cannot deliver, including support for multiple cloud environments and Stripe's full and growing product portfolio, so that answers stay accurate as Stripe's infrastructure and products evolve</li> <li>Build automations that keep security content current as Stripe rapidly adopts ne",
-        "salary": "",
-        "source": "ATS·Greenhouse·stripe",
-        "id": "42e7561440a0801bc7244665",
-        "score": 70,
-        "reasons": [
-          "security",
-          "description: cloud + security"
-        ]
-      },
-      {
-        "title": "SRE - W/M/X",
-        "company": "veepee",
-        "url": "https://jobs.lever.co/veepee/ccac738a-7f68-4f12-a81e-28aed72de110",
-        "date": "2026-09-30",
-        "location": "Paris",
-        "description": "",
-        "source": "ATS·Lever·veepee",
-        "id": "27ebb71bbd5ecdcbfb53b1dd",
-        "score": 55,
-        "reasons": [
-          "sre"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-09-29"
+    "buffer": [],
+    "last_sent_date": "2026-09-30"
   },
   "market": {
     "week": "2026-W40",
@@ -1639,7 +1600,8 @@
       "5074bf44900694f2ed16fee6",
       "c4dce1fc38b3cc25dce61cc3",
       "42e7561440a0801bc7244665",
-      "27ebb71bbd5ecdcbfb53b1dd"
+      "27ebb71bbd5ecdcbfb53b1dd",
+      "8220d2674b9b70f5e23ba052"
     ],
     "companies": {
       "AXA GBS Morocco": 6,
@@ -1651,7 +1613,7 @@
       "Cnexia tech": 1,
       "Inconnu": 3,
       "Cloudflare": 7,
-      "GitLab": 3,
+      "GitLab": 4,
       "Datadog": 3,
       "Proton": 3,
       "MongoDB": 2,
@@ -1668,22 +1630,22 @@
     "skills": {
       "aws": 10,
       "azure": 14,
-      "cloud": 30,
+      "cloud": 31,
       "azure devops": 1,
-      "devops": 12,
+      "devops": 13,
       "cloud security": 1,
       "cloud security engineer": 1,
-      "devsecops": 4,
-      "security": 36,
+      "devsecops": 5,
+      "security": 37,
       "security engineer": 17,
       "cloud architect": 2,
       "gcp": 11,
-      "ci/cd": 16,
-      "infrastructure as code": 8,
+      "ci/cd": 17,
+      "infrastructure as code": 9,
       "kubernetes": 10,
       "docker": 5,
       "iam": 6,
-      "terraform": 10,
+      "terraform": 11,
       "gitlab ci": 2,
       "zero trust": 4,
       "site reliability": 4,
@@ -1699,7 +1661,7 @@
       "Rekrute": 19,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 7,
-      "ATS·Greenhouse·gitlab": 3,
+      "ATS·Greenhouse·gitlab": 4,
       "ATS·Greenhouse·datadog": 3,
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·mongodb": 2,
@@ -1714,7 +1676,7 @@
       "ATS·Lever·veepee": 2
     },
     "salaries": [],
-    "total": 66,
+    "total": 67,
     "prev": {
       "week": "2026-W39",
       "companies": {
