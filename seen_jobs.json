@@ -1331,6 +1331,18 @@
       "score": 95,
       "seen_at": "2026-10-01T13:36:37",
       "key": "associate technical services engineer ii cloud | mongodb"
+    },
+    "62c88c43dc42907fa32d501f": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-10-01T19:03:38",
+      "key": "devops engineer h f | capgemini"
+    },
+    "05c656bcc720b97ea960c529": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 70,
+      "seen_at": "2026-10-01T19:03:39",
+      "key": "engineering manager edge sre | cloudflare"
     }
   },
   "keys": {
@@ -1489,55 +1501,57 @@
     "software engineer security business enablement | stripe": "42e7561440a0801bc7244665",
     "sre w m x | veepee": "27ebb71bbd5ecdcbfb53b1dd",
     "professional services engineer west | gitlab": "8220d2674b9b70f5e23ba052",
-    "associate technical services engineer ii cloud | mongodb": "8d9f695738261fbfa95b43e3"
+    "associate technical services engineer ii cloud | mongodb": "8d9f695738261fbfa95b43e3",
+    "devops engineer h f | capgemini": "62c88c43dc42907fa32d501f",
+    "engineering manager edge sre | cloudflare": "05c656bcc720b97ea960c529"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-01T13:32:21",
-      "last_run": "2026-10-01T13:32:21",
+      "last_ok_at": "2026-10-01T18:59:21",
+      "last_run": "2026-10-01T18:59:21",
       "last_error": "",
       "last_ok_count": 39
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-01T13:32:55",
-      "last_run": "2026-10-01T13:32:55",
+      "last_ok_at": "2026-10-01T19:00:05",
+      "last_run": "2026-10-01T19:00:05",
       "last_error": "",
-      "last_ok_count": 38
+      "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-01T13:34:33",
+      "last_run": "2026-10-01T19:01:43",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-01T13:35:39",
-      "last_run": "2026-10-01T13:35:39",
+      "last_ok_at": "2026-10-01T19:02:50",
+      "last_run": "2026-10-01T19:02:50",
       "last_error": "",
       "last_ok_count": 102
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-01T13:35:39",
+      "last_run": "2026-10-01T19:02:50",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-01T13:36:33",
-      "last_run": "2026-10-01T13:36:33",
+      "last_ok_at": "2026-10-01T19:03:38",
+      "last_run": "2026-10-01T19:03:38",
       "last_error": "",
       "last_ok_count": 1247
     }
   },
   "digest": {
     "buffer": [],
-    "last_sent_date": "2026-09-30"
+    "last_sent_date": "2026-10-01"
   },
   "market": {
     "week": "2026-W40",
@@ -1609,7 +1623,10 @@
       "42e7561440a0801bc7244665",
       "27ebb71bbd5ecdcbfb53b1dd",
       "8220d2674b9b70f5e23ba052",
-      "8d9f695738261fbfa95b43e3"
+      "8d9f695738261fbfa95b43e3",
+      "62c88c43dc42907fa32d501f",
+      "05c656bcc720b97ea960c529",
+      "6fb7e1f04c53994aa10bdc9e"
     ],
     "companies": {
       "AXA GBS Morocco": 6,
@@ -1620,11 +1637,11 @@
       "Cnexia": 1,
       "Cnexia tech": 1,
       "Inconnu": 3,
-      "Cloudflare": 7,
+      "Cloudflare": 8,
       "GitLab": 4,
       "Datadog": 3,
       "Proton": 3,
-      "MongoDB": 3,
+      "MongoDB": 4,
       "Twilio": 2,
       "Stripe": 3,
       "Asana": 2,
@@ -1633,18 +1650,19 @@
       "Duolingo": 5,
       "swile": 3,
       "contentsquare": 1,
-      "veepee": 2
+      "veepee": 2,
+      "Capgemini": 1
     },
     "skills": {
-      "aws": 11,
-      "azure": 15,
-      "cloud": 32,
-      "azure devops": 1,
-      "devops": 13,
+      "aws": 13,
+      "azure": 17,
+      "cloud": 34,
+      "azure devops": 2,
+      "devops": 14,
       "cloud security": 1,
       "cloud security engineer": 1,
       "devsecops": 5,
-      "security": 38,
+      "security": 40,
       "security engineer": 17,
       "cloud architect": 2,
       "gcp": 11,
@@ -1658,21 +1676,21 @@
       "zero trust": 4,
       "site reliability": 4,
       "platform engineer": 5,
-      "devops engineer": 2,
+      "devops engineer": 3,
       "cloud engineer": 1,
       "cloud operations": 1,
-      "sre": 3,
+      "sre": 4,
       "identity and access management": 5,
       "github actions": 1
     },
     "sources": {
-      "Rekrute": 19,
+      "Rekrute": 20,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 7,
+      "ATS·Greenhouse·cloudflare": 8,
       "ATS·Greenhouse·gitlab": 4,
       "ATS·Greenhouse·datadog": 3,
       "ATS·Greenhouse·proton": 3,
-      "ATS·Greenhouse·mongodb": 3,
+      "ATS·Greenhouse·mongodb": 4,
       "ATS·Greenhouse·twilio": 2,
       "ATS·Greenhouse·stripe": 3,
       "ATS·Greenhouse·asana": 2,
@@ -1684,7 +1702,7 @@
       "ATS·Lever·veepee": 2
     },
     "salaries": [],
-    "total": 68,
+    "total": 71,
     "prev": {
       "week": "2026-W39",
       "companies": {
@@ -1834,7 +1852,7 @@
     "capgemini": {
       "domain": "capgemini.com",
       "emails": [],
-      "updated_at": "2026-08-28T01:35:16"
+      "updated_at": "2026-10-01T19:04:00"
     },
     "okta": {
       "domain": "okta.com",
