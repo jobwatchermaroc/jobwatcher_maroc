@@ -1325,6 +1325,12 @@
       "score": 75,
       "seen_at": "2026-09-30T21:06:58",
       "key": "professional services engineer west | gitlab"
+    },
+    "8d9f695738261fbfa95b43e3": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 95,
+      "seen_at": "2026-10-01T13:36:37",
+      "key": "associate technical services engineer ii cloud | mongodb"
     }
   },
   "keys": {
@@ -1482,50 +1488,51 @@
     "senior solutions architect sydney | gitlab": "c4dce1fc38b3cc25dce61cc3",
     "software engineer security business enablement | stripe": "42e7561440a0801bc7244665",
     "sre w m x | veepee": "27ebb71bbd5ecdcbfb53b1dd",
-    "professional services engineer west | gitlab": "8220d2674b9b70f5e23ba052"
+    "professional services engineer west | gitlab": "8220d2674b9b70f5e23ba052",
+    "associate technical services engineer ii cloud | mongodb": "8d9f695738261fbfa95b43e3"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-01T06:23:18",
-      "last_run": "2026-10-01T06:23:18",
+      "last_ok_at": "2026-10-01T13:32:21",
+      "last_run": "2026-10-01T13:32:21",
       "last_error": "",
-      "last_ok_count": 40
+      "last_ok_count": 39
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-01T06:23:49",
-      "last_run": "2026-10-01T06:23:49",
+      "last_ok_at": "2026-10-01T13:32:55",
+      "last_run": "2026-10-01T13:32:55",
       "last_error": "",
-      "last_ok_count": 37
+      "last_ok_count": 38
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-01T06:25:26",
+      "last_run": "2026-10-01T13:34:33",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-01T06:26:22",
-      "last_run": "2026-10-01T06:26:22",
+      "last_ok_at": "2026-10-01T13:35:39",
+      "last_run": "2026-10-01T13:35:39",
       "last_error": "",
-      "last_ok_count": 103
+      "last_ok_count": 102
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-01T06:26:22",
+      "last_run": "2026-10-01T13:35:39",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-01T06:27:13",
-      "last_run": "2026-10-01T06:27:13",
+      "last_ok_at": "2026-10-01T13:36:33",
+      "last_run": "2026-10-01T13:36:33",
       "last_error": "",
-      "last_ok_count": 1250
+      "last_ok_count": 1247
     }
   },
   "digest": {
@@ -1601,7 +1608,8 @@
       "c4dce1fc38b3cc25dce61cc3",
       "42e7561440a0801bc7244665",
       "27ebb71bbd5ecdcbfb53b1dd",
-      "8220d2674b9b70f5e23ba052"
+      "8220d2674b9b70f5e23ba052",
+      "8d9f695738261fbfa95b43e3"
     ],
     "companies": {
       "AXA GBS Morocco": 6,
@@ -1616,7 +1624,7 @@
       "GitLab": 4,
       "Datadog": 3,
       "Proton": 3,
-      "MongoDB": 2,
+      "MongoDB": 3,
       "Twilio": 2,
       "Stripe": 3,
       "Asana": 2,
@@ -1628,15 +1636,15 @@
       "veepee": 2
     },
     "skills": {
-      "aws": 10,
-      "azure": 14,
-      "cloud": 31,
+      "aws": 11,
+      "azure": 15,
+      "cloud": 32,
       "azure devops": 1,
       "devops": 13,
       "cloud security": 1,
       "cloud security engineer": 1,
       "devsecops": 5,
-      "security": 37,
+      "security": 38,
       "security engineer": 17,
       "cloud architect": 2,
       "gcp": 11,
@@ -1664,7 +1672,7 @@
       "ATS·Greenhouse·gitlab": 4,
       "ATS·Greenhouse·datadog": 3,
       "ATS·Greenhouse·proton": 3,
-      "ATS·Greenhouse·mongodb": 2,
+      "ATS·Greenhouse·mongodb": 3,
       "ATS·Greenhouse·twilio": 2,
       "ATS·Greenhouse·stripe": 3,
       "ATS·Greenhouse·asana": 2,
@@ -1676,7 +1684,7 @@
       "ATS·Lever·veepee": 2
     },
     "salaries": [],
-    "total": 67,
+    "total": 68,
     "prev": {
       "week": "2026-W39",
       "companies": {
@@ -1856,7 +1864,7 @@
     "mongodb": {
       "domain": "mongodb.com",
       "emails": [],
-      "updated_at": "2026-09-23T06:48:38"
+      "updated_at": "2026-10-01T13:36:56"
     },
     "axa gbs morocco": {
       "domain": "axa.ma",
