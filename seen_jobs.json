@@ -1355,6 +1355,18 @@
       "score": 60,
       "seen_at": "2026-10-02T14:53:12",
       "key": "sre manager vpn | proton"
+    },
+    "d28712d63429f191960d2646": {
+      "source": "Rekrute",
+      "score": 65,
+      "seen_at": "2026-10-02T19:38:13",
+      "key": "software engineer net cloud microservices | alten maroc"
+    },
+    "5d660da171b3f76d7e59e11c": {
+      "source": "ATS·Greenhouse·proton",
+      "score": 50,
+      "seen_at": "2026-10-02T19:38:16",
+      "key": "site reliability engineer meet | proton"
     }
   },
   "keys": {
@@ -1363,7 +1375,7 @@
     "developpeur se full stack senior java angular | alten maroc": "d589b1d28de0c0dd41d2c319",
     "ingenieur confirme en intelligence artificielle | alten maroc": "6c532aac5568f61f846bec80",
     "specialiste en intelligence artificielle | alten maroc": "5b350ed56af6445cec9082f0",
-    "software engineer net cloud microservices | alten maroc": "c58545d653825488f2f19656",
+    "software engineer net cloud microservices | alten maroc": "d28712d63429f191960d2646",
     "service management run management junior cloud ops | alten maroc": "5d8045668db0668f2b087821",
     "ingenieur devops infra | perenity software": "23a823144f761000f41a6260",
     "data security analyst | cnexia tech": "e5f1bc7cc4efcc8123a2bdd1",
@@ -1517,72 +1529,56 @@
     "devops engineer h f | capgemini": "62c88c43dc42907fa32d501f",
     "engineering manager edge sre | cloudflare": "05c656bcc720b97ea960c529",
     "devops administrateur sre kubernetes gcp junior | alten maroc": "90b033367367b5075d8b7521",
-    "sre manager vpn | proton": "f2ef8c82c27282ebdb6737d5"
+    "sre manager vpn | proton": "f2ef8c82c27282ebdb6737d5",
+    "site reliability engineer meet | proton": "5d660da171b3f76d7e59e11c"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-02T14:49:00",
-      "last_run": "2026-10-02T14:49:00",
+      "last_ok_at": "2026-10-02T19:34:03",
+      "last_run": "2026-10-02T19:34:03",
       "last_error": "",
-      "last_ok_count": 36
+      "last_ok_count": 32
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-02T14:49:41",
-      "last_run": "2026-10-02T14:49:41",
+      "last_ok_at": "2026-10-02T19:34:49",
+      "last_run": "2026-10-02T19:34:49",
       "last_error": "",
-      "last_ok_count": 39
+      "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-02T14:51:19",
+      "last_run": "2026-10-02T19:36:26",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-02T14:52:19",
-      "last_run": "2026-10-02T14:52:19",
+      "last_ok_at": "2026-10-02T19:37:25",
+      "last_run": "2026-10-02T19:37:25",
       "last_error": "",
       "last_ok_count": 103
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-02T14:52:19",
+      "last_run": "2026-10-02T19:37:25",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-02T14:53:08",
-      "last_run": "2026-10-02T14:53:08",
+      "last_ok_at": "2026-10-02T19:38:13",
+      "last_run": "2026-10-02T19:38:13",
       "last_error": "",
       "last_ok_count": 1248
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "SRE Manager (VPN)",
-        "company": "Proton",
-        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/4996320101",
-        "date": "2026-10-02",
-        "location": "Barcelona; Geneva;",
-        "description": "<p data-renderer-start-pos=\"18\" data-local-id=\"384391c2485b\"><strong data-renderer-mark=\"true\">Join Proton and build a better internet where privacy is the default</strong></p> <p data-renderer-start-pos=\"88\" data-local-id=\"70873c53c148\">Proton was founded in 2014 by scientists from CERN on a simple truth: <strong data-renderer-mark=\"true\">privacy is a fundamental human right</strong>. Since then, we’ve built the world’s largest encrypted email service (Proton Mail) and expanded into Proton VPN, Proton Drive, Proton Pass, and Proton Calendar—tools used by millions globally to protect their freedom, fight censorship, and keep their data safe. In some situations, Proton has literally helped save lives!</p> <p data-renderer-start-pos=\"518\" data-local-id=\"bb6a25ba35fe\">We are profitable, independent (no VC control), and selectively hire from the top ~1% of applicants. Our 700+ team members across 50+ countries come from leading organizations and elite academic backgrounds. We move fast, keep hierarchy light, and prioritize impact over optics. If you want to do meaningful work with exceptionally high-caliber people, this is it. Join us and do work you can truly be proud of. Check our open-source projects <a class=\"_ymio1r31 _ypr0glyw _zcxs1o36 _mizu1v1w _1ah3dkaa _ra3xnqa1 _128mdkaa _1cvmnqa1 _4davt94y _4bfu1r31 _1hms8stv _ajmmnqa1 _vchhusvi _kqswh2mm _ect4ttxp _syaz13af _1a3b1r31 _4fpr8stv _5goinqa1 _f8pj13af _9oik1r31 _1bnxglyw _jf4cnqa1 _30l313af _1nrm1r31 _c2waglyw _1iohnqa1 _9h8h12zz _10531ra0 _1ien1ra0 _n0fx1ra0 _1vhv17z1\" href=\"https://proton.me/community/open-source\" data-renderer-mark=\"true\" data-is-router-link=\"false\" data-testid=\"link-with-safety\">here</a>!</p> <p class=\"Lexical__paragraph\"><strong>The Team:</strong></p> <p class=\"Lexical__paragraph\">Proton VPN gives millions of people a private connection to the internet, including people in countries where the internet is censored. It runs on thousands of bare-metal servers. We choose the hardware, the datacenters, and the networks ourselves, and we operate all of them.</p> <p class=\"Lexical__paragraph\">The VPN Site Reliability Engineering team builds and runs this fleet. It has eight engineers: six site reliability engineers and two engineers who look after day-to-day fleet health. The fleet runs Debian, is automated with Ansible and Python, and is monitored with Prometheus, VictoriaMetrics, and Grafana. The team has kept the service stable through several years of fast growth.</p> <p class=\"Lexical__paragraph\"><strong>The role:</strong></p> <p class=\"Lexical__paragraph\">We are hiring an engineering manager to lead this team. You will report to the VPN Engineering Director and work from our Geneva or Barcelona office.</p> <p class=\"Lexical__paragraph\">The fleet keeps growing as more people use Proton VPN. To stay ahead of that growth, the team is investing in two areas, and you will lead both.</p> <p class=\"Lexical__paragraph\">1. Automation. Engineers still do much of the provisioning, d",
-        "salary": "",
-        "source": "ATS·Greenhouse·proton",
-        "id": "f2ef8c82c27282ebdb6737d5",
-        "score": 60,
-        "reasons": [
-          "sre",
-          "description: site reliability"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-10-01"
+    "buffer": [],
+    "last_sent_date": "2026-10-02"
   },
   "market": {
     "week": "2026-W40",
@@ -1659,12 +1655,15 @@
       "05c656bcc720b97ea960c529",
       "6fb7e1f04c53994aa10bdc9e",
       "90b033367367b5075d8b7521",
-      "f2ef8c82c27282ebdb6737d5"
+      "f2ef8c82c27282ebdb6737d5",
+      "d28712d63429f191960d2646",
+      "d369acc8260357f62bebbac1",
+      "5d660da171b3f76d7e59e11c"
     ],
     "companies": {
       "AXA GBS Morocco": 6,
       "CGI Technologies et Solutions Maroc": 3,
-      "ALTEN Maroc": 3,
+      "ALTEN Maroc": 5,
       "Sofrecom Maroc": 5,
       "AFD.Tech": 1,
       "Cnexia": 1,
@@ -1673,7 +1672,7 @@
       "Cloudflare": 8,
       "GitLab": 4,
       "Datadog": 3,
-      "Proton": 4,
+      "Proton": 5,
       "MongoDB": 4,
       "Twilio": 2,
       "Stripe": 3,
@@ -1689,7 +1688,7 @@
     "skills": {
       "aws": 13,
       "azure": 17,
-      "cloud": 34,
+      "cloud": 36,
       "azure devops": 2,
       "devops": 15,
       "cloud security": 1,
@@ -1707,7 +1706,7 @@
       "terraform": 11,
       "gitlab ci": 2,
       "zero trust": 4,
-      "site reliability": 5,
+      "site reliability": 6,
       "platform engineer": 5,
       "devops engineer": 3,
       "cloud engineer": 1,
@@ -1717,12 +1716,12 @@
       "github actions": 1
     },
     "sources": {
-      "Rekrute": 21,
+      "Rekrute": 23,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 8,
       "ATS·Greenhouse·gitlab": 4,
       "ATS·Greenhouse·datadog": 3,
-      "ATS·Greenhouse·proton": 4,
+      "ATS·Greenhouse·proton": 5,
       "ATS·Greenhouse·mongodb": 4,
       "ATS·Greenhouse·twilio": 2,
       "ATS·Greenhouse·stripe": 3,
@@ -1735,7 +1734,7 @@
       "ATS·Lever·veepee": 2
     },
     "salaries": [],
-    "total": 73,
+    "total": 76,
     "prev": {
       "week": "2026-W39",
       "companies": {
