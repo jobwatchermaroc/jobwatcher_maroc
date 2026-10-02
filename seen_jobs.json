@@ -1367,6 +1367,12 @@
       "score": 50,
       "seen_at": "2026-10-02T19:38:16",
       "key": "site reliability engineer meet | proton"
+    },
+    "7f4a0d25cdcdcffce3603e64": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 60,
+      "seen_at": "2026-10-02T23:15:31",
+      "key": "sr technical program manager security compliance | cloudflare"
     }
   },
   "keys": {
@@ -1530,54 +1536,72 @@
     "engineering manager edge sre | cloudflare": "05c656bcc720b97ea960c529",
     "devops administrateur sre kubernetes gcp junior | alten maroc": "90b033367367b5075d8b7521",
     "sre manager vpn | proton": "f2ef8c82c27282ebdb6737d5",
-    "site reliability engineer meet | proton": "5d660da171b3f76d7e59e11c"
+    "site reliability engineer meet | proton": "5d660da171b3f76d7e59e11c",
+    "sr technical program manager security compliance | cloudflare": "7f4a0d25cdcdcffce3603e64"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-02T19:34:03",
-      "last_run": "2026-10-02T19:34:03",
+      "last_ok_at": "2026-10-02T23:11:53",
+      "last_run": "2026-10-02T23:11:53",
       "last_error": "",
-      "last_ok_count": 32
+      "last_ok_count": 31
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-02T19:34:49",
-      "last_run": "2026-10-02T19:34:49",
+      "last_ok_at": "2026-10-02T23:12:29",
+      "last_run": "2026-10-02T23:12:29",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-02T19:36:26",
+      "last_run": "2026-10-02T23:14:08",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-02T19:37:25",
-      "last_run": "2026-10-02T19:37:25",
+      "last_ok_at": "2026-10-02T23:14:41",
+      "last_run": "2026-10-02T23:14:41",
       "last_error": "",
       "last_ok_count": 103
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-02T19:37:25",
+      "last_run": "2026-10-02T23:14:41",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-02T19:38:13",
-      "last_run": "2026-10-02T19:38:13",
+      "last_ok_at": "2026-10-02T23:15:30",
+      "last_run": "2026-10-02T23:15:30",
       "last_error": "",
       "last_ok_count": 1248
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Sr. Technical Program Manager - Security Compliance",
+        "company": "Cloudflare",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8248873?gh_jid=8248873",
+        "date": "2026-10-02",
+        "location": "Hybrid",
+        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations:&nbsp;</strong>Austin,TX</p> <p><strong>About the Department</strong></p> <p>Security at Cloudflare is a diverse, focused team committed to helping secure both Cloudflare and our customers. The Security Technical Program Management team sits at the intersection of engineering, security, and business. We define, align, and drive the strategic security programs that reduce risk and advance innovation across Cloudflare, while partnering to build the best solutions for our customers.</p> <p><strong>About the Role</strong></p> <p>Cloudflare is seeking a highly skilled, self-motivated Senior Technical Program Manager to lead the company’s strategic Governance, Risk, and Compliance program, initially focused on the Department of Defense Impact Level 4 (IL4) initiative.&nbsp;</p> <p>As a Technical Program Manager focused on Governance, Risk, and Compliance, you will define, align, and drive complex security and compliance programs that reduce risk and enable Cloudflare’s regulated business. You will manage stakeholder expectations, proactively identify risks and dependencies, and ensure the delivery of predictable, high-impact outcomes.</p> <p>The ideal candidate is process-oriented yet remains flexible and iterative. You excel at navigating ambiguous technical challenges, fostering collaboration across teams, and asking the insightful questions necessary t",
+        "salary": "",
+        "source": "ATS·Greenhouse·cloudflare",
+        "id": "7f4a0d25cdcdcffce3603e64",
+        "score": 60,
+        "reasons": [
+          "security",
+          "description: security"
+        ]
+      }
+    ],
     "last_sent_date": "2026-10-02"
   },
   "market": {
@@ -1658,7 +1682,8 @@
       "f2ef8c82c27282ebdb6737d5",
       "d28712d63429f191960d2646",
       "d369acc8260357f62bebbac1",
-      "5d660da171b3f76d7e59e11c"
+      "5d660da171b3f76d7e59e11c",
+      "7f4a0d25cdcdcffce3603e64"
     ],
     "companies": {
       "AXA GBS Morocco": 6,
@@ -1669,7 +1694,7 @@
       "Cnexia": 1,
       "Cnexia tech": 1,
       "Inconnu": 3,
-      "Cloudflare": 8,
+      "Cloudflare": 9,
       "GitLab": 4,
       "Datadog": 3,
       "Proton": 5,
@@ -1694,7 +1719,7 @@
       "cloud security": 1,
       "cloud security engineer": 1,
       "devsecops": 5,
-      "security": 40,
+      "security": 41,
       "security engineer": 17,
       "cloud architect": 2,
       "gcp": 12,
@@ -1718,7 +1743,7 @@
     "sources": {
       "Rekrute": 23,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 8,
+      "ATS·Greenhouse·cloudflare": 9,
       "ATS·Greenhouse·gitlab": 4,
       "ATS·Greenhouse·datadog": 3,
       "ATS·Greenhouse·proton": 5,
@@ -1734,7 +1759,7 @@
       "ATS·Lever·veepee": 2
     },
     "salaries": [],
-    "total": 76,
+    "total": 77,
     "prev": {
       "week": "2026-W39",
       "companies": {
