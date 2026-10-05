@@ -1373,6 +1373,18 @@
       "score": 60,
       "seen_at": "2026-10-02T23:15:31",
       "key": "sr technical program manager security compliance | cloudflare"
+    },
+    "24b08340a661f1e9e3b25df3": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-10-05T15:37:03",
+      "key": "software engineer senior net cloud microservices | alten maroc"
+    },
+    "de777eeca248d4c38c6ecf00": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 50,
+      "seen_at": "2026-10-05T15:37:04",
+      "key": "senior sales engineer majors central | datadog"
     }
   },
   "keys": {
@@ -1412,7 +1424,7 @@
     "manager i engineering code security | datadog": "c2bcd0afdc699c45b9d822ae",
     "manager i engineering security libraries | datadog": "f9c6753578a92c1a582a8147",
     "senior sales engineer bay area | datadog": "f66bd7cb5d31e3de3eef62b2",
-    "software engineer senior net cloud microservices | alten maroc": "b2c624336464829276f96ca0",
+    "software engineer senior net cloud microservices | alten maroc": "24b08340a661f1e9e3b25df3",
     "chef de projet technique ingenieur systemes reseaux et it f h | sofrecom maroc": "4cd6f65415cac79b6afa8e25",
     "cyber security engineer | cnexia": "51a1c4d61dcaf061859e8f05",
     "senior observability automation engineer | dxc cdg": "ae3a02e157013ffd77a33a9e",
@@ -1537,54 +1549,71 @@
     "devops administrateur sre kubernetes gcp junior | alten maroc": "90b033367367b5075d8b7521",
     "sre manager vpn | proton": "f2ef8c82c27282ebdb6737d5",
     "site reliability engineer meet | proton": "5d660da171b3f76d7e59e11c",
-    "sr technical program manager security compliance | cloudflare": "7f4a0d25cdcdcffce3603e64"
+    "sr technical program manager security compliance | cloudflare": "7f4a0d25cdcdcffce3603e64",
+    "senior sales engineer majors central | datadog": "de777eeca248d4c38c6ecf00"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-05T06:58:48",
-      "last_run": "2026-10-05T06:58:48",
+      "last_ok_at": "2026-10-05T15:33:02",
+      "last_run": "2026-10-05T15:33:02",
       "last_error": "",
-      "last_ok_count": 15
+      "last_ok_count": 20
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-05T06:59:30",
-      "last_run": "2026-10-05T06:59:30",
+      "last_ok_at": "2026-10-05T15:33:37",
+      "last_run": "2026-10-05T15:33:37",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-05T07:01:07",
+      "last_run": "2026-10-05T15:35:14",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-05T07:02:02",
-      "last_run": "2026-10-05T07:02:02",
+      "last_ok_at": "2026-10-05T15:36:16",
+      "last_run": "2026-10-05T15:36:16",
       "last_error": "",
-      "last_ok_count": 103
+      "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-05T07:02:02",
+      "last_run": "2026-10-05T15:36:16",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-05T07:02:54",
-      "last_run": "2026-10-05T07:02:54",
+      "last_ok_at": "2026-10-05T15:37:03",
+      "last_run": "2026-10-05T15:37:03",
       "last_error": "",
-      "last_ok_count": 1248
+      "last_ok_count": 1242
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Senior Sales Engineer - Majors (Central)",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8238457/?gh_jid=8238457",
+        "date": "2026-10-05",
+        "location": "Illinois, USA, Remote; Texas, USA, Remote",
+        "description": "<p>As an Enterprise Sales Engineer, you'll partner with Sales to help customers understand the value of Datadog and how it solves their most important technical and business challenges. You'll lead technical evaluations, deliver compelling demos, and guide customers through the journey from discovery to successful adoption.</p> <p>You'll act as a trusted advisor, bridging business goals with technical solutions, and play a key role in winning new business and expanding existing accounts.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Own the sales process in partnership with Account Executives by leading and shaping the technical strategy across opportunities from PG to Closed Won</li> <li>Lead customer discovery to uncover technical challenges, business goals, and success criteria, then translate those needs into tailored Datadog solutions</li> <li>Deliver engaging product demos, technical presentations, and workshops that connect platform capabilities to customer outcomes</li> <li>Project manage technical evaluations (POVs) end-to-end: scoping use cases and requirements, defining success criteria, building a project plan with clear timelines, and holding all participants accountable to the process</li> <li>Identify and cultivate technical champions within customer accounts, empowering them to advocate for Datadog adoption and drive consensus internally</li> <li>Participate actively in structured product and engineering field feedback sessions, serving as the technical voice of the customer to help shape product direction</li> <li>Maintain operational excellence by ensuring activity, deal progress, and customer interactions are accurately documented and up to date in related systems&nbsp;</li> <li>Collaborate cross-functionally with Product, Support, and GTM teams to address customer needs and resolve technical blockers</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>5+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role within an enterprise environment</li> <li>Skilled at navigating multi-stakeholder environments and adapting communication style to technical, business, and executive audiences</li> <li>Proficient background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Strong communication skills, with the ability to explain technical concepts to a range of audiences</li> <li>A consultative approach to problem-solving and customer engagement</li> <li>Ability to manage multiple opportunities and priorities in a fast-paced environment</li> <li>Growth mindset by embracing change and AI tools</li> <li>Willingness to travel as needed to support customer e",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "de777eeca248d4c38c6ecf00",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      }
+    ],
     "last_sent_date": "2026-10-03"
   },
   "market": {
@@ -1646,7 +1675,8 @@
       "8d9c716907ee1f16a5f330a4",
       "bc31f19db846f39bbf2fb85e",
       "27ebb71bbd5ecdcbfb53b1dd",
-      "a534aae94bd7edd0814d4253"
+      "a534aae94bd7edd0814d4253",
+      "de777eeca248d4c38c6ecf00"
     ],
     "companies": {
       "Capgemini": 1,
@@ -1660,7 +1690,7 @@
       "Inconnu": 3,
       "Cloudflare": 4,
       "GitLab": 1,
-      "Datadog": 3,
+      "Datadog": 4,
       "Proton": 4,
       "MongoDB": 3,
       "Twilio": 1,
@@ -1674,23 +1704,23 @@
       "veepee": 2
     },
     "skills": {
-      "aws": 10,
-      "azure": 11,
+      "aws": 11,
+      "azure": 12,
       "azure devops": 2,
-      "cloud": 27,
+      "cloud": 28,
       "devops": 14,
       "devops engineer": 3,
       "cloud architect": 1,
       "cloud security": 1,
       "cloud security engineer": 1,
       "devsecops": 2,
-      "security": 28,
+      "security": 29,
       "security engineer": 13,
       "terraform": 8,
       "ci/cd": 14,
-      "gcp": 8,
+      "gcp": 9,
       "infrastructure as code": 6,
-      "kubernetes": 10,
+      "kubernetes": 11,
       "docker": 3,
       "iam": 4,
       "sre": 6,
@@ -1710,7 +1740,7 @@
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·gitlab": 1,
-      "ATS·Greenhouse·datadog": 3,
+      "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·proton": 4,
       "ATS·Greenhouse·mongodb": 3,
       "ATS·Greenhouse·twilio": 1,
@@ -1724,7 +1754,7 @@
       "ATS·Lever·veepee": 2
     },
     "salaries": [],
-    "total": 57,
+    "total": 58,
     "prev": {
       "week": "2026-W40",
       "companies": {
@@ -1803,7 +1833,7 @@
       "salaries": [],
       "total": 77
     },
-    "prev_reported": false
+    "prev_reported": true
   },
   "contacts": {
     "cloudflare": {
