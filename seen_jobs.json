@@ -1421,6 +1421,24 @@
       "score": 60,
       "seen_at": "2026-10-06T15:50:13",
       "key": "security grc program manager third party risk | stripe"
+    },
+    "1e77a550636b3dc7d9a9bf8f": {
+      "source": "Rekrute",
+      "score": 65,
+      "seen_at": "2026-10-06T20:38:23",
+      "key": "ingenieur devops f h | sofrecom maroc"
+    },
+    "9e86e37686bb324d79759ac6": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 100,
+      "seen_at": "2026-10-06T20:38:26",
+      "key": "senior software engineer atlas clusters security | mongodb"
+    },
+    "f47486c2179c022e1762acb1": {
+      "source": "ATS·Greenhouse·twilio",
+      "score": 75,
+      "seen_at": "2026-10-06T20:38:27",
+      "key": "software engineer platform access l2 | twilio"
     }
   },
   "keys": {
@@ -1464,7 +1482,7 @@
     "chef de projet technique ingenieur systemes reseaux et it f h | sofrecom maroc": "4cd6f65415cac79b6afa8e25",
     "cyber security engineer | cnexia": "51a1c4d61dcaf061859e8f05",
     "senior observability automation engineer | dxc cdg": "ae3a02e157013ffd77a33a9e",
-    "ingenieur devops f h | sofrecom maroc": "b03eabc033f26802baad0557",
+    "ingenieur devops f h | sofrecom maroc": "1e77a550636b3dc7d9a9bf8f",
     "rejoignez intelcia tech avec 4 postes ouverts en ingenierie cloud": "af97816a2d1dc09c4d1726f0",
     "product security engineer | proton": "af7a57916ba0de60793e85d5",
     "ai security research red team engineer | cloudflare": "5e40a10397142bc603fb4bc2",
@@ -1592,103 +1610,57 @@
     "senior financial manager partnerships | twilio": "1f01155e11efe259fc627d54",
     "staff software engineer cloud infrastructure | airbnb": "80393dcb8a3b10856ffb7b9c",
     "sr machine learning engineer | axa gbs morocco": "e9a5cacd6f37c8ef49fe5151",
-    "security grc program manager third party risk | stripe": "007e686edad2ef5e22128594"
+    "security grc program manager third party risk | stripe": "007e686edad2ef5e22128594",
+    "senior software engineer atlas clusters security | mongodb": "9e86e37686bb324d79759ac6",
+    "software engineer platform access l2 | twilio": "f47486c2179c022e1762acb1"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-10-06T15:46:00",
-      "last_run": "2026-10-06T15:46:00",
+      "last_run": "2026-10-06T20:34:54",
       "last_error": "",
       "last_ok_count": 27
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-06T15:46:48",
-      "last_run": "2026-10-06T15:46:48",
+      "last_ok_at": "2026-10-06T20:35:25",
+      "last_run": "2026-10-06T20:35:25",
       "last_error": "",
       "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-06T15:48:26",
+      "last_run": "2026-10-06T20:37:02",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-10-06T15:49:20",
-      "last_run": "2026-10-06T15:49:20",
+      "last_run": "2026-10-06T20:37:34",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-06T15:49:20",
+      "last_run": "2026-10-06T20:37:34",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-06T15:50:09",
-      "last_run": "2026-10-06T15:50:09",
+      "last_ok_at": "2026-10-06T20:38:23",
+      "last_run": "2026-10-06T20:38:23",
       "last_error": "",
-      "last_ok_count": 1248
+      "last_ok_count": 1245
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Staff Software Engineer, Cloud Infrastructure",
-        "company": "Airbnb",
-        "url": "https://careers.airbnb.com/positions/8257909?gh_jid=8257909",
-        "date": "2026-10-05",
-        "location": "Remote, USA",
-        "description": "<div class=\"content-intro\"><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><strong>The Community You Will Join: </strong></span></p> <p>The Cloud Infrastructure team is responsible for delivering and operating the foundational platforms and cloud environment that power Airbnb. We provide reliable, secure, efficient, and ergonomic platform for all Airbnb services to run seamlessly in the cloud.</p> <p>Airbnb is a member of the Cloud Native Computing Foundation (CNCF) end user community, and we work closely with the open source community (e.g. k8s, istio)&nbsp; and peer companies to tackle cloud native engineering challenges at scale. You will also have the chance to make an impact on the industry and open source communities.&nbsp;</p> <p><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><strong>The Difference You Will Make:</strong></span></p> <p><span style=\"color: #000000; font-family: arial, helvetica, sans-serif;\">As a Software Engineer on our Cloud Infrastructure team, you will be at the forefront of developing the infrastructure platform that supports all teams across Airbnb. Your primary focus will be on operations and delivery of components such as our developer APIs and CLIs, Kubernetes infrastructure, autoscaling and capacity management tools, and cloud infrastructure automation. With a global user base, our team's core values emphasize reliability, scalability, efficiency, and high availability.</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><strong>A Typical Day:&nbsp;</strong></span></p> <ul> <li>Innovate and build cutting-edge cloud-native infrastructure using public cloud technologies.</li> <li>Deliver secure, efficient, mature, and highly available frameworks and platforms that simplify infrastructure complexity.</li> <li>Optimize and enhance existing systems and services to boost performance and operational efficiency.</li> <li>Improve system availability by implementing industry best practices in distributed systems.</li> <li>Collaborate with a diverse team of talented infrastructure engineers to establish a solid foundation for Airbnb’s technological growth in the coming decade.</li> </ul> <p><br><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><strong>Your Expertise:</strong></span></p> <p><strong>Kubernetes.&nbsp; </strong>You live and breathe Kubernetes.&nbsp; You have operated it at scale.&nbsp; You can talk in detail about it and have a proven track record of opera",
-        "salary": "",
-        "source": "ATS·Greenhouse·airbnb",
-        "id": "80393dcb8a3b10856ffb7b9c",
-        "score": 75,
-        "reasons": [
-          "cloud",
-          "description: cloud + kubernetes + k8s"
-        ]
-      },
-      {
-        "title": "Sr Machine Learning Engineer",
-        "company": "AXA GBS Morocco",
-        "url": "https://www.rekrute.com/offre-emploi-sr-machine-learning-engineer-recrutement-axa-gbs-morocco-rabat-180972.html",
-        "date": "23/09/2026",
-        "location": "Rabat (Maroc)",
-        "description": "devops & automation: docker, github actions, azure devops, terraform (preferred)",
-        "source": "Rekrute",
-        "offer_id": "180972",
-        "id": "e9a5cacd6f37c8ef49fe5151",
-        "score": 75,
-        "reasons": [
-          "description: azure + azure devops"
-        ]
-      },
-      {
-        "title": "Security GRC Program Manager, Third Party Risk",
-        "company": "Stripe",
-        "url": "https://stripe.com/jobs/search?gh_jid=8241288",
-        "date": "2026-10-06",
-        "location": "US - Hybrid",
-        "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Stripe Security team is dedicated to improving the security of Stripe and its users. Our users trust us with some of their most sensitive information, and we make security a first-class consideration in everything we do. Security concerns are ever-evolving, creating an extremely dynamic environment for the Security team.</p> <p>The Security Governance, Risk, and Compliance (SGRC) team helps Stripe make informed security decisions, understand its risk and control posture, and represent its security program to internal and external stakeholders. The team also manages security risk arising from Stripe’s relationships with third parties by assessing their security controls, identifying and mitigating risk, and supporting informed onboarding and risk-acceptance decisions. Our work helps Stripe move quickly while maintaining clear and consistent security expectations.</p> <h3><strong>What you'll do</strong></h3> <ul> <li>Independently manage a portfolio of Third Party Security Risk Assessments (TPSRAs) for new engagements, renewals / reassessments, and material changes in relationship scope.</li> <li>Review security questionnaires, independent assurance reports, certifications, penetration-test results, and other evidence to evaluate third-party control effectiveness.</li> <li>Identify security gaps, determine proportionate remediation requirements, and clearly communicate findings to Stripe DRIs and cross-functional partners.</li> <li>Apply Stripe’s third-party security standards consistently, documenting assessment results, decisions, and supporting evidence in Zip, Aravo, and other program systems.</li> <li>Escalate novel, complex, or high-risk findings and support Enhanced Due Diligence and risk-acceptance processes when a third party cannot meet Stripe’s security requirements.</li> <li>Partner with Procurement, Legal, Privacy, Business Continuity, Security, and business stakeholders to resolve assessment issues and support timely third-party onboarding.</li> <li>Provide practical guidance to Stripe teams on TPSRA requirements, timelines, and their responsibilities throughout the assessment process.</li> <li>Track assessment volume, aging, service levels, remediation status, and other program-health indicators; use the data to identify trends and recommend improvements.</li> <li>Identify gaps in program processes, documentation, or t",
-        "salary": "",
-        "source": "ATS·Greenhouse·stripe",
-        "id": "007e686edad2ef5e22128594",
-        "score": 60,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-10-05"
+    "buffer": [],
+    "last_sent_date": "2026-10-06"
   },
   "market": {
     "week": "2026-W41",
@@ -1756,7 +1728,9 @@
       "1f01155e11efe259fc627d54",
       "80393dcb8a3b10856ffb7b9c",
       "e9a5cacd6f37c8ef49fe5151",
-      "007e686edad2ef5e22128594"
+      "007e686edad2ef5e22128594",
+      "9e86e37686bb324d79759ac6",
+      "f47486c2179c022e1762acb1"
     ],
     "companies": {
       "Capgemini": 1,
@@ -1772,8 +1746,8 @@
       "GitLab": 1,
       "Datadog": 5,
       "Proton": 4,
-      "MongoDB": 3,
-      "Twilio": 2,
+      "MongoDB": 4,
+      "Twilio": 3,
       "Stripe": 3,
       "Asana": 1,
       "Reddit": 1,
@@ -1786,25 +1760,25 @@
       "Airbnb": 1
     },
     "skills": {
-      "aws": 13,
-      "azure": 15,
+      "aws": 15,
+      "azure": 17,
       "azure devops": 3,
-      "cloud": 32,
+      "cloud": 34,
       "devops": 15,
       "devops engineer": 3,
       "cloud architect": 1,
       "cloud security": 1,
       "cloud security engineer": 1,
       "devsecops": 2,
-      "security": 31,
+      "security": 33,
       "security engineer": 13,
-      "terraform": 9,
+      "terraform": 10,
       "ci/cd": 14,
-      "gcp": 11,
+      "gcp": 13,
       "infrastructure as code": 6,
       "kubernetes": 13,
       "docker": 4,
-      "iam": 4,
+      "iam": 6,
       "sre": 6,
       "defender": 1,
       "defender for cloud": 1,
@@ -1825,8 +1799,8 @@
       "ATS·Greenhouse·gitlab": 1,
       "ATS·Greenhouse·datadog": 5,
       "ATS·Greenhouse·proton": 4,
-      "ATS·Greenhouse·mongodb": 3,
-      "ATS·Greenhouse·twilio": 2,
+      "ATS·Greenhouse·mongodb": 4,
+      "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·stripe": 3,
       "ATS·Greenhouse·asana": 1,
       "ATS·Greenhouse·reddit": 1,
@@ -1838,7 +1812,7 @@
       "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 64,
+    "total": 66,
     "prev": {
       "week": "2026-W40",
       "companies": {
