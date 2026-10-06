@@ -1403,6 +1403,12 @@
       "score": 50,
       "seen_at": "2026-10-05T22:13:56",
       "key": "senior financial manager partnerships | twilio"
+    },
+    "80393dcb8a3b10856ffb7b9c": {
+      "source": "ATS·Greenhouse·airbnb",
+      "score": 75,
+      "seen_at": "2026-10-06T02:20:38",
+      "key": "staff software engineer cloud infrastructure | airbnb"
     }
   },
   "keys": {
@@ -1571,54 +1577,72 @@
     "senior sales engineer majors central | datadog": "de777eeca248d4c38c6ecf00",
     "ingenieur support google workspace f h maroc cloud | marketing call center": "d302c9906862fcaeab940c2e",
     "senior sales engineer key accounts | datadog": "86f747042e1a022aa504b0bf",
-    "senior financial manager partnerships | twilio": "1f01155e11efe259fc627d54"
+    "senior financial manager partnerships | twilio": "1f01155e11efe259fc627d54",
+    "staff software engineer cloud infrastructure | airbnb": "80393dcb8a3b10856ffb7b9c"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-05T22:09:37",
-      "last_run": "2026-10-05T22:09:37",
+      "last_ok_at": "2026-10-06T02:16:29",
+      "last_run": "2026-10-06T02:16:29",
       "last_error": "",
       "last_ok_count": 23
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-05T22:10:11",
-      "last_run": "2026-10-05T22:10:11",
+      "last_ok_at": "2026-10-06T02:17:08",
+      "last_run": "2026-10-06T02:17:08",
       "last_error": "",
       "last_ok_count": 41
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-05T22:11:48",
+      "last_run": "2026-10-06T02:18:45",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-05T22:12:46",
-      "last_run": "2026-10-05T22:12:46",
+      "last_ok_at": "2026-10-06T02:19:41",
+      "last_run": "2026-10-06T02:19:41",
       "last_error": "",
       "last_ok_count": 106
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-05T22:12:46",
+      "last_run": "2026-10-06T02:19:41",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-05T22:13:53",
-      "last_run": "2026-10-05T22:13:53",
+      "last_ok_at": "2026-10-06T02:20:29",
+      "last_run": "2026-10-06T02:20:29",
       "last_error": "",
       "last_ok_count": 1243
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Staff Software Engineer, Cloud Infrastructure",
+        "company": "Airbnb",
+        "url": "https://careers.airbnb.com/positions/8257909?gh_jid=8257909",
+        "date": "2026-10-05",
+        "location": "Remote, USA",
+        "description": "<div class=\"content-intro\"><p><span style=\"font-family: helvetica, arial, sans-serif; font-size: 12pt;\">Airbnb was born in 2007 when two hosts welcomed three guests to their San Francisco home, and has since grown to over 5 million hosts who have welcomed over 2 billion guest arrivals in almost every country across the globe. Every day, hosts offer unique stays and experiences that make it possible for guests to connect with communities in a more authentic way.</span></p></div><p><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><strong>The Community You Will Join: </strong></span></p> <p>The Cloud Infrastructure team is responsible for delivering and operating the foundational platforms and cloud environment that power Airbnb. We provide reliable, secure, efficient, and ergonomic platform for all Airbnb services to run seamlessly in the cloud.</p> <p>Airbnb is a member of the Cloud Native Computing Foundation (CNCF) end user community, and we work closely with the open source community (e.g. k8s, istio)&nbsp; and peer companies to tackle cloud native engineering challenges at scale. You will also have the chance to make an impact on the industry and open source communities.&nbsp;</p> <p><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><strong>The Difference You Will Make:</strong></span></p> <p><span style=\"color: #000000; font-family: arial, helvetica, sans-serif;\">As a Software Engineer on our Cloud Infrastructure team, you will be at the forefront of developing the infrastructure platform that supports all teams across Airbnb. Your primary focus will be on operations and delivery of components such as our developer APIs and CLIs, Kubernetes infrastructure, autoscaling and capacity management tools, and cloud infrastructure automation. With a global user base, our team's core values emphasize reliability, scalability, efficiency, and high availability.</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><strong>A Typical Day:&nbsp;</strong></span></p> <ul> <li>Innovate and build cutting-edge cloud-native infrastructure using public cloud technologies.</li> <li>Deliver secure, efficient, mature, and highly available frameworks and platforms that simplify infrastructure complexity.</li> <li>Optimize and enhance existing systems and services to boost performance and operational efficiency.</li> <li>Improve system availability by implementing industry best practices in distributed systems.</li> <li>Collaborate with a diverse team of talented infrastructure engineers to establish a solid foundation for Airbnb’s technological growth in the coming decade.</li> </ul> <p><br><span style=\"font-family: arial, helvetica, sans-serif; color: #000000;\"><strong>Your Expertise:</strong></span></p> <p><strong>Kubernetes.&nbsp; </strong>You live and breathe Kubernetes.&nbsp; You have operated it at scale.&nbsp; You can talk in detail about it and have a proven track record of opera",
+        "salary": "",
+        "source": "ATS·Greenhouse·airbnb",
+        "id": "80393dcb8a3b10856ffb7b9c",
+        "score": 75,
+        "reasons": [
+          "cloud",
+          "description: cloud + kubernetes + k8s"
+        ]
+      }
+    ],
     "last_sent_date": "2026-10-05"
   },
   "market": {
@@ -1684,7 +1708,8 @@
       "de777eeca248d4c38c6ecf00",
       "d302c9906862fcaeab940c2e",
       "86f747042e1a022aa504b0bf",
-      "1f01155e11efe259fc627d54"
+      "1f01155e11efe259fc627d54",
+      "80393dcb8a3b10856ffb7b9c"
     ],
     "companies": {
       "Capgemini": 1,
@@ -1710,13 +1735,14 @@
       "swile": 3,
       "contentsquare": 1,
       "veepee": 2,
-      "Marketing Call Center": 1
+      "Marketing Call Center": 1,
+      "Airbnb": 1
     },
     "skills": {
       "aws": 13,
       "azure": 14,
       "azure devops": 2,
-      "cloud": 31,
+      "cloud": 32,
       "devops": 14,
       "devops engineer": 3,
       "cloud architect": 1,
@@ -1729,7 +1755,7 @@
       "ci/cd": 14,
       "gcp": 11,
       "infrastructure as code": 6,
-      "kubernetes": 12,
+      "kubernetes": 13,
       "docker": 3,
       "iam": 4,
       "sre": 6,
@@ -1742,7 +1768,8 @@
       "cloud engineer": 1,
       "cloud operations": 1,
       "identity and access management": 3,
-      "github actions": 1
+      "github actions": 1,
+      "k8s": 1
     },
     "sources": {
       "Rekrute": 20,
@@ -1760,10 +1787,11 @@
       "ATS·Greenhouse·duolingo": 3,
       "ATS·Lever·swile": 3,
       "ATS·Lever·contentsquare": 1,
-      "ATS·Lever·veepee": 2
+      "ATS·Lever·veepee": 2,
+      "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 61,
+    "total": 62,
     "prev": {
       "week": "2026-W40",
       "companies": {
