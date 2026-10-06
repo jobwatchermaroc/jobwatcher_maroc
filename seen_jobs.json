@@ -1409,6 +1409,18 @@
       "score": 75,
       "seen_at": "2026-10-06T02:20:38",
       "key": "staff software engineer cloud infrastructure | airbnb"
+    },
+    "e9a5cacd6f37c8ef49fe5151": {
+      "source": "Rekrute",
+      "score": 75,
+      "seen_at": "2026-10-06T15:50:09",
+      "key": "sr machine learning engineer | axa gbs morocco"
+    },
+    "007e686edad2ef5e22128594": {
+      "source": "ATS·Greenhouse·stripe",
+      "score": 60,
+      "seen_at": "2026-10-06T15:50:13",
+      "key": "security grc program manager third party risk | stripe"
     }
   },
   "keys": {
@@ -1578,50 +1590,52 @@
     "ingenieur support google workspace f h maroc cloud | marketing call center": "d302c9906862fcaeab940c2e",
     "senior sales engineer key accounts | datadog": "86f747042e1a022aa504b0bf",
     "senior financial manager partnerships | twilio": "1f01155e11efe259fc627d54",
-    "staff software engineer cloud infrastructure | airbnb": "80393dcb8a3b10856ffb7b9c"
+    "staff software engineer cloud infrastructure | airbnb": "80393dcb8a3b10856ffb7b9c",
+    "sr machine learning engineer | axa gbs morocco": "e9a5cacd6f37c8ef49fe5151",
+    "security grc program manager third party risk | stripe": "007e686edad2ef5e22128594"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-06T09:00:46",
-      "last_run": "2026-10-06T09:00:46",
+      "last_ok_at": "2026-10-06T15:46:00",
+      "last_run": "2026-10-06T15:46:00",
       "last_error": "",
-      "last_ok_count": 23
+      "last_ok_count": 27
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-06T09:01:24",
-      "last_run": "2026-10-06T09:01:24",
+      "last_ok_at": "2026-10-06T15:46:48",
+      "last_run": "2026-10-06T15:46:48",
       "last_error": "",
-      "last_ok_count": 41
+      "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-06T09:03:02",
+      "last_run": "2026-10-06T15:48:26",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-06T09:04:10",
-      "last_run": "2026-10-06T09:04:10",
+      "last_ok_at": "2026-10-06T15:49:20",
+      "last_run": "2026-10-06T15:49:20",
       "last_error": "",
-      "last_ok_count": 106
+      "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-06T09:04:10",
+      "last_run": "2026-10-06T15:49:20",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-06T09:04:57",
-      "last_run": "2026-10-06T09:04:57",
+      "last_ok_at": "2026-10-06T15:50:09",
+      "last_run": "2026-10-06T15:50:09",
       "last_error": "",
-      "last_ok_count": 1244
+      "last_ok_count": 1248
     }
   },
   "digest": {
@@ -1640,6 +1654,37 @@
         "reasons": [
           "cloud",
           "description: cloud + kubernetes + k8s"
+        ]
+      },
+      {
+        "title": "Sr Machine Learning Engineer",
+        "company": "AXA GBS Morocco",
+        "url": "https://www.rekrute.com/offre-emploi-sr-machine-learning-engineer-recrutement-axa-gbs-morocco-rabat-180972.html",
+        "date": "23/09/2026",
+        "location": "Rabat (Maroc)",
+        "description": "devops & automation: docker, github actions, azure devops, terraform (preferred)",
+        "source": "Rekrute",
+        "offer_id": "180972",
+        "id": "e9a5cacd6f37c8ef49fe5151",
+        "score": 75,
+        "reasons": [
+          "description: azure + azure devops"
+        ]
+      },
+      {
+        "title": "Security GRC Program Manager, Third Party Risk",
+        "company": "Stripe",
+        "url": "https://stripe.com/jobs/search?gh_jid=8241288",
+        "date": "2026-10-06",
+        "location": "US - Hybrid",
+        "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious startups—use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Stripe Security team is dedicated to improving the security of Stripe and its users. Our users trust us with some of their most sensitive information, and we make security a first-class consideration in everything we do. Security concerns are ever-evolving, creating an extremely dynamic environment for the Security team.</p> <p>The Security Governance, Risk, and Compliance (SGRC) team helps Stripe make informed security decisions, understand its risk and control posture, and represent its security program to internal and external stakeholders. The team also manages security risk arising from Stripe’s relationships with third parties by assessing their security controls, identifying and mitigating risk, and supporting informed onboarding and risk-acceptance decisions. Our work helps Stripe move quickly while maintaining clear and consistent security expectations.</p> <h3><strong>What you'll do</strong></h3> <ul> <li>Independently manage a portfolio of Third Party Security Risk Assessments (TPSRAs) for new engagements, renewals / reassessments, and material changes in relationship scope.</li> <li>Review security questionnaires, independent assurance reports, certifications, penetration-test results, and other evidence to evaluate third-party control effectiveness.</li> <li>Identify security gaps, determine proportionate remediation requirements, and clearly communicate findings to Stripe DRIs and cross-functional partners.</li> <li>Apply Stripe’s third-party security standards consistently, documenting assessment results, decisions, and supporting evidence in Zip, Aravo, and other program systems.</li> <li>Escalate novel, complex, or high-risk findings and support Enhanced Due Diligence and risk-acceptance processes when a third party cannot meet Stripe’s security requirements.</li> <li>Partner with Procurement, Legal, Privacy, Business Continuity, Security, and business stakeholders to resolve assessment issues and support timely third-party onboarding.</li> <li>Provide practical guidance to Stripe teams on TPSRA requirements, timelines, and their responsibilities throughout the assessment process.</li> <li>Track assessment volume, aging, service levels, remediation status, and other program-health indicators; use the data to identify trends and recommend improvements.</li> <li>Identify gaps in program processes, documentation, or t",
+        "salary": "",
+        "source": "ATS·Greenhouse·stripe",
+        "id": "007e686edad2ef5e22128594",
+        "score": 60,
+        "reasons": [
+          "security",
+          "description: security"
         ]
       }
     ],
@@ -1709,11 +1754,13 @@
       "d302c9906862fcaeab940c2e",
       "86f747042e1a022aa504b0bf",
       "1f01155e11efe259fc627d54",
-      "80393dcb8a3b10856ffb7b9c"
+      "80393dcb8a3b10856ffb7b9c",
+      "e9a5cacd6f37c8ef49fe5151",
+      "007e686edad2ef5e22128594"
     ],
     "companies": {
       "Capgemini": 1,
-      "AXA GBS Morocco": 5,
+      "AXA GBS Morocco": 6,
       "ALTEN Maroc": 5,
       "Sofrecom Maroc": 4,
       "CGI Technologies et Solutions Maroc": 1,
@@ -1727,7 +1774,7 @@
       "Proton": 4,
       "MongoDB": 3,
       "Twilio": 2,
-      "Stripe": 2,
+      "Stripe": 3,
       "Asana": 1,
       "Reddit": 1,
       "Discord": 6,
@@ -1740,23 +1787,23 @@
     },
     "skills": {
       "aws": 13,
-      "azure": 14,
-      "azure devops": 2,
+      "azure": 15,
+      "azure devops": 3,
       "cloud": 32,
-      "devops": 14,
+      "devops": 15,
       "devops engineer": 3,
       "cloud architect": 1,
       "cloud security": 1,
       "cloud security engineer": 1,
       "devsecops": 2,
-      "security": 30,
+      "security": 31,
       "security engineer": 13,
-      "terraform": 8,
+      "terraform": 9,
       "ci/cd": 14,
       "gcp": 11,
       "infrastructure as code": 6,
       "kubernetes": 13,
-      "docker": 3,
+      "docker": 4,
       "iam": 4,
       "sre": 6,
       "defender": 1,
@@ -1768,11 +1815,11 @@
       "cloud engineer": 1,
       "cloud operations": 1,
       "identity and access management": 3,
-      "github actions": 1,
+      "github actions": 2,
       "k8s": 1
     },
     "sources": {
-      "Rekrute": 20,
+      "Rekrute": 21,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·gitlab": 1,
@@ -1780,7 +1827,7 @@
       "ATS·Greenhouse·proton": 4,
       "ATS·Greenhouse·mongodb": 3,
       "ATS·Greenhouse·twilio": 2,
-      "ATS·Greenhouse·stripe": 2,
+      "ATS·Greenhouse·stripe": 3,
       "ATS·Greenhouse·asana": 1,
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 6,
@@ -1791,7 +1838,7 @@
       "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 62,
+    "total": 64,
     "prev": {
       "week": "2026-W40",
       "companies": {
