@@ -1439,6 +1439,12 @@
       "score": 75,
       "seen_at": "2026-10-06T20:38:27",
       "key": "software engineer platform access l2 | twilio"
+    },
+    "0b6ac32cd889a8ec68abe7c2": {
+      "source": "ATS·Greenhouse·stripe",
+      "score": 100,
+      "seen_at": "2026-10-07T12:04:31",
+      "key": "security engineer new grad | stripe"
     }
   },
   "keys": {
@@ -1612,50 +1618,51 @@
     "sr machine learning engineer | axa gbs morocco": "e9a5cacd6f37c8ef49fe5151",
     "security grc program manager third party risk | stripe": "007e686edad2ef5e22128594",
     "senior software engineer atlas clusters security | mongodb": "9e86e37686bb324d79759ac6",
-    "software engineer platform access l2 | twilio": "f47486c2179c022e1762acb1"
+    "software engineer platform access l2 | twilio": "f47486c2179c022e1762acb1",
+    "security engineer new grad | stripe": "0b6ac32cd889a8ec68abe7c2"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-07T00:03:32",
-      "last_run": "2026-10-07T05:43:03",
+      "last_ok_at": "2026-10-07T12:00:23",
+      "last_run": "2026-10-07T12:00:23",
       "last_error": "",
-      "last_ok_count": 30
+      "last_ok_count": 37
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-07T05:43:42",
-      "last_run": "2026-10-07T05:43:42",
+      "last_ok_at": "2026-10-07T12:00:55",
+      "last_run": "2026-10-07T12:00:55",
       "last_error": "",
       "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-07T05:45:22",
+      "last_run": "2026-10-07T12:02:32",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-07T00:06:48",
-      "last_run": "2026-10-07T05:47:00",
+      "last_ok_at": "2026-10-07T12:03:34",
+      "last_run": "2026-10-07T12:03:34",
       "last_error": "",
       "last_ok_count": 108
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-07T05:47:00",
+      "last_run": "2026-10-07T12:03:34",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-07T05:47:51",
-      "last_run": "2026-10-07T05:47:51",
+      "last_ok_at": "2026-10-07T12:04:26",
+      "last_run": "2026-10-07T12:04:26",
       "last_error": "",
-      "last_ok_count": 1244
+      "last_ok_count": 1245
     }
   },
   "digest": {
@@ -1730,13 +1737,15 @@
       "e9a5cacd6f37c8ef49fe5151",
       "007e686edad2ef5e22128594",
       "9e86e37686bb324d79759ac6",
-      "f47486c2179c022e1762acb1"
+      "f47486c2179c022e1762acb1",
+      "05576e0743485d0c99ccd410",
+      "0b6ac32cd889a8ec68abe7c2"
     ],
     "companies": {
       "Capgemini": 1,
       "AXA GBS Morocco": 6,
       "ALTEN Maroc": 5,
-      "Sofrecom Maroc": 4,
+      "Sofrecom Maroc": 5,
       "CGI Technologies et Solutions Maroc": 1,
       "AFD.Tech": 1,
       "Cnexia tech": 1,
@@ -1748,7 +1757,7 @@
       "Proton": 4,
       "MongoDB": 4,
       "Twilio": 3,
-      "Stripe": 3,
+      "Stripe": 4,
       "Asana": 1,
       "Reddit": 1,
       "Discord": 6,
@@ -1763,15 +1772,15 @@
       "aws": 15,
       "azure": 17,
       "azure devops": 3,
-      "cloud": 34,
+      "cloud": 35,
       "devops": 15,
       "devops engineer": 3,
       "cloud architect": 1,
       "cloud security": 1,
       "cloud security engineer": 1,
-      "devsecops": 2,
-      "security": 33,
-      "security engineer": 13,
+      "devsecops": 3,
+      "security": 34,
+      "security engineer": 14,
       "terraform": 10,
       "ci/cd": 14,
       "gcp": 13,
@@ -1793,7 +1802,7 @@
       "k8s": 1
     },
     "sources": {
-      "Rekrute": 21,
+      "Rekrute": 22,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·gitlab": 1,
@@ -1801,7 +1810,7 @@
       "ATS·Greenhouse·proton": 4,
       "ATS·Greenhouse·mongodb": 4,
       "ATS·Greenhouse·twilio": 3,
-      "ATS·Greenhouse·stripe": 3,
+      "ATS·Greenhouse·stripe": 4,
       "ATS·Greenhouse·asana": 1,
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 6,
@@ -1812,7 +1821,7 @@
       "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 66,
+    "total": 68,
     "prev": {
       "week": "2026-W40",
       "companies": {
@@ -1939,7 +1948,7 @@
     "stripe": {
       "domain": "stripe.com",
       "emails": [],
-      "updated_at": "2026-09-25T19:22:25"
+      "updated_at": "2026-10-07T12:04:49"
     },
     "gitlab": {
       "domain": "gitlab.com",
