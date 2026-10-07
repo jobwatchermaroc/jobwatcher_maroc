@@ -1451,6 +1451,24 @@
       "score": 100,
       "seen_at": "2026-10-07T18:41:04",
       "key": "senior cx platform engineer | gitlab"
+    },
+    "5e0491030d12549ae54454fd": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 60,
+      "seen_at": "2026-10-07T23:21:15",
+      "key": "senior forward deployed engineer devops | cloudflare"
+    },
+    "b9626b870bd9aa86f696ae3a": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 60,
+      "seen_at": "2026-10-07T23:21:15",
+      "key": "senior software engineer security platform | cloudflare"
+    },
+    "4ff66242f1160c92a975b6f0": {
+      "source": "ATS·Greenhouse·gitlab",
+      "score": 75,
+      "seen_at": "2026-10-07T23:21:17",
+      "key": "senior professional services engineer pubsec us only | gitlab"
     }
   },
   "keys": {
@@ -1626,55 +1644,58 @@
     "senior software engineer atlas clusters security | mongodb": "9e86e37686bb324d79759ac6",
     "software engineer platform access l2 | twilio": "f47486c2179c022e1762acb1",
     "security engineer new grad | stripe": "0b6ac32cd889a8ec68abe7c2",
-    "senior cx platform engineer | gitlab": "85bd0800dee50cca07b35d69"
+    "senior cx platform engineer | gitlab": "85bd0800dee50cca07b35d69",
+    "senior forward deployed engineer devops | cloudflare": "5e0491030d12549ae54454fd",
+    "senior software engineer security platform | cloudflare": "b9626b870bd9aa86f696ae3a",
+    "senior professional services engineer pubsec us only | gitlab": "4ff66242f1160c92a975b6f0"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-07T18:36:58",
-      "last_run": "2026-10-07T18:36:58",
+      "last_ok_at": "2026-10-07T23:17:09",
+      "last_run": "2026-10-07T23:17:09",
       "last_error": "",
-      "last_ok_count": 40
+      "last_ok_count": 42
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-07T18:37:34",
-      "last_run": "2026-10-07T18:37:34",
+      "last_ok_at": "2026-10-07T23:17:49",
+      "last_run": "2026-10-07T23:17:49",
       "last_error": "",
       "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-07T18:39:12",
+      "last_run": "2026-10-07T23:19:27",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-07T18:40:14",
-      "last_run": "2026-10-07T18:40:14",
+      "last_ok_at": "2026-10-07T23:20:27",
+      "last_run": "2026-10-07T23:20:27",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-07T18:40:14",
+      "last_run": "2026-10-07T23:20:27",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-07T18:41:03",
-      "last_run": "2026-10-07T18:41:03",
+      "last_ok_at": "2026-10-07T23:21:15",
+      "last_run": "2026-10-07T23:21:15",
       "last_error": "",
       "last_ok_count": 1246
     }
   },
   "digest": {
     "buffer": [],
-    "last_sent_date": "2026-10-06"
+    "last_sent_date": "2026-10-07"
   },
   "market": {
     "week": "2026-W41",
@@ -1747,7 +1768,10 @@
       "f47486c2179c022e1762acb1",
       "05576e0743485d0c99ccd410",
       "0b6ac32cd889a8ec68abe7c2",
-      "85bd0800dee50cca07b35d69"
+      "85bd0800dee50cca07b35d69",
+      "5e0491030d12549ae54454fd",
+      "b9626b870bd9aa86f696ae3a",
+      "4ff66242f1160c92a975b6f0"
     ],
     "companies": {
       "Capgemini": 1,
@@ -1759,8 +1783,8 @@
       "Cnexia tech": 1,
       "Cnexia": 1,
       "Inconnu": 3,
-      "Cloudflare": 4,
-      "GitLab": 2,
+      "Cloudflare": 6,
+      "GitLab": 3,
       "Datadog": 5,
       "Proton": 4,
       "MongoDB": 4,
@@ -1780,19 +1804,19 @@
       "aws": 15,
       "azure": 17,
       "azure devops": 3,
-      "cloud": 35,
-      "devops": 15,
+      "cloud": 36,
+      "devops": 16,
       "devops engineer": 3,
       "cloud architect": 1,
       "cloud security": 1,
       "cloud security engineer": 1,
-      "devsecops": 4,
-      "security": 35,
+      "devsecops": 5,
+      "security": 37,
       "security engineer": 14,
-      "terraform": 10,
+      "terraform": 11,
       "ci/cd": 14,
       "gcp": 13,
-      "infrastructure as code": 6,
+      "infrastructure as code": 7,
       "kubernetes": 13,
       "docker": 4,
       "iam": 6,
@@ -1812,8 +1836,8 @@
     "sources": {
       "Rekrute": 22,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 4,
-      "ATS·Greenhouse·gitlab": 2,
+      "ATS·Greenhouse·cloudflare": 6,
+      "ATS·Greenhouse·gitlab": 3,
       "ATS·Greenhouse·datadog": 5,
       "ATS·Greenhouse·proton": 4,
       "ATS·Greenhouse·mongodb": 4,
@@ -1829,7 +1853,7 @@
       "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 69,
+    "total": 72,
     "prev": {
       "week": "2026-W40",
       "companies": {
