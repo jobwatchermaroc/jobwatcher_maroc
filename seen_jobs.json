@@ -1469,6 +1469,12 @@
       "score": 75,
       "seen_at": "2026-10-07T23:21:17",
       "key": "senior professional services engineer pubsec us only | gitlab"
+    },
+    "96bafe6f70f9e7f2a95d45f5": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 95,
+      "seen_at": "2026-10-09T01:24:52",
+      "key": "systems engineer data security | cloudflare"
     }
   },
   "keys": {
@@ -1647,50 +1653,51 @@
     "senior cx platform engineer | gitlab": "85bd0800dee50cca07b35d69",
     "senior forward deployed engineer devops | cloudflare": "5e0491030d12549ae54454fd",
     "senior software engineer security platform | cloudflare": "b9626b870bd9aa86f696ae3a",
-    "senior professional services engineer pubsec us only | gitlab": "4ff66242f1160c92a975b6f0"
+    "senior professional services engineer pubsec us only | gitlab": "4ff66242f1160c92a975b6f0",
+    "systems engineer data security | cloudflare": "96bafe6f70f9e7f2a95d45f5"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-10-08T21:32:13",
-      "last_run": "2026-10-08T21:32:13",
+      "last_run": "2026-10-09T01:21:27",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-08T21:32:56",
-      "last_run": "2026-10-08T21:32:56",
+      "last_ok_at": "2026-10-09T01:21:56",
+      "last_run": "2026-10-09T01:21:56",
       "last_error": "",
       "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-08T21:34:33",
+      "last_run": "2026-10-09T01:23:33",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-08T21:35:36",
-      "last_run": "2026-10-08T21:35:36",
+      "last_ok_at": "2026-10-09T01:24:03",
+      "last_run": "2026-10-09T01:24:03",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-08T21:35:36",
+      "last_run": "2026-10-09T01:24:03",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-08T21:36:23",
-      "last_run": "2026-10-08T21:36:23",
+      "last_ok_at": "2026-10-09T01:24:52",
+      "last_run": "2026-10-09T01:24:52",
       "last_error": "",
-      "last_ok_count": 1240
+      "last_ok_count": 1241
     }
   },
   "digest": {
@@ -1772,7 +1779,8 @@
       "5e0491030d12549ae54454fd",
       "b9626b870bd9aa86f696ae3a",
       "4ff66242f1160c92a975b6f0",
-      "c39f26c0a8f7dee2bb6037c9"
+      "c39f26c0a8f7dee2bb6037c9",
+      "96bafe6f70f9e7f2a95d45f5"
     ],
     "companies": {
       "Capgemini": 1,
@@ -1784,7 +1792,7 @@
       "Cnexia tech": 1,
       "Cnexia": 1,
       "Inconnu": 3,
-      "Cloudflare": 6,
+      "Cloudflare": 7,
       "GitLab": 3,
       "Datadog": 5,
       "Proton": 4,
@@ -1802,23 +1810,23 @@
       "Airbnb": 1
     },
     "skills": {
-      "aws": 15,
-      "azure": 17,
+      "aws": 16,
+      "azure": 18,
       "azure devops": 3,
-      "cloud": 37,
+      "cloud": 38,
       "devops": 16,
       "devops engineer": 3,
       "cloud architect": 1,
       "cloud security": 1,
       "cloud security engineer": 1,
       "devsecops": 5,
-      "security": 37,
+      "security": 38,
       "security engineer": 14,
       "terraform": 11,
       "ci/cd": 14,
-      "gcp": 13,
+      "gcp": 14,
       "infrastructure as code": 7,
-      "kubernetes": 13,
+      "kubernetes": 14,
       "docker": 4,
       "iam": 6,
       "sre": 6,
@@ -1837,7 +1845,7 @@
     "sources": {
       "Rekrute": 22,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 6,
+      "ATS·Greenhouse·cloudflare": 7,
       "ATS·Greenhouse·gitlab": 3,
       "ATS·Greenhouse·datadog": 5,
       "ATS·Greenhouse·proton": 4,
@@ -1854,7 +1862,7 @@
       "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 73,
+    "total": 74,
     "prev": {
       "week": "2026-W40",
       "companies": {
@@ -1939,7 +1947,7 @@
     "cloudflare": {
       "domain": "cloudflare.com",
       "emails": [],
-      "updated_at": "2026-09-22T00:54:13"
+      "updated_at": "2026-10-09T01:25:14"
     },
     "datadog": {
       "domain": "datadoghq.com",
