@@ -1487,6 +1487,18 @@
       "score": 65,
       "seen_at": "2026-10-09T14:34:51",
       "key": "senior data platform engineer | swile"
+    },
+    "c2bf5be5511a3e40ccabe89e": {
+      "source": "ATS·Greenhouse·okta",
+      "score": 100,
+      "seen_at": "2026-10-09T19:43:02",
+      "key": "staff software engineer security | okta"
+    },
+    "e68e67da3bbd80b596aec3f8": {
+      "source": "ATS·Greenhouse·asana",
+      "score": 100,
+      "seen_at": "2026-10-09T19:43:04",
+      "key": "product security engineer | asana"
     }
   },
   "keys": {
@@ -1668,86 +1680,57 @@
     "senior professional services engineer pubsec us only | gitlab": "4ff66242f1160c92a975b6f0",
     "systems engineer data security | cloudflare": "96bafe6f70f9e7f2a95d45f5",
     "senior data platform engineer copy | swile": "711032963108302b6b1ce762",
-    "senior data platform engineer | swile": "efd2c06544dce083c31f68d6"
+    "senior data platform engineer | swile": "efd2c06544dce083c31f68d6",
+    "staff software engineer security | okta": "c2bf5be5511a3e40ccabe89e",
+    "product security engineer | asana": "e68e67da3bbd80b596aec3f8"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-09T14:30:38",
-      "last_run": "2026-10-09T14:30:38",
+      "last_ok_at": "2026-10-09T19:39:06",
+      "last_run": "2026-10-09T19:39:06",
       "last_error": "",
-      "last_ok_count": 58
+      "last_ok_count": 67
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-09T14:31:18",
-      "last_run": "2026-10-09T14:31:18",
+      "last_ok_at": "2026-10-09T19:39:40",
+      "last_run": "2026-10-09T19:39:40",
       "last_error": "",
-      "last_ok_count": 43
+      "last_ok_count": 44
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-09T14:32:56",
+      "last_run": "2026-10-09T19:41:18",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-09T14:33:55",
-      "last_run": "2026-10-09T14:33:55",
+      "last_ok_at": "2026-10-09T19:42:14",
+      "last_run": "2026-10-09T19:42:14",
       "last_error": "",
-      "last_ok_count": 108
+      "last_ok_count": 106
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-09T14:33:55",
+      "last_run": "2026-10-09T19:42:14",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-09T14:34:41",
-      "last_run": "2026-10-09T14:34:41",
+      "last_ok_at": "2026-10-09T19:43:01",
+      "last_run": "2026-10-09T19:43:01",
       "last_error": "",
-      "last_ok_count": 1237
+      "last_ok_count": 1239
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Senior Data Platform Engineer (copy)",
-        "company": "swile",
-        "url": "https://jobs.lever.co/swile/6d983bef-f1d3-48c3-b666-fa47d905c13f",
-        "date": "2026-10-09",
-        "location": "Montpellier, France",
-        "description": "At Swile, we believe that good products can help reduce friction in daily professional life and boost employee satisfaction. Today, we provide innovative solutions in various areas such as Fintech, Travel, HR, and Employee Benefits to more than 5.5 million users in 85,000 companies in France and Brazil. As a Senior Data Platform Engineer, you will join the Data Platform team. We are an enablement team: we build the tools, standards and foundations that let every engineering team at Swile own its data autonomously. You will work at the crossroads of data, software engineering and infrastructure, in a senior team where everyone has a direct impact.",
-        "source": "ATS·Lever·swile",
-        "id": "711032963108302b6b1ce762",
-        "score": 65,
-        "reasons": [
-          "platform engineer",
-          "description: platform engineer"
-        ]
-      },
-      {
-        "title": "Senior Data Platform Engineer",
-        "company": "swile",
-        "url": "https://jobs.lever.co/swile/2883d123-bbd8-4cce-93b3-04b8e387bca8",
-        "date": "2026-10-01",
-        "location": "Paris, France",
-        "description": "At Swile, we believe that good products can help reduce friction in daily professional life and boost employee satisfaction. Today, we provide innovative solutions in various areas such as Fintech, Travel, HR, and Employee Benefits to more than 5.5 million users in 85,000 companies in France and Brazil. As a Senior Data Platform Engineer, you will join the Data Platform team. We are an enablement team: we build the tools, standards and foundations that let every engineering team at Swile own its data autonomously. You will work at the crossroads of data, software engineering and infrastructure, in a senior team where everyone has a direct impact.",
-        "source": "ATS·Lever·swile",
-        "id": "efd2c06544dce083c31f68d6",
-        "score": 65,
-        "reasons": [
-          "platform engineer",
-          "description: platform engineer"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-10-07"
+    "buffer": [],
+    "last_sent_date": "2026-10-09"
   },
   "market": {
     "week": "2026-W41",
@@ -1827,7 +1810,9 @@
       "c39f26c0a8f7dee2bb6037c9",
       "96bafe6f70f9e7f2a95d45f5",
       "711032963108302b6b1ce762",
-      "efd2c06544dce083c31f68d6"
+      "efd2c06544dce083c31f68d6",
+      "c2bf5be5511a3e40ccabe89e",
+      "e68e67da3bbd80b596aec3f8"
     ],
     "companies": {
       "Capgemini": 1,
@@ -1846,7 +1831,7 @@
       "MongoDB": 5,
       "Twilio": 3,
       "Stripe": 4,
-      "Asana": 1,
+      "Asana": 2,
       "Reddit": 1,
       "Discord": 6,
       "Duolingo": 3,
@@ -1854,24 +1839,25 @@
       "contentsquare": 1,
       "veepee": 2,
       "Marketing Call Center": 1,
-      "Airbnb": 1
+      "Airbnb": 1,
+      "Okta": 1
     },
     "skills": {
-      "aws": 16,
+      "aws": 17,
       "azure": 18,
       "azure devops": 3,
-      "cloud": 38,
+      "cloud": 39,
       "devops": 16,
       "devops engineer": 3,
       "cloud architect": 1,
-      "cloud security": 1,
-      "cloud security engineer": 1,
+      "cloud security": 2,
+      "cloud security engineer": 2,
       "devsecops": 5,
-      "security": 38,
-      "security engineer": 14,
+      "security": 40,
+      "security engineer": 16,
       "terraform": 11,
       "ci/cd": 14,
-      "gcp": 14,
+      "gcp": 15,
       "infrastructure as code": 7,
       "kubernetes": 14,
       "docker": 4,
@@ -1899,17 +1885,18 @@
       "ATS·Greenhouse·mongodb": 5,
       "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·stripe": 4,
-      "ATS·Greenhouse·asana": 1,
+      "ATS·Greenhouse·asana": 2,
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 6,
       "ATS·Greenhouse·duolingo": 3,
       "ATS·Lever·swile": 5,
       "ATS·Lever·contentsquare": 1,
       "ATS·Lever·veepee": 2,
-      "ATS·Greenhouse·airbnb": 1
+      "ATS·Greenhouse·airbnb": 1,
+      "ATS·Greenhouse·okta": 1
     },
     "salaries": [],
-    "total": 76,
+    "total": 78,
     "prev": {
       "week": "2026-W40",
       "companies": {
@@ -2056,7 +2043,7 @@
     "okta": {
       "domain": "okta.com",
       "emails": [],
-      "updated_at": "2026-09-14T18:49:06"
+      "updated_at": "2026-10-09T19:43:18"
     },
     "twilio": {
       "domain": "twilio.com",
@@ -2066,7 +2053,7 @@
     "asana": {
       "domain": "asana.com",
       "emails": [],
-      "updated_at": "2026-09-09T17:25:11"
+      "updated_at": "2026-10-09T19:43:30"
     },
     "afd.tech": {
       "domain": "",
