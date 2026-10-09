@@ -1475,6 +1475,18 @@
       "score": 95,
       "seen_at": "2026-10-09T01:24:52",
       "key": "systems engineer data security | cloudflare"
+    },
+    "711032963108302b6b1ce762": {
+      "source": "ATS·Lever·swile",
+      "score": 65,
+      "seen_at": "2026-10-09T14:34:51",
+      "key": "senior data platform engineer copy | swile"
+    },
+    "efd2c06544dce083c31f68d6": {
+      "source": "ATS·Lever·swile",
+      "score": 65,
+      "seen_at": "2026-10-09T14:34:51",
+      "key": "senior data platform engineer | swile"
     }
   },
   "keys": {
@@ -1654,54 +1666,87 @@
     "senior forward deployed engineer devops | cloudflare": "5e0491030d12549ae54454fd",
     "senior software engineer security platform | cloudflare": "b9626b870bd9aa86f696ae3a",
     "senior professional services engineer pubsec us only | gitlab": "4ff66242f1160c92a975b6f0",
-    "systems engineer data security | cloudflare": "96bafe6f70f9e7f2a95d45f5"
+    "systems engineer data security | cloudflare": "96bafe6f70f9e7f2a95d45f5",
+    "senior data platform engineer copy | swile": "711032963108302b6b1ce762",
+    "senior data platform engineer | swile": "efd2c06544dce083c31f68d6"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-09T07:29:14",
-      "last_run": "2026-10-09T07:29:14",
+      "last_ok_at": "2026-10-09T14:30:38",
+      "last_run": "2026-10-09T14:30:38",
       "last_error": "",
-      "last_ok_count": 48
+      "last_ok_count": 58
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-09T07:29:52",
-      "last_run": "2026-10-09T07:29:52",
+      "last_ok_at": "2026-10-09T14:31:18",
+      "last_run": "2026-10-09T14:31:18",
       "last_error": "",
       "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-09T07:31:30",
+      "last_run": "2026-10-09T14:32:56",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-09T07:32:30",
-      "last_run": "2026-10-09T07:32:30",
+      "last_ok_at": "2026-10-09T14:33:55",
+      "last_run": "2026-10-09T14:33:55",
       "last_error": "",
-      "last_ok_count": 109
+      "last_ok_count": 108
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-09T07:32:30",
+      "last_run": "2026-10-09T14:33:55",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-09T07:33:18",
-      "last_run": "2026-10-09T07:33:18",
+      "last_ok_at": "2026-10-09T14:34:41",
+      "last_run": "2026-10-09T14:34:41",
       "last_error": "",
-      "last_ok_count": 1240
+      "last_ok_count": 1237
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Senior Data Platform Engineer (copy)",
+        "company": "swile",
+        "url": "https://jobs.lever.co/swile/6d983bef-f1d3-48c3-b666-fa47d905c13f",
+        "date": "2026-10-09",
+        "location": "Montpellier, France",
+        "description": "At Swile, we believe that good products can help reduce friction in daily professional life and boost employee satisfaction. Today, we provide innovative solutions in various areas such as Fintech, Travel, HR, and Employee Benefits to more than 5.5 million users in 85,000 companies in France and Brazil. As a Senior Data Platform Engineer, you will join the Data Platform team. We are an enablement team: we build the tools, standards and foundations that let every engineering team at Swile own its data autonomously. You will work at the crossroads of data, software engineering and infrastructure, in a senior team where everyone has a direct impact.",
+        "source": "ATS·Lever·swile",
+        "id": "711032963108302b6b1ce762",
+        "score": 65,
+        "reasons": [
+          "platform engineer",
+          "description: platform engineer"
+        ]
+      },
+      {
+        "title": "Senior Data Platform Engineer",
+        "company": "swile",
+        "url": "https://jobs.lever.co/swile/2883d123-bbd8-4cce-93b3-04b8e387bca8",
+        "date": "2026-10-01",
+        "location": "Paris, France",
+        "description": "At Swile, we believe that good products can help reduce friction in daily professional life and boost employee satisfaction. Today, we provide innovative solutions in various areas such as Fintech, Travel, HR, and Employee Benefits to more than 5.5 million users in 85,000 companies in France and Brazil. As a Senior Data Platform Engineer, you will join the Data Platform team. We are an enablement team: we build the tools, standards and foundations that let every engineering team at Swile own its data autonomously. You will work at the crossroads of data, software engineering and infrastructure, in a senior team where everyone has a direct impact.",
+        "source": "ATS·Lever·swile",
+        "id": "efd2c06544dce083c31f68d6",
+        "score": 65,
+        "reasons": [
+          "platform engineer",
+          "description: platform engineer"
+        ]
+      }
+    ],
     "last_sent_date": "2026-10-07"
   },
   "market": {
@@ -1780,7 +1825,9 @@
       "b9626b870bd9aa86f696ae3a",
       "4ff66242f1160c92a975b6f0",
       "c39f26c0a8f7dee2bb6037c9",
-      "96bafe6f70f9e7f2a95d45f5"
+      "96bafe6f70f9e7f2a95d45f5",
+      "711032963108302b6b1ce762",
+      "efd2c06544dce083c31f68d6"
     ],
     "companies": {
       "Capgemini": 1,
@@ -1803,7 +1850,7 @@
       "Reddit": 1,
       "Discord": 6,
       "Duolingo": 3,
-      "swile": 3,
+      "swile": 5,
       "contentsquare": 1,
       "veepee": 2,
       "Marketing Call Center": 1,
@@ -1834,7 +1881,7 @@
       "defender for cloud": 1,
       "gitlab ci": 1,
       "zero trust": 3,
-      "platform engineer": 5,
+      "platform engineer": 7,
       "site reliability": 4,
       "cloud engineer": 1,
       "cloud operations": 2,
@@ -1856,13 +1903,13 @@
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 6,
       "ATS·Greenhouse·duolingo": 3,
-      "ATS·Lever·swile": 3,
+      "ATS·Lever·swile": 5,
       "ATS·Lever·contentsquare": 1,
       "ATS·Lever·veepee": 2,
       "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 74,
+    "total": 76,
     "prev": {
       "week": "2026-W40",
       "companies": {
