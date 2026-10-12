@@ -1687,45 +1687,45 @@
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-12T06:40:20",
-      "last_run": "2026-10-12T06:40:20",
+      "last_ok_at": "2026-10-12T16:01:20",
+      "last_run": "2026-10-12T16:01:20",
       "last_error": "",
       "last_ok_count": 44
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-12T06:41:00",
-      "last_run": "2026-10-12T06:41:00",
+      "last_ok_at": "2026-10-12T16:02:00",
+      "last_run": "2026-10-12T16:02:00",
       "last_error": "",
       "last_ok_count": 44
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-12T06:42:38",
+      "last_run": "2026-10-12T16:03:37",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-12T06:43:14",
-      "last_run": "2026-10-12T06:43:14",
+      "last_ok_at": "2026-10-12T16:04:39",
+      "last_run": "2026-10-12T16:04:39",
       "last_error": "",
       "last_ok_count": 106
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-12T06:43:14",
+      "last_run": "2026-10-12T16:04:39",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-12T06:44:04",
-      "last_run": "2026-10-12T06:44:04",
+      "last_ok_at": "2026-10-12T16:05:30",
+      "last_run": "2026-10-12T16:05:30",
       "last_error": "",
-      "last_ok_count": 1241
+      "last_ok_count": 1246
     }
   },
   "digest": {
@@ -1797,7 +1797,8 @@
       "95073dd45648c344ccd399fb",
       "8d9c716907ee1f16a5f330a4",
       "bc31f19db846f39bbf2fb85e",
-      "27ebb71bbd5ecdcbfb53b1dd"
+      "27ebb71bbd5ecdcbfb53b1dd",
+      "b46d56ba71bb4de8a991a367"
     ],
     "companies": {
       "Capgemini": 1,
@@ -1817,7 +1818,7 @@
       "MongoDB": 4,
       "Twilio": 2,
       "Stripe": 2,
-      "Asana": 2,
+      "Asana": 3,
       "Reddit": 1,
       "Discord": 6,
       "Airbnb": 1,
@@ -1837,8 +1838,8 @@
       "cloud security": 2,
       "cloud security engineer": 2,
       "devsecops": 5,
-      "security": 31,
-      "security engineer": 13,
+      "security": 32,
+      "security engineer": 14,
       "gcp": 10,
       "kubernetes": 10,
       "sre": 5,
@@ -1869,7 +1870,7 @@
       "ATS·Greenhouse·mongodb": 4,
       "ATS·Greenhouse·twilio": 2,
       "ATS·Greenhouse·stripe": 2,
-      "ATS·Greenhouse·asana": 2,
+      "ATS·Greenhouse·asana": 3,
       "ATS·Greenhouse·reddit": 1,
       "ATS·Greenhouse·discord": 6,
       "ATS·Greenhouse·airbnb": 1,
@@ -1879,7 +1880,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 63,
+    "total": 64,
     "prev": {
       "week": "2026-W41",
       "companies": {
@@ -1966,7 +1967,7 @@
       "salaries": [],
       "total": 78
     },
-    "prev_reported": false
+    "prev_reported": true
   },
   "contacts": {
     "cloudflare": {
