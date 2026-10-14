@@ -1559,6 +1559,24 @@
       "score": 50,
       "seen_at": "2026-10-14T10:32:59",
       "key": "chef de projet f h | sofrecom maroc"
+    },
+    "c9441f84b9d4f4dbedf72d45": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-10-14T15:25:12",
+      "key": "developpeur java spring angular | alten maroc"
+    },
+    "fc2259469f738b6b2b35589b": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 60,
+      "seen_at": "2026-10-14T15:25:12",
+      "key": "senior systems engineer browser isolation | cloudflare"
+    },
+    "5daae2a4114bb48d1d6be881": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 70,
+      "seen_at": "2026-10-14T15:25:13",
+      "key": "enterprise security sales specialist | datadog"
     }
   },
   "keys": {
@@ -1752,50 +1770,53 @@
     "security engineer applied research labs | cloudflare": "d07b9130f27e7c9052e10d40",
     "systems engineer browser isolation | cloudflare": "8041dcebdfc6a9108e02b376",
     "software engineer l2 messaging channels team | twilio": "acd0e4d8782e76deb649ab07",
-    "chef de projet f h | sofrecom maroc": "f82e9c85377d0bbda17fe8e8"
+    "chef de projet f h | sofrecom maroc": "f82e9c85377d0bbda17fe8e8",
+    "developpeur java spring angular | alten maroc": "c9441f84b9d4f4dbedf72d45",
+    "senior systems engineer browser isolation | cloudflare": "fc2259469f738b6b2b35589b",
+    "enterprise security sales specialist | datadog": "5daae2a4114bb48d1d6be881"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-14T10:29:01",
-      "last_run": "2026-10-14T10:29:01",
+      "last_ok_at": "2026-10-14T15:20:59",
+      "last_run": "2026-10-14T15:20:59",
       "last_error": "",
-      "last_ok_count": 71
+      "last_ok_count": 74
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-14T10:29:35",
-      "last_run": "2026-10-14T10:29:35",
+      "last_ok_at": "2026-10-14T15:21:38",
+      "last_run": "2026-10-14T15:21:38",
       "last_error": "",
-      "last_ok_count": 35
+      "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-14T10:31:13",
+      "last_run": "2026-10-14T15:23:16",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-14T10:32:12",
-      "last_run": "2026-10-14T10:32:12",
+      "last_ok_at": "2026-10-14T15:24:18",
+      "last_run": "2026-10-14T15:24:18",
       "last_error": "",
       "last_ok_count": 106
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-14T10:32:12",
+      "last_run": "2026-10-14T15:24:18",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-14T10:32:59",
-      "last_run": "2026-10-14T10:32:59",
+      "last_ok_at": "2026-10-14T15:25:11",
+      "last_run": "2026-10-14T15:25:11",
       "last_error": "",
-      "last_ok_count": 1244
+      "last_ok_count": 1245
     }
   },
   "digest": {
@@ -1813,6 +1834,52 @@
         "score": 50,
         "reasons": [
           "description: infrastructure as code"
+        ]
+      },
+      {
+        "title": "Développeur Java, spring, Angular",
+        "company": "ALTEN Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-developpeur-java-spring-angular-recrutement-alten-maroc-rabat-187203.html",
+        "date": "06/10/2026",
+        "location": "Rabat (Maroc)",
+        "description": "bonne expérience des pratiques ci/cd, de l'infrastructure as code avec terraform et de l'orchestration de conteneurs avec kubernetes .",
+        "source": "Rekrute",
+        "offer_id": "187203",
+        "id": "c9441f84b9d4f4dbedf72d45",
+        "score": 50,
+        "reasons": [
+          "description: infrastructure as code"
+        ]
+      },
+      {
+        "title": "Senior Systems Engineer, Browser Isolation",
+        "company": "Cloudflare",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8278262?gh_jid=8278262",
+        "date": "2026-10-14",
+        "location": "Hybrid",
+        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations: </strong>Austin, TX (US), Lisbon (Portugal), London (UK)</p> <p><strong>About the team</strong></p> <p><a href=\"https://www.cloudflare.com/zero-trust/products/browser-isolation/\">Cloudflare Browser Isolation</a> runs web content in remote browsers, helping protect users from threats while preserving a responsive browsing experience. Our team builds the Chromium-based browsing engine, remote rendering and streaming technology, and distributed services that manage browser sessions across Cloudflare’s global network.</p> <p>You will work at the intersection of systems programming, distributed systems, and security. Engineers contribute across the product, collaborating on browser changes, service orchestration, observability, and build infrastructure.</p> <p><strong>Scope and growth</strong></p> <p>At this level, you will be accountable for outcomes across a problem area that may span several components. You will establish technical direction, make uncertainty and trade-offs explicit, and help other engineers succeed while remaining hands-on. This is an individual-contributor role; people-management experience is not required.</p> <p><strong>Technologies we use</strong></p> <ul> <li>Browser engine: Chromium and C++.</li> <li>Systems programming: Rust.</li> <li>Distributed services and orchestration: Go, TypeScript, Cloudflare Workers, Nomad, and Consu",
+        "salary": "",
+        "source": "ATS·Greenhouse·cloudflare",
+        "id": "fc2259469f738b6b2b35589b",
+        "score": 60,
+        "reasons": [
+          "description: security engineer + zero trust"
+        ]
+      },
+      {
+        "title": "Enterprise Security Sales Specialist",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8243668/?gh_jid=8243668",
+        "date": "2026-10-14",
+        "location": "San Francisco, California, USA",
+        "description": "<p>As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers—expanding our footprint and helping customers modernize their security stack in the cloud.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Act as the subject matter expert (SME) for Datadog Security products across a targeted account patch</li> <li>Collaborate closely with Enterprise AEs to support net new logo acquisition and expansion in strategic accounts</li> <li>Own and drive the security sales cycle from discovery to technical close, working closely with Sales Engineers</li> <li>Evangelize Datadog’s security story to security leaders (CISO, Security Architects, SecOps)</li> <li>Work cross-functionally with Datadog's partner, channel, and alliance teams to drive joint go-to-market motions</li> <li>Co-sell effectively with AEs and partners, contributing to deal strategy, solution alignment, and stakeholder engagement</li> <li>Stay informed on security trends and competitive offerings to differentiate Datadog</li> </ul> <p><strong>Who You Are:</strong></p> <ul> <li>Proven success selling into security buyers (CISO, SecOps, GRC, etc.)</li> <li>Experience co-selling in a matrixed environment, supporting or partnering with AEs and cross-functional teams</li> <li>Strong understanding of the partner/channel sales model, including how to navigate and influence joint selling motions</li> <li>Familiarity with modern security solutions such as SIEM, CSPM, CWPP, container/Kubernetes security</li> <li>Ability to build strong relationships with internal stakeholders, partners, and customer technical teams</li> </ul> <p><em>Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.</em></p> <p><strong>Benefits and Growth:</strong></p> <ul> <li>High income earning opportunities based on self performance</li> <li>New hire stock equity (RSU) and employee stock purchase plan (ESPP)</li> <li>Continuous professional development, product training, and career pathing&nbsp;</li> <li>Sales training in MEDDIC and Command of the Message&nbsp;</li> <li>Intra-departmental mentor and buddy program for in-house networking&nbsp;</li> <li>An inclusive company culture, opportunity to join our Community Guilds</li> <li>Generous and competitive medical benefits package</li> <li>Retirement savings match</li> <li>Pet adoption and insuran",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "5daae2a4114bb48d1d6be881",
+        "score": 70,
+        "reasons": [
+          "security",
+          "description: cloud + kubernetes + security"
         ]
       }
     ],
@@ -1897,21 +1964,26 @@
       "d07b9130f27e7c9052e10d40",
       "8041dcebdfc6a9108e02b376",
       "acd0e4d8782e76deb649ab07",
-      "f82e9c85377d0bbda17fe8e8"
+      "f82e9c85377d0bbda17fe8e8",
+      "ed4c045a613a23096d47eeea",
+      "c9441f84b9d4f4dbedf72d45",
+      "fc2259469f738b6b2b35589b",
+      "5daae2a4114bb48d1d6be881",
+      "c43ba4468254766720287823"
     ],
     "companies": {
       "Capgemini": 1,
       "AXA GBS Morocco": 6,
-      "ALTEN Maroc": 8,
+      "ALTEN Maroc": 10,
       "Sofrecom Maroc": 7,
       "Marketing Call Center": 1,
       "CGI Technologies et Solutions Maroc": 1,
       "AFD.Tech": 1,
       "Cnexia tech": 1,
       "Inconnu": 4,
-      "Cloudflare": 6,
+      "Cloudflare": 7,
       "GitLab": 3,
-      "Datadog": 1,
+      "Datadog": 3,
       "Okta": 2,
       "Proton": 3,
       "MongoDB": 6,
@@ -1930,40 +2002,40 @@
       "aws": 16,
       "azure": 20,
       "azure devops": 3,
-      "cloud": 38,
+      "cloud": 41,
       "devops": 17,
       "devops engineer": 3,
       "cloud architect": 1,
       "cloud security": 4,
       "cloud security engineer": 4,
       "devsecops": 6,
-      "security": 37,
-      "security engineer": 18,
-      "gcp": 16,
-      "kubernetes": 14,
+      "security": 40,
+      "security engineer": 19,
+      "gcp": 17,
+      "kubernetes": 18,
       "sre": 8,
-      "ci/cd": 16,
+      "ci/cd": 18,
       "defender": 1,
       "defender for cloud": 1,
       "docker": 3,
       "iam": 6,
-      "terraform": 11,
+      "terraform": 12,
       "gitlab ci": 1,
       "github actions": 2,
-      "infrastructure as code": 9,
+      "infrastructure as code": 11,
       "platform engineer": 6,
       "site reliability": 7,
       "cloud operations": 1,
       "identity and access management": 3,
-      "zero trust": 2,
+      "zero trust": 3,
       "k8s": 1
     },
     "sources": {
-      "Rekrute": 26,
+      "Rekrute": 28,
       "Dreamjob": 3,
-      "ATS·Greenhouse·cloudflare": 6,
+      "ATS·Greenhouse·cloudflare": 7,
       "ATS·Greenhouse·gitlab": 3,
-      "ATS·Greenhouse·datadog": 1,
+      "ATS·Greenhouse·datadog": 3,
       "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·mongodb": 6,
@@ -1980,7 +2052,7 @@
       "Dreamjob API": 1
     },
     "salaries": [],
-    "total": 77,
+    "total": 82,
     "prev": {
       "week": "2026-W41",
       "companies": {
