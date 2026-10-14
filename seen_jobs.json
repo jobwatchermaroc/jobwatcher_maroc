@@ -1553,6 +1553,12 @@
       "score": 50,
       "seen_at": "2026-10-13T22:03:14",
       "key": "software engineer l2 messaging channels team | twilio"
+    },
+    "f82e9c85377d0bbda17fe8e8": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-10-14T10:32:59",
+      "key": "chef de projet f h | sofrecom maroc"
     }
   },
   "keys": {
@@ -1745,54 +1751,71 @@
     "devops gcp senior | alten maroc": "0ef49a868a2054b715abe45d",
     "security engineer applied research labs | cloudflare": "d07b9130f27e7c9052e10d40",
     "systems engineer browser isolation | cloudflare": "8041dcebdfc6a9108e02b376",
-    "software engineer l2 messaging channels team | twilio": "acd0e4d8782e76deb649ab07"
+    "software engineer l2 messaging channels team | twilio": "acd0e4d8782e76deb649ab07",
+    "chef de projet f h | sofrecom maroc": "f82e9c85377d0bbda17fe8e8"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-14T05:30:50",
-      "last_run": "2026-10-14T05:30:50",
+      "last_ok_at": "2026-10-14T10:29:01",
+      "last_run": "2026-10-14T10:29:01",
       "last_error": "",
-      "last_ok_count": 69
+      "last_ok_count": 71
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-14T05:31:35",
-      "last_run": "2026-10-14T05:31:35",
+      "last_ok_at": "2026-10-14T10:29:35",
+      "last_run": "2026-10-14T10:29:35",
       "last_error": "",
-      "last_ok_count": 36
+      "last_ok_count": 35
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-14T05:33:12",
+      "last_run": "2026-10-14T10:31:13",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-14T05:34:10",
-      "last_run": "2026-10-14T05:34:10",
+      "last_ok_at": "2026-10-14T10:32:12",
+      "last_run": "2026-10-14T10:32:12",
       "last_error": "",
       "last_ok_count": 106
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-14T05:34:10",
+      "last_run": "2026-10-14T10:32:12",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-14T05:35:00",
-      "last_run": "2026-10-14T05:35:00",
+      "last_ok_at": "2026-10-14T10:32:59",
+      "last_run": "2026-10-14T10:32:59",
       "last_error": "",
-      "last_ok_count": 1248
+      "last_ok_count": 1244
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Chef de projet(F/H)",
+        "company": "Sofrecom Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-chef-de-projetfh-recrutement-sofrecom-maroc-rabat-187512.html",
+        "date": "14/10/2026",
+        "location": "Rabat (Maroc)",
+        "description": "culture technique solide sur le cloud et le devops : compréhension de kubernetes, de l'infrastructure as code et de la ci/cd, suffisante pour échanger avec l'équipe et évaluer les sujets.",
+        "source": "Rekrute",
+        "offer_id": "187512",
+        "id": "f82e9c85377d0bbda17fe8e8",
+        "score": 50,
+        "reasons": [
+          "description: infrastructure as code"
+        ]
+      }
+    ],
     "last_sent_date": "2026-10-13"
   },
   "market": {
@@ -1873,13 +1896,14 @@
       "c76526b8cfa101b468a22eea",
       "d07b9130f27e7c9052e10d40",
       "8041dcebdfc6a9108e02b376",
-      "acd0e4d8782e76deb649ab07"
+      "acd0e4d8782e76deb649ab07",
+      "f82e9c85377d0bbda17fe8e8"
     ],
     "companies": {
       "Capgemini": 1,
       "AXA GBS Morocco": 6,
       "ALTEN Maroc": 8,
-      "Sofrecom Maroc": 6,
+      "Sofrecom Maroc": 7,
       "Marketing Call Center": 1,
       "CGI Technologies et Solutions Maroc": 1,
       "AFD.Tech": 1,
@@ -1906,8 +1930,8 @@
       "aws": 16,
       "azure": 20,
       "azure devops": 3,
-      "cloud": 37,
-      "devops": 16,
+      "cloud": 38,
+      "devops": 17,
       "devops engineer": 3,
       "cloud architect": 1,
       "cloud security": 4,
@@ -1916,9 +1940,9 @@
       "security": 37,
       "security engineer": 18,
       "gcp": 16,
-      "kubernetes": 13,
+      "kubernetes": 14,
       "sre": 8,
-      "ci/cd": 15,
+      "ci/cd": 16,
       "defender": 1,
       "defender for cloud": 1,
       "docker": 3,
@@ -1926,7 +1950,7 @@
       "terraform": 11,
       "gitlab ci": 1,
       "github actions": 2,
-      "infrastructure as code": 8,
+      "infrastructure as code": 9,
       "platform engineer": 6,
       "site reliability": 7,
       "cloud operations": 1,
@@ -1935,7 +1959,7 @@
       "k8s": 1
     },
     "sources": {
-      "Rekrute": 25,
+      "Rekrute": 26,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·gitlab": 3,
@@ -1956,7 +1980,7 @@
       "Dreamjob API": 1
     },
     "salaries": [],
-    "total": 76,
+    "total": 77,
     "prev": {
       "week": "2026-W41",
       "companies": {
