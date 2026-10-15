@@ -1583,6 +1583,12 @@
       "score": 50,
       "seen_at": "2026-10-14T19:33:26",
       "key": "senior software engineer query execution | mongodb"
+    },
+    "6784b80a96d84a32798a4abe": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 70,
+      "seen_at": "2026-10-15T05:18:34",
+      "key": "senior manager product design security | datadog"
     }
   },
   "keys": {
@@ -1780,54 +1786,72 @@
     "developpeur java spring angular | alten maroc": "c9441f84b9d4f4dbedf72d45",
     "senior systems engineer browser isolation | cloudflare": "fc2259469f738b6b2b35589b",
     "enterprise security sales specialist | datadog": "5daae2a4114bb48d1d6be881",
-    "senior software engineer query execution | mongodb": "4deb3ec7929609a245a28d73"
+    "senior software engineer query execution | mongodb": "4deb3ec7929609a245a28d73",
+    "senior manager product design security | datadog": "6784b80a96d84a32798a4abe"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-15T00:44:08",
-      "last_run": "2026-10-15T00:44:08",
+      "last_ok_at": "2026-10-15T05:14:36",
+      "last_run": "2026-10-15T05:14:36",
       "last_error": "",
       "last_ok_count": 72
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-15T00:44:50",
-      "last_run": "2026-10-15T00:44:50",
+      "last_ok_at": "2026-10-15T05:15:09",
+      "last_run": "2026-10-15T05:15:09",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-15T00:46:28",
+      "last_run": "2026-10-15T05:16:46",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-15T00:47:28",
-      "last_run": "2026-10-15T00:47:28",
+      "last_ok_at": "2026-10-15T05:17:45",
+      "last_run": "2026-10-15T05:17:45",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-15T00:47:28",
+      "last_run": "2026-10-15T05:17:45",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-15T00:48:15",
-      "last_run": "2026-10-15T00:48:15",
+      "last_ok_at": "2026-10-15T05:18:32",
+      "last_run": "2026-10-15T05:18:32",
       "last_error": "",
       "last_ok_count": 1245
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Senior Manager, Product Design - Security",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102",
+        "date": "2026-10-14",
+        "location": "New York, New York, USA",
+        "description": "<p>The Datadog Security design team (K9 Design, as we lovingly call it) is hiring a senior product design manager to lead design across our security products. This is a chance to shape an industry-leading experience for a new kind of Datadog user: security practitioners who need to catch threats where they start, stop them when they land, and shut down exposures before they turn into something worse.</p> <p>You'll lead a team of designers at various stages of their careers across cloud, code and data security, turning an overwhelming amount of signal into something a security team can act on. The goal: build the security product people want to spend their day in. You'll own the design, push for excellence, and partner closely with Product and Engineering leadership to get there.</p> <p><em data-renderer-mark=\"true\">At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <h2>What you’ll do</h2> <ul> <li>Lead design direction across your team's products, and hold the bar for design excellence end to end: interactions, visual detail, consistency and cohesion.</li> <li>You're in the work. Run critiques, give direct and useful feedback, and push the team toward bolder, more opinionated solutions rather than safe ones.</li> <li>Coach and grow designers across our Paris, Madrid and New York offices, helping each of them do the best work of their careers.</li> <li>Help define a security design system built on top of Datadog's existing components, with the security practitioner's workflows in mind.</li> <li>Partner with Product and Engineering leaders to evolve cross-platform thinking, shape roadmaps, and to set how the three disciplines work together day to day.</li> <li>Take accountability for the product and business outcomes your team's design work influences.</li> <li>Bring AI fluency to how your team works, from how design gets explored and validated to how it gets shipped.</li> </ul> <h2>Who you are</h2> <ul> <li>10+ years in design, including experience leading and growing high-performing teams.</li> <li>A design leader first: a user advocate with a sharp eye for detail, strong taste and the willingness to get into the work and give direct feedback.</li> <li>A track record of leveling up a team's output, with before-and-after examples of how your leadership transformed the design of a product.</li> <li>You've led complex products or features: a zero-to-one launch, a reimagining of something established, or both.</li> <li>A strong communicator who collaborates effectively with executive and cross-functional stakeholders.</li> <li>Able to demonstrate AI fluency, either in your own work or in how you've led teams through it.</li> <li>Comfortable navigating the technical complexity of modern software development and cloud infrastructure.</li> <li><strong",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "6784b80a96d84a32798a4abe",
+        "score": 70,
+        "reasons": [
+          "security",
+          "description: cloud + security"
+        ]
+      }
+    ],
     "last_sent_date": "2026-10-14"
   },
   "market": {
@@ -1915,7 +1939,8 @@
       "fc2259469f738b6b2b35589b",
       "5daae2a4114bb48d1d6be881",
       "c43ba4468254766720287823",
-      "4deb3ec7929609a245a28d73"
+      "4deb3ec7929609a245a28d73",
+      "6784b80a96d84a32798a4abe"
     ],
     "companies": {
       "Capgemini": 1,
@@ -1929,7 +1954,7 @@
       "Inconnu": 4,
       "Cloudflare": 7,
       "GitLab": 3,
-      "Datadog": 3,
+      "Datadog": 4,
       "Okta": 2,
       "Proton": 3,
       "MongoDB": 7,
@@ -1948,14 +1973,14 @@
       "aws": 17,
       "azure": 21,
       "azure devops": 3,
-      "cloud": 42,
+      "cloud": 43,
       "devops": 17,
       "devops engineer": 3,
       "cloud architect": 1,
       "cloud security": 4,
       "cloud security engineer": 4,
       "devsecops": 6,
-      "security": 40,
+      "security": 41,
       "security engineer": 19,
       "gcp": 17,
       "kubernetes": 18,
@@ -1981,7 +2006,7 @@
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 7,
       "ATS·Greenhouse·gitlab": 3,
-      "ATS·Greenhouse·datadog": 3,
+      "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·mongodb": 7,
@@ -1998,7 +2023,7 @@
       "Dreamjob API": 1
     },
     "salaries": [],
-    "total": 83,
+    "total": 84,
     "prev": {
       "week": "2026-W41",
       "companies": {
