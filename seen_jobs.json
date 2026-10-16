@@ -1613,6 +1613,12 @@
       "score": 85,
       "seen_at": "2026-10-16T15:34:58",
       "key": "director of global security operations | mongodb"
+    },
+    "ccaf72bb200de066d747e93d": {
+      "source": "ATS·Greenhouse·gitlab",
+      "score": 50,
+      "seen_at": "2026-10-16T19:00:54",
+      "key": "manager customer success engineering | gitlab"
     }
   },
   "keys": {
@@ -1815,55 +1821,56 @@
     "ingenieur devops frontend f h | sofrecom maroc": "7bc4cc24defbc67dc1261689",
     "senior infosec analyst | mongodb": "2f48f09ac75ebd403ddd5904",
     "senior security engineer security incident response team | datadog": "380a7b81ed0c0921367a823b",
-    "director of global security operations | mongodb": "d36ac8f3ef1354213619ae01"
+    "director of global security operations | mongodb": "d36ac8f3ef1354213619ae01",
+    "manager customer success engineering | gitlab": "ccaf72bb200de066d747e93d"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-16T15:31:27",
-      "last_run": "2026-10-16T15:31:27",
+      "last_ok_at": "2026-10-16T18:56:38",
+      "last_run": "2026-10-16T18:56:38",
       "last_error": "",
-      "last_ok_count": 56
+      "last_ok_count": 51
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-16T15:31:57",
-      "last_run": "2026-10-16T15:31:57",
+      "last_ok_at": "2026-10-16T18:57:14",
+      "last_run": "2026-10-16T18:57:14",
       "last_error": "",
       "last_ok_count": 35
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-16T15:33:34",
+      "last_run": "2026-10-16T18:58:52",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-16T15:34:04",
-      "last_run": "2026-10-16T15:34:04",
+      "last_ok_at": "2026-10-16T19:00:00",
+      "last_run": "2026-10-16T19:00:00",
       "last_error": "",
       "last_ok_count": 105
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-16T15:34:04",
+      "last_run": "2026-10-16T19:00:00",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-16T15:34:54",
-      "last_run": "2026-10-16T15:34:54",
+      "last_ok_at": "2026-10-16T19:00:52",
+      "last_run": "2026-10-16T19:00:52",
       "last_error": "",
-      "last_ok_count": 1247
+      "last_ok_count": 1243
     }
   },
   "digest": {
     "buffer": [],
-    "last_sent_date": "2026-10-15"
+    "last_sent_date": "2026-10-16"
   },
   "market": {
     "week": "2026-W42",
@@ -1958,7 +1965,8 @@
       "2f48f09ac75ebd403ddd5904",
       "380a7b81ed0c0921367a823b",
       "d6fe6f191667a2aa13d1b898",
-      "d36ac8f3ef1354213619ae01"
+      "d36ac8f3ef1354213619ae01",
+      "ccaf72bb200de066d747e93d"
     ],
     "companies": {
       "Capgemini": 1,
@@ -1971,7 +1979,7 @@
       "Cnexia tech": 1,
       "Inconnu": 4,
       "Cloudflare": 7,
-      "GitLab": 3,
+      "GitLab": 4,
       "Datadog": 5,
       "Okta": 2,
       "Proton": 3,
@@ -1997,13 +2005,13 @@
       "cloud architect": 1,
       "cloud security": 6,
       "cloud security engineer": 4,
-      "devsecops": 7,
-      "security": 44,
+      "devsecops": 8,
+      "security": 45,
       "security engineer": 21,
       "gcp": 19,
       "kubernetes": 22,
       "sre": 8,
-      "ci/cd": 18,
+      "ci/cd": 19,
       "defender": 1,
       "defender for cloud": 1,
       "docker": 6,
@@ -2023,7 +2031,7 @@
       "Rekrute": 32,
       "Dreamjob": 3,
       "ATS·Greenhouse·cloudflare": 7,
-      "ATS·Greenhouse·gitlab": 3,
+      "ATS·Greenhouse·gitlab": 4,
       "ATS·Greenhouse·datadog": 5,
       "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 3,
@@ -2041,7 +2049,7 @@
       "Dreamjob API": 1
     },
     "salaries": [],
-    "total": 91,
+    "total": 92,
     "prev": {
       "week": "2026-W41",
       "companies": {
