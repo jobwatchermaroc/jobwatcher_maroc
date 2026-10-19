@@ -1625,6 +1625,12 @@
       "score": 100,
       "seen_at": "2026-10-16T21:54:49",
       "key": "senior security engineer platform trust safety | datadog"
+    },
+    "0506de80c2e9581ad49900a0": {
+      "source": "ATS·Greenhouse·stripe",
+      "score": 100,
+      "seen_at": "2026-10-19T19:34:56",
+      "key": "security engineer bridge | stripe"
     }
   },
   "keys": {
@@ -1829,50 +1835,51 @@
     "senior security engineer security incident response team | datadog": "380a7b81ed0c0921367a823b",
     "director of global security operations | mongodb": "d36ac8f3ef1354213619ae01",
     "manager customer success engineering | gitlab": "ccaf72bb200de066d747e93d",
-    "senior security engineer platform trust safety | datadog": "064a76102353922ff99eebb2"
+    "senior security engineer platform trust safety | datadog": "064a76102353922ff99eebb2",
+    "security engineer bridge | stripe": "0506de80c2e9581ad49900a0"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-19T13:48:17",
-      "last_run": "2026-10-19T13:48:17",
+      "last_ok_at": "2026-10-19T19:30:39",
+      "last_run": "2026-10-19T19:30:39",
       "last_error": "",
-      "last_ok_count": 27
+      "last_ok_count": 29
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-19T13:48:54",
-      "last_run": "2026-10-19T13:48:54",
+      "last_ok_at": "2026-10-19T19:31:17",
+      "last_run": "2026-10-19T19:31:17",
       "last_error": "",
       "last_ok_count": 35
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-19T13:50:32",
+      "last_run": "2026-10-19T19:32:54",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-19T13:51:40",
-      "last_run": "2026-10-19T13:51:40",
+      "last_ok_at": "2026-10-19T19:34:02",
+      "last_run": "2026-10-19T19:34:02",
       "last_error": "",
       "last_ok_count": 105
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-19T13:51:40",
+      "last_run": "2026-10-19T19:34:02",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-19T13:52:31",
-      "last_run": "2026-10-19T13:52:31",
+      "last_ok_at": "2026-10-19T19:34:51",
+      "last_run": "2026-10-19T19:34:51",
       "last_error": "",
-      "last_ok_count": 1236
+      "last_ok_count": 1231
     }
   },
   "digest": {
@@ -1944,7 +1951,10 @@
       "95073dd45648c344ccd399fb",
       "8d9c716907ee1f16a5f330a4",
       "27ebb71bbd5ecdcbfb53b1dd",
-      "9e86e37686bb324d79759ac6"
+      "9e86e37686bb324d79759ac6",
+      "acd0e4d8782e76deb649ab07",
+      "0506de80c2e9581ad49900a0",
+      "80393dcb8a3b10856ffb7b9c"
     ],
     "companies": {
       "Sofrecom Maroc": 8,
@@ -1959,23 +1969,25 @@
       "Okta": 1,
       "Proton": 3,
       "MongoDB": 5,
-      "Twilio": 2,
+      "Twilio": 3,
       "Asana": 3,
       "Discord": 5,
       "Duolingo": 3,
       "swile": 5,
-      "veepee": 1
+      "veepee": 1,
+      "Stripe": 1,
+      "Airbnb": 1
     },
     "skills": {
-      "aws": 12,
-      "azure": 14,
-      "ci/cd": 13,
-      "cloud": 29,
+      "aws": 13,
+      "azure": 15,
+      "ci/cd": 14,
+      "cloud": 31,
       "devops": 15,
-      "gcp": 12,
+      "gcp": 13,
       "iam": 7,
       "infrastructure as code": 7,
-      "kubernetes": 15,
+      "kubernetes": 16,
       "terraform": 11,
       "azure devops": 1,
       "devops engineer": 3,
@@ -1987,14 +1999,15 @@
       "defender": 1,
       "defender for cloud": 1,
       "sre": 4,
-      "security": 30,
-      "security engineer": 15,
+      "security": 31,
+      "security engineer": 16,
       "platform engineer": 6,
       "cloud security": 2,
       "site reliability": 4,
       "identity and access management": 4,
       "cloud operations": 1,
-      "github actions": 1
+      "github actions": 1,
+      "k8s": 1
     },
     "sources": {
       "Rekrute": 19,
@@ -2005,15 +2018,17 @@
       "ATS·Greenhouse·okta": 1,
       "ATS·Greenhouse·proton": 3,
       "ATS·Greenhouse·mongodb": 5,
-      "ATS·Greenhouse·twilio": 2,
+      "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·asana": 3,
       "ATS·Greenhouse·discord": 5,
       "ATS·Greenhouse·duolingo": 3,
       "ATS·Lever·swile": 5,
-      "ATS·Lever·veepee": 1
+      "ATS·Lever·veepee": 1,
+      "ATS·Greenhouse·stripe": 1,
+      "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 63,
+    "total": 66,
     "prev": {
       "week": "2026-W42",
       "companies": {
@@ -2147,7 +2162,7 @@
     "stripe": {
       "domain": "stripe.com",
       "emails": [],
-      "updated_at": "2026-10-07T12:04:49"
+      "updated_at": "2026-10-19T19:35:12"
     },
     "gitlab": {
       "domain": "gitlab.com",
