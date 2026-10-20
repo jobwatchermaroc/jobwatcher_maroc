@@ -1637,6 +1637,18 @@
       "score": 100,
       "seen_at": "2026-10-20T16:36:43",
       "key": "staff software engineer iam control plane | stripe"
+    },
+    "84b9910e59102dd19c459e29": {
+      "source": "ATS·Greenhouse·okta",
+      "score": 60,
+      "seen_at": "2026-10-20T23:12:56",
+      "key": "staff security risk analyst | okta"
+    },
+    "b13ad350ecced5b1d4c854c3": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 70,
+      "seen_at": "2026-10-20T23:12:57",
+      "key": "manager client platform engineering | mongodb"
     }
   },
   "keys": {
@@ -1843,55 +1855,57 @@
     "manager customer success engineering | gitlab": "ccaf72bb200de066d747e93d",
     "senior security engineer platform trust safety | datadog": "064a76102353922ff99eebb2",
     "security engineer bridge | stripe": "0506de80c2e9581ad49900a0",
-    "staff software engineer iam control plane | stripe": "dda9bd077de58037d0938e55"
+    "staff software engineer iam control plane | stripe": "dda9bd077de58037d0938e55",
+    "staff security risk analyst | okta": "84b9910e59102dd19c459e29",
+    "manager client platform engineering | mongodb": "b13ad350ecced5b1d4c854c3"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-20T20:05:55",
-      "last_run": "2026-10-20T20:05:55",
+      "last_ok_at": "2026-10-20T23:08:43",
+      "last_run": "2026-10-20T23:08:43",
       "last_error": "",
       "last_ok_count": 40
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-20T20:06:41",
-      "last_run": "2026-10-20T20:06:41",
+      "last_ok_at": "2026-10-20T23:09:18",
+      "last_run": "2026-10-20T23:09:18",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-20T20:08:19",
+      "last_run": "2026-10-20T23:10:55",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-20T20:09:23",
-      "last_run": "2026-10-20T20:09:23",
+      "last_ok_at": "2026-10-20T23:11:54",
+      "last_run": "2026-10-20T23:11:54",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-20T20:09:23",
+      "last_run": "2026-10-20T23:11:54",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-20T20:10:21",
-      "last_run": "2026-10-20T20:10:21",
+      "last_ok_at": "2026-10-20T23:12:54",
+      "last_run": "2026-10-20T23:12:54",
       "last_error": "",
       "last_ok_count": 1221
     }
   },
   "digest": {
     "buffer": [],
-    "last_sent_date": "2026-10-16"
+    "last_sent_date": "2026-10-20"
   },
   "market": {
     "week": "2026-W43",
@@ -1962,7 +1976,9 @@
       "acd0e4d8782e76deb649ab07",
       "0506de80c2e9581ad49900a0",
       "80393dcb8a3b10856ffb7b9c",
-      "dda9bd077de58037d0938e55"
+      "dda9bd077de58037d0938e55",
+      "84b9910e59102dd19c459e29",
+      "b13ad350ecced5b1d4c854c3"
     ],
     "companies": {
       "Sofrecom Maroc": 8,
@@ -1974,9 +1990,9 @@
       "Cloudflare": 5,
       "GitLab": 2,
       "Datadog": 5,
-      "Okta": 1,
+      "Okta": 2,
       "Proton": 3,
-      "MongoDB": 5,
+      "MongoDB": 6,
       "Twilio": 3,
       "Asana": 3,
       "Discord": 5,
@@ -2007,9 +2023,9 @@
       "defender": 1,
       "defender for cloud": 1,
       "sre": 4,
-      "security": 31,
+      "security": 33,
       "security engineer": 16,
-      "platform engineer": 6,
+      "platform engineer": 7,
       "cloud security": 2,
       "site reliability": 4,
       "identity and access management": 4,
@@ -2023,9 +2039,9 @@
       "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·gitlab": 2,
       "ATS·Greenhouse·datadog": 5,
-      "ATS·Greenhouse·okta": 1,
+      "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 3,
-      "ATS·Greenhouse·mongodb": 5,
+      "ATS·Greenhouse·mongodb": 6,
       "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·asana": 3,
       "ATS·Greenhouse·discord": 5,
@@ -2036,7 +2052,7 @@
       "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 67,
+    "total": 69,
     "prev": {
       "week": "2026-W42",
       "companies": {
