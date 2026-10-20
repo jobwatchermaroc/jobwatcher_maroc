@@ -1631,6 +1631,12 @@
       "score": 100,
       "seen_at": "2026-10-19T19:34:56",
       "key": "security engineer bridge | stripe"
+    },
+    "dda9bd077de58037d0938e55": {
+      "source": "ATS·Greenhouse·stripe",
+      "score": 100,
+      "seen_at": "2026-10-20T16:36:43",
+      "key": "staff software engineer iam control plane | stripe"
     }
   },
   "keys": {
@@ -1836,50 +1842,51 @@
     "director of global security operations | mongodb": "d36ac8f3ef1354213619ae01",
     "manager customer success engineering | gitlab": "ccaf72bb200de066d747e93d",
     "senior security engineer platform trust safety | datadog": "064a76102353922ff99eebb2",
-    "security engineer bridge | stripe": "0506de80c2e9581ad49900a0"
+    "security engineer bridge | stripe": "0506de80c2e9581ad49900a0",
+    "staff software engineer iam control plane | stripe": "dda9bd077de58037d0938e55"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-20T12:00:29",
-      "last_run": "2026-10-20T12:00:29",
+      "last_ok_at": "2026-10-20T16:32:04",
+      "last_run": "2026-10-20T16:32:04",
       "last_error": "",
-      "last_ok_count": 33
+      "last_ok_count": 37
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-20T12:01:05",
-      "last_run": "2026-10-20T12:01:05",
+      "last_ok_at": "2026-10-20T16:32:46",
+      "last_run": "2026-10-20T16:32:46",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-20T12:02:42",
+      "last_run": "2026-10-20T16:34:23",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-20T12:03:41",
-      "last_run": "2026-10-20T12:03:41",
+      "last_ok_at": "2026-10-20T16:35:36",
+      "last_run": "2026-10-20T16:35:36",
       "last_error": "",
       "last_ok_count": 104
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-20T12:03:41",
+      "last_run": "2026-10-20T16:35:36",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-20T12:04:30",
-      "last_run": "2026-10-20T12:04:30",
+      "last_ok_at": "2026-10-20T16:36:38",
+      "last_run": "2026-10-20T16:36:38",
       "last_error": "",
-      "last_ok_count": 1225
+      "last_ok_count": 1222
     }
   },
   "digest": {
@@ -1954,7 +1961,8 @@
       "9e86e37686bb324d79759ac6",
       "acd0e4d8782e76deb649ab07",
       "0506de80c2e9581ad49900a0",
-      "80393dcb8a3b10856ffb7b9c"
+      "80393dcb8a3b10856ffb7b9c",
+      "dda9bd077de58037d0938e55"
     ],
     "companies": {
       "Sofrecom Maroc": 8,
@@ -1975,7 +1983,7 @@
       "Duolingo": 3,
       "swile": 5,
       "veepee": 1,
-      "Stripe": 1,
+      "Stripe": 2,
       "Airbnb": 1
     },
     "skills": {
@@ -1985,7 +1993,7 @@
       "cloud": 31,
       "devops": 15,
       "gcp": 13,
-      "iam": 7,
+      "iam": 8,
       "infrastructure as code": 7,
       "kubernetes": 16,
       "terraform": 11,
@@ -2024,11 +2032,11 @@
       "ATS·Greenhouse·duolingo": 3,
       "ATS·Lever·swile": 5,
       "ATS·Lever·veepee": 1,
-      "ATS·Greenhouse·stripe": 1,
+      "ATS·Greenhouse·stripe": 2,
       "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 66,
+    "total": 67,
     "prev": {
       "week": "2026-W42",
       "companies": {
