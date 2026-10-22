@@ -1661,6 +1661,12 @@
       "score": 50,
       "seen_at": "2026-10-22T20:39:54",
       "key": "regional manager sales engineering ai accounts | datadog"
+    },
+    "3f3567416968e1462dc4ecbb": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 60,
+      "seen_at": "2026-10-22T23:42:32",
+      "key": "customer security compliance specialist | cloudflare"
     }
   },
   "keys": {
@@ -1871,54 +1877,72 @@
     "staff security risk analyst | okta": "84b9910e59102dd19c459e29",
     "manager client platform engineering | mongodb": "b13ad350ecced5b1d4c854c3",
     "group product manager code security | datadog": "1501903dc5e4b1b97b1d2526",
-    "regional manager sales engineering ai accounts | datadog": "10e6eb640183462c452bebb9"
+    "regional manager sales engineering ai accounts | datadog": "10e6eb640183462c452bebb9",
+    "customer security compliance specialist | cloudflare": "3f3567416968e1462dc4ecbb"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-22T20:35:45",
-      "last_run": "2026-10-22T20:35:45",
+      "last_ok_at": "2026-10-22T23:38:10",
+      "last_run": "2026-10-22T23:38:10",
       "last_error": "",
-      "last_ok_count": 54
+      "last_ok_count": 53
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-22T20:36:25",
-      "last_run": "2026-10-22T20:36:25",
+      "last_ok_at": "2026-10-22T23:38:53",
+      "last_run": "2026-10-22T23:38:53",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-22T20:38:03",
+      "last_run": "2026-10-22T23:40:30",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-10-22T20:39:03",
-      "last_run": "2026-10-22T20:39:03",
+      "last_ok_at": "2026-10-22T23:41:37",
+      "last_run": "2026-10-22T23:41:37",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-22T20:39:03",
+      "last_run": "2026-10-22T23:41:37",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-22T20:39:52",
-      "last_run": "2026-10-22T20:39:52",
+      "last_ok_at": "2026-10-22T23:42:31",
+      "last_run": "2026-10-22T23:42:31",
       "last_error": "",
       "last_ok_count": 1204
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Customer Security Compliance Specialist",
+        "company": "Cloudflare",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8311164?gh_jid=8311164",
+        "date": "2026-10-22",
+        "location": "Hybrid",
+        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations:&nbsp;</strong>Austin, TX; New York City</p> <p><strong>About the team</strong></p> <p>You will join the Customer Compliance Team, which is focused on building trust with customers through sharing information about Cloudflare’s security program and policies. We assist our Customers, Sales teams, and Legal teams in understanding Cloudflare’s security posture. In this role, you will develop into an SME across Cloudflare’s products, infrastructure, and controls.</p> <p>As part of this mission, you will actively build with and leverage Cloudflare’s proprietary, in-house AI platforms and developer tooling to eliminate manual bottlenecks, scale compliance operations, and dramatically accelerate our response times to customer inquiries.</p> <h4><strong>What you'll do</strong></h4> <ul> <li><strong>Security Questionnaires &amp; RFPs:</strong> Take ownership of filling out complex customer security questionnaires, RFPs, and technical assessments. You will do this by orchestrating our internal AI generation pipelines to draft responses, paired with your own expert human-in-the-loop validation to ensure high accuracy.</li> <li><strong>Engage with Customers on Security Topics:</strong> Act as a trusted security advisor by engaging directly with enterprise customers on security topics. You will meet with customer security teams to resolve deep architectural inqu",
+        "salary": "",
+        "source": "ATS·Greenhouse·cloudflare",
+        "id": "3f3567416968e1462dc4ecbb",
+        "score": 60,
+        "reasons": [
+          "security",
+          "description: security"
+        ]
+      }
+    ],
     "last_sent_date": "2026-10-22"
   },
   "market": {
@@ -1994,7 +2018,8 @@
       "84b9910e59102dd19c459e29",
       "b13ad350ecced5b1d4c854c3",
       "1501903dc5e4b1b97b1d2526",
-      "10e6eb640183462c452bebb9"
+      "10e6eb640183462c452bebb9",
+      "3f3567416968e1462dc4ecbb"
     ],
     "companies": {
       "Sofrecom Maroc": 8,
@@ -2003,7 +2028,7 @@
       "AXA GBS Morocco": 1,
       "CGI Technologies et Solutions Maroc": 1,
       "Inconnu": 4,
-      "Cloudflare": 5,
+      "Cloudflare": 6,
       "GitLab": 2,
       "Datadog": 7,
       "Okta": 2,
@@ -2039,7 +2064,7 @@
       "defender": 1,
       "defender for cloud": 1,
       "sre": 5,
-      "security": 35,
+      "security": 36,
       "security engineer": 16,
       "platform engineer": 7,
       "cloud security": 2,
@@ -2052,7 +2077,7 @@
     "sources": {
       "Rekrute": 19,
       "Dreamjob": 4,
-      "ATS·Greenhouse·cloudflare": 5,
+      "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·gitlab": 2,
       "ATS·Greenhouse·datadog": 7,
       "ATS·Greenhouse·okta": 2,
@@ -2068,7 +2093,7 @@
       "ATS·Greenhouse·airbnb": 1
     },
     "salaries": [],
-    "total": 71,
+    "total": 72,
     "prev": {
       "week": "2026-W42",
       "companies": {
