@@ -1691,6 +1691,18 @@
       "score": 70,
       "seen_at": "2026-10-26T23:16:54",
       "key": "information security analyst ii federal programs | datadog"
+    },
+    "f9586dd23fd9da5ba9834f2c": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 60,
+      "seen_at": "2026-10-27T19:06:25",
+      "key": "security research analyst waf managed rules | cloudflare"
+    },
+    "84f89e0c2d54eafcd5c4b273": {
+      "source": "ATS·Greenhouse·okta",
+      "score": 95,
+      "seen_at": "2026-10-27T19:06:27",
+      "key": "director site reliability engineering | okta"
     }
   },
   "keys": {
@@ -1904,55 +1916,57 @@
     "regional manager sales engineering ai accounts | datadog": "10e6eb640183462c452bebb9",
     "customer security compliance specialist | cloudflare": "3f3567416968e1462dc4ecbb",
     "architecte f h | sofrecom maroc": "afd034f8e0b264fe4435d0b3",
-    "information security analyst ii federal programs | datadog": "164698caa9dd641cbe94b42e"
+    "information security analyst ii federal programs | datadog": "164698caa9dd641cbe94b42e",
+    "security research analyst waf managed rules | cloudflare": "f9586dd23fd9da5ba9834f2c",
+    "director site reliability engineering | okta": "84f89e0c2d54eafcd5c4b273"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:11:37",
-      "last_run": "2026-10-27T13:37:13",
+      "last_run": "2026-10-27T19:01:41",
       "last_error": "",
       "last_ok_count": 52
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-27T13:37:51",
-      "last_run": "2026-10-27T13:37:51",
+      "last_ok_at": "2026-10-27T19:02:21",
+      "last_run": "2026-10-27T19:02:21",
       "last_error": "",
       "last_ok_count": 33
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-27T13:39:28",
+      "last_run": "2026-10-27T19:03:58",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:14:56",
-      "last_run": "2026-10-27T13:41:04",
+      "last_run": "2026-10-27T19:05:36",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-27T13:41:04",
+      "last_run": "2026-10-27T19:05:36",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-27T13:42:07",
-      "last_run": "2026-10-27T13:42:07",
+      "last_ok_at": "2026-10-27T19:06:25",
+      "last_run": "2026-10-27T19:06:25",
       "last_error": "",
       "last_ok_count": 1148
     }
   },
   "digest": {
     "buffer": [],
-    "last_sent_date": "2026-10-26"
+    "last_sent_date": "2026-10-27"
   },
   "market": {
     "week": "2026-W44",
@@ -2012,16 +2026,19 @@
       "8d9c716907ee1f16a5f330a4",
       "27ebb71bbd5ecdcbfb53b1dd",
       "afd034f8e0b264fe4435d0b3",
-      "164698caa9dd641cbe94b42e"
+      "164698caa9dd641cbe94b42e",
+      "f9586dd23fd9da5ba9834f2c",
+      "9992da8d790d8a44278e2f86",
+      "84f89e0c2d54eafcd5c4b273"
     ],
     "companies": {
       "CGI Technologies et Solutions Maroc": 1,
       "Sofrecom Maroc": 8,
       "ALTEN Maroc": 7,
       "Capgemini": 1,
-      "Cloudflare": 4,
-      "Datadog": 8,
-      "Okta": 1,
+      "Cloudflare": 5,
+      "Datadog": 9,
+      "Okta": 2,
       "Proton": 2,
       "MongoDB": 4,
       "Twilio": 2,
@@ -2034,35 +2051,35 @@
     },
     "skills": {
       "azure": 12,
-      "cloud": 24,
+      "cloud": 25,
       "devops": 15,
-      "aws": 10,
+      "aws": 11,
       "ci/cd": 14,
       "gcp": 11,
       "iam": 7,
-      "infrastructure as code": 7,
-      "kubernetes": 15,
-      "terraform": 9,
+      "infrastructure as code": 8,
+      "kubernetes": 17,
+      "terraform": 10,
       "azure devops": 1,
       "devops engineer": 3,
       "devsecops": 1,
       "docker": 6,
       "gitlab ci": 4,
       "zero trust": 5,
-      "sre": 3,
-      "security": 28,
+      "sre": 4,
+      "security": 30,
       "security engineer": 15,
       "cloud security": 2,
-      "site reliability": 2,
+      "site reliability": 3,
       "platform engineer": 5,
       "identity and access management": 4,
       "github actions": 1
     },
     "sources": {
       "Rekrute": 17,
-      "ATS·Greenhouse·cloudflare": 4,
-      "ATS·Greenhouse·datadog": 8,
-      "ATS·Greenhouse·okta": 1,
+      "ATS·Greenhouse·cloudflare": 5,
+      "ATS·Greenhouse·datadog": 9,
+      "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 2,
       "ATS·Greenhouse·mongodb": 4,
       "ATS·Greenhouse·twilio": 2,
@@ -2074,7 +2091,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 56,
+    "total": 59,
     "prev": {
       "week": "2026-W43",
       "companies": {
@@ -2219,7 +2236,7 @@
     "okta": {
       "domain": "okta.com",
       "emails": [],
-      "updated_at": "2026-10-09T19:43:18"
+      "updated_at": "2026-10-27T19:06:44"
     },
     "twilio": {
       "domain": "twilio.com",
