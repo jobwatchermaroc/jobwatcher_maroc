@@ -1703,6 +1703,12 @@
       "score": 95,
       "seen_at": "2026-10-27T19:06:27",
       "key": "director site reliability engineering | okta"
+    },
+    "b6fb20ca96b7f98f29759644": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 100,
+      "seen_at": "2026-10-27T22:45:18",
+      "key": "software engineer 3 identity and access management | mongodb"
     }
   },
   "keys": {
@@ -1918,50 +1924,51 @@
     "architecte f h | sofrecom maroc": "afd034f8e0b264fe4435d0b3",
     "information security analyst ii federal programs | datadog": "164698caa9dd641cbe94b42e",
     "security research analyst waf managed rules | cloudflare": "f9586dd23fd9da5ba9834f2c",
-    "director site reliability engineering | okta": "84f89e0c2d54eafcd5c4b273"
+    "director site reliability engineering | okta": "84f89e0c2d54eafcd5c4b273",
+    "software engineer 3 identity and access management | mongodb": "b6fb20ca96b7f98f29759644"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:11:37",
-      "last_run": "2026-10-27T19:01:41",
+      "last_run": "2026-10-27T22:40:34",
       "last_error": "",
       "last_ok_count": 52
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-27T19:02:21",
-      "last_run": "2026-10-27T19:02:21",
+      "last_ok_at": "2026-10-27T22:41:14",
+      "last_run": "2026-10-27T22:41:14",
       "last_error": "",
       "last_ok_count": 33
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-27T19:03:58",
+      "last_run": "2026-10-27T22:42:51",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:14:56",
-      "last_run": "2026-10-27T19:05:36",
+      "last_run": "2026-10-27T22:44:29",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-27T19:05:36",
+      "last_run": "2026-10-27T22:44:29",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-27T19:06:25",
-      "last_run": "2026-10-27T19:06:25",
+      "last_ok_at": "2026-10-27T22:45:16",
+      "last_run": "2026-10-27T22:45:16",
       "last_error": "",
-      "last_ok_count": 1148
+      "last_ok_count": 1147
     }
   },
   "digest": {
@@ -2029,7 +2036,8 @@
       "164698caa9dd641cbe94b42e",
       "f9586dd23fd9da5ba9834f2c",
       "9992da8d790d8a44278e2f86",
-      "84f89e0c2d54eafcd5c4b273"
+      "84f89e0c2d54eafcd5c4b273",
+      "b6fb20ca96b7f98f29759644"
     ],
     "companies": {
       "CGI Technologies et Solutions Maroc": 1,
@@ -2040,7 +2048,7 @@
       "Datadog": 9,
       "Okta": 2,
       "Proton": 2,
-      "MongoDB": 4,
+      "MongoDB": 5,
       "Twilio": 2,
       "Stripe": 2,
       "Asana": 2,
@@ -2050,13 +2058,13 @@
       "veepee": 1
     },
     "skills": {
-      "azure": 12,
-      "cloud": 25,
+      "azure": 13,
+      "cloud": 26,
       "devops": 15,
-      "aws": 11,
+      "aws": 12,
       "ci/cd": 14,
       "gcp": 11,
-      "iam": 7,
+      "iam": 8,
       "infrastructure as code": 8,
       "kubernetes": 17,
       "terraform": 10,
@@ -2072,7 +2080,7 @@
       "cloud security": 2,
       "site reliability": 3,
       "platform engineer": 5,
-      "identity and access management": 4,
+      "identity and access management": 5,
       "github actions": 1
     },
     "sources": {
@@ -2081,7 +2089,7 @@
       "ATS·Greenhouse·datadog": 9,
       "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 2,
-      "ATS·Greenhouse·mongodb": 4,
+      "ATS·Greenhouse·mongodb": 5,
       "ATS·Greenhouse·twilio": 2,
       "ATS·Greenhouse·stripe": 2,
       "ATS·Greenhouse·asana": 2,
@@ -2091,7 +2099,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 59,
+    "total": 60,
     "prev": {
       "week": "2026-W43",
       "companies": {
@@ -2261,7 +2269,7 @@
     "mongodb": {
       "domain": "mongodb.com",
       "emails": [],
-      "updated_at": "2026-10-12T22:54:01"
+      "updated_at": "2026-10-27T22:45:36"
     },
     "axa gbs morocco": {
       "domain": "axa.ma",
