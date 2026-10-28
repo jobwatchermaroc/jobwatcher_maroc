@@ -1931,42 +1931,42 @@
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:11:37",
-      "last_run": "2026-10-28T19:30:21",
+      "last_run": "2026-10-28T23:25:17",
       "last_error": "",
       "last_ok_count": 52
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-28T19:30:54",
-      "last_run": "2026-10-28T19:30:54",
+      "last_ok_at": "2026-10-28T23:25:59",
+      "last_run": "2026-10-28T23:25:59",
       "last_error": "",
       "last_ok_count": 34
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-28T19:32:31",
+      "last_run": "2026-10-28T23:27:36",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:14:56",
-      "last_run": "2026-10-28T19:34:16",
+      "last_run": "2026-10-28T23:29:14",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-28T19:34:16",
+      "last_run": "2026-10-28T23:29:14",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-28T19:35:23",
-      "last_run": "2026-10-28T19:35:23",
+      "last_ok_at": "2026-10-28T23:30:04",
+      "last_run": "2026-10-28T23:30:04",
       "last_error": "",
       "last_ok_count": 1147
     }
@@ -2037,7 +2037,8 @@
       "f9586dd23fd9da5ba9834f2c",
       "9992da8d790d8a44278e2f86",
       "84f89e0c2d54eafcd5c4b273",
-      "b6fb20ca96b7f98f29759644"
+      "b6fb20ca96b7f98f29759644",
+      "acd0e4d8782e76deb649ab07"
     ],
     "companies": {
       "CGI Technologies et Solutions Maroc": 1,
@@ -2049,7 +2050,7 @@
       "Okta": 2,
       "Proton": 2,
       "MongoDB": 5,
-      "Twilio": 2,
+      "Twilio": 3,
       "Stripe": 2,
       "Asana": 2,
       "Discord": 5,
@@ -2058,12 +2059,12 @@
       "veepee": 1
     },
     "skills": {
-      "azure": 13,
-      "cloud": 26,
+      "azure": 14,
+      "cloud": 27,
       "devops": 15,
-      "aws": 12,
+      "aws": 13,
       "ci/cd": 14,
-      "gcp": 11,
+      "gcp": 12,
       "iam": 8,
       "infrastructure as code": 8,
       "kubernetes": 17,
@@ -2090,7 +2091,7 @@
       "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·proton": 2,
       "ATS·Greenhouse·mongodb": 5,
-      "ATS·Greenhouse·twilio": 2,
+      "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·stripe": 2,
       "ATS·Greenhouse·asana": 2,
       "ATS·Greenhouse·discord": 5,
@@ -2099,7 +2100,7 @@
       "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 60,
+    "total": 61,
     "prev": {
       "week": "2026-W43",
       "companies": {
