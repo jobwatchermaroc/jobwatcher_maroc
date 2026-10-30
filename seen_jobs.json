@@ -1721,6 +1721,12 @@
       "score": 70,
       "seen_at": "2026-10-29T20:37:47",
       "key": "staff client platform engineer | okta"
+    },
+    "dec650c44726dbdc30bf2e21": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 50,
+      "seen_at": "2026-10-30T00:16:55",
+      "key": "regional manager sales engineering key accounts east | datadog"
     }
   },
   "keys": {
@@ -1939,54 +1945,71 @@
     "director site reliability engineering | okta": "84f89e0c2d54eafcd5c4b273",
     "software engineer 3 identity and access management | mongodb": "b6fb20ca96b7f98f29759644",
     "phd intern security engineer 2027 | figma": "6e09361f9d1ee2b5a66cff5a",
-    "staff client platform engineer | okta": "8d32c70cb60c09bd44c187fe"
+    "staff client platform engineer | okta": "8d32c70cb60c09bd44c187fe",
+    "regional manager sales engineering key accounts east | datadog": "dec650c44726dbdc30bf2e21"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:11:37",
-      "last_run": "2026-10-29T20:33:04",
+      "last_run": "2026-10-30T00:12:11",
       "last_error": "",
       "last_ok_count": 52
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-29T20:33:43",
-      "last_run": "2026-10-29T20:33:43",
+      "last_ok_at": "2026-10-30T00:12:45",
+      "last_run": "2026-10-30T00:12:45",
       "last_error": "",
       "last_ok_count": 34
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-29T20:35:21",
+      "last_run": "2026-10-30T00:14:22",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:14:56",
-      "last_run": "2026-10-29T20:36:58",
+      "last_run": "2026-10-30T00:16:00",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-29T20:36:58",
+      "last_run": "2026-10-30T00:16:00",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-29T20:37:45",
-      "last_run": "2026-10-29T20:37:45",
+      "last_ok_at": "2026-10-30T00:16:54",
+      "last_run": "2026-10-30T00:16:54",
       "last_error": "",
-      "last_ok_count": 1141
+      "last_ok_count": 1140
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Regional Manager, Sales Engineering - Key Accounts (East)",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8284995/?gh_jid=8284995",
+        "date": "2026-10-29",
+        "location": "New York, USA, Remote",
+        "description": "<p>As a Regional Manager, Sales Engineering, you will lead a team of Sales Engineers and frontline leaders, driving technical execution, operational excellence, and team development across your region.</p> <p>You’ll act as a force multiplier by owning team performance, shaping execution standards, and partnering closely with Sales leadership to influence strategy, improve outcomes, and scale impact beyond individual deals.</p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Lead, coach, and develop a team of Sales Engineers, driving performance, engagement, and long-term career growth through regular feedback and structured development</li> <li>Partner confidently with senior Sales leadership on regional strategy, multi-quarter planning, annual capacity planning, and forecast alignment operating 2-3 quarters ahead to anticipate resourcing needs and business priorities</li> <li>Own in-field execution at a regional level by taking an executive presence role in strategic and high-impact opportunities and providing senior-level stakeholder alignment and technical credibility alongside your team&nbsp;</li> <li>Oversee consistent, high-quality delivery across technical sales cycles in the region, including evaluations, customer engagements, and deal progression</li> </ul> <ul> <li>Hire and onboard top talent across ICs and manager-level roles, building a high-performing team and accelerating ramp through structured onboarding and enablement</li> <li>Manage regional operations including resource allocation, utilization, KPI tracking, productivity, and skills development to ensure effective coverage across the territory</li> <li>c cross-functionally with Sales, Product, Marketing, Enablement, and Support at a senior level to align on regional strategy, GTM execution, and customer experience</li> <li>Drive operational excellence across the region by improving processes, maintaining data quality, scaling evaluation frameworks, and contributing to initiatives that improve team effectiveness and business impact</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>3+ years of experience leading Sales Engineers and/or frontline leaders in a customer-facing technical organization with proven ability to manage team performance, develop team members, and scale high-performing teams&nbsp;</li> <li>7+ years of experience in Sales Engineering, Solutions Engineering, or a technical customer-facing role</li> <li>Proven ability to partner with senior Sales leadership on regional strategy, long-range planning, and forecast alignment as a strategic peer</li> <li>Ability to operate at both strategic and operational levels, balancing multi-quarter planning with day to day team execution and priorities&nbsp;</li> <li>Strong cross-functional collaborator with the ability to influence across teams and at senior levels</li> <li>Background in public cloud (AWS, Azure, GCP), Kubernetes, APM/tracing, security, developer experience, observability</li> <li>Demonstrated c",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "dec650c44726dbdc30bf2e21",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      }
+    ],
     "last_sent_date": "2026-10-29"
   },
   "market": {
@@ -2054,7 +2077,8 @@
       "b6fb20ca96b7f98f29759644",
       "acd0e4d8782e76deb649ab07",
       "6e09361f9d1ee2b5a66cff5a",
-      "8d32c70cb60c09bd44c187fe"
+      "8d32c70cb60c09bd44c187fe",
+      "dec650c44726dbdc30bf2e21"
     ],
     "companies": {
       "CGI Technologies et Solutions Maroc": 1,
@@ -2062,7 +2086,7 @@
       "ALTEN Maroc": 7,
       "Capgemini": 1,
       "Cloudflare": 5,
-      "Datadog": 9,
+      "Datadog": 10,
       "Okta": 3,
       "Proton": 2,
       "MongoDB": 5,
@@ -2076,15 +2100,15 @@
       "Figma": 1
     },
     "skills": {
-      "azure": 14,
-      "cloud": 27,
+      "azure": 15,
+      "cloud": 28,
       "devops": 15,
-      "aws": 13,
+      "aws": 14,
       "ci/cd": 14,
-      "gcp": 12,
+      "gcp": 13,
       "iam": 8,
       "infrastructure as code": 8,
-      "kubernetes": 17,
+      "kubernetes": 18,
       "terraform": 10,
       "azure devops": 1,
       "devops engineer": 3,
@@ -2093,7 +2117,7 @@
       "gitlab ci": 4,
       "zero trust": 5,
       "sre": 4,
-      "security": 32,
+      "security": 33,
       "security engineer": 16,
       "cloud security": 2,
       "site reliability": 3,
@@ -2104,7 +2128,7 @@
     "sources": {
       "Rekrute": 17,
       "ATS·Greenhouse·cloudflare": 5,
-      "ATS·Greenhouse·datadog": 9,
+      "ATS·Greenhouse·datadog": 10,
       "ATS·Greenhouse·okta": 3,
       "ATS·Greenhouse·proton": 2,
       "ATS·Greenhouse·mongodb": 5,
@@ -2118,7 +2142,7 @@
       "ATS·Greenhouse·figma": 1
     },
     "salaries": [],
-    "total": 63,
+    "total": 64,
     "prev": {
       "week": "2026-W43",
       "companies": {
