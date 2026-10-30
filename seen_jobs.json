@@ -1733,6 +1733,18 @@
       "score": 100,
       "seen_at": "2026-10-30T05:47:00",
       "key": "technical support engineer zero trust | cloudflare"
+    },
+    "d07a38fbb23e49dfb7cd3bbe": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 50,
+      "seen_at": "2026-10-30T17:14:09",
+      "key": "forward deployed engineer professional services application security | cloudflare"
+    },
+    "8acb4daa61b2eb53f348c6ef": {
+      "source": "ATS·Greenhouse·stripe",
+      "score": 100,
+      "seen_at": "2026-10-30T17:14:13",
+      "key": "blockchain security engineer bridge | stripe"
     }
   },
   "keys": {
@@ -1952,50 +1964,52 @@
     "software engineer 3 identity and access management | mongodb": "b6fb20ca96b7f98f29759644",
     "phd intern security engineer 2027 | figma": "6e09361f9d1ee2b5a66cff5a",
     "staff client platform engineer | okta": "8d32c70cb60c09bd44c187fe",
-    "regional manager sales engineering key accounts east | datadog": "dec650c44726dbdc30bf2e21"
+    "regional manager sales engineering key accounts east | datadog": "dec650c44726dbdc30bf2e21",
+    "forward deployed engineer professional services application security | cloudflare": "d07a38fbb23e49dfb7cd3bbe",
+    "blockchain security engineer bridge | stripe": "8acb4daa61b2eb53f348c6ef"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:11:37",
-      "last_run": "2026-10-30T11:38:06",
+      "last_run": "2026-10-30T17:09:01",
       "last_error": "",
       "last_ok_count": 52
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-10-30T11:38:49",
-      "last_run": "2026-10-30T11:38:49",
+      "last_ok_at": "2026-10-30T17:09:40",
+      "last_run": "2026-10-30T17:09:40",
       "last_error": "",
       "last_ok_count": 34
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-30T11:40:27",
+      "last_run": "2026-10-30T17:11:17",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:14:56",
-      "last_run": "2026-10-30T11:42:04",
+      "last_run": "2026-10-30T17:12:55",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-10-30T11:42:04",
+      "last_run": "2026-10-30T17:12:55",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-10-30T11:42:53",
-      "last_run": "2026-10-30T11:42:53",
+      "last_ok_at": "2026-10-30T17:14:09",
+      "last_run": "2026-10-30T17:14:09",
       "last_error": "",
-      "last_ok_count": 1141
+      "last_ok_count": 1078
     }
   },
   "digest": {
@@ -2013,6 +2027,21 @@
         "score": 50,
         "reasons": [
           "description: azure"
+        ]
+      },
+      {
+        "title": "Forward Deployed Engineer, Professional Services (Application Security)",
+        "company": "Cloudflare",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8330512?gh_jid=8330512",
+        "date": "2026-10-30",
+        "location": "Hybrid",
+        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><h3>Available Location: Sydney</h3> <h3>About the Role</h3> <p>Cloudflare’s Forward Deployed Engineer, Professional Services provides customers with a dedicated, hands-on technical expert embedded directly within their environment. This is not a traditional support or purely advisory engagement—it is a staff-augmentation model where you act as an extension of the customer’s team, taking the lead in managing, optimizing, and evolving their Cloudflare solutions.</p> <p>As a Forward Deployed Engineer, you are a recognized subject-matter expert in your specialization and a trusted advisor to both the customer and Cloudflare leadership. You will own the most complex, high-stakes customer engagements, and contribute to the evolution of Cloudflare's service methodologies and offerings. You operate with a high degree of autonomy, make architectural decisions that impact mission-critical infrastructure, and partner with executive stakeholders to align technical outcomes with business objectives.</p> <p>This role is ideal for senior technologists who have a proven track record of owning end-to-end customer transformations, leading through influence, and scaling expertise across teams.</p> <h3>What You Will Do</h3> <h3>Embed &amp; Integrate</h3> <ul> <li>Become a trusted, embedded member of the customer’s technical team, operating within their tools, processes, and change-management framewo",
+        "salary": "",
+        "source": "ATS·Greenhouse·cloudflare",
+        "id": "d07a38fbb23e49dfb7cd3bbe",
+        "score": 50,
+        "reasons": [
+          "security"
         ]
       }
     ],
@@ -2085,20 +2114,22 @@
       "6e09361f9d1ee2b5a66cff5a",
       "8d32c70cb60c09bd44c187fe",
       "dec650c44726dbdc30bf2e21",
-      "94cb1507d645d0680cac8d8b"
+      "94cb1507d645d0680cac8d8b",
+      "d07a38fbb23e49dfb7cd3bbe",
+      "8acb4daa61b2eb53f348c6ef"
     ],
     "companies": {
       "CGI Technologies et Solutions Maroc": 1,
       "Sofrecom Maroc": 8,
       "ALTEN Maroc": 7,
       "Capgemini": 1,
-      "Cloudflare": 6,
+      "Cloudflare": 7,
       "Datadog": 10,
       "Okta": 3,
       "Proton": 2,
       "MongoDB": 5,
       "Twilio": 3,
-      "Stripe": 2,
+      "Stripe": 3,
       "Asana": 2,
       "Discord": 5,
       "Duolingo": 3,
@@ -2111,7 +2142,7 @@
       "cloud": 28,
       "devops": 15,
       "aws": 14,
-      "ci/cd": 14,
+      "ci/cd": 15,
       "gcp": 13,
       "iam": 8,
       "infrastructure as code": 8,
@@ -2124,8 +2155,8 @@
       "gitlab ci": 4,
       "zero trust": 6,
       "sre": 4,
-      "security": 33,
-      "security engineer": 16,
+      "security": 35,
+      "security engineer": 17,
       "cloud security": 2,
       "site reliability": 3,
       "platform engineer": 6,
@@ -2134,13 +2165,13 @@
     },
     "sources": {
       "Rekrute": 17,
-      "ATS·Greenhouse·cloudflare": 6,
+      "ATS·Greenhouse·cloudflare": 7,
       "ATS·Greenhouse·datadog": 10,
       "ATS·Greenhouse·okta": 3,
       "ATS·Greenhouse·proton": 2,
       "ATS·Greenhouse·mongodb": 5,
       "ATS·Greenhouse·twilio": 3,
-      "ATS·Greenhouse·stripe": 2,
+      "ATS·Greenhouse·stripe": 3,
       "ATS·Greenhouse·asana": 2,
       "ATS·Greenhouse·discord": 5,
       "ATS·Greenhouse·duolingo": 3,
@@ -2149,7 +2180,7 @@
       "ATS·Greenhouse·figma": 1
     },
     "salaries": [],
-    "total": 65,
+    "total": 67,
     "prev": {
       "week": "2026-W43",
       "companies": {
@@ -2274,7 +2305,7 @@
     "stripe": {
       "domain": "stripe.com",
       "emails": [],
-      "updated_at": "2026-10-19T19:35:12"
+      "updated_at": "2026-10-30T17:14:28"
     },
     "gitlab": {
       "domain": "gitlab.com",
