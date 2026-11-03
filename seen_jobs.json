@@ -1787,6 +1787,18 @@
       "score": 65,
       "seen_at": "2026-11-03T17:18:46",
       "key": "senior salesforce developer h f | axa gbs morocco"
+    },
+    "edfe70d30f00f0289a59b741": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 100,
+      "seen_at": "2026-11-03T22:23:29",
+      "key": "manager i engineering zero trust networking | datadog"
+    },
+    "25fa85172a94fadb7c3cc6d4": {
+      "source": "ATS·Greenhouse·twilio",
+      "score": 50,
+      "seen_at": "2026-11-03T22:23:31",
+      "key": "software engineer l3 email | twilio"
     }
   },
   "keys": {
@@ -1822,7 +1834,7 @@
     "senior software engineer enterprise platform | discord": "16a06bdea04dd552072ef42a",
     "staff software engineer enterprise platform | discord": "d76e999e20cc14b3027a126a",
     "software engineer l2 email | twilio": "22a7e33b3abec76406d612f6",
-    "software engineer l3 email | twilio": "7ece981482b73a56856d135d",
+    "software engineer l3 email | twilio": "25fa85172a94fadb7c3cc6d4",
     "manager i engineering code security | datadog": "c2bcd0afdc699c45b9d822ae",
     "manager i engineering security libraries | datadog": "f9c6753578a92c1a582a8147",
     "senior sales engineer bay area | datadog": "f66bd7cb5d31e3de3eef62b2",
@@ -2015,86 +2027,56 @@
     "ingenieur devops f h cdd | sofrecom maroc": "1f4d55022146d2dad3434507",
     "concepteur developpeur f h | sofrecom maroc": "d4cf2325c3cafdc62cf88a8f",
     "devops sysops expert | akkodis maroc": "fbe2aadb1667a2ef71f23137",
-    "senior salesforce developer h f | axa gbs morocco": "adc3d3dc8cc6c9f205c17dfb"
+    "senior salesforce developer h f | axa gbs morocco": "adc3d3dc8cc6c9f205c17dfb",
+    "manager i engineering zero trust networking | datadog": "edfe70d30f00f0289a59b741"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:11:37",
-      "last_run": "2026-11-03T17:13:18",
+      "last_run": "2026-11-03T22:18:05",
       "last_error": "",
       "last_ok_count": 52
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-03T17:13:57",
-      "last_run": "2026-11-03T17:13:57",
+      "last_ok_at": "2026-11-03T22:18:43",
+      "last_run": "2026-11-03T22:18:43",
       "last_error": "",
-      "last_ok_count": 34
+      "last_ok_count": 37
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-03T17:15:34",
+      "last_run": "2026-11-03T22:20:20",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:14:56",
-      "last_run": "2026-11-03T17:17:11",
+      "last_run": "2026-11-03T22:21:59",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-03T17:17:11",
+      "last_run": "2026-11-03T22:21:59",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-03T17:18:46",
-      "last_run": "2026-11-03T17:18:46",
+      "last_ok_at": "2026-11-03T22:23:28",
+      "last_run": "2026-11-03T22:23:28",
       "last_error": "",
-      "last_ok_count": 1129
+      "last_ok_count": 1100
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Concepteur Développeur (F/H)",
-        "company": "Sofrecom Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-concepteur-developpeur-fh-recrutement-sofrecom-maroc-casablanca-188165.html",
-        "date": "03/11/2026",
-        "location": "Casablanca (Maroc)",
-        "description": "devops, docker, kubernetees, cloud (dont azure ) et ia",
-        "source": "Rekrute",
-        "offer_id": "188165",
-        "id": "d4cf2325c3cafdc62cf88a8f",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      },
-      {
-        "title": "Senior Salesforce Developer (H/F)",
-        "company": "AXA GBS Morocco",
-        "url": "https://www.rekrute.com/offre-emploi-senior-salesforce-developer-hf-recrutement-axa-gbs-morocco-sala-al-jadida-186650.html",
-        "date": "03/11/2026",
-        "location": "Sala al Jadida (Maroc)",
-        "description": "knowledge of azure devops for salesforce deployments would be considered an asset.",
-        "source": "Rekrute",
-        "offer_id": "186650",
-        "id": "adc3d3dc8cc6c9f205c17dfb",
-        "score": 65,
-        "reasons": [
-          "description: azure + azure devops"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-11-02"
+    "buffer": [],
+    "last_sent_date": "2026-11-03"
   },
   "market": {
     "week": "2026-W45",
@@ -2160,17 +2142,20 @@
       "107f5ce08527d1a3fef61199",
       "9cd17f05b5f81b393a70c264",
       "adc3d3dc8cc6c9f205c17dfb",
-      "785d047d90a7a8f0227b9529"
+      "785d047d90a7a8f0227b9529",
+      "d302c9906862fcaeab940c2e",
+      "edfe70d30f00f0289a59b741",
+      "25fa85172a94fadb7c3cc6d4"
     ],
     "companies": {
       "CGI Technologies et Solutions Maroc": 1,
       "Sofrecom Maroc": 11,
       "ALTEN Maroc": 5,
       "Cloudflare": 4,
-      "Datadog": 7,
+      "Datadog": 8,
       "Okta": 4,
       "MongoDB": 4,
-      "Twilio": 2,
+      "Twilio": 3,
       "Stripe": 1,
       "Asana": 2,
       "Figma": 1,
@@ -2178,13 +2163,14 @@
       "Duolingo": 2,
       "swile": 5,
       "Akkodis Maroc": 1,
-      "AXA GBS Morocco": 7
+      "AXA GBS Morocco": 7,
+      "Marketing Call Center": 1
     },
     "skills": {
-      "azure": 19,
-      "cloud": 27,
+      "azure": 20,
+      "cloud": 29,
       "devops": 19,
-      "aws": 11,
+      "aws": 12,
       "ci/cd": 14,
       "gcp": 11,
       "iam": 7,
@@ -2193,8 +2179,8 @@
       "terraform": 9,
       "docker": 4,
       "gitlab ci": 2,
-      "zero trust": 3,
-      "security": 29,
+      "zero trust": 4,
+      "security": 30,
       "sre": 2,
       "platform engineer": 5,
       "site reliability": 2,
@@ -2208,12 +2194,12 @@
       "cloud architect": 1
     },
     "sources": {
-      "Rekrute": 25,
+      "Rekrute": 26,
       "ATS·Greenhouse·cloudflare": 4,
-      "ATS·Greenhouse·datadog": 7,
+      "ATS·Greenhouse·datadog": 8,
       "ATS·Greenhouse·okta": 4,
       "ATS·Greenhouse·mongodb": 4,
-      "ATS·Greenhouse·twilio": 2,
+      "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·stripe": 1,
       "ATS·Greenhouse·asana": 2,
       "ATS·Greenhouse·figma": 1,
@@ -2222,7 +2208,7 @@
       "ATS·Lever·swile": 5
     },
     "salaries": [],
-    "total": 62,
+    "total": 65,
     "prev": {
       "week": "2026-W44",
       "companies": {
@@ -2300,7 +2286,7 @@
     "datadog": {
       "domain": "datadoghq.com",
       "emails": [],
-      "updated_at": "2026-10-15T21:43:52"
+      "updated_at": "2026-11-03T22:23:47"
     },
     "alten maroc": {
       "domain": "alten.net",
