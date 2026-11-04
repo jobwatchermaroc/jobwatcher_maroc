@@ -1799,6 +1799,24 @@
       "score": 50,
       "seen_at": "2026-11-03T22:23:31",
       "key": "software engineer l3 email | twilio"
+    },
+    "71ebb912618d658246d0a867": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-11-04T17:30:30",
+      "key": "ingenieur reseaux senior | gsm al maghrib"
+    },
+    "fa5082beb6d11f0a93cf06b5": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-11-04T17:30:30",
+      "key": "ingenieur securite senior | gsm al maghrib"
+    },
+    "aa4f75797069526182bd2436": {
+      "source": "ATS·Lever·veepee",
+      "score": 55,
+      "seen_at": "2026-11-04T17:30:38",
+      "key": "site reliability engineer data platform w m x | veepee"
     }
   },
   "keys": {
@@ -2028,54 +2046,102 @@
     "concepteur developpeur f h | sofrecom maroc": "d4cf2325c3cafdc62cf88a8f",
     "devops sysops expert | akkodis maroc": "fbe2aadb1667a2ef71f23137",
     "senior salesforce developer h f | axa gbs morocco": "adc3d3dc8cc6c9f205c17dfb",
-    "manager i engineering zero trust networking | datadog": "edfe70d30f00f0289a59b741"
+    "manager i engineering zero trust networking | datadog": "edfe70d30f00f0289a59b741",
+    "ingenieur reseaux senior | gsm al maghrib": "71ebb912618d658246d0a867",
+    "ingenieur securite senior | gsm al maghrib": "fa5082beb6d11f0a93cf06b5",
+    "site reliability engineer data platform w m x | veepee": "aa4f75797069526182bd2436"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:11:37",
-      "last_run": "2026-11-04T02:23:50",
+      "last_run": "2026-11-04T17:25:43",
       "last_error": "",
       "last_ok_count": 52
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-04T02:24:28",
-      "last_run": "2026-11-04T02:24:28",
+      "last_ok_at": "2026-11-04T17:26:17",
+      "last_run": "2026-11-04T17:26:17",
       "last_error": "",
-      "last_ok_count": 37
+      "last_ok_count": 35
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-04T02:26:05",
+      "last_run": "2026-11-04T17:27:54",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-10-24T06:14:56",
-      "last_run": "2026-11-04T02:27:42",
+      "last_run": "2026-11-04T17:29:31",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-04T02:27:42",
+      "last_run": "2026-11-04T17:29:31",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-04T02:28:33",
-      "last_run": "2026-11-04T02:28:33",
+      "last_ok_at": "2026-11-04T17:30:30",
+      "last_run": "2026-11-04T17:30:30",
       "last_error": "",
-      "last_ok_count": 1123
+      "last_ok_count": 1126
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Ingénieur Réseaux Sénior",
+        "company": "GSM AL MAGHRIB",
+        "url": "https://www.rekrute.com/offre-emploi-ingenieur-reseaux-senior-recrutement-gsm-al-maghrib-casablanca-188229.html",
+        "date": "04/11/2026",
+        "location": "Casablanca (Maroc)",
+        "description": "les missions du poste mission principale, raison d’être ou finalité du poste responsable de la conception, de l’optimisation et de la sécurisation des infrastructures réseaux de l’entreprise. il garantit la disponibilité, la performance et la résilience des réseaux (cloud & hybride) tout en assurant un support avancé aux équipes techniques. missions et activités du poste mission 1 : conception et administration des infrastructures réseaux (cloud & hybride) a ce titre il doit :(activités) - concevoir, déployer et administrer les infrastructures lan, wan, wi-fi, vpn. - assurer la disponibilité, la redondance et l’optimisation des performances réseaux (cloud & hybride). - mettre en place des stratégies de monitoring et de supervision des réseaux. - gérer l’adressage ip, le routage et les protocoles réseaux avancés. mission 2 : sécurité et conformité des réseaux (cloud & hybride) a ce titre il doit :(activités) - mettre en œuvre et gérer les solutions de sécurité réseau (pare-feu, ids/ips, nac, proxy, waf). - appliquer les politiques de sécurité et veiller à la conformité aux normes (iso 27001, pci-dss, rgpd, etc). - gérer la segmentation réseau et les accès sécurisés pour les utilisateurs et les services. - assurer une veille proactive sur les menaces et vulnérabilités réseau. mission 3 : support et résolution d’incidents a ce titre il doit :(activités) - intervenir en niveau 3 sur les incidents critiques et assurer le support avancé aux équipes it. - analyser et diagnostiquer les problèmes de performance et de connectivité réseau. - assurer la gestion des incidents et des changements. - définir les processus de reprise après incident et de continuité d’activité (drp/pca). mission 4 : optimisation et évolution des infrastructures a ce titre il doit :(activités) - auditer l’existant et proposer des améliorations pour renforcer l’efficacité et la résilience du réseau. - piloter des projets de migration et de modernisation des infrastructures réseau. - collaborer avec les fournisseurs et prestataires pour l’évolution des solutions en place. mission 5 : documentation et veille technologique a ce titre il doit :(activités) - rédiger et mettre à jour la documentation technique et les procédures réseau. - assurer une veille technologique pour anticiper les évolutions et innovations du domaine. - former et accompagner les équipes techniques sur les bonnes pratiques réseau et sécurité. compétences requises compétences techniques - bonne maîtrise des équipements et solutions réseau (cisco, juniper, fortinet, palo alto, aruba…). - connaissance approfondie des protocoles de communication et de routage (bgp, ospf, mpls, vxlan…). - expertise en sécurité réseau (pare-feu, vpn, ids/ips, nac, proxy, etc.). - expérience en virtualisation et sdn (cisco aci, vmware nsx, sd-wan). - bonne connaissance des architectures cloud et hybrides (aws, azure , gcp). - maîtrise des outils de supervision et d’analyse réseau. - connaissance des méthodologies et bonnes pratiques en gestion d’incidents. compétences comportementales - esprit d’analyse et de résolution de problèmes. - rigueur et sens de l’organisation. - capacité à travailler en autonomie et en équipe. - excellentes compétences en communication et pédagogie. - capacité à gérer plusieurs projets en parallèle et à travailler sous pression. - leadership et aptitude à encadrer des équipes techniques. formation et expérience formation bac +5 en réseaux et télécommunications, cloud computing ou cybersécurité. certifications appréciées - cloud : aws advanced networking – specialty, microsoft azure network engineer (az-700), google professional cloud network engineer. - réseaux : ccnp (cisco), jncip (juniper), nse 7 (fortinet). - sécurité : cissp, ccsp, ceh, ccse. expérience minimum 5 à 8 ans en ingénierie réseau, idéalement dans un environnement complexe et multi-sites.",
+        "source": "Rekrute",
+        "offer_id": "188229",
+        "id": "71ebb912618d658246d0a867",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      },
+      {
+        "title": "Ingénieur Sécurité Senior",
+        "company": "GSM AL MAGHRIB",
+        "url": "https://www.rekrute.com/offre-emploi-ingenieur-securite-senior-recrutement-gsm-al-maghrib-casablanca-188226.html",
+        "date": "04/11/2026",
+        "location": "Casablanca (Maroc)",
+        "description": "- mettre en place des outils de monitoring et de supervision (nagios, zabbix, prometheus, grafana., etc.). mission 4 : support et gestion des incidents critiques a ce titre il doit :(activités) - assurer le diagnostic et la résolution des incidents système complexes (niveau 3). - collaborer avec les équipes réseau, cybersécurité et cloud pour garantir la disponibilité des services. - documenter les procédures et améliorer les processus itil.- mission 5 : documentation, veille technologique et amélioration continue a ce titre il doit :(activités) - suivre les évolutions des technologies it et proposer des améliorations continues. - tester et intégrer de nouvelles solutions pour optimiser les performances et la sécurité des datacenters. - rédiger et mettre à jour la documentation technique et les procédures - assurer une veille technologique pour anticiper les évolutions et innovations du domaine. - former et accompagner les équipes techniques sur les bonnes pratiques réseau et sécurité. compétences requises compétences techniques - systèmes d’exploitation : windows server, linux (red hat, ubuntu, debian). - virtualisation & conteneurisation : vmware vsphere, hyper-v, kvm, docker, kubernetes. - stockage & sauvegarde : san, nas, sds (ceph, nutanix, netapp), veeam, commvault. - automatisation & devops : ansible, terraform, powershell, python, bash, ci/cd. - supervision & monitoring : zabbix, prometheus, nagios, elk stack. - sécurité & conformité : hardening os, iam, siem, chiffrement, conformité réglementaire. compétences comportementales - esprit d’analyse et résolution de problèmes complexes. - capacité à travailler sous pression et à gérer des incidents critiques. - excellentes compétences en communication et collaboration avec les équipes techniques. - force de proposition et leadership technique. formation et expérience formation bac +5 en informatique, systèmes et réseaux, cloud computing ou cybersécurité. certifications appréciées - systèmes : rhce (red hat), mcse (microsoft), lpic-2/3 (linux). - virtualisation : vcp (vmware), nutanix ncp, citrix cca-v. - sécurité : cissp, ccsp, iso 27001 lead implementer. - sauvegarde : vmce (veeam), commvault certified professional.- expérience minimum 5 à 8 ans en ingénierie réseau, idéalement dans un environnement complexe et multi-sites.",
+        "source": "Rekrute",
+        "offer_id": "188226",
+        "id": "fa5082beb6d11f0a93cf06b5",
+        "score": 50,
+        "reasons": [
+          "description: iam"
+        ]
+      },
+      {
+        "title": "Site Reliability Engineer- Data Platform (W/M/X)",
+        "company": "veepee",
+        "url": "https://jobs.lever.co/veepee/58ef2030-56d9-456a-96d0-63ab69506ab8",
+        "date": "2026-11-04",
+        "location": "Paris",
+        "description": "Pionnier des ventes événementielles en ligne depuis 2001 et acteur incontournable du e-commerce en Europe, Veepee collabore avec plus de 7 000 marques pour proposer des produits à forte décote, disponibles sur une durée limitée. Présent dans de nombreux univers parmi lesquels la mode, la maison, le vin, le voyage, ou encore la beauté ... Veepee a réalisé en 2024 un chiffre d’affaires de 3,3 milliards d’euros TTC et compte 5 000 collaborateurs répartis dans 10 pays.",
+        "source": "ATS·Lever·veepee",
+        "id": "aa4f75797069526182bd2436",
+        "score": 55,
+        "reasons": [
+          "site reliability"
+        ]
+      }
+    ],
     "last_sent_date": "2026-11-03"
   },
   "market": {
@@ -2145,7 +2211,10 @@
       "785d047d90a7a8f0227b9529",
       "d302c9906862fcaeab940c2e",
       "edfe70d30f00f0289a59b741",
-      "25fa85172a94fadb7c3cc6d4"
+      "25fa85172a94fadb7c3cc6d4",
+      "71ebb912618d658246d0a867",
+      "fa5082beb6d11f0a93cf06b5",
+      "aa4f75797069526182bd2436"
     ],
     "companies": {
       "CGI Technologies et Solutions Maroc": 1,
@@ -2164,26 +2233,28 @@
       "swile": 5,
       "Akkodis Maroc": 1,
       "AXA GBS Morocco": 7,
-      "Marketing Call Center": 1
+      "Marketing Call Center": 1,
+      "GSM AL MAGHRIB": 2,
+      "veepee": 1
     },
     "skills": {
-      "azure": 20,
-      "cloud": 29,
-      "devops": 19,
-      "aws": 12,
-      "ci/cd": 14,
-      "gcp": 11,
-      "iam": 7,
+      "azure": 21,
+      "cloud": 31,
+      "devops": 20,
+      "aws": 13,
+      "ci/cd": 15,
+      "gcp": 12,
+      "iam": 8,
       "infrastructure as code": 9,
-      "kubernetes": 14,
-      "terraform": 9,
-      "docker": 4,
+      "kubernetes": 15,
+      "terraform": 10,
+      "docker": 5,
       "gitlab ci": 2,
       "zero trust": 4,
       "security": 30,
       "sre": 2,
       "platform engineer": 5,
-      "site reliability": 2,
+      "site reliability": 3,
       "identity and access management": 5,
       "security engineer": 13,
       "cloud security": 2,
@@ -2194,7 +2265,7 @@
       "cloud architect": 1
     },
     "sources": {
-      "Rekrute": 26,
+      "Rekrute": 28,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·datadog": 8,
       "ATS·Greenhouse·okta": 4,
@@ -2205,10 +2276,11 @@
       "ATS·Greenhouse·figma": 1,
       "ATS·Greenhouse·discord": 5,
       "ATS·Greenhouse·duolingo": 2,
-      "ATS·Lever·swile": 5
+      "ATS·Lever·swile": 5,
+      "ATS·Lever·veepee": 1
     },
     "salaries": [],
-    "total": 65,
+    "total": 68,
     "prev": {
       "week": "2026-W44",
       "companies": {
