@@ -1823,6 +1823,36 @@
       "score": 100,
       "seen_at": "2026-11-04T22:48:22",
       "key": "security engineer privy | stripe"
+    },
+    "d2c6e5c432d10814731e2a79": {
+      "source": "Rekrute",
+      "score": 65,
+      "seen_at": "2026-11-05T17:46:42",
+      "key": "service delivery lead application packaging | alten maroc"
+    },
+    "38ad91eccfb33a9a9f00d3a2": {
+      "source": "Rekrute",
+      "score": 75,
+      "seen_at": "2026-11-05T17:46:42",
+      "key": "ingenieur reseaux junior | gsm al maghrib"
+    },
+    "b02fe41edbac883de7ec4aec": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-11-05T17:46:42",
+      "key": "ingenieur cloud senior | gsm al maghrib"
+    },
+    "d98458f96bae0bb95a19ba9f": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-11-05T17:46:42",
+      "key": "ingenieur cloud junior | gsm al maghrib"
+    },
+    "0d9fb3573c0c8f5bf47304ae": {
+      "source": "ATS·Greenhouse·asana",
+      "score": 95,
+      "seen_at": "2026-11-05T17:46:47",
+      "key": "security risk engineer | asana"
     }
   },
   "keys": {
@@ -2055,54 +2085,90 @@
     "manager i engineering zero trust networking | datadog": "edfe70d30f00f0289a59b741",
     "ingenieur reseaux senior | gsm al maghrib": "71ebb912618d658246d0a867",
     "ingenieur securite senior | gsm al maghrib": "fa5082beb6d11f0a93cf06b5",
-    "site reliability engineer data platform w m x | veepee": "aa4f75797069526182bd2436"
+    "site reliability engineer data platform w m x | veepee": "aa4f75797069526182bd2436",
+    "service delivery lead application packaging | alten maroc": "d2c6e5c432d10814731e2a79",
+    "ingenieur reseaux junior | gsm al maghrib": "38ad91eccfb33a9a9f00d3a2",
+    "ingenieur cloud senior | gsm al maghrib": "b02fe41edbac883de7ec4aec",
+    "ingenieur cloud junior | gsm al maghrib": "d98458f96bae0bb95a19ba9f",
+    "security risk engineer | asana": "0d9fb3573c0c8f5bf47304ae"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-05T09:53:49",
+      "last_run": "2026-11-05T17:41:54",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-05T09:54:37",
-      "last_run": "2026-11-05T09:54:37",
+      "last_ok_at": "2026-11-05T17:42:26",
+      "last_run": "2026-11-05T17:42:26",
       "last_error": "",
-      "last_ok_count": 36
+      "last_ok_count": 32
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-05T09:56:14",
+      "last_run": "2026-11-05T17:44:03",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-05T09:57:30",
+      "last_run": "2026-11-05T17:45:40",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-05T09:57:30",
+      "last_run": "2026-11-05T17:45:40",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-05T09:58:32",
-      "last_run": "2026-11-05T09:58:32",
+      "last_ok_at": "2026-11-05T17:46:42",
+      "last_run": "2026-11-05T17:46:42",
       "last_error": "",
-      "last_ok_count": 1123
+      "last_ok_count": 1127
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Service Delivery Lead, Application Packaging",
+        "company": "ALTEN Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-service-delivery-lead-application-packaging-recrutement-alten-maroc-rabat-188304.html",
+        "date": "05/11/2026",
+        "location": "Rabat (Maroc)",
+        "description": "intégration du cycle de vie applicatif avec servicenow, azure devops, microsoft graph ou power automate",
+        "source": "Rekrute",
+        "offer_id": "188304",
+        "id": "d2c6e5c432d10814731e2a79",
+        "score": 65,
+        "reasons": [
+          "description: azure + azure devops"
+        ]
+      },
+      {
+        "title": "INGENIEUR RESEAUX JUNIOR",
+        "company": "GSM AL MAGHRIB",
+        "url": "https://www.rekrute.com/offre-emploi-ingenieur-reseaux-junior-recrutement-gsm-al-maghrib-casablanca-188303.html",
+        "date": "05/11/2026",
+        "location": "Casablanca (Maroc)",
+        "description": "mission 4 : participation aux projets d’évolution du réseau a ce titre il doit :(activités) - contribuer aux projets de modernisation et d’optimisation des infrastructures réseau. - contribuer aux projets de migration et d’optimisation des infrastructures réseau cloud. - participer aux déploiements de nouveaux équipements et solutions réseau. - assurer une documentation technique des interventions et configurations mises en place. mission 5 : veille et montée en compétences a ce titre il doit :(activités) - se tenir informé des évolutions technologiques et des bonnes pratiques en matière de réseau. - suivre des formations et certifications pour approfondir ses compétences. compétences requises compétences techniques - connaissance des architectures et protocoles réseau (tcp/ip, vlan, dns, dhcp, bgp, ospf). - expérience avec les équipements réseau (cisco, juniper, fortinet, hp aruba, etc.). - notions en cybersécurité et bonnes pratiques de sécurisation des réseaux. - capacité à utiliser des outils de supervision et de diagnostic réseau (wireshark, prtg, nagios). - sensibilisation aux environnements cloud et aux solutions sd-wan (un plus). - réseaux cloud : notions sur aws vpc, azure virtual network, gcp vpc. - protocoles & connectivité : tcp/ip, bgp, ospf, sd-wan, vpn, mpls. - sécurité cloud : firewalls cloud, segmentation réseau, chiffrement des flux. - scripting & automatisation (un plus) : python, terraform, ansible pour la gestion des réseaux cloud compétences comportementales - curiosité et volonté d’apprendre. - esprit d’analyse et de résolution de problèmes. - capacité à travailler en équipe et à communiquer avec différents interlocuteurs. - rigueur et sens de l’organisation. formation et expérience formation bac +3 à bac +5 en réseaux et télécommunications, cybersécurité ou cloud computing. certifications appréciées cloud : aws certified cloud practitioner, microsoft azure fundamentals (az-900), google associate cloud engineer. réseaux : ccna (cisco), jncia (juniper), nse 4 (fortinet), cssa (checkpoint). expérience 0 à 3 ans d’expérience dans un poste similaire (stage inclus).",
+        "source": "Rekrute",
+        "offer_id": "188303",
+        "id": "38ad91eccfb33a9a9f00d3a2",
+        "score": 75,
+        "reasons": [
+          "description: azure + cloud engineer"
+        ]
+      }
+    ],
     "last_sent_date": "2026-11-04"
   },
   "market": {
@@ -2181,68 +2247,76 @@
       "78660a902eff8768f3d23cbf",
       "af97816a2d1dc09c4d1726f0",
       "3dc51c69ba9fbf2202e6952b",
-      "ca5c6b2a684c63b24757df22"
+      "ca5c6b2a684c63b24757df22",
+      "d2c6e5c432d10814731e2a79",
+      "38ad91eccfb33a9a9f00d3a2",
+      "b02fe41edbac883de7ec4aec",
+      "d98458f96bae0bb95a19ba9f",
+      "e9a5cacd6f37c8ef49fe5151",
+      "0d9fb3573c0c8f5bf47304ae"
     ],
     "companies": {
       "CGI Technologies et Solutions Maroc": 1,
       "Sofrecom Maroc": 11,
-      "ALTEN Maroc": 5,
+      "ALTEN Maroc": 6,
       "Cloudflare": 4,
       "Datadog": 8,
       "Okta": 4,
       "MongoDB": 4,
       "Twilio": 3,
       "Stripe": 2,
-      "Asana": 2,
+      "Asana": 3,
       "Figma": 1,
       "Discord": 5,
       "Duolingo": 2,
       "swile": 5,
       "Akkodis Maroc": 1,
-      "AXA GBS Morocco": 7,
+      "AXA GBS Morocco": 8,
       "Marketing Call Center": 1,
-      "GSM AL MAGHRIB": 2,
+      "GSM AL MAGHRIB": 5,
       "veepee": 1,
       "DXC - CDG": 1,
       "Inconnu": 4
     },
     "skills": {
-      "azure": 22,
-      "cloud": 32,
-      "devops": 20,
-      "aws": 14,
-      "ci/cd": 15,
-      "gcp": 13,
-      "iam": 8,
-      "infrastructure as code": 9,
-      "kubernetes": 15,
-      "terraform": 10,
-      "docker": 5,
-      "gitlab ci": 2,
-      "zero trust": 4,
-      "security": 33,
+      "azure": 27,
+      "cloud": 36,
+      "devops": 22,
+      "aws": 17,
+      "ci/cd": 16,
+      "gcp": 16,
+      "iam": 10,
+      "infrastructure as code": 11,
+      "kubernetes": 17,
+      "terraform": 14,
+      "docker": 8,
+      "gitlab ci": 3,
+      "zero trust": 5,
+      "security": 35,
       "sre": 2,
       "platform engineer": 5,
       "site reliability": 3,
       "identity and access management": 5,
       "security engineer": 14,
-      "cloud security": 2,
+      "cloud security": 3,
       "devops engineer": 1,
-      "azure devops": 4,
+      "azure devops": 6,
       "cloud security engineer": 1,
       "devsecops": 2,
-      "cloud architect": 1,
-      "k8s": 1
+      "cloud architect": 2,
+      "k8s": 1,
+      "cloud engineer": 1,
+      "github actions": 1
     },
     "sources": {
-      "Rekrute": 29,
+      "Rekrute": 34,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·datadog": 8,
       "ATS·Greenhouse·okta": 4,
       "ATS·Greenhouse·mongodb": 4,
       "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·stripe": 2,
-      "ATS·Greenhouse·asana": 2,
+      "ATS·Greenhouse·asana": 3,
       "ATS·Greenhouse·figma": 1,
       "ATS·Greenhouse·discord": 5,
       "ATS·Greenhouse·duolingo": 2,
@@ -2251,7 +2325,7 @@
       "Dreamjob": 4
     },
     "salaries": [],
-    "total": 74,
+    "total": 80,
     "prev": {
       "week": "2026-W44",
       "companies": {
@@ -2396,7 +2470,7 @@
     "asana": {
       "domain": "asana.com",
       "emails": [],
-      "updated_at": "2026-10-09T19:43:30"
+      "updated_at": "2026-11-05T17:47:14"
     },
     "afd.tech": {
       "domain": "",
@@ -2427,6 +2501,11 @@
       "domain": "akkodis.ma",
       "emails": [],
       "updated_at": "2026-11-03T17:19:09"
+    },
+    "gsm al maghrib": {
+      "domain": "gsmalmaghrib.ma",
+      "emails": [],
+      "updated_at": "2026-11-05T17:47:04"
     }
   }
 }
