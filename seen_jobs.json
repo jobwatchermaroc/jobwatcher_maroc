@@ -1871,6 +1871,12 @@
       "score": 70,
       "seen_at": "2026-11-06T02:57:44",
       "key": "senior software engineer kubernetes platform | cloudflare"
+    },
+    "bd38d4b44e2025ef7159402e": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-11-06T17:11:55",
+      "key": "cloud engineering administrateur sre kubernetes senior | alten maroc"
     }
   },
   "keys": {
@@ -2109,48 +2115,49 @@
     "ingenieur cloud senior | gsm al maghrib": "b02fe41edbac883de7ec4aec",
     "ingenieur cloud junior | gsm al maghrib": "d98458f96bae0bb95a19ba9f",
     "security risk engineer | asana": "0d9fb3573c0c8f5bf47304ae",
-    "senior software engineer kubernetes platform | cloudflare": "72935f3a16a3bb69422f8369"
+    "senior software engineer kubernetes platform | cloudflare": "72935f3a16a3bb69422f8369",
+    "cloud engineering administrateur sre kubernetes senior | alten maroc": "bd38d4b44e2025ef7159402e"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-06T09:57:50",
+      "last_run": "2026-11-06T17:07:10",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-06T09:58:22",
-      "last_run": "2026-11-06T09:58:22",
+      "last_ok_at": "2026-11-06T17:07:45",
+      "last_run": "2026-11-06T17:07:45",
       "last_error": "",
       "last_ok_count": 33
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-06T10:00:00",
+      "last_run": "2026-11-06T17:09:22",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-06T10:01:37",
+      "last_run": "2026-11-06T17:11:01",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-06T10:01:37",
+      "last_run": "2026-11-06T17:11:01",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-06T10:02:43",
-      "last_run": "2026-11-06T10:02:43",
+      "last_ok_at": "2026-11-06T17:11:55",
+      "last_run": "2026-11-06T17:11:55",
       "last_error": "",
       "last_ok_count": 1128
     }
@@ -2262,12 +2269,13 @@
       "20427b5180a31ff5a05f7dcb",
       "363b7c1e32356cef13c7066b",
       "e6d2ff79ffcfb7d5b4e0ea30",
-      "72935f3a16a3bb69422f8369"
+      "72935f3a16a3bb69422f8369",
+      "bd38d4b44e2025ef7159402e"
     ],
     "companies": {
       "CGI Technologies et Solutions Maroc": 1,
       "Sofrecom Maroc": 11,
-      "ALTEN Maroc": 6,
+      "ALTEN Maroc": 7,
       "Cloudflare": 5,
       "Datadog": 8,
       "Okta": 4,
@@ -2288,21 +2296,21 @@
       "Inconnu": 4
     },
     "skills": {
-      "azure": 27,
-      "cloud": 36,
+      "azure": 28,
+      "cloud": 37,
       "devops": 23,
       "aws": 17,
       "ci/cd": 16,
-      "gcp": 16,
+      "gcp": 17,
       "iam": 10,
       "infrastructure as code": 11,
-      "kubernetes": 18,
+      "kubernetes": 19,
       "terraform": 14,
       "docker": 8,
       "gitlab ci": 3,
       "zero trust": 5,
       "security": 38,
-      "sre": 2,
+      "sre": 3,
       "platform engineer": 5,
       "site reliability": 3,
       "identity and access management": 5,
@@ -2314,11 +2322,11 @@
       "devsecops": 2,
       "cloud architect": 2,
       "k8s": 1,
-      "cloud engineer": 1,
+      "cloud engineer": 2,
       "github actions": 1
     },
     "sources": {
-      "Rekrute": 34,
+      "Rekrute": 35,
       "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·datadog": 8,
       "ATS·Greenhouse·okta": 4,
@@ -2334,7 +2342,7 @@
       "Dreamjob": 4
     },
     "salaries": [],
-    "total": 84,
+    "total": 85,
     "prev": {
       "week": "2026-W44",
       "companies": {
@@ -2417,7 +2425,7 @@
     "alten maroc": {
       "domain": "alten.net",
       "emails": [],
-      "updated_at": "2026-10-13T17:51:11"
+      "updated_at": "2026-11-06T17:12:10"
     },
     "cnexia": {
       "domain": "cnexia.com",
