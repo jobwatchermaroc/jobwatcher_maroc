@@ -1877,6 +1877,18 @@
       "score": 100,
       "seen_at": "2026-11-06T17:11:55",
       "key": "cloud engineering administrateur sre kubernetes senior | alten maroc"
+    },
+    "16d339b3e2e2483c29bd1613": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 100,
+      "seen_at": "2026-11-06T22:07:00",
+      "key": "senior site reliability engineer infrasec | mongodb"
+    },
+    "e8ca7a32f6351dd8400daa5b": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 100,
+      "seen_at": "2026-11-06T22:07:00",
+      "key": "staff site reliability engineer infrasec | mongodb"
     }
   },
   "keys": {
@@ -2116,72 +2128,57 @@
     "ingenieur cloud junior | gsm al maghrib": "d98458f96bae0bb95a19ba9f",
     "security risk engineer | asana": "0d9fb3573c0c8f5bf47304ae",
     "senior software engineer kubernetes platform | cloudflare": "72935f3a16a3bb69422f8369",
-    "cloud engineering administrateur sre kubernetes senior | alten maroc": "bd38d4b44e2025ef7159402e"
+    "cloud engineering administrateur sre kubernetes senior | alten maroc": "bd38d4b44e2025ef7159402e",
+    "senior site reliability engineer infrasec | mongodb": "16d339b3e2e2483c29bd1613",
+    "staff site reliability engineer infrasec | mongodb": "e8ca7a32f6351dd8400daa5b"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-06T17:07:10",
+      "last_run": "2026-11-06T22:02:04",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-06T17:07:45",
-      "last_run": "2026-11-06T17:07:45",
+      "last_ok_at": "2026-11-06T22:02:40",
+      "last_run": "2026-11-06T22:02:40",
       "last_error": "",
       "last_ok_count": 33
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-06T17:09:22",
+      "last_run": "2026-11-06T22:04:17",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-06T17:11:01",
+      "last_run": "2026-11-06T22:05:54",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-06T17:11:01",
+      "last_run": "2026-11-06T22:05:54",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-06T17:11:55",
-      "last_run": "2026-11-06T17:11:55",
+      "last_ok_at": "2026-11-06T22:06:57",
+      "last_run": "2026-11-06T22:06:57",
       "last_error": "",
-      "last_ok_count": 1128
+      "last_ok_count": 1129
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Senior Software Engineer - Kubernetes platform",
-        "company": "Cloudflare",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8263016?gh_jid=8263016",
-        "date": "2026-11-05",
-        "location": "Hybrid",
-        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations</strong></p> <ul> <li>Atlanta, US</li> <li>Austin, US</li> <li>Denver, US</li> <li>New York, US</li> <li>San Francisco, US</li> <li>Seattle, US</li> <li>Washington DC, US</li> <li>Canada</li> </ul> <p><strong>About the role</strong></p> <p>Many of Cloudflare’s critical internal services run on Kubernetes. These services include those responsible for Cloudflare’s control plane and APIs, data analytics and other internal tools used to manage our global network. These Kubernetes platforms are purpose-built from the ground up and run on bare metal Linux in different regions around the world. The scale we work at involves tens of thousands of containers and terabits per second of network traffic. The team takes pride in knowing this platform helps run parts of the global Internet.</p> <p>As an engineer on the Kubernetes platform team, you'll be building the tools to help engineers deploy and operate the services that make Cloudflare work. Our mission is to provide a reliable and flexible platform to help product teams release new software efficiently and safely. The role includes both software engineering and DevOps operational responsibilities.</p> <p><strong>Responsibilities</strong></p> <ul> <li>Design scalable and resilient systems that can keep up with company growth.</li> <li>Work with application teams to understand their needs and challenges, and",
-        "salary": "",
-        "source": "ATS·Greenhouse·cloudflare",
-        "id": "72935f3a16a3bb69422f8369",
-        "score": 70,
-        "reasons": [
-          "kubernetes",
-          "description: devops + kubernetes"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-11-05"
+    "buffer": [],
+    "last_sent_date": "2026-11-06"
   },
   "market": {
     "week": "2026-W45",
@@ -2270,7 +2267,9 @@
       "363b7c1e32356cef13c7066b",
       "e6d2ff79ffcfb7d5b4e0ea30",
       "72935f3a16a3bb69422f8369",
-      "bd38d4b44e2025ef7159402e"
+      "bd38d4b44e2025ef7159402e",
+      "16d339b3e2e2483c29bd1613",
+      "e8ca7a32f6351dd8400daa5b"
     ],
     "companies": {
       "CGI Technologies et Solutions Maroc": 1,
@@ -2279,7 +2278,7 @@
       "Cloudflare": 5,
       "Datadog": 8,
       "Okta": 4,
-      "MongoDB": 4,
+      "MongoDB": 6,
       "Twilio": 3,
       "Stripe": 5,
       "Asana": 3,
@@ -2296,29 +2295,29 @@
       "Inconnu": 4
     },
     "skills": {
-      "azure": 28,
-      "cloud": 37,
+      "azure": 30,
+      "cloud": 39,
       "devops": 23,
-      "aws": 17,
-      "ci/cd": 16,
-      "gcp": 17,
+      "aws": 19,
+      "ci/cd": 18,
+      "gcp": 19,
       "iam": 10,
-      "infrastructure as code": 11,
-      "kubernetes": 19,
-      "terraform": 14,
+      "infrastructure as code": 13,
+      "kubernetes": 21,
+      "terraform": 16,
       "docker": 8,
       "gitlab ci": 3,
       "zero trust": 5,
-      "security": 38,
-      "sre": 3,
+      "security": 40,
+      "sre": 5,
       "platform engineer": 5,
-      "site reliability": 3,
+      "site reliability": 5,
       "identity and access management": 5,
-      "security engineer": 17,
-      "cloud security": 3,
+      "security engineer": 19,
+      "cloud security": 5,
       "devops engineer": 1,
       "azure devops": 6,
-      "cloud security engineer": 1,
+      "cloud security engineer": 3,
       "devsecops": 2,
       "cloud architect": 2,
       "k8s": 1,
@@ -2330,7 +2329,7 @@
       "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·datadog": 8,
       "ATS·Greenhouse·okta": 4,
-      "ATS·Greenhouse·mongodb": 4,
+      "ATS·Greenhouse·mongodb": 6,
       "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·stripe": 5,
       "ATS·Greenhouse·asana": 3,
@@ -2342,7 +2341,7 @@
       "Dreamjob": 4
     },
     "salaries": [],
-    "total": 85,
+    "total": 87,
     "prev": {
       "week": "2026-W44",
       "companies": {
@@ -2502,7 +2501,7 @@
     "mongodb": {
       "domain": "mongodb.com",
       "emails": [],
-      "updated_at": "2026-10-27T22:45:36"
+      "updated_at": "2026-11-06T22:07:18"
     },
     "axa gbs morocco": {
       "domain": "axa.ma",
