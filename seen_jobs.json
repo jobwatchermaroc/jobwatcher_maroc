@@ -1895,6 +1895,18 @@
       "score": 100,
       "seen_at": "2026-11-08T22:48:53",
       "key": "product security engineer | asana"
+    },
+    "763aa8be567432289d14a3a1": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 60,
+      "seen_at": "2026-11-09T19:50:55",
+      "key": "inside sales representative | cloudflare"
+    },
+    "5839952888d60384362a1cee": {
+      "source": "ATS·Greenhouse·gitlab",
+      "score": 75,
+      "seen_at": "2026-11-09T19:50:56",
+      "key": "professional services engineer ksa | gitlab"
     }
   },
   "keys": {
@@ -2136,55 +2148,57 @@
     "senior software engineer kubernetes platform | cloudflare": "72935f3a16a3bb69422f8369",
     "cloud engineering administrateur sre kubernetes senior | alten maroc": "bd38d4b44e2025ef7159402e",
     "senior site reliability engineer infrasec | mongodb": "16d339b3e2e2483c29bd1613",
-    "staff site reliability engineer infrasec | mongodb": "e8ca7a32f6351dd8400daa5b"
+    "staff site reliability engineer infrasec | mongodb": "e8ca7a32f6351dd8400daa5b",
+    "inside sales representative | cloudflare": "763aa8be567432289d14a3a1",
+    "professional services engineer ksa | gitlab": "5839952888d60384362a1cee"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-09T09:11:24",
+      "last_run": "2026-11-09T19:45:46",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-09T09:11:59",
-      "last_run": "2026-11-09T09:11:59",
+      "last_ok_at": "2026-11-09T19:46:31",
+      "last_run": "2026-11-09T19:46:31",
       "last_error": "",
-      "last_ok_count": 33
+      "last_ok_count": 34
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-09T09:13:36",
+      "last_run": "2026-11-09T19:48:08",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-09T09:15:14",
+      "last_run": "2026-11-09T19:49:45",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-09T09:15:14",
+      "last_run": "2026-11-09T19:49:45",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-09T09:16:00",
-      "last_run": "2026-11-09T09:16:00",
+      "last_ok_at": "2026-11-09T19:50:55",
+      "last_run": "2026-11-09T19:50:55",
       "last_error": "",
-      "last_ok_count": 1127
+      "last_ok_count": 1099
     }
   },
   "digest": {
     "buffer": [],
-    "last_sent_date": "2026-11-06"
+    "last_sent_date": "2026-11-09"
   },
   "market": {
     "week": "2026-W46",
@@ -2238,7 +2252,11 @@
       "b98bf547766ae2345f14ec59",
       "95073dd45648c344ccd399fb",
       "8d9c716907ee1f16a5f330a4",
-      "aa4f75797069526182bd2436"
+      "aa4f75797069526182bd2436",
+      "62c88c43dc42907fa32d501f",
+      "763aa8be567432289d14a3a1",
+      "622b7ad16ff06caac84dcb3a",
+      "5839952888d60384362a1cee"
     ],
     "companies": {
       "ALTEN Maroc": 2,
@@ -2247,7 +2265,7 @@
       "AXA GBS Morocco": 3,
       "Akkodis Maroc": 1,
       "CGI Technologies et Solutions Maroc": 1,
-      "Cloudflare": 3,
+      "Cloudflare": 5,
       "Datadog": 4,
       "Okta": 3,
       "MongoDB": 3,
@@ -2258,30 +2276,32 @@
       "Discord": 5,
       "Duolingo": 2,
       "swile": 5,
-      "veepee": 1
+      "veepee": 1,
+      "Capgemini": 1,
+      "GitLab": 1
     },
     "skills": {
-      "azure": 15,
-      "cloud": 22,
+      "azure": 16,
+      "cloud": 24,
       "cloud engineer": 2,
       "gcp": 10,
       "kubernetes": 12,
       "sre": 5,
-      "azure devops": 3,
-      "devops": 12,
-      "aws": 13,
-      "terraform": 12,
+      "azure devops": 4,
+      "devops": 13,
+      "aws": 14,
+      "terraform": 13,
       "ci/cd": 10,
       "cloud architect": 1,
       "docker": 7,
       "gitlab ci": 1,
       "iam": 7,
-      "infrastructure as code": 8,
-      "zero trust": 4,
-      "security": 25,
+      "infrastructure as code": 9,
+      "zero trust": 6,
+      "security": 28,
       "cloud security": 4,
       "cloud security engineer": 3,
-      "devsecops": 1,
+      "devsecops": 2,
       "security engineer": 16,
       "defender": 1,
       "defender for cloud": 1,
@@ -2289,11 +2309,12 @@
       "platform engineer": 4,
       "site reliability": 5,
       "identity and access management": 4,
-      "devops engineer": 1
+      "devops engineer": 2,
+      "sase": 2
     },
     "sources": {
-      "Rekrute": 15,
-      "ATS·Greenhouse·cloudflare": 3,
+      "Rekrute": 16,
+      "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·okta": 3,
       "ATS·Greenhouse·mongodb": 3,
@@ -2304,10 +2325,11 @@
       "ATS·Greenhouse·discord": 5,
       "ATS·Greenhouse·duolingo": 2,
       "ATS·Lever·swile": 5,
-      "ATS·Lever·veepee": 1
+      "ATS·Lever·veepee": 1,
+      "ATS·Greenhouse·gitlab": 1
     },
     "salaries": [],
-    "total": 50,
+    "total": 54,
     "prev": {
       "week": "2026-W45",
       "companies": {
