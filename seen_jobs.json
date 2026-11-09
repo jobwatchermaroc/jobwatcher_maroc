@@ -2142,44 +2142,44 @@
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-09T01:59:15",
+      "last_run": "2026-11-09T09:11:24",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-09T01:59:53",
-      "last_run": "2026-11-09T01:59:53",
+      "last_ok_at": "2026-11-09T09:11:59",
+      "last_run": "2026-11-09T09:11:59",
       "last_error": "",
       "last_ok_count": 33
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-09T02:01:31",
+      "last_run": "2026-11-09T09:13:36",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-09T02:03:09",
+      "last_run": "2026-11-09T09:15:14",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-09T02:03:09",
+      "last_run": "2026-11-09T09:15:14",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-09T02:04:05",
-      "last_run": "2026-11-09T02:04:05",
+      "last_ok_at": "2026-11-09T09:16:00",
+      "last_run": "2026-11-09T09:16:00",
       "last_error": "",
-      "last_ok_count": 1129
+      "last_ok_count": 1127
     }
   },
   "digest": {
@@ -2382,7 +2382,7 @@
       "salaries": [],
       "total": 87
     },
-    "prev_reported": false
+    "prev_reported": true
   },
   "contacts": {
     "cloudflare": {
