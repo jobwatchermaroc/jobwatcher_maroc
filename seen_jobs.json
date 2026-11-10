@@ -1913,6 +1913,18 @@
       "score": 100,
       "seen_at": "2026-11-10T02:29:28",
       "key": "staff security engineer | duolingo"
+    },
+    "90e981c8f9f1f23c3fb384bd": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-11-10T17:46:44",
+      "key": "developpeur uipath architecte cloud aws | dxc cdg"
+    },
+    "526881c1fe65d5886408cd54": {
+      "source": "Rekrute",
+      "score": 75,
+      "seen_at": "2026-11-10T17:46:44",
+      "key": "integrateur devops f h | sofrecom maroc"
     }
   },
   "keys": {
@@ -2157,54 +2169,73 @@
     "staff site reliability engineer infrasec | mongodb": "e8ca7a32f6351dd8400daa5b",
     "inside sales representative | cloudflare": "763aa8be567432289d14a3a1",
     "professional services engineer ksa | gitlab": "5839952888d60384362a1cee",
-    "staff security engineer | duolingo": "e35164d60fd9937e9fac3ce1"
+    "staff security engineer | duolingo": "e35164d60fd9937e9fac3ce1",
+    "developpeur uipath architecte cloud aws | dxc cdg": "90e981c8f9f1f23c3fb384bd",
+    "integrateur devops f h | sofrecom maroc": "526881c1fe65d5886408cd54"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-10T10:07:57",
+      "last_run": "2026-11-10T17:41:47",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-10T10:08:37",
-      "last_run": "2026-11-10T10:08:37",
+      "last_ok_at": "2026-11-10T17:42:21",
+      "last_run": "2026-11-10T17:42:21",
       "last_error": "",
-      "last_ok_count": 35
+      "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-10T10:10:14",
+      "last_run": "2026-11-10T17:44:00",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-10T10:11:50",
+      "last_run": "2026-11-10T17:45:37",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-10T10:11:50",
+      "last_run": "2026-11-10T17:45:37",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-10T10:13:03",
-      "last_run": "2026-11-10T10:13:03",
+      "last_ok_at": "2026-11-10T17:46:44",
+      "last_run": "2026-11-10T17:46:44",
       "last_error": "",
-      "last_ok_count": 1100
+      "last_ok_count": 1126
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Intégrateur DevOps (F/H)",
+        "company": "Sofrecom Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-integrateur-devops-fh-recrutement-sofrecom-maroc-rabat-188402.html",
+        "date": "10/11/2026",
+        "location": "Rabat (Maroc)",
+        "description": "• formation informatique • expérience de 3 à 5 ans comme développeur logiciel et expert devops • maitrise et mise en œuvre de plusieurs outils de ci/cd dont gitlab • travail en équipe, en mode projet, en réseau • capacités à rédiger, présenter, argumenter en français et en anglais • curiosité pour le domaine des technologies de l’information • capacités de coordination, d’apprentissage et de partage de connaissances • expérience de développement en mode agile",
+        "source": "Rekrute",
+        "offer_id": "188402",
+        "id": "526881c1fe65d5886408cd54",
+        "score": 75,
+        "reasons": [
+          "devops",
+          "description: devops + ci/cd"
+        ]
+      }
+    ],
     "last_sent_date": "2026-11-09"
   },
   "market": {
@@ -2264,12 +2295,14 @@
       "763aa8be567432289d14a3a1",
       "622b7ad16ff06caac84dcb3a",
       "5839952888d60384362a1cee",
-      "e35164d60fd9937e9fac3ce1"
+      "e35164d60fd9937e9fac3ce1",
+      "90e981c8f9f1f23c3fb384bd",
+      "526881c1fe65d5886408cd54"
     ],
     "companies": {
       "ALTEN Maroc": 2,
       "GSM AL MAGHRIB": 5,
-      "Sofrecom Maroc": 3,
+      "Sofrecom Maroc": 4,
       "AXA GBS Morocco": 3,
       "Akkodis Maroc": 1,
       "CGI Technologies et Solutions Maroc": 1,
@@ -2286,20 +2319,21 @@
       "swile": 5,
       "veepee": 1,
       "Capgemini": 1,
-      "GitLab": 1
+      "GitLab": 1,
+      "DXC - CDG": 1
     },
     "skills": {
       "azure": 16,
-      "cloud": 25,
+      "cloud": 26,
       "cloud engineer": 2,
       "gcp": 10,
       "kubernetes": 12,
       "sre": 5,
       "azure devops": 4,
-      "devops": 13,
-      "aws": 14,
+      "devops": 14,
+      "aws": 15,
       "terraform": 13,
-      "ci/cd": 11,
+      "ci/cd": 12,
       "cloud architect": 1,
       "docker": 7,
       "gitlab ci": 1,
@@ -2321,7 +2355,7 @@
       "sase": 2
     },
     "sources": {
-      "Rekrute": 16,
+      "Rekrute": 18,
       "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·okta": 3,
@@ -2337,7 +2371,7 @@
       "ATS·Greenhouse·gitlab": 1
     },
     "salaries": [],
-    "total": 55,
+    "total": 57,
     "prev": {
       "week": "2026-W45",
       "companies": {
@@ -2531,6 +2565,11 @@
       "domain": "duolingo.com",
       "emails": [],
       "updated_at": "2026-11-10T02:29:38"
+    },
+    "dxc - cdg": {
+      "domain": "dxc.com",
+      "emails": [],
+      "updated_at": "2026-11-10T17:48:06"
     }
   }
 }
