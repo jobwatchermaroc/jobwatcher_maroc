@@ -2177,66 +2177,49 @@
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-10T17:41:47",
+      "last_run": "2026-11-10T22:31:43",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-10T17:42:21",
-      "last_run": "2026-11-10T17:42:21",
+      "last_ok_at": "2026-11-10T22:32:21",
+      "last_run": "2026-11-10T22:32:21",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-10T17:44:00",
+      "last_run": "2026-11-10T22:33:58",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-10T17:45:37",
+      "last_run": "2026-11-10T22:35:35",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-10T17:45:37",
+      "last_run": "2026-11-10T22:35:35",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-10T17:46:44",
-      "last_run": "2026-11-10T17:46:44",
+      "last_ok_at": "2026-11-10T22:36:27",
+      "last_run": "2026-11-10T22:36:27",
       "last_error": "",
-      "last_ok_count": 1126
+      "last_ok_count": 1128
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Intégrateur DevOps (F/H)",
-        "company": "Sofrecom Maroc",
-        "url": "https://www.rekrute.com/offre-emploi-integrateur-devops-fh-recrutement-sofrecom-maroc-rabat-188402.html",
-        "date": "10/11/2026",
-        "location": "Rabat (Maroc)",
-        "description": "• formation informatique • expérience de 3 à 5 ans comme développeur logiciel et expert devops • maitrise et mise en œuvre de plusieurs outils de ci/cd dont gitlab • travail en équipe, en mode projet, en réseau • capacités à rédiger, présenter, argumenter en français et en anglais • curiosité pour le domaine des technologies de l’information • capacités de coordination, d’apprentissage et de partage de connaissances • expérience de développement en mode agile",
-        "source": "Rekrute",
-        "offer_id": "188402",
-        "id": "526881c1fe65d5886408cd54",
-        "score": 75,
-        "reasons": [
-          "devops",
-          "description: devops + ci/cd"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-11-09"
+    "buffer": [],
+    "last_sent_date": "2026-11-10"
   },
   "market": {
     "week": "2026-W46",
