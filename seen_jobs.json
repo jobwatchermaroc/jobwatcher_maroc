@@ -1925,6 +1925,12 @@
       "score": 75,
       "seen_at": "2026-11-10T17:46:44",
       "key": "integrateur devops f h | sofrecom maroc"
+    },
+    "11d5de765f658cf406ca7c27": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-11-12T12:18:02",
+      "key": "administrateur azure devops aks | akkodis maroc"
     }
   },
   "keys": {
@@ -2171,48 +2177,49 @@
     "professional services engineer ksa | gitlab": "5839952888d60384362a1cee",
     "staff security engineer | duolingo": "e35164d60fd9937e9fac3ce1",
     "developpeur uipath architecte cloud aws | dxc cdg": "90e981c8f9f1f23c3fb384bd",
-    "integrateur devops f h | sofrecom maroc": "526881c1fe65d5886408cd54"
+    "integrateur devops f h | sofrecom maroc": "526881c1fe65d5886408cd54",
+    "administrateur azure devops aks | akkodis maroc": "11d5de765f658cf406ca7c27"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-12T03:59:08",
+      "last_run": "2026-11-12T12:13:15",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-12T03:59:43",
-      "last_run": "2026-11-12T03:59:43",
+      "last_ok_at": "2026-11-12T12:13:53",
+      "last_run": "2026-11-12T12:13:53",
       "last_error": "",
-      "last_ok_count": 37
+      "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-12T04:01:20",
+      "last_run": "2026-11-12T12:15:32",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-12T04:02:57",
+      "last_run": "2026-11-12T12:17:09",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-12T04:02:57",
+      "last_run": "2026-11-12T12:17:09",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-12T04:03:48",
-      "last_run": "2026-11-12T04:03:48",
+      "last_ok_at": "2026-11-12T12:18:02",
+      "last_run": "2026-11-12T12:18:02",
       "last_error": "",
       "last_ok_count": 1128
     }
@@ -2281,14 +2288,15 @@
       "e35164d60fd9937e9fac3ce1",
       "90e981c8f9f1f23c3fb384bd",
       "526881c1fe65d5886408cd54",
-      "8ce429884ca2bba564859bca"
+      "8ce429884ca2bba564859bca",
+      "11d5de765f658cf406ca7c27"
     ],
     "companies": {
       "ALTEN Maroc": 2,
       "GSM AL MAGHRIB": 5,
       "Sofrecom Maroc": 4,
       "AXA GBS Morocco": 3,
-      "Akkodis Maroc": 1,
+      "Akkodis Maroc": 2,
       "CGI Technologies et Solutions Maroc": 1,
       "Cloudflare": 6,
       "Datadog": 4,
@@ -2307,14 +2315,14 @@
       "DXC - CDG": 1
     },
     "skills": {
-      "azure": 16,
-      "cloud": 26,
+      "azure": 17,
+      "cloud": 27,
       "cloud engineer": 2,
       "gcp": 10,
-      "kubernetes": 12,
+      "kubernetes": 13,
       "sre": 5,
-      "azure devops": 4,
-      "devops": 14,
+      "azure devops": 5,
+      "devops": 15,
       "aws": 15,
       "terraform": 13,
       "ci/cd": 12,
@@ -2339,7 +2347,7 @@
       "sase": 2
     },
     "sources": {
-      "Rekrute": 18,
+      "Rekrute": 19,
       "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·okta": 3,
@@ -2355,7 +2363,7 @@
       "ATS·Greenhouse·gitlab": 1
     },
     "salaries": [],
-    "total": 58,
+    "total": 59,
     "prev": {
       "week": "2026-W45",
       "companies": {
@@ -2538,7 +2546,7 @@
     "akkodis maroc": {
       "domain": "akkodis.ma",
       "emails": [],
-      "updated_at": "2026-11-03T17:19:09"
+      "updated_at": "2026-11-12T12:18:22"
     },
     "gsm al maghrib": {
       "domain": "gsmalmaghrib.ma",
