@@ -1931,6 +1931,12 @@
       "score": 100,
       "seen_at": "2026-11-12T12:18:02",
       "key": "administrateur azure devops aks | akkodis maroc"
+    },
+    "0535ce38872ce64bdec2c5be": {
+      "source": "ATS·Greenhouse·okta",
+      "score": 60,
+      "seen_at": "2026-11-13T00:49:24",
+      "key": "director product security psirt | okta"
     }
   },
   "keys": {
@@ -2178,54 +2184,72 @@
     "staff security engineer | duolingo": "e35164d60fd9937e9fac3ce1",
     "developpeur uipath architecte cloud aws | dxc cdg": "90e981c8f9f1f23c3fb384bd",
     "integrateur devops f h | sofrecom maroc": "526881c1fe65d5886408cd54",
-    "administrateur azure devops aks | akkodis maroc": "11d5de765f658cf406ca7c27"
+    "administrateur azure devops aks | akkodis maroc": "11d5de765f658cf406ca7c27",
+    "director product security psirt | okta": "0535ce38872ce64bdec2c5be"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-12T19:53:14",
+      "last_run": "2026-11-13T00:44:40",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-12T19:54:01",
-      "last_run": "2026-11-12T19:54:01",
+      "last_ok_at": "2026-11-13T00:45:19",
+      "last_run": "2026-11-13T00:45:19",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-12T19:55:39",
+      "last_run": "2026-11-13T00:46:57",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-12T19:57:17",
+      "last_run": "2026-11-13T00:48:34",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-12T19:57:17",
+      "last_run": "2026-11-13T00:48:34",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-12T19:58:08",
-      "last_run": "2026-11-12T19:58:08",
+      "last_ok_at": "2026-11-13T00:49:23",
+      "last_run": "2026-11-13T00:49:23",
       "last_error": "",
       "last_ok_count": 1123
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Director, Product Security, PSIRT",
+        "company": "Okta",
+        "url": "https://www.okta.com/company/careers/opportunity/8383373?gh_jid=8383373",
+        "date": "2026-11-12",
+        "location": "Bellevue, Washington; San Francisco, California",
+        "description": "<div class=\"content-intro\"><p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.<br><br>This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.</p></div><p>Within the Product Security team, our Product Security Incident Response Team (PSIRT) owns Okta's response when a security vulnerability in our products is reported, exploited, or puts customers at risk, across Okta, Auth0 and the systems they run on. PSIRT triages reports from researchers, customers, our bug bounty program and our own automated discovery, leads each incident from intake to closure, drives fixes with engineering and leadership, and publishes CVEs and security advisories as Okta's CVE Numbering Authority.</p> <p>AI is changing how vulnerabilities are found, by us and by attackers, and the volume of high-impact reports is rising quickly. We seek a director to lead PSIRT through that change: run day-to-day incident response, build the team and the agentic workflows that let it scale, and be the steady, credible voice for Okta when a vulnerability matters to our customers.</p> <p><strong>What You Will Do</strong></p> <ul> <li>Lead Okta's PSIRT program across all business units, defining its strategy, roadmap and operating model</li> <li>Own the vulnerability-handling lifecycle, from intake and triage through remediation, coordinated disclosure and post-incident review, and keep our procedures and runbooks current</li> <li>Act as senior incident lead on Critical and high-profile vulnerabilities, including industry-wide issues, and make clear calls under pressure</li> <li>Partner with Engineering leaders to drive fixes and hotfixes on time, while engineering owns remediation</li> <li>Run coordinated disclosure with researchers and partners, and own Okta's CVE and security advisory process with Customer Trust and Security Communications</li> <li>Work closely with Cyber Defense, Identity Defense, Legal and Federal teams on exploitation analysis, customer impact and regulatory obligations</li> <li>Own the bug bounty program and relationships with the security research community</li> <li>Scale the team with automation and AI: agentic triage, root-cause and variant analysis, and tooling that holds up under a surge in volume</li> <li>Set and report key performance indicators (time to acknowledge, time to resolve, SLA attainment, advisory timeliness) to security and executive leadership</li> <li>Brief executives clearly and in proportion to risk, and lead post-incident reviews that feed lessons back into the Secure Development Lifecycle</li> <li>Maintain and str",
+        "salary": "",
+        "source": "ATS·Greenhouse·okta",
+        "id": "0535ce38872ce64bdec2c5be",
+        "score": 60,
+        "reasons": [
+          "security",
+          "description: security"
+        ]
+      }
+    ],
     "last_sent_date": "2026-11-10"
   },
   "market": {
@@ -2289,7 +2313,8 @@
       "90e981c8f9f1f23c3fb384bd",
       "526881c1fe65d5886408cd54",
       "8ce429884ca2bba564859bca",
-      "11d5de765f658cf406ca7c27"
+      "11d5de765f658cf406ca7c27",
+      "0535ce38872ce64bdec2c5be"
     ],
     "companies": {
       "ALTEN Maroc": 2,
@@ -2300,7 +2325,7 @@
       "CGI Technologies et Solutions Maroc": 1,
       "Cloudflare": 6,
       "Datadog": 4,
-      "Okta": 3,
+      "Okta": 4,
       "MongoDB": 3,
       "Twilio": 1,
       "Stripe": 4,
@@ -2332,7 +2357,7 @@
       "iam": 7,
       "infrastructure as code": 9,
       "zero trust": 7,
-      "security": 29,
+      "security": 30,
       "cloud security": 4,
       "cloud security engineer": 3,
       "devsecops": 2,
@@ -2350,7 +2375,7 @@
       "Rekrute": 19,
       "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·datadog": 4,
-      "ATS·Greenhouse·okta": 3,
+      "ATS·Greenhouse·okta": 4,
       "ATS·Greenhouse·mongodb": 3,
       "ATS·Greenhouse·twilio": 1,
       "ATS·Greenhouse·stripe": 4,
@@ -2363,7 +2388,7 @@
       "ATS·Greenhouse·gitlab": 1
     },
     "salaries": [],
-    "total": 59,
+    "total": 60,
     "prev": {
       "week": "2026-W45",
       "companies": {
