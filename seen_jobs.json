@@ -1943,6 +1943,12 @@
       "score": 70,
       "seen_at": "2026-11-13T15:34:55",
       "key": "enterprise security sales specialist | datadog"
+    },
+    "2cb63898623c397e9e70725c": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 95,
+      "seen_at": "2026-11-13T21:35:21",
+      "key": "senior site reliability engineer agent engine | mongodb"
     }
   },
   "keys": {
@@ -2191,88 +2197,56 @@
     "developpeur uipath architecte cloud aws | dxc cdg": "90e981c8f9f1f23c3fb384bd",
     "integrateur devops f h | sofrecom maroc": "526881c1fe65d5886408cd54",
     "administrateur azure devops aks | akkodis maroc": "11d5de765f658cf406ca7c27",
-    "director product security psirt | okta": "0535ce38872ce64bdec2c5be"
+    "director product security psirt | okta": "0535ce38872ce64bdec2c5be",
+    "senior site reliability engineer agent engine | mongodb": "2cb63898623c397e9e70725c"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-13T15:30:07",
+      "last_run": "2026-11-13T21:30:14",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-13T15:30:50",
-      "last_run": "2026-11-13T15:30:50",
+      "last_ok_at": "2026-11-13T21:30:46",
+      "last_run": "2026-11-13T21:30:46",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-13T15:32:27",
+      "last_run": "2026-11-13T21:32:24",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-13T15:34:04",
+      "last_run": "2026-11-13T21:34:02",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-13T15:34:04",
+      "last_run": "2026-11-13T21:34:02",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-13T15:34:52",
-      "last_run": "2026-11-13T15:34:52",
+      "last_ok_at": "2026-11-13T21:35:19",
+      "last_run": "2026-11-13T21:35:19",
       "last_error": "",
-      "last_ok_count": 1121
+      "last_ok_count": 1122
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Director, Product Security, PSIRT",
-        "company": "Okta",
-        "url": "https://www.okta.com/company/careers/opportunity/8383373?gh_jid=8383373",
-        "date": "2026-11-12",
-        "location": "Bellevue, Washington; San Francisco, California",
-        "description": "<div class=\"content-intro\"><p><strong>Secure Every Identity, from AI to Human<br><br></strong>Identity is the key to unlocking the potential of AI. Okta secures AI by building the trusted, neutral infrastructure that enables organizations to safely embrace this new era. This work requires a relentless drive to solve complex challenges with real-world stakes. We are looking for builders and owners who operate with speed and urgency and execute with excellence.<br><br>This is an opportunity to do career-defining work. We're all in on this mission. If you are too, let's talk.</p></div><p>Within the Product Security team, our Product Security Incident Response Team (PSIRT) owns Okta's response when a security vulnerability in our products is reported, exploited, or puts customers at risk, across Okta, Auth0 and the systems they run on. PSIRT triages reports from researchers, customers, our bug bounty program and our own automated discovery, leads each incident from intake to closure, drives fixes with engineering and leadership, and publishes CVEs and security advisories as Okta's CVE Numbering Authority.</p> <p>AI is changing how vulnerabilities are found, by us and by attackers, and the volume of high-impact reports is rising quickly. We seek a director to lead PSIRT through that change: run day-to-day incident response, build the team and the agentic workflows that let it scale, and be the steady, credible voice for Okta when a vulnerability matters to our customers.</p> <p><strong>What You Will Do</strong></p> <ul> <li>Lead Okta's PSIRT program across all business units, defining its strategy, roadmap and operating model</li> <li>Own the vulnerability-handling lifecycle, from intake and triage through remediation, coordinated disclosure and post-incident review, and keep our procedures and runbooks current</li> <li>Act as senior incident lead on Critical and high-profile vulnerabilities, including industry-wide issues, and make clear calls under pressure</li> <li>Partner with Engineering leaders to drive fixes and hotfixes on time, while engineering owns remediation</li> <li>Run coordinated disclosure with researchers and partners, and own Okta's CVE and security advisory process with Customer Trust and Security Communications</li> <li>Work closely with Cyber Defense, Identity Defense, Legal and Federal teams on exploitation analysis, customer impact and regulatory obligations</li> <li>Own the bug bounty program and relationships with the security research community</li> <li>Scale the team with automation and AI: agentic triage, root-cause and variant analysis, and tooling that holds up under a surge in volume</li> <li>Set and report key performance indicators (time to acknowledge, time to resolve, SLA attainment, advisory timeliness) to security and executive leadership</li> <li>Brief executives clearly and in proportion to risk, and lead post-incident reviews that feed lessons back into the Secure Development Lifecycle</li> <li>Maintain and str",
-        "salary": "",
-        "source": "ATS·Greenhouse·okta",
-        "id": "0535ce38872ce64bdec2c5be",
-        "score": 60,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      },
-      {
-        "title": "Enterprise Security Sales Specialist",
-        "company": "Datadog",
-        "url": "https://careers.datadoghq.com/detail/8237332/?gh_jid=8237332",
-        "date": "2026-10-27",
-        "location": "Chicago, Illinois, USA",
-        "description": "<p>As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers—expanding our footprint and helping customers modernize their security stack in the cloud.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p>&nbsp;</p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Act as the subject matter expert (SME) for Datadog Security products across a targeted account patch</li> <li>Collaborate closely with Enterprise AEs to support net new logo acquisition and expansion in strategic accounts</li> <li>Own and drive the security sales cycle from discovery to technical close, working closely with Sales Engineers</li> <li>Evangelize Datadog’s security story to security leaders (CISO, Security Architects, SecOps)</li> <li>Work cross-functionally with Datadog's partner, channel, and alliance teams to drive joint go-to-market motions</li> <li>Co-sell effectively with AEs and partners, contributing to deal strategy, solution alignment, and stakeholder engagement</li> <li>Stay informed on security trends and competitive offerings to differentiate Datadog<br><br></li> </ul> <p><strong>Who You Are:</strong></p> <ul> <li>Proven success selling into security buyers (CISO, SecOps, GRC, etc.)</li> <li>Experience co-selling in a matrixed environment, supporting or partnering with AEs and cross-functional teams</li> <li>Strong understanding of the partner/channel sales model, including how to navigate and influence joint selling motions</li> <li>Familiarity with modern security solutions such as SIEM, CSPM, CWPP, container/Kubernetes security</li> <li>Ability to build strong relationships with internal stakeholders, partners, and customer technical teams</li> </ul> <p>&nbsp;</p> <p><em>Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.</em></p> <p>&nbsp;</p> <p><strong>Benefits and Growth:</strong></p> <ul> <li>High income earning opportunities based on self performance</li> <li>New hire stock equity (RSU) and employee stock purchase plan (ESPP)</li> <li>Continuous professional development, product training, and career pathing&nbsp;</li> <li>Sales training in MEDDIC and Command of the Message&nbsp;</li> <li>Intra-departmental mentor and buddy program for in-house networking&nbsp;</li> <li>An inclusive company culture, opportunity to join our Community Guilds</li> <li>Generous and competitive medical benefits package</li> <li>Retireme",
-        "salary": "",
-        "source": "ATS·Greenhouse·datadog",
-        "id": "9992da8d790d8a44278e2f86",
-        "score": 70,
-        "reasons": [
-          "security",
-          "description: cloud + kubernetes + security"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-11-10"
+    "buffer": [],
+    "last_sent_date": "2026-11-13"
   },
   "market": {
     "week": "2026-W46",
@@ -2337,7 +2311,8 @@
       "8ce429884ca2bba564859bca",
       "11d5de765f658cf406ca7c27",
       "0535ce38872ce64bdec2c5be",
-      "eb51db3e4dd9c5a642f3e357"
+      "eb51db3e4dd9c5a642f3e357",
+      "2cb63898623c397e9e70725c"
     ],
     "companies": {
       "ALTEN Maroc": 2,
@@ -2349,7 +2324,7 @@
       "Cloudflare": 6,
       "Datadog": 4,
       "Okta": 4,
-      "MongoDB": 4,
+      "MongoDB": 5,
       "Twilio": 1,
       "Stripe": 4,
       "Asana": 3,
@@ -2363,15 +2338,15 @@
       "DXC - CDG": 1
     },
     "skills": {
-      "azure": 17,
-      "cloud": 27,
+      "azure": 18,
+      "cloud": 28,
       "cloud engineer": 2,
-      "gcp": 10,
-      "kubernetes": 13,
-      "sre": 5,
+      "gcp": 11,
+      "kubernetes": 14,
+      "sre": 6,
       "azure devops": 5,
       "devops": 15,
-      "aws": 15,
+      "aws": 16,
       "terraform": 13,
       "ci/cd": 12,
       "cloud architect": 1,
@@ -2380,7 +2355,7 @@
       "iam": 7,
       "infrastructure as code": 9,
       "zero trust": 7,
-      "security": 31,
+      "security": 32,
       "cloud security": 4,
       "cloud security engineer": 3,
       "devsecops": 2,
@@ -2389,7 +2364,7 @@
       "defender for cloud": 1,
       "github actions": 1,
       "platform engineer": 5,
-      "site reliability": 5,
+      "site reliability": 6,
       "identity and access management": 4,
       "devops engineer": 2,
       "sase": 2
@@ -2399,7 +2374,7 @@
       "ATS·Greenhouse·cloudflare": 6,
       "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·okta": 4,
-      "ATS·Greenhouse·mongodb": 4,
+      "ATS·Greenhouse·mongodb": 5,
       "ATS·Greenhouse·twilio": 1,
       "ATS·Greenhouse·stripe": 4,
       "ATS·Greenhouse·asana": 3,
@@ -2411,7 +2386,7 @@
       "ATS·Greenhouse·gitlab": 1
     },
     "salaries": [],
-    "total": 61,
+    "total": 62,
     "prev": {
       "week": "2026-W45",
       "companies": {
