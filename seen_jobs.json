@@ -1937,6 +1937,12 @@
       "score": 60,
       "seen_at": "2026-11-13T00:49:24",
       "key": "director product security psirt | okta"
+    },
+    "9992da8d790d8a44278e2f86": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 70,
+      "seen_at": "2026-11-13T15:34:55",
+      "key": "enterprise security sales specialist | datadog"
     }
   },
   "keys": {
@@ -2133,7 +2139,7 @@
     "chef de projet f h | sofrecom maroc": "f82e9c85377d0bbda17fe8e8",
     "developpeur java spring angular | alten maroc": "c9441f84b9d4f4dbedf72d45",
     "senior systems engineer browser isolation | cloudflare": "fc2259469f738b6b2b35589b",
-    "enterprise security sales specialist | datadog": "5daae2a4114bb48d1d6be881",
+    "enterprise security sales specialist | datadog": "9992da8d790d8a44278e2f86",
     "senior software engineer query execution | mongodb": "4deb3ec7929609a245a28d73",
     "senior manager product design security | datadog": "6784b80a96d84a32798a4abe",
     "ingenieur devops frontend f h | sofrecom maroc": "7bc4cc24defbc67dc1261689",
@@ -2191,44 +2197,44 @@
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-13T07:20:14",
+      "last_run": "2026-11-13T15:30:07",
       "last_error": "",
       "last_ok_count": 48
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-13T07:20:51",
-      "last_run": "2026-11-13T07:20:51",
+      "last_ok_at": "2026-11-13T15:30:50",
+      "last_run": "2026-11-13T15:30:50",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-13T07:22:28",
+      "last_run": "2026-11-13T15:32:27",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-13T07:24:05",
+      "last_run": "2026-11-13T15:34:04",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-13T07:24:05",
+      "last_run": "2026-11-13T15:34:04",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-13T07:24:53",
-      "last_run": "2026-11-13T07:24:53",
+      "last_ok_at": "2026-11-13T15:34:52",
+      "last_run": "2026-11-13T15:34:52",
       "last_error": "",
-      "last_ok_count": 1123
+      "last_ok_count": 1121
     }
   },
   "digest": {
@@ -2247,6 +2253,22 @@
         "reasons": [
           "security",
           "description: security"
+        ]
+      },
+      {
+        "title": "Enterprise Security Sales Specialist",
+        "company": "Datadog",
+        "url": "https://careers.datadoghq.com/detail/8237332/?gh_jid=8237332",
+        "date": "2026-10-27",
+        "location": "Chicago, Illinois, USA",
+        "description": "<p>As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog’s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers—expanding our footprint and helping customers modernize their security stack in the cloud.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p>&nbsp;</p> <p><strong>What You’ll Do:</strong></p> <ul> <li>Act as the subject matter expert (SME) for Datadog Security products across a targeted account patch</li> <li>Collaborate closely with Enterprise AEs to support net new logo acquisition and expansion in strategic accounts</li> <li>Own and drive the security sales cycle from discovery to technical close, working closely with Sales Engineers</li> <li>Evangelize Datadog’s security story to security leaders (CISO, Security Architects, SecOps)</li> <li>Work cross-functionally with Datadog's partner, channel, and alliance teams to drive joint go-to-market motions</li> <li>Co-sell effectively with AEs and partners, contributing to deal strategy, solution alignment, and stakeholder engagement</li> <li>Stay informed on security trends and competitive offerings to differentiate Datadog<br><br></li> </ul> <p><strong>Who You Are:</strong></p> <ul> <li>Proven success selling into security buyers (CISO, SecOps, GRC, etc.)</li> <li>Experience co-selling in a matrixed environment, supporting or partnering with AEs and cross-functional teams</li> <li>Strong understanding of the partner/channel sales model, including how to navigate and influence joint selling motions</li> <li>Familiarity with modern security solutions such as SIEM, CSPM, CWPP, container/Kubernetes security</li> <li>Ability to build strong relationships with internal stakeholders, partners, and customer technical teams</li> </ul> <p>&nbsp;</p> <p><em>Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you’re passionate about technology and want to grow your skills, we encourage you to apply.</em></p> <p>&nbsp;</p> <p><strong>Benefits and Growth:</strong></p> <ul> <li>High income earning opportunities based on self performance</li> <li>New hire stock equity (RSU) and employee stock purchase plan (ESPP)</li> <li>Continuous professional development, product training, and career pathing&nbsp;</li> <li>Sales training in MEDDIC and Command of the Message&nbsp;</li> <li>Intra-departmental mentor and buddy program for in-house networking&nbsp;</li> <li>An inclusive company culture, opportunity to join our Community Guilds</li> <li>Generous and competitive medical benefits package</li> <li>Retireme",
+        "salary": "",
+        "source": "ATS·Greenhouse·datadog",
+        "id": "9992da8d790d8a44278e2f86",
+        "score": 70,
+        "reasons": [
+          "security",
+          "description: cloud + kubernetes + security"
         ]
       }
     ],
