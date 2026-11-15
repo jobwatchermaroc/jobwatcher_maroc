@@ -1949,6 +1949,12 @@
       "score": 95,
       "seen_at": "2026-11-13T21:35:21",
       "key": "senior site reliability engineer agent engine | mongodb"
+    },
+    "f0d7c4eafd1392e85f9f856d": {
+      "source": "ATS·Greenhouse·gitlab",
+      "score": 50,
+      "seen_at": "2026-11-15T09:58:37",
+      "key": "customer success architect france | gitlab"
     }
   },
   "keys": {
@@ -2198,54 +2204,71 @@
     "integrateur devops f h | sofrecom maroc": "526881c1fe65d5886408cd54",
     "administrateur azure devops aks | akkodis maroc": "11d5de765f658cf406ca7c27",
     "director product security psirt | okta": "0535ce38872ce64bdec2c5be",
-    "senior site reliability engineer agent engine | mongodb": "2cb63898623c397e9e70725c"
+    "senior site reliability engineer agent engine | mongodb": "2cb63898623c397e9e70725c",
+    "customer success architect france | gitlab": "f0d7c4eafd1392e85f9f856d"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-05T09:53:49",
-      "last_run": "2026-11-15T02:40:45",
+      "last_ok_at": "2026-11-15T09:54:35",
+      "last_run": "2026-11-15T09:54:35",
       "last_error": "",
-      "last_ok_count": 48
+      "last_ok_count": 44
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-15T02:41:26",
-      "last_run": "2026-11-15T02:41:26",
+      "last_ok_at": "2026-11-15T09:55:09",
+      "last_run": "2026-11-15T09:55:09",
       "last_error": "",
       "last_ok_count": 36
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-15T02:43:03",
+      "last_run": "2026-11-15T09:56:46",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-11-05T09:57:30",
-      "last_run": "2026-11-15T02:44:40",
+      "last_ok_at": "2026-11-15T09:57:50",
+      "last_run": "2026-11-15T09:57:50",
       "last_error": "",
       "last_ok_count": 109
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-15T02:44:40",
+      "last_run": "2026-11-15T09:57:50",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-15T02:45:31",
-      "last_run": "2026-11-15T02:45:31",
+      "last_ok_at": "2026-11-15T09:58:35",
+      "last_run": "2026-11-15T09:58:35",
       "last_error": "",
       "last_ok_count": 1121
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Customer Success Architect, France",
+        "company": "GitLab",
+        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8937803002",
+        "date": "2026-11-15",
+        "location": "Remote, France",
+        "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2>An overview of this role</h2> <p>As a Customer Success Architect, you’ll sit at the intersection of business outcomes and technical excellence, helping customers align GitLab’s DevSecOps platform with their strategic goals. You’ll act as a trusted advisor to key accounts, using your deep understanding of Git, CI/CD, software development lifecycles, and DevSecOps practices to guide them through complex challenges and drive adoption, utilization, and maturity across the GitLab platform. You’ll own a book of customers, translate pre-sales command plans into actionable success plans, and partner closely with Customer Success, Product Management, Engineering, Sales, Support, and Professional Services to ensure issues are resolved, value is realized, and long-term relationships grow.</p> <p>In this role, you’ll focus on the themes of align, enable, and expand: aligning our solutions to customer objectives, enabling teams through hands-on technical onboarding and best-practice guidance, and expanding value as customers progress on their GitLab journey. In your first year, you’ll be expected to build strong, consultative relationships, increase product adoption and customer satisfaction within your accounts, and become the go-to liaison for questions, escalations, and roadmap conversations.</p> <h2>What you’ll do</h2> <ul> <li value=\"1\">Partner with customers to translate pre-sales command plans into clear, actionable objectives tied to their desired business outcomes.</li> <li value=\"2\">Guide cus",
+        "salary": "",
+        "source": "ATS·Greenhouse·gitlab",
+        "id": "f0d7c4eafd1392e85f9f856d",
+        "score": 50,
+        "reasons": [
+          "description: devsecops"
+        ]
+      }
+    ],
     "last_sent_date": "2026-11-13"
   },
   "market": {
@@ -2312,7 +2335,12 @@
       "11d5de765f658cf406ca7c27",
       "0535ce38872ce64bdec2c5be",
       "eb51db3e4dd9c5a642f3e357",
-      "2cb63898623c397e9e70725c"
+      "2cb63898623c397e9e70725c",
+      "78660a902eff8768f3d23cbf",
+      "af97816a2d1dc09c4d1726f0",
+      "3dc51c69ba9fbf2202e6952b",
+      "ca5c6b2a684c63b24757df22",
+      "f0d7c4eafd1392e85f9f856d"
     ],
     "companies": {
       "ALTEN Maroc": 2,
@@ -2334,12 +2362,13 @@
       "swile": 5,
       "veepee": 1,
       "Capgemini": 1,
-      "GitLab": 1,
-      "DXC - CDG": 1
+      "GitLab": 2,
+      "DXC - CDG": 1,
+      "Inconnu": 4
     },
     "skills": {
       "azure": 18,
-      "cloud": 28,
+      "cloud": 29,
       "cloud engineer": 2,
       "gcp": 11,
       "kubernetes": 14,
@@ -2348,17 +2377,17 @@
       "devops": 15,
       "aws": 16,
       "terraform": 13,
-      "ci/cd": 12,
+      "ci/cd": 13,
       "cloud architect": 1,
       "docker": 7,
       "gitlab ci": 1,
       "iam": 7,
       "infrastructure as code": 9,
       "zero trust": 7,
-      "security": 32,
+      "security": 35,
       "cloud security": 4,
       "cloud security engineer": 3,
-      "devsecops": 2,
+      "devsecops": 4,
       "security engineer": 17,
       "defender": 1,
       "defender for cloud": 1,
@@ -2383,10 +2412,11 @@
       "ATS·Greenhouse·duolingo": 3,
       "ATS·Lever·swile": 5,
       "ATS·Lever·veepee": 1,
-      "ATS·Greenhouse·gitlab": 1
+      "ATS·Greenhouse·gitlab": 2,
+      "Dreamjob": 4
     },
     "salaries": [],
-    "total": 62,
+    "total": 67,
     "prev": {
       "week": "2026-W45",
       "companies": {
