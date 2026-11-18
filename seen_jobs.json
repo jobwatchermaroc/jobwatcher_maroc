@@ -1967,6 +1967,12 @@
       "score": 100,
       "seen_at": "2026-11-18T16:35:30",
       "key": "engineering manager security | stripe"
+    },
+    "340dcb3fb69e86b56d20e411": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 60,
+      "seen_at": "2026-11-18T23:06:24",
+      "key": "senior software engineer cloud payments | mongodb"
     }
   },
   "keys": {
@@ -2219,72 +2225,56 @@
     "senior site reliability engineer agent engine | mongodb": "2cb63898623c397e9e70725c",
     "customer success architect france | gitlab": "f0d7c4eafd1392e85f9f856d",
     "software engineer platform engineering | twilio": "f3251c10abecc322912b5d48",
-    "engineering manager security | stripe": "57ae718d3cd49d906758630c"
+    "engineering manager security | stripe": "57ae718d3cd49d906758630c",
+    "senior software engineer cloud payments | mongodb": "340dcb3fb69e86b56d20e411"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-17T17:56:09",
-      "last_run": "2026-11-18T16:30:35",
+      "last_run": "2026-11-18T23:01:51",
       "last_error": "",
       "last_ok_count": 37
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-18T16:31:13",
-      "last_run": "2026-11-18T16:31:13",
+      "last_ok_at": "2026-11-18T23:02:19",
+      "last_run": "2026-11-18T23:02:19",
       "last_error": "",
       "last_ok_count": 37
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-18T16:32:51",
+      "last_run": "2026-11-18T23:03:56",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-17T17:59:15",
-      "last_run": "2026-11-18T16:34:31",
+      "last_run": "2026-11-18T23:05:32",
       "last_error": "",
       "last_ok_count": 111
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-18T16:34:31",
+      "last_run": "2026-11-18T23:05:32",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-18T16:35:27",
-      "last_run": "2026-11-18T16:35:27",
+      "last_ok_at": "2026-11-18T23:06:21",
+      "last_run": "2026-11-18T23:06:21",
       "last_error": "",
-      "last_ok_count": 1123
+      "last_ok_count": 1119
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Software Engineer - Platform Engineering",
-        "company": "Twilio",
-        "url": "https://job-boards.greenhouse.io/twilio/jobs/8385593",
-        "date": "2026-11-18",
-        "location": "Remote - US",
-        "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we’re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you’re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we’re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as Twilio's next Software Development Engineer 1 - Platform Engineering.</p> <p><strong>About the job</strong></p> <p>This position is needed to help operate, secure, and modernize Twilio's shared Kubernetes platform substrate (OTK, Segment, and ZipWhip EKS fleets) at scale.</p> <p>Join our Cloud Native Container Operations team as an entry-level platform engineer. You will help manage over 1,000 Kubernetes clusters, tackling real-world multi-cloud complexity. This high-impact role offers structured mentorship from senior engineers, hands-on experience with modern automation tools, and a direct path to improving platform reliability. It is the perfect environment to launch your career in infrastructure engineering at a massive scale.</p> <p><strong>Responsibilities</strong></p> <p>In this role, you'll:</p> <ul> <li>Assist in lifecycle management of cloud hosted Kubernetes platforms serving all of Twilio.</li> <li>Remediate container and kernel-level CVE vulnerabilities to keep the shared substrate secure.</li> <li>Write automation scripts in Go and Shell to streamline day-to-day cluster operations.</li> <li>Collaborate with senior engineers to deploy infrastructure changes safely using Terraform and GitOps.</li> <li>Troubleshoot basic platform issues, applying lessons learned to continuously improve system reliability.</li> </ul> <p><strong>Qualifications</strong></p> ",
-        "salary": "",
-        "source": "ATS·Greenhouse·twilio",
-        "id": "f3251c10abecc322912b5d48",
-        "score": 75,
-        "reasons": [
-          "platform engineer",
-          "description: cloud + kubernetes + terraform + platform engineer"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-11-15"
+    "buffer": [],
+    "last_sent_date": "2026-11-18"
   },
   "market": {
     "week": "2026-W47",
@@ -2341,7 +2331,8 @@
       "3dc51c69ba9fbf2202e6952b",
       "ca5c6b2a684c63b24757df22",
       "f3251c10abecc322912b5d48",
-      "57ae718d3cd49d906758630c"
+      "57ae718d3cd49d906758630c",
+      "340dcb3fb69e86b56d20e411"
     ],
     "companies": {
       "Akkodis Maroc": 2,
@@ -2356,7 +2347,7 @@
       "GitLab": 2,
       "Datadog": 4,
       "Okta": 2,
-      "MongoDB": 4,
+      "MongoDB": 5,
       "Twilio": 2,
       "Asana": 3,
       "Figma": 1,
@@ -2370,7 +2361,7 @@
     "skills": {
       "azure": 15,
       "azure devops": 4,
-      "cloud": 27,
+      "cloud": 28,
       "devops": 12,
       "kubernetes": 13,
       "aws": 12,
@@ -2405,7 +2396,7 @@
       "ATS·Greenhouse·gitlab": 2,
       "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·okta": 2,
-      "ATS·Greenhouse·mongodb": 4,
+      "ATS·Greenhouse·mongodb": 5,
       "ATS·Greenhouse·twilio": 2,
       "ATS·Greenhouse·asana": 3,
       "ATS·Greenhouse·figma": 1,
@@ -2417,7 +2408,7 @@
       "ATS·Greenhouse·stripe": 1
     },
     "salaries": [],
-    "total": 53,
+    "total": 54,
     "prev": {
       "week": "2026-W46",
       "companies": {
