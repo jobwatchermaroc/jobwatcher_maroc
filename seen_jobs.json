@@ -1973,6 +1973,24 @@
       "score": 60,
       "seen_at": "2026-11-18T23:06:24",
       "key": "senior software engineer cloud payments | mongodb"
+    },
+    "2a6c82f339f483edee4b3d1e": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-11-19T12:52:11",
+      "key": "administrateur bases de donnees elastic cloud h f | afd tech"
+    },
+    "f7f8316aa30855bbaf8c26c4": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-11-19T12:52:11",
+      "key": "lead sailpoint iam iga h f | afd tech"
+    },
+    "91b07e1025a56ae35b0bd8ed": {
+      "source": "Rekrute",
+      "score": 65,
+      "seen_at": "2026-11-19T12:52:11",
+      "key": "reseau cloud senior expert | afd tech"
     }
   },
   "keys": {
@@ -2226,54 +2244,74 @@
     "customer success architect france | gitlab": "f0d7c4eafd1392e85f9f856d",
     "software engineer platform engineering | twilio": "f3251c10abecc322912b5d48",
     "engineering manager security | stripe": "57ae718d3cd49d906758630c",
-    "senior software engineer cloud payments | mongodb": "340dcb3fb69e86b56d20e411"
+    "senior software engineer cloud payments | mongodb": "340dcb3fb69e86b56d20e411",
+    "administrateur bases de donnees elastic cloud h f | afd tech": "2a6c82f339f483edee4b3d1e",
+    "lead sailpoint iam iga h f | afd tech": "f7f8316aa30855bbaf8c26c4",
+    "reseau cloud senior expert | afd tech": "91b07e1025a56ae35b0bd8ed"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-17T17:56:09",
-      "last_run": "2026-11-19T04:02:33",
+      "last_run": "2026-11-19T12:47:44",
       "last_error": "",
       "last_ok_count": 37
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-19T04:03:05",
-      "last_run": "2026-11-19T04:03:05",
+      "last_ok_at": "2026-11-19T12:48:11",
+      "last_run": "2026-11-19T12:48:11",
       "last_error": "",
-      "last_ok_count": 37
+      "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-19T04:04:42",
+      "last_run": "2026-11-19T12:49:49",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-17T17:59:15",
-      "last_run": "2026-11-19T04:06:19",
+      "last_run": "2026-11-19T12:51:26",
       "last_error": "",
       "last_ok_count": 111
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-19T04:06:19",
+      "last_run": "2026-11-19T12:51:26",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-19T04:07:10",
-      "last_run": "2026-11-19T04:07:10",
+      "last_ok_at": "2026-11-19T12:52:11",
+      "last_run": "2026-11-19T12:52:11",
       "last_error": "",
-      "last_ok_count": 1119
+      "last_ok_count": 1117
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Réseau & Cloud Senior / Expert",
+        "company": "AFD.Tech",
+        "url": "https://www.rekrute.com/offre-emploi-reseau-cloud-senior-expert-recrutement-afd.tech-rabat-188619.html",
+        "date": "19/11/2026",
+        "location": "Rabat (Maroc)",
+        "description": "formation bac+5 en réseaux, cloud , infrastructure, cybersécurité ou équivalent.",
+        "source": "Rekrute",
+        "offer_id": "188619",
+        "id": "91b07e1025a56ae35b0bd8ed",
+        "score": 65,
+        "reasons": [
+          "cloud",
+          "description: cloud"
+        ]
+      }
+    ],
     "last_sent_date": "2026-11-18"
   },
   "market": {
@@ -2332,7 +2370,10 @@
       "ca5c6b2a684c63b24757df22",
       "f3251c10abecc322912b5d48",
       "57ae718d3cd49d906758630c",
-      "340dcb3fb69e86b56d20e411"
+      "340dcb3fb69e86b56d20e411",
+      "2a6c82f339f483edee4b3d1e",
+      "f7f8316aa30855bbaf8c26c4",
+      "91b07e1025a56ae35b0bd8ed"
     ],
     "companies": {
       "Akkodis Maroc": 2,
@@ -2356,28 +2397,29 @@
       "swile": 2,
       "veepee": 1,
       "Inconnu": 4,
-      "Stripe": 1
+      "Stripe": 1,
+      "AFD.Tech": 3
     },
     "skills": {
-      "azure": 15,
+      "azure": 16,
       "azure devops": 4,
-      "cloud": 28,
+      "cloud": 31,
       "devops": 12,
       "kubernetes": 13,
-      "aws": 12,
+      "aws": 13,
       "devops engineer": 2,
       "cloud engineer": 2,
-      "gcp": 11,
+      "gcp": 12,
       "sre": 5,
       "terraform": 13,
       "ci/cd": 12,
       "cloud architect": 1,
       "docker": 5,
       "gitlab ci": 1,
-      "iam": 6,
+      "iam": 7,
       "infrastructure as code": 8,
       "zero trust": 7,
-      "security": 27,
+      "security": 28,
       "cloud security": 5,
       "cloud security engineer": 3,
       "devsecops": 4,
@@ -2388,10 +2430,11 @@
       "sase": 2,
       "site reliability": 5,
       "platform engineer": 5,
-      "identity and access management": 2
+      "identity and access management": 2,
+      "security cloud": 1
     },
     "sources": {
-      "Rekrute": 16,
+      "Rekrute": 19,
       "ATS·Greenhouse·cloudflare": 4,
       "ATS·Greenhouse·gitlab": 2,
       "ATS·Greenhouse·datadog": 4,
@@ -2408,7 +2451,7 @@
       "ATS·Greenhouse·stripe": 1
     },
     "salaries": [],
-    "total": 54,
+    "total": 57,
     "prev": {
       "week": "2026-W46",
       "companies": {
@@ -2570,7 +2613,7 @@
     "afd.tech": {
       "domain": "",
       "emails": [],
-      "updated_at": "2026-09-07T10:39:43"
+      "updated_at": "2026-11-19T12:52:58"
     },
     "cgi technologies et solutions maroc": {
       "domain": "cgi.com",
