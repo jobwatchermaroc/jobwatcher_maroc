@@ -2003,6 +2003,24 @@
       "score": 70,
       "seen_at": "2026-11-20T02:08:32",
       "key": "manager client platform engineering | mongodb"
+    },
+    "29012cf3af675dc641b65f17": {
+      "source": "Dreamjob API",
+      "score": 100,
+      "seen_at": "2026-11-20T10:00:38",
+      "key": "8 offres d 8217 emploi chez eos it outsourcing pour des ingenieurs cloud devops et bi"
+    },
+    "66bce95b9409453999441e3b": {
+      "source": "Dreamjob API",
+      "score": 100,
+      "seen_at": "2026-11-20T10:00:38",
+      "key": "2 offres d 8217 emploi chez akkodis morocco a casablanca et tanger en cloud azure et douane"
+    },
+    "ad5d094fb55983ba0687d6d4": {
+      "source": "Rekrute",
+      "score": 90,
+      "seen_at": "2026-11-20T10:00:38",
+      "key": "administrateur systemes cloud microsoft 365 | hyundai global engines"
     }
   },
   "keys": {
@@ -2260,50 +2278,53 @@
     "administrateur bases de donnees elastic cloud h f | afd tech": "2a6c82f339f483edee4b3d1e",
     "lead sailpoint iam iga h f | afd tech": "f7f8316aa30855bbaf8c26c4",
     "reseau cloud senior expert | afd tech": "91b07e1025a56ae35b0bd8ed",
-    "professional services consultant application security | cloudflare": "da228aa9db2147698a9fd597"
+    "professional services consultant application security | cloudflare": "da228aa9db2147698a9fd597",
+    "8 offres d 8217 emploi chez eos it outsourcing pour des ingenieurs cloud devops et bi": "29012cf3af675dc641b65f17",
+    "2 offres d 8217 emploi chez akkodis morocco a casablanca et tanger en cloud azure et douane": "66bce95b9409453999441e3b",
+    "administrateur systemes cloud microsoft 365 | hyundai global engines": "ad5d094fb55983ba0687d6d4"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-17T17:56:09",
-      "last_run": "2026-11-20T02:03:48",
+      "last_ok_at": "2026-11-20T09:56:37",
+      "last_run": "2026-11-20T09:56:37",
       "last_error": "",
-      "last_ok_count": 37
+      "last_ok_count": 64
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-20T02:04:26",
-      "last_run": "2026-11-20T02:04:26",
+      "last_ok_at": "2026-11-20T09:57:18",
+      "last_run": "2026-11-20T09:57:18",
       "last_error": "",
-      "last_ok_count": 40
+      "last_ok_count": 41
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-20T02:06:04",
+      "last_run": "2026-11-20T09:58:55",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-11-17T17:59:15",
-      "last_run": "2026-11-20T02:07:41",
+      "last_ok_at": "2026-11-20T09:59:45",
+      "last_run": "2026-11-20T09:59:45",
       "last_error": "",
       "last_ok_count": 111
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-20T02:07:41",
+      "last_run": "2026-11-20T09:59:45",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-20T02:08:31",
-      "last_run": "2026-11-20T02:08:31",
+      "last_ok_at": "2026-11-20T10:00:38",
+      "last_run": "2026-11-20T10:00:38",
       "last_error": "",
-      "last_ok_count": 1118
+      "last_ok_count": 1120
     }
   },
   "digest": {
@@ -2403,7 +2424,10 @@
       "2a6c82f339f483edee4b3d1e",
       "f7f8316aa30855bbaf8c26c4",
       "91b07e1025a56ae35b0bd8ed",
-      "da228aa9db2147698a9fd597"
+      "da228aa9db2147698a9fd597",
+      "29012cf3af675dc641b65f17",
+      "66bce95b9409453999441e3b",
+      "ad5d094fb55983ba0687d6d4"
     ],
     "companies": {
       "Akkodis Maroc": 2,
@@ -2426,15 +2450,16 @@
       "Duolingo": 2,
       "swile": 2,
       "veepee": 1,
-      "Inconnu": 4,
+      "Inconnu": 6,
       "Stripe": 1,
-      "AFD.Tech": 3
+      "AFD.Tech": 3,
+      "Hyundai (Global Engines)": 1
     },
     "skills": {
-      "azure": 16,
+      "azure": 18,
       "azure devops": 4,
-      "cloud": 31,
-      "devops": 12,
+      "cloud": 34,
+      "devops": 13,
       "kubernetes": 13,
       "aws": 13,
       "devops engineer": 2,
@@ -2464,7 +2489,7 @@
       "security cloud": 1
     },
     "sources": {
-      "Rekrute": 19,
+      "Rekrute": 20,
       "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·gitlab": 2,
       "ATS·Greenhouse·datadog": 4,
@@ -2478,10 +2503,11 @@
       "ATS·Lever·swile": 2,
       "ATS·Lever·veepee": 1,
       "Dreamjob": 4,
-      "ATS·Greenhouse·stripe": 1
+      "ATS·Greenhouse·stripe": 1,
+      "Dreamjob API": 2
     },
     "salaries": [],
-    "total": 58,
+    "total": 61,
     "prev": {
       "week": "2026-W46",
       "companies": {
@@ -2684,6 +2710,11 @@
       "domain": "dxc.com",
       "emails": [],
       "updated_at": "2026-11-10T17:48:06"
+    },
+    "hyundai (global engines)": {
+      "domain": "hyundai.ma",
+      "emails": [],
+      "updated_at": "2026-11-20T10:00:55"
     }
   }
 }
