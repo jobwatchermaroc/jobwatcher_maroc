@@ -1991,6 +1991,18 @@
       "score": 65,
       "seen_at": "2026-11-19T12:52:11",
       "key": "reseau cloud senior expert | afd tech"
+    },
+    "da228aa9db2147698a9fd597": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 60,
+      "seen_at": "2026-11-20T02:08:31",
+      "key": "professional services consultant application security | cloudflare"
+    },
+    "eb51db3e4dd9c5a642f3e357": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 70,
+      "seen_at": "2026-11-20T02:08:32",
+      "key": "manager client platform engineering | mongodb"
     }
   },
   "keys": {
@@ -2199,7 +2211,7 @@
     "security engineer bridge | stripe": "0506de80c2e9581ad49900a0",
     "staff software engineer iam control plane | stripe": "dda9bd077de58037d0938e55",
     "staff security risk analyst | okta": "84b9910e59102dd19c459e29",
-    "manager client platform engineering | mongodb": "b13ad350ecced5b1d4c854c3",
+    "manager client platform engineering | mongodb": "eb51db3e4dd9c5a642f3e357",
     "group product manager code security | datadog": "1501903dc5e4b1b97b1d2526",
     "regional manager sales engineering ai accounts | datadog": "10e6eb640183462c452bebb9",
     "customer security compliance specialist | cloudflare": "3f3567416968e1462dc4ecbb",
@@ -2247,54 +2259,88 @@
     "senior software engineer cloud payments | mongodb": "340dcb3fb69e86b56d20e411",
     "administrateur bases de donnees elastic cloud h f | afd tech": "2a6c82f339f483edee4b3d1e",
     "lead sailpoint iam iga h f | afd tech": "f7f8316aa30855bbaf8c26c4",
-    "reseau cloud senior expert | afd tech": "91b07e1025a56ae35b0bd8ed"
+    "reseau cloud senior expert | afd tech": "91b07e1025a56ae35b0bd8ed",
+    "professional services consultant application security | cloudflare": "da228aa9db2147698a9fd597"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-17T17:56:09",
-      "last_run": "2026-11-19T21:00:11",
+      "last_run": "2026-11-20T02:03:48",
       "last_error": "",
       "last_ok_count": 37
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-19T21:00:48",
-      "last_run": "2026-11-19T21:00:48",
+      "last_ok_at": "2026-11-20T02:04:26",
+      "last_run": "2026-11-20T02:04:26",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-19T21:02:25",
+      "last_run": "2026-11-20T02:06:04",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-17T17:59:15",
-      "last_run": "2026-11-19T21:04:04",
+      "last_run": "2026-11-20T02:07:41",
       "last_error": "",
       "last_ok_count": 111
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-19T21:04:04",
+      "last_run": "2026-11-20T02:07:41",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-19T21:05:14",
-      "last_run": "2026-11-19T21:05:14",
+      "last_ok_at": "2026-11-20T02:08:31",
+      "last_run": "2026-11-20T02:08:31",
       "last_error": "",
       "last_ok_count": 1118
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Professional Services Consultant, Application Security",
+        "company": "Cloudflare",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8393924?gh_jid=8393924",
+        "date": "2026-11-19",
+        "location": "Hybrid",
+        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><p><strong>Available Locations:</strong></p> <ul> <li><strong>San Francisco Bay Area</strong></li> <li><strong>Austin, TX</strong></li> <li><strong>Washington DC</strong></li> <li><strong>New York, NY</strong></li> </ul> <p><strong>About the role:</strong></p> <p>Cloudflare provides advisory and hands-on-keyboard implementation and migration services for enterprise customers. As an Professional Services Consultant for Application Security and Performance, you are an individual contributor working in the post-sales landscape, responsible for the technical execution of solutions and guidance to our customers to get the most value possible from their Cloudflare investment. You are an expert in Layer 7 products like: DDoS Protection, WAF, API Gateway, Bot Management, Certificates Manager, Rate Limiting, SSL and Page Shield.</p> <p>This position has working hours Monday to Friday 09:00 a.m. to 06:00 p.m. Occasionally, we support our customers during the weekends for specific changes that need to be done outside of their business hours. Travel is expected at 30%.</p> <p><strong>What you will do:</strong></p> <ul> <li>Plan and deliver timely and organized services for customers, ensure customers see the full value in Cloudflare’s products and advice on product best practices.</li> <li>Gather business and technical requirements, use cases and any other information required to build, migr",
+        "salary": "",
+        "source": "ATS·Greenhouse·cloudflare",
+        "id": "da228aa9db2147698a9fd597",
+        "score": 60,
+        "reasons": [
+          "security",
+          "description: security"
+        ]
+      },
+      {
+        "title": "Manager, Client Platform Engineering",
+        "company": "MongoDB",
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=8384766",
+        "date": "2026-11-12",
+        "location": "Los Angeles; Phoenix; San Diego; Seattle",
+        "description": "<p>We are looking for a Manager, Client Platform Engineering to own MongoDB's endpoint platform worldwide. You'll lead a globally distributed team responsible for macOS, Windows, and Linux endpoints, mobile device and application management, zero-touch provisioning, on-time operating system and patch delivery, and the endpoint telemetry that tells us how the fleet is performing for the people using it. You'll partner with InfoSec to harden the endpoint estate, and build and grow a team of passionate, curious experts in this space. This role combines deep hands-on end user computing expertise with the people leadership and judgment to set technical direction and communicate risk and strategy to stakeholders.</p> <h3>What You'll Do</h3> <ul> <li>&nbsp; Own the worldwide endpoint architecture and roadmap for macOS, Windows, Linux, and mobile, including management platform strategy, configuration-as-code, application packaging and self-service, and zero-touch provisioning</li> <li>&nbsp; Lead the release calendar and deployment ring strategy for every endpoint operating system, delivering major and minor updates on time to a published compliance target, with tested rollback and a clear exception path</li> <li>&nbsp; Administer and evolve MongoDB's endpoint management stack across MDM and UEM platforms, including declarative device management (DDM) on macOS and Windows Autopilot and Autopatch on Windows 11</li> <li>&nbsp; Own mobile strategy end to end for corporate-owned and BYOD devices across iOS and Android, balancing data protection against an enrollment experience employees will accept MDM where enrollment is appropriate, MAM and app protection policies where it is not</li> <li>&nbsp; Build and operate MongoDB's Endpoint Digital Employee Experience program: instrument the fleet, define the DEX metrics and SLOs we hold ourselves to, and drive proactive remediation that resolves issues before employees notice them</li> <li>&nbsp; Partner with InfoSec to implement and continuously improve endpoint security controls, including hardening baselines, patch and vulnerability remediation SLAs, disk encryption and key escrow coverage, device trust, and Conditional Access</li> <li>&nbsp; Serve as a senior technical escalation point (L3) for complex endpoint issues across the organization</li> <li>&nbsp; Build automation to reduce manual endpoint operations work and improve reliability and observability, holding the team to configuration-as-code, peer review, and staged rollout</li> <li>&nbsp; Act as a technical advisor for MongoDB's relationships with endpoint management, DEX, and hardware vendors, and own the endpoint tooling and licensing budget</li> <li>&nbsp; Hire, coach, and retain a globally distributed team of EUC engineers, and contribute to a culture of technical excellence and self-service</li> </ul> <h3>Responsibilities</h3> <ul> <li>&nbsp; Ensure MongoDB's global endpoint fleet remains reliable, secure, compliant, and scalable across every plat",
+        "salary": "",
+        "source": "ATS·Greenhouse·mongodb",
+        "id": "eb51db3e4dd9c5a642f3e357",
+        "score": 70,
+        "reasons": [
+          "platform engineer",
+          "description: security + platform engineer"
+        ]
+      }
+    ],
     "last_sent_date": "2026-11-19"
   },
   "market": {
@@ -2356,7 +2402,8 @@
       "340dcb3fb69e86b56d20e411",
       "2a6c82f339f483edee4b3d1e",
       "f7f8316aa30855bbaf8c26c4",
-      "91b07e1025a56ae35b0bd8ed"
+      "91b07e1025a56ae35b0bd8ed",
+      "da228aa9db2147698a9fd597"
     ],
     "companies": {
       "Akkodis Maroc": 2,
@@ -2367,7 +2414,7 @@
       "AXA GBS Morocco": 2,
       "Sofrecom Maroc": 3,
       "CGI Technologies et Solutions Maroc": 1,
-      "Cloudflare": 4,
+      "Cloudflare": 5,
       "GitLab": 2,
       "Datadog": 4,
       "Okta": 2,
@@ -2402,7 +2449,7 @@
       "iam": 7,
       "infrastructure as code": 8,
       "zero trust": 7,
-      "security": 28,
+      "security": 29,
       "cloud security": 5,
       "cloud security engineer": 3,
       "devsecops": 4,
@@ -2418,7 +2465,7 @@
     },
     "sources": {
       "Rekrute": 19,
-      "ATS·Greenhouse·cloudflare": 4,
+      "ATS·Greenhouse·cloudflare": 5,
       "ATS·Greenhouse·gitlab": 2,
       "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·okta": 2,
@@ -2434,7 +2481,7 @@
       "ATS·Greenhouse·stripe": 1
     },
     "salaries": [],
-    "total": 57,
+    "total": 58,
     "prev": {
       "week": "2026-W46",
       "companies": {
