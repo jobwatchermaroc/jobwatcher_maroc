@@ -2454,44 +2454,44 @@
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-25T00:37:24",
-      "last_run": "2026-11-25T00:37:24",
+      "last_run": "2026-11-25T09:03:56",
       "last_error": "",
       "last_ok_count": 41
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-25T00:37:54",
-      "last_run": "2026-11-25T00:37:54",
+      "last_ok_at": "2026-11-25T09:04:44",
+      "last_run": "2026-11-25T09:04:44",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-25T00:39:31",
+      "last_run": "2026-11-25T09:06:25",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-25T00:40:57",
-      "last_run": "2026-11-25T00:40:57",
+      "last_run": "2026-11-25T09:08:03",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-25T00:40:57",
+      "last_run": "2026-11-25T09:08:03",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-25T00:41:44",
-      "last_run": "2026-11-25T00:41:44",
+      "last_ok_at": "2026-11-25T09:08:54",
+      "last_run": "2026-11-25T09:08:54",
       "last_error": "",
-      "last_ok_count": 1127
+      "last_ok_count": 1128
     }
   },
   "digest": {
@@ -2668,7 +2668,8 @@
       "5d660da171b3f76d7e59e11c",
       "031601d2c6479df42e30a7a0",
       "c25898feccdcc8af82a7f59a",
-      "35adf3b480a8733f0659d9ea"
+      "35adf3b480a8733f0659d9ea",
+      "27ebb71bbd5ecdcbfb53b1dd"
     ],
     "companies": {
       "Inconnu": 7,
@@ -2694,7 +2695,7 @@
       "Discord": 5,
       "Duolingo": 2,
       "swile": 2,
-      "veepee": 1,
+      "veepee": 2,
       "DXC - CDG": 2,
       "Proton": 3,
       "CRIT": 1,
@@ -2713,7 +2714,7 @@
       "kubernetes": 14,
       "devops engineer": 3,
       "cloud engineer": 3,
-      "sre": 5,
+      "sre": 6,
       "security cloud": 1,
       "docker": 6,
       "infrastructure as code": 8,
@@ -2748,11 +2749,11 @@
       "ATS·Greenhouse·discord": 5,
       "ATS·Greenhouse·duolingo": 2,
       "ATS·Lever·swile": 2,
-      "ATS·Lever·veepee": 1,
+      "ATS·Lever·veepee": 2,
       "ATS·Greenhouse·proton": 3
     },
     "salaries": [],
-    "total": 75,
+    "total": 76,
     "prev": {
       "week": "2026-W47",
       "companies": {
