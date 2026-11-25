@@ -2147,6 +2147,24 @@
       "score": 75,
       "seen_at": "2026-11-24T16:14:56",
       "key": "site reliability engineer vpn | proton"
+    },
+    "031601d2c6479df42e30a7a0": {
+      "source": "Dreamjob API",
+      "score": 100,
+      "seen_at": "2026-11-25T00:41:44",
+      "key": "exmc renforce ses equipes avec 2 profils en iam et pilotage a rabat et sale"
+    },
+    "c25898feccdcc8af82a7f59a": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-11-25T00:41:44",
+      "key": "developpeur ingenieur software ia | orange business"
+    },
+    "35adf3b480a8733f0659d9ea": {
+      "source": "ATS·Greenhouse·mongodb",
+      "score": 60,
+      "seen_at": "2026-11-25T00:41:46",
+      "key": "senior manager workplace operations safety security | mongodb"
     }
   },
   "keys": {
@@ -2427,50 +2445,53 @@
     "architecte cloud aws | dxc cdg": "2087e8b285237d9c48c348a7",
     "developpeur se systemes d information junior confirme | crit": "9c9cdddbc2470c1265ccd165",
     "senior site reliability engineer kubernetes aws | okta": "b62bd5aa0ed2ee47ee8587da",
-    "site reliability engineer vpn | proton": "55a6ae7cb5b913ffdb5f5758"
+    "site reliability engineer vpn | proton": "55a6ae7cb5b913ffdb5f5758",
+    "exmc renforce ses equipes avec 2 profils en iam et pilotage a rabat et sale": "031601d2c6479df42e30a7a0",
+    "developpeur ingenieur software ia | orange business": "c25898feccdcc8af82a7f59a",
+    "senior manager workplace operations safety security | mongodb": "35adf3b480a8733f0659d9ea"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-23T01:29:50",
-      "last_run": "2026-11-24T16:10:00",
+      "last_ok_at": "2026-11-25T00:37:24",
+      "last_run": "2026-11-25T00:37:24",
       "last_error": "",
-      "last_ok_count": 29
+      "last_ok_count": 41
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-24T16:10:50",
-      "last_run": "2026-11-24T16:10:50",
+      "last_ok_at": "2026-11-25T00:37:54",
+      "last_run": "2026-11-25T00:37:54",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-24T16:12:27",
+      "last_run": "2026-11-25T00:39:31",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-11-23T01:33:28",
-      "last_run": "2026-11-24T16:14:04",
+      "last_ok_at": "2026-11-25T00:40:57",
+      "last_run": "2026-11-25T00:40:57",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-24T16:14:04",
+      "last_run": "2026-11-25T00:40:57",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-24T16:14:53",
-      "last_run": "2026-11-24T16:14:53",
+      "last_ok_at": "2026-11-25T00:41:44",
+      "last_run": "2026-11-25T00:41:44",
       "last_error": "",
-      "last_ok_count": 1128
+      "last_ok_count": 1127
     }
   },
   "digest": {
@@ -2534,6 +2555,37 @@
         "reasons": [
           "site reliability",
           "description: security + site reliability"
+        ]
+      },
+      {
+        "title": "Développeur / Ingénieur Software & IA",
+        "company": "Orange Business",
+        "url": "https://www.rekrute.com/offre-emploi-developpeur-ingenieur-software-ia-recrutement-orange-business-casablanca-188855.html",
+        "date": "24/11/2026",
+        "location": "Casablanca (Maroc)",
+        "description": "• backend : bonne maîtrise de python, fastapi, pydantic, sqlalchemy / alembic et des principes de développement backend • données : postgresql, compréhension des architectures web, des api rest et des bases de données relationnelles • ia / genai : scikit-learn, pytorch, langchain (ou équivalent), llm, rag, agents ia ; connaissance ou intérêt marqué pour l’ia générative • frontend (plus) : angular / typescript • devops / cloud : git, docker, ci/cd, microsoft azure (plus), datadog ou solution équivalente de monitoring • qualité et sécurité : sensibilité à la qualité logicielle, aux tests, à la sécurité et à l’industrialisation • savoir-être : curiosité technique, rigueur, autonomie et prise en charge d’un sujet de bout en bout, esprit d’équipe et revues de code, bonne communication avec des interlocuteurs techniques et métiers, compréhension du besoin utilisateur avant de proposer une solution",
+        "source": "Rekrute",
+        "offer_id": "188855",
+        "id": "c25898feccdcc8af82a7f59a",
+        "score": 50,
+        "reasons": [
+          "description: azure"
+        ]
+      },
+      {
+        "title": "Senior Manager, Workplace Operations, Safety & Security",
+        "company": "MongoDB",
+        "url": "https://www.mongodb.com/careers/job/?gh_jid=8412160",
+        "date": "2026-11-24",
+        "location": "Palo Alto",
+        "description": "<h3>About the Role</h3> <p>MongoDB is hiring a Senior Manager within our Workplace function, part of the Americas Employee Experience department. You will run day-to-day facilities operations for our West Coast offices, create the events strategy that supports our hybrid work model, and lead workplace health, safety, physical security, and business continuity for the region. The goal is safe, secure, welcoming workplaces and an engaging employee experience. You will also manage a team of Workplace Coordinators across the West Coast office.&nbsp;</p> <p>You will act as the senior regional/site operator balancing everyday workplace vitality with enterprise resilience. By partnering with global Workplace counterparts, Real Estate, IT, People, Legal, and executive site sponsors, you will ensure our spaces are safe, legally compliant, operationally sound, and supportive of a dynamic hybrid workforce. We are looking for a proactive, collaborative communicator who can drive change and combine sound technical knowledge with practical judgement.</p> <h3>Key Responsibilities</h3> <h3>People Leadership &amp; Operational Excellence</h3> <ul> <li>Lead, mentor, and develop a distributed team of Workplace Managers and Coordinators across regional sites, fostering operational rigor, customer-first service, and proactive risk management.</li> <li>Set regional operational objectives, SLAs, and performance KPIs; coach the team on complex vendor escalations, budget governance, and cross-functional partner management.</li> <li>Build and maintain physical safety, security awareness, and inclusive hospitality best practices across all regional sites.</li> </ul> <h3>Facilities and Workplace Operations</h3> <ul> <li>Oversee daily facilities operations across offices, including space planning, janitorial, HVAC, food services, sustainability practices and partnerships and prompt resolution of maintenance issues.</li> <li>Own key local vendor relationships and escalations; review of vendor contracts and renewals, manage vendor RFPs, approve invoices and manage service requests and operating costs within budget.</li> <li>Use data and workplace technology to improve space planning, seating, and operational efficiency.</li> <li>Measure service delivery effectiveness through SLA, Pulse, Utilization and other metric driven analysis.</li> <li>Own the regional operational budget (OPEX); review and approve vendor invoices, forecast site operating costs, and identify efficiency opportunities.</li> </ul> <h3>Events and Employee Experience</h3> <ul> <li>Support West Coast executive events roadmap in partnership with executive support, marketing, CTD and AV/IT teams; including town halls, QBRs, offsites, and ERG sponsored events.</li> <li>Partner with the Community and Events team and the West Coast Site Leadership Committee to maintain the site events calendar, sponsor, promote and lead key community building events.</li> <li>Operationalize hybrid work at scale, using data to drive co",
+        "salary": "",
+        "source": "ATS·Greenhouse·mongodb",
+        "id": "35adf3b480a8733f0659d9ea",
+        "score": 60,
+        "reasons": [
+          "security",
+          "description: security"
         ]
       }
     ],
@@ -2613,10 +2665,13 @@
       "9c9cdddbc2470c1265ccd165",
       "b62bd5aa0ed2ee47ee8587da",
       "55a6ae7cb5b913ffdb5f5758",
-      "5d660da171b3f76d7e59e11c"
+      "5d660da171b3f76d7e59e11c",
+      "031601d2c6479df42e30a7a0",
+      "c25898feccdcc8af82a7f59a",
+      "35adf3b480a8733f0659d9ea"
     ],
     "companies": {
-      "Inconnu": 6,
+      "Inconnu": 7,
       "Excel Management Conseil": 1,
       "AFD.Tech": 3,
       "Akkodis Maroc": 2,
@@ -2631,7 +2686,7 @@
       "GitLab": 3,
       "Datadog": 4,
       "Okta": 2,
-      "MongoDB": 4,
+      "MongoDB": 5,
       "Twilio": 3,
       "Stripe": 2,
       "Asana": 3,
@@ -2642,27 +2697,28 @@
       "veepee": 1,
       "DXC - CDG": 2,
       "Proton": 3,
-      "CRIT": 1
+      "CRIT": 1,
+      "Orange Business": 1
     },
     "skills": {
-      "security": 38,
-      "azure": 22,
+      "security": 39,
+      "azure": 23,
       "azure ad": 1,
-      "iam": 10,
+      "iam": 11,
       "aws": 15,
-      "cloud": 43,
+      "cloud": 44,
       "gcp": 17,
       "azure devops": 5,
-      "devops": 17,
+      "devops": 18,
       "kubernetes": 14,
       "devops engineer": 3,
       "cloud engineer": 3,
       "sre": 5,
       "security cloud": 1,
-      "docker": 5,
+      "docker": 6,
       "infrastructure as code": 8,
       "terraform": 15,
-      "ci/cd": 13,
+      "ci/cd": 14,
       "cloud architect": 2,
       "gitlab ci": 1,
       "zero trust": 9,
@@ -2677,14 +2733,14 @@
       "identity and access management": 2
     },
     "sources": {
-      "Dreamjob API": 1,
-      "Rekrute": 24,
+      "Dreamjob API": 2,
+      "Rekrute": 25,
       "Dreamjob": 5,
       "ATS·Greenhouse·cloudflare": 7,
       "ATS·Greenhouse·gitlab": 3,
       "ATS·Greenhouse·datadog": 4,
       "ATS·Greenhouse·okta": 2,
-      "ATS·Greenhouse·mongodb": 4,
+      "ATS·Greenhouse·mongodb": 5,
       "ATS·Greenhouse·twilio": 3,
       "ATS·Greenhouse·stripe": 2,
       "ATS·Greenhouse·asana": 3,
@@ -2696,7 +2752,7 @@
       "ATS·Greenhouse·proton": 3
     },
     "salaries": [],
-    "total": 72,
+    "total": 75,
     "prev": {
       "week": "2026-W47",
       "companies": {
