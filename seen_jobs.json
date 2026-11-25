@@ -2165,6 +2165,30 @@
       "score": 60,
       "seen_at": "2026-11-25T00:41:46",
       "key": "senior manager workplace operations safety security | mongodb"
+    },
+    "2289da94121a7193aeadf10e": {
+      "source": "Rekrute",
+      "score": 75,
+      "seen_at": "2026-11-25T19:12:37",
+      "key": "developpeur si senior expert h f | crit"
+    },
+    "f03e13b813b9a8dbbbe4f1b5": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-11-25T19:12:37",
+      "key": "expert data | dxc cdg"
+    },
+    "51a7fa0a93c82dbdd77b17f3": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 90,
+      "seen_at": "2026-11-25T19:12:38",
+      "key": "senior solutions engineer cloudflare one sase sse brazil | cloudflare"
+    },
+    "5e3734bd57d3c0ea05df1e37": {
+      "source": "ATS·Greenhouse·datadog",
+      "score": 50,
+      "seen_at": "2026-11-25T19:12:38",
+      "key": "certification program lead | datadog"
     }
   },
   "keys": {
@@ -2448,148 +2472,59 @@
     "site reliability engineer vpn | proton": "55a6ae7cb5b913ffdb5f5758",
     "exmc renforce ses equipes avec 2 profils en iam et pilotage a rabat et sale": "031601d2c6479df42e30a7a0",
     "developpeur ingenieur software ia | orange business": "c25898feccdcc8af82a7f59a",
-    "senior manager workplace operations safety security | mongodb": "35adf3b480a8733f0659d9ea"
+    "senior manager workplace operations safety security | mongodb": "35adf3b480a8733f0659d9ea",
+    "developpeur si senior expert h f | crit": "2289da94121a7193aeadf10e",
+    "expert data | dxc cdg": "f03e13b813b9a8dbbbe4f1b5",
+    "senior solutions engineer cloudflare one sase sse brazil | cloudflare": "51a7fa0a93c82dbdd77b17f3",
+    "certification program lead | datadog": "5e3734bd57d3c0ea05df1e37"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-25T00:37:24",
-      "last_run": "2026-11-25T09:03:56",
+      "last_run": "2026-11-25T19:07:46",
       "last_error": "",
       "last_ok_count": 41
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-25T09:04:44",
-      "last_run": "2026-11-25T09:04:44",
+      "last_ok_at": "2026-11-25T19:08:29",
+      "last_run": "2026-11-25T19:08:29",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-25T09:06:25",
+      "last_run": "2026-11-25T19:10:07",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-25T00:40:57",
-      "last_run": "2026-11-25T09:08:03",
+      "last_run": "2026-11-25T19:11:45",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-25T09:08:03",
+      "last_run": "2026-11-25T19:11:45",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-25T09:08:54",
-      "last_run": "2026-11-25T09:08:54",
+      "last_ok_at": "2026-11-25T19:12:37",
+      "last_run": "2026-11-25T19:12:37",
       "last_error": "",
-      "last_ok_count": 1128
+      "last_ok_count": 1130
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Senior Majors Account Executive - Nashville",
-        "company": "Cloudflare",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8402703?gh_jid=8402703",
-        "date": "2026-11-23",
-        "location": "Distributed",
-        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><h2>Available Locations</h2> <ul> <li>Nashville, Tennessee</li> </ul> <h2>About the Role</h2> <p>We are seeking an experienced and strategic Senior Majors Account Executive to join our Enterprise/Field Sales team. In this pivotal role, you will help lead Cloudflare’s strategic customer engagements, securing and expanding platform partnerships across key accounts. The ideal candidate brings strong sales leadership, a deep understanding of enterprise architecture (business, data, applications, technology), and the ability to articulate how Cloudflare integrates into modern cloud operating models.</p> <p>As a Senior Majors Account Executive, you will position Cloudflare’s Developer Platform, Application Security, SASE/Zero Trust Services, and Network and Content Delivery offerings against incumbents. You will drive predictable sales performance, foster healthy pipeline growth, and deliver on revenue objectives. You will act as a trusted advisor, educating customers and partners on Cloudflare’s evolving product ecosystem and security capabilities. This role involves leveraging executive sponsorship programs, partnering with senior leaders (including CIOs, CISOs, and CTOs), and collaborating with cross-functional teams to navigate and successfully close complex customer opportunities.</p> <h2>Responsibilities</h2> <ul> <li><strong>Strategic Revenue Leadership:</strong> Develop and exe",
-        "salary": "",
-        "source": "ATS·Greenhouse·cloudflare",
-        "id": "d995f9bec5acda3193181f02",
-        "score": 70,
-        "reasons": [
-          "description: zero trust + sase"
-        ]
-      },
-      {
-        "title": "Business Development Representative, Japan",
-        "company": "GitLab",
-        "url": "https://job-boards.greenhouse.io/gitlab/jobs/8950909002",
-        "date": "2026-11-23",
-        "location": "Remote",
-        "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500® is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><p>This position is 100% remote and will be based in Japan (Tokyo or the wider Tokyo area).</p> <h2><strong>An overview of this role</strong></h2> <p>GitLab is looking for an enthusiastic and strategic Business Development Representative to join our growing Go To Market team. As a BDR at GitLab, you will lead the initial outreach to targeted Enterprise and Mid-Market accounts in Japan, working in conjunction with our Field and Digital Marketing teams. In this role you will leverage creative marketing and sales tactics to prospect and engage with multiple buyer personas and roles to introduce GitLab's value proposition. You will be responsible for generating qualified meetings and pipeline for GitLab's Sales organization.</p> <p>Don't have extensive knowledge about GitLab yet? Don't worry. We have an extensive onboarding and training program at GitLab, and we will provide you with the necessary DevOps and GitLab knowledge to fulfill your role.</p> <h2><strong>What you’ll do</strong></h2> <ul> <li>Manage inbound lead flow and execute outbound prospecting initiatives.</li> <li>Conduct high-level discovery conversations in target accounts.</li> <li>Meet or exceed BDR sourced Sales Accepted Opportunity (SAO) volume targets.</li> <li>Collaborate with and leverage teammates to develop targeted lists, call strategies, and messaging to drive opportunities.</li> <li>Use business and industry knowledge to research accounts, identify key players, generate interest, identify compelling events, and develop ",
-        "salary": "",
-        "source": "ATS·Greenhouse·gitlab",
-        "id": "5b961d0cb9b21043a21e57c8",
-        "score": 50,
-        "reasons": [
-          "description: devsecops"
-        ]
-      },
-      {
-        "title": "Développeur(se) Systèmes d’Information Junior / Confirmé",
-        "company": "CRIT",
-        "url": "https://www.rekrute.com/offre-emploi-developpeurse-systemes-dinformation-junior-confirme-recrutement-crit-casablanca-188841.html",
-        "date": "24/11/2026",
-        "location": "casablanca (Maroc)",
-        "description": "formation bac+3 à bac+5 en informatique, génie logiciel ou systèmes d'information. profil junior ou confirmé avec une première expérience ou une expérience significative en développement applicatif. bonne connaissance du secteur bancaire, du crédit ou du financement. maîtrise de c#, .net / asp.net core, api rest et sql server. la connaissance des progiciels imx (codix) et/ou ekip (linedata) est fortement appréciée. connaissance de git, azure devops et des méthodes agile/scrum. la connaissance de l'environnement bancaire stellantis constitue un atout.",
-        "source": "Rekrute",
-        "offer_id": "188841",
-        "id": "9c9cdddbc2470c1265ccd165",
-        "score": 65,
-        "reasons": [
-          "description: azure + azure devops"
-        ]
-      },
-      {
-        "title": "Site Reliability Engineer - VPN",
-        "company": "Proton",
-        "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047514101",
-        "date": "2026-11-24",
-        "location": "Barcelona; Geneva; Paris; Zurich",
-        "description": "<p><strong>Join Proton and build a better internet where privacy is the default</strong></p> <p>Founded in 2014 by scientists who met at CERN, Proton was built on the belief that <strong>privacy is a fundamental human right</strong>. What started as an encrypted email service has grown into an ecosystem of privacy-first products, including Proton Mail, VPN, Drive, Pass, and Calendar, used by millions of people worldwide.</p> <p>We're profitable, independent, and building for the long term. Free from venture capital control and advertising-driven business models, we focus on what matters most: our users. Our work helps protect digital freedom, from everyday privacy to supporting journalists and activists in challenging environments.</p> <p>Today, we're an international team of 700+ people, with offices across 9 countries. We have high standards for the people we hire and the work we do. You'll work alongside talented, driven colleagues who challenge each other, take ownership, and care about getting things right.</p> <p>Explore our <a href=\"https://proton.me/community/open-source\">open-source projects</a>.</p> <p><strong>Your impact:</strong></p> <p>We’re hiring Site Reliability Engineers across different levels of experience, from junior to staff engineers. Whether you’re looking to take the next step in your career or already have experience leading complex technical projects, we’d love to hear from you. Your scope and level will reflect your experience and the impact you can bring.</p> <p class=\"Lexical__paragraph\"><strong><strong class=\"Lexical__textBold\">Purpose of the role:</strong></strong> &nbsp;</p> <p class=\"Lexical__paragraph\">At Proton VPN, we're on a mission to provide secure, private internet access to everyone—even in the most restrictive environments. Our infrastructure spans thousands of servers worldwide, operating on a distributed architecture that connects our suite of applications across platforms.</p> <p class=\"Lexical__paragraph\">As a Site Reliability Engineer on the VPN Infrastructure team, you'll be at the forefront of our battle against censorship regimes worldwide. You'll help design, implement, and maintain the robust systems that keep our users connected when they need privacy and security most.</p> <p class=\"Lexical__paragraph\"><strong><strong class=\"Lexical__textBold\">What you will do:</strong></strong></p> <ul class=\"Lexical__ul Lexical__ul--depth-1\"> <li class=\"Lexical__listItem\" value=\"1\"><strong><strong class=\"Lexical__textBold\">Infrastructure Management</strong></strong>: Oversee and optimize our rapidly expanding global network of thousands of servers</li> <li class=\"Lexical__listItem\" value=\"2\"><strong><strong class=\"Lexical__textBold\">Automation &amp; Reliability</strong></strong>: Design and implement automation systems that ensure 99.95%+ uptime across our infrastructure</li> <li class=\"Lexical__listItem\" value=\"3\"><strong><strong class=\"Lexical__textBold\">Problem Solving</strong></strong>: Serve as an acti",
-        "salary": "",
-        "source": "ATS·Greenhouse·proton",
-        "id": "55a6ae7cb5b913ffdb5f5758",
-        "score": 75,
-        "reasons": [
-          "site reliability",
-          "description: security + site reliability"
-        ]
-      },
-      {
-        "title": "Développeur / Ingénieur Software & IA",
-        "company": "Orange Business",
-        "url": "https://www.rekrute.com/offre-emploi-developpeur-ingenieur-software-ia-recrutement-orange-business-casablanca-188855.html",
-        "date": "24/11/2026",
-        "location": "Casablanca (Maroc)",
-        "description": "• backend : bonne maîtrise de python, fastapi, pydantic, sqlalchemy / alembic et des principes de développement backend • données : postgresql, compréhension des architectures web, des api rest et des bases de données relationnelles • ia / genai : scikit-learn, pytorch, langchain (ou équivalent), llm, rag, agents ia ; connaissance ou intérêt marqué pour l’ia générative • frontend (plus) : angular / typescript • devops / cloud : git, docker, ci/cd, microsoft azure (plus), datadog ou solution équivalente de monitoring • qualité et sécurité : sensibilité à la qualité logicielle, aux tests, à la sécurité et à l’industrialisation • savoir-être : curiosité technique, rigueur, autonomie et prise en charge d’un sujet de bout en bout, esprit d’équipe et revues de code, bonne communication avec des interlocuteurs techniques et métiers, compréhension du besoin utilisateur avant de proposer une solution",
-        "source": "Rekrute",
-        "offer_id": "188855",
-        "id": "c25898feccdcc8af82a7f59a",
-        "score": 50,
-        "reasons": [
-          "description: azure"
-        ]
-      },
-      {
-        "title": "Senior Manager, Workplace Operations, Safety & Security",
-        "company": "MongoDB",
-        "url": "https://www.mongodb.com/careers/job/?gh_jid=8412160",
-        "date": "2026-11-24",
-        "location": "Palo Alto",
-        "description": "<h3>About the Role</h3> <p>MongoDB is hiring a Senior Manager within our Workplace function, part of the Americas Employee Experience department. You will run day-to-day facilities operations for our West Coast offices, create the events strategy that supports our hybrid work model, and lead workplace health, safety, physical security, and business continuity for the region. The goal is safe, secure, welcoming workplaces and an engaging employee experience. You will also manage a team of Workplace Coordinators across the West Coast office.&nbsp;</p> <p>You will act as the senior regional/site operator balancing everyday workplace vitality with enterprise resilience. By partnering with global Workplace counterparts, Real Estate, IT, People, Legal, and executive site sponsors, you will ensure our spaces are safe, legally compliant, operationally sound, and supportive of a dynamic hybrid workforce. We are looking for a proactive, collaborative communicator who can drive change and combine sound technical knowledge with practical judgement.</p> <h3>Key Responsibilities</h3> <h3>People Leadership &amp; Operational Excellence</h3> <ul> <li>Lead, mentor, and develop a distributed team of Workplace Managers and Coordinators across regional sites, fostering operational rigor, customer-first service, and proactive risk management.</li> <li>Set regional operational objectives, SLAs, and performance KPIs; coach the team on complex vendor escalations, budget governance, and cross-functional partner management.</li> <li>Build and maintain physical safety, security awareness, and inclusive hospitality best practices across all regional sites.</li> </ul> <h3>Facilities and Workplace Operations</h3> <ul> <li>Oversee daily facilities operations across offices, including space planning, janitorial, HVAC, food services, sustainability practices and partnerships and prompt resolution of maintenance issues.</li> <li>Own key local vendor relationships and escalations; review of vendor contracts and renewals, manage vendor RFPs, approve invoices and manage service requests and operating costs within budget.</li> <li>Use data and workplace technology to improve space planning, seating, and operational efficiency.</li> <li>Measure service delivery effectiveness through SLA, Pulse, Utilization and other metric driven analysis.</li> <li>Own the regional operational budget (OPEX); review and approve vendor invoices, forecast site operating costs, and identify efficiency opportunities.</li> </ul> <h3>Events and Employee Experience</h3> <ul> <li>Support West Coast executive events roadmap in partnership with executive support, marketing, CTD and AV/IT teams; including town halls, QBRs, offsites, and ERG sponsored events.</li> <li>Partner with the Community and Events team and the West Coast Site Leadership Committee to maintain the site events calendar, sponsor, promote and lead key community building events.</li> <li>Operationalize hybrid work at scale, using data to drive co",
-        "salary": "",
-        "source": "ATS·Greenhouse·mongodb",
-        "id": "35adf3b480a8733f0659d9ea",
-        "score": 60,
-        "reasons": [
-          "security",
-          "description: security"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-11-23"
+    "buffer": [],
+    "last_sent_date": "2026-11-25"
   },
   "market": {
     "week": "2026-W48",
@@ -2669,7 +2604,11 @@
       "031601d2c6479df42e30a7a0",
       "c25898feccdcc8af82a7f59a",
       "35adf3b480a8733f0659d9ea",
-      "27ebb71bbd5ecdcbfb53b1dd"
+      "27ebb71bbd5ecdcbfb53b1dd",
+      "2289da94121a7193aeadf10e",
+      "f03e13b813b9a8dbbbe4f1b5",
+      "51a7fa0a93c82dbdd77b17f3",
+      "5e3734bd57d3c0ea05df1e37"
     ],
     "companies": {
       "Inconnu": 7,
@@ -2683,9 +2622,9 @@
       "GSM AL MAGHRIB": 4,
       "Sofrecom Maroc": 5,
       "AXA GBS Morocco": 1,
-      "Cloudflare": 7,
+      "Cloudflare": 8,
       "GitLab": 3,
-      "Datadog": 4,
+      "Datadog": 5,
       "Okta": 2,
       "MongoDB": 5,
       "Twilio": 3,
@@ -2696,36 +2635,36 @@
       "Duolingo": 2,
       "swile": 2,
       "veepee": 2,
-      "DXC - CDG": 2,
+      "DXC - CDG": 3,
       "Proton": 3,
-      "CRIT": 1,
+      "CRIT": 2,
       "Orange Business": 1
     },
     "skills": {
-      "security": 39,
-      "azure": 23,
+      "security": 41,
+      "azure": 25,
       "azure ad": 1,
       "iam": 11,
-      "aws": 15,
-      "cloud": 44,
-      "gcp": 17,
-      "azure devops": 5,
-      "devops": 18,
+      "aws": 16,
+      "cloud": 46,
+      "gcp": 18,
+      "azure devops": 6,
+      "devops": 20,
       "kubernetes": 14,
       "devops engineer": 3,
-      "cloud engineer": 3,
+      "cloud engineer": 4,
       "sre": 6,
       "security cloud": 1,
       "docker": 6,
       "infrastructure as code": 8,
       "terraform": 15,
-      "ci/cd": 14,
+      "ci/cd": 15,
       "cloud architect": 2,
       "gitlab ci": 1,
       "zero trust": 9,
       "github actions": 1,
       "platform engineer": 6,
-      "sase": 5,
+      "sase": 6,
       "devsecops": 3,
       "site reliability": 6,
       "cloud security": 5,
@@ -2735,11 +2674,11 @@
     },
     "sources": {
       "Dreamjob API": 2,
-      "Rekrute": 25,
+      "Rekrute": 27,
       "Dreamjob": 5,
-      "ATS·Greenhouse·cloudflare": 7,
+      "ATS·Greenhouse·cloudflare": 8,
       "ATS·Greenhouse·gitlab": 3,
-      "ATS·Greenhouse·datadog": 4,
+      "ATS·Greenhouse·datadog": 5,
       "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·mongodb": 5,
       "ATS·Greenhouse·twilio": 3,
@@ -2753,7 +2692,7 @@
       "ATS·Greenhouse·proton": 3
     },
     "salaries": [],
-    "total": 76,
+    "total": 80,
     "prev": {
       "week": "2026-W47",
       "companies": {
@@ -2844,7 +2783,7 @@
     "cloudflare": {
       "domain": "cloudflare.com",
       "emails": [],
-      "updated_at": "2026-10-30T05:47:17"
+      "updated_at": "2026-11-25T19:12:57"
     },
     "datadog": {
       "domain": "datadoghq.com",
