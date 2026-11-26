@@ -2201,6 +2201,12 @@
       "score": 75,
       "seen_at": "2026-11-26T02:13:35",
       "key": "senior software engineer enterprise platform | discord"
+    },
+    "053eaf2c4e5c59dca49ff9ea": {
+      "source": "Rekrute",
+      "score": 75,
+      "seen_at": "2026-11-26T10:51:25",
+      "key": "expert architecte cybersecurite | bouygues construction it"
     }
   },
   "keys": {
@@ -2489,50 +2495,51 @@
     "expert data | dxc cdg": "f03e13b813b9a8dbbbe4f1b5",
     "senior solutions engineer cloudflare one sase sse brazil | cloudflare": "51a7fa0a93c82dbdd77b17f3",
     "certification program lead | datadog": "5e3734bd57d3c0ea05df1e37",
-    "enterprise account executive | cloudflare": "75cf17e716251a0e443ea60f"
+    "enterprise account executive | cloudflare": "75cf17e716251a0e443ea60f",
+    "expert architecte cybersecurite | bouygues construction it": "053eaf2c4e5c59dca49ff9ea"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-25T00:37:24",
-      "last_run": "2026-11-26T02:08:45",
+      "last_ok_at": "2026-11-26T10:47:21",
+      "last_run": "2026-11-26T10:47:21",
       "last_error": "",
-      "last_ok_count": 41
+      "last_ok_count": 53
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-26T02:09:29",
-      "last_run": "2026-11-26T02:09:29",
+      "last_ok_at": "2026-11-26T10:47:55",
+      "last_run": "2026-11-26T10:47:55",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-26T02:11:07",
+      "last_run": "2026-11-26T10:49:32",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
-      "last_ok_at": "2026-11-25T00:40:57",
-      "last_run": "2026-11-26T02:12:44",
+      "last_ok_at": "2026-11-26T10:50:36",
+      "last_run": "2026-11-26T10:50:36",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-26T02:12:44",
+      "last_run": "2026-11-26T10:50:36",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-26T02:13:31",
-      "last_run": "2026-11-26T02:13:31",
+      "last_ok_at": "2026-11-26T10:51:25",
+      "last_run": "2026-11-26T10:51:25",
       "last_error": "",
-      "last_ok_count": 1131
+      "last_ok_count": 1132
     }
   },
   "digest": {
@@ -2565,6 +2572,21 @@
         "score": 75,
         "reasons": [
           "description: iam + infrastructure as code"
+        ]
+      },
+      {
+        "title": "Expert / Architecte Cybersécurité",
+        "company": "Bouygues Construction IT",
+        "url": "https://www.rekrute.com/offre-emploi-expert-architecte-cybersecurite-recrutement-bouygues-construction-it-casablanca-188926.html",
+        "date": "26/11/2026",
+        "location": "Casablanca (Maroc)",
+        "description": "• formation bac+5 en informatique, cybersécurité. • minimum 6 ans d'expérience dans un poste similaire en architecture cybersécurité. • expérience confirmée dans la conception, la revue ou la validation d'architectures de sécurité. • bonne maîtrise des principes de security by design. • bonne compréhension des enjeux de cybersécurité et des architectures des systèmes d'information. • capacité à réaliser des analyses de risques et à formuler des recommandations de sécurité. • capacité à dialoguer avec des interlocuteurs techniques et métiers. • bon niveau en français et en anglais, à l'écrit comme à l'oral. • expertise dans un ou plusieurs des domaines suivants : cloud security, identity & access management (iam), zero trust, sécurité applicative, protection des données et sécurité des nouvelles technologies et de l'intelligence artificielle. • les certifications en cybersécurité ou en architecture sécurité constituent un plus.",
+        "source": "Rekrute",
+        "offer_id": "188926",
+        "id": "053eaf2c4e5c59dca49ff9ea",
+        "score": 75,
+        "reasons": [
+          "description: cloud security + zero trust + iam"
         ]
       }
     ],
@@ -2660,7 +2682,8 @@
       "8694200bac46468a44da0e4f",
       "727e644542f4106b2e33f411",
       "af35a9145972ae1da6811113",
-      "ddabbfbb4c31f39d300dd404"
+      "ddabbfbb4c31f39d300dd404",
+      "053eaf2c4e5c59dca49ff9ea"
     ],
     "companies": {
       "Inconnu": 7,
@@ -2690,15 +2713,16 @@
       "DXC - CDG": 3,
       "Proton": 3,
       "CRIT": 2,
-      "Orange Business": 1
+      "Orange Business": 1,
+      "Bouygues Construction IT": 1
     },
     "skills": {
-      "security": 48,
+      "security": 49,
       "azure": 25,
       "azure ad": 1,
-      "iam": 12,
+      "iam": 13,
       "aws": 16,
-      "cloud": 53,
+      "cloud": 54,
       "gcp": 18,
       "azure devops": 6,
       "devops": 20,
@@ -2713,20 +2737,20 @@
       "ci/cd": 16,
       "cloud architect": 2,
       "gitlab ci": 1,
-      "zero trust": 16,
+      "zero trust": 17,
       "github actions": 1,
       "platform engineer": 6,
       "sase": 13,
       "devsecops": 3,
       "site reliability": 6,
-      "cloud security": 5,
+      "cloud security": 6,
       "cloud security engineer": 1,
       "security engineer": 11,
       "identity and access management": 2
     },
     "sources": {
       "Dreamjob API": 2,
-      "Rekrute": 27,
+      "Rekrute": 28,
       "Dreamjob": 5,
       "ATS·Greenhouse·cloudflare": 15,
       "ATS·Greenhouse·gitlab": 3,
@@ -2744,7 +2768,7 @@
       "ATS·Greenhouse·proton": 3
     },
     "salaries": [],
-    "total": 88,
+    "total": 89,
     "prev": {
       "week": "2026-W47",
       "companies": {
