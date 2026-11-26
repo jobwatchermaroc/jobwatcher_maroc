@@ -2207,13 +2207,31 @@
       "score": 75,
       "seen_at": "2026-11-26T10:51:25",
       "key": "expert architecte cybersecurite | bouygues construction it"
+    },
+    "887014eeba7a7ec903e19698": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-11-26T19:55:36",
+      "key": "ingenieur confirme en intelligence artificielle | alten maroc"
+    },
+    "be97df8ddd3cbdb72a5d499d": {
+      "source": "Rekrute",
+      "score": 50,
+      "seen_at": "2026-11-26T19:55:36",
+      "key": "ingenieur en intelligence artificielle | alten maroc"
+    },
+    "e7fffd99e934ede53649c6a6": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 70,
+      "seen_at": "2026-11-26T19:55:37",
+      "key": "senior strategic account executive central eastern europe | cloudflare"
     }
   },
   "keys": {
     "support technique l2 microsoft 365 azure | alten maroc": "27c4475782daf63eb835ca91",
     "ingenieur support n2 m365 | akkodis maroc": "80a21059c91cae2034d24a7d",
     "developpeur se full stack senior java angular | alten maroc": "d589b1d28de0c0dd41d2c319",
-    "ingenieur confirme en intelligence artificielle | alten maroc": "6c532aac5568f61f846bec80",
+    "ingenieur confirme en intelligence artificielle | alten maroc": "887014eeba7a7ec903e19698",
     "specialiste en intelligence artificielle | alten maroc": "5b350ed56af6445cec9082f0",
     "software engineer net cloud microservices | alten maroc": "d28712d63429f191960d2646",
     "service management run management junior cloud ops | alten maroc": "5d8045668db0668f2b087821",
@@ -2496,101 +2514,57 @@
     "senior solutions engineer cloudflare one sase sse brazil | cloudflare": "51a7fa0a93c82dbdd77b17f3",
     "certification program lead | datadog": "5e3734bd57d3c0ea05df1e37",
     "enterprise account executive | cloudflare": "75cf17e716251a0e443ea60f",
-    "expert architecte cybersecurite | bouygues construction it": "053eaf2c4e5c59dca49ff9ea"
+    "expert architecte cybersecurite | bouygues construction it": "053eaf2c4e5c59dca49ff9ea",
+    "ingenieur en intelligence artificielle | alten maroc": "be97df8ddd3cbdb72a5d499d",
+    "senior strategic account executive central eastern europe | cloudflare": "e7fffd99e934ede53649c6a6"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-26T10:47:21",
-      "last_run": "2026-11-26T10:47:21",
+      "last_run": "2026-11-26T19:50:56",
       "last_error": "",
       "last_ok_count": 53
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-26T10:47:55",
-      "last_run": "2026-11-26T10:47:55",
+      "last_ok_at": "2026-11-26T19:51:34",
+      "last_run": "2026-11-26T19:51:34",
       "last_error": "",
-      "last_ok_count": 40
+      "last_ok_count": 42
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-26T10:49:32",
+      "last_run": "2026-11-26T19:53:11",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-26T10:50:36",
-      "last_run": "2026-11-26T10:50:36",
+      "last_run": "2026-11-26T19:54:48",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-26T10:50:36",
+      "last_run": "2026-11-26T19:54:48",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-26T10:51:25",
-      "last_run": "2026-11-26T10:51:25",
+      "last_ok_at": "2026-11-26T19:55:36",
+      "last_run": "2026-11-26T19:55:36",
       "last_error": "",
-      "last_ok_count": 1132
+      "last_ok_count": 1145
     }
   },
   "digest": {
-    "buffer": [
-      {
-        "title": "Enterprise Account Executive",
-        "company": "Cloudflare",
-        "url": "https://boards.greenhouse.io/cloudflare/jobs/8417979?gh_jid=8417979",
-        "date": "2026-11-25",
-        "location": "Distributed",
-        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><h2>Available Locations</h2> <ul> <li>Madison or Milwaukee, WI</li> </ul> <h2>About the Role</h2> <p>We are seeking an experienced and strategic Enterprise Account Executive to own a dedicated territory of named Fortune 500 and Global 2000 accounts across our Michigan territory. You will lead complex, multi-year platform deals across Cloudflare’s SASE/Zero Trust, Application Security, Developer Platform, and Network/CDN portfolio—helping CIOs, CISOs, and CTOs consolidate legacy point products onto one global intelligent network.</p> <h2>Responsibilities</h2> <ul> <li><strong>Own Regional Enterprise Accounts:</strong> Build and execute multi-threaded account plans to acquire new logos and expand strategic enterprise agreements across large, complex organizations.</li> <li><strong>Strategic Revenue Leadership:</strong> Develop and execute account plans to meet and exceed revenue goals by structuring enterprise-grade platform partnerships within key accounts.</li> <li><strong>Sell Platform Consolidation to the C-Suite:</strong> Partner with CIOs, CISOs, and VP-level architecture leaders to displace incumbent firewall, VPN, MPLS, and CDN vendors with Cloudflare’s unified connectivity cloud.</li> <li><strong>Run Disciplined Deal Execution:</strong> Manage accurate forecasting and pipeline progression using MEDDPICC (or comparable enterprise frameworks), leveraging executive sponsors, ",
-        "salary": "",
-        "source": "ATS·Greenhouse·cloudflare",
-        "id": "75cf17e716251a0e443ea60f",
-        "score": 70,
-        "reasons": [
-          "description: zero trust + sase"
-        ]
-      },
-      {
-        "title": "Senior Software Engineer, Enterprise Platform",
-        "company": "Discord",
-        "url": "https://job-boards.greenhouse.io/discord/jobs/8958889002",
-        "date": "2026-11-25",
-        "location": "San Francisco Bay Area or Remote (West Coast)",
-        "description": "<div class=\"content-intro\"><p>Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: <strong>play video games.</strong> Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.</p></div><p>Discord's Enterprise Technology org is building a software engineering discipline from the ground up, and this is one of its first engineering hires. The Enterprise Platform team is brand new. You will not be inheriting a mature system or a long backlog: you will own core domains of the platform that turns the internal systems enabling Discordians into self-service software.</p> <p>Discord's mission is to cultivate belonging, and doing that at scale requires internal systems that move as fast as the product itself. The mission of this role is to turn our enterprise infrastructure into self-service software. Your job is to replace manual consoles and tickets with a platform of reusable primitives, building blocks like \"provision a device\" or \"push an IAM policy or app integration through code,\" exposed through clean APIs and self-service portals. As a code-forward Senior engineer, you will design abstractions that hide the messy reality of Okta, Jamf, and Terraform (our identity, device management, and infrastructure-as-code tools) behind interfaces people actually want to use, operating with a platform-as-a-product mindset.</p> <p><strong>What You'll Do</strong></p> <ul> <li>Manage the device fleet as code: Move device configuration off consoles and into versioned, API-driven infrastructure for endpoint management and hardware provisioning.</li> <li>Automate the identity layer: Manage identity systems and their connections to downstream apps as code, from SSO and SCIM integrations to account workflows, so changes ship through version control and CI/CD instead of an admin console.</li> <li>Own app delivery and Infrastructure-as-Code (IaC): Build deployment pipelines and provisioning patterns that let internal systems be built and changed safely, establishing CI/CD standards.</li> <li>Build the self-service layer: Design and ship the APIs, CLIs, and portals that compose primitives into paved paths, like a new hire's first day, where software access and group memberships land in one automated, auditable flow.</li> <li>Own your domain end to end: Take core components of the platform from design through production with no code boundaries, writing the RFCs and documentation for the areas you own.</li> </ul> <p><strong>What You Should Have</strong></p> <ul> <li>3+ years building and operating production software and systems at a technology company, with a track record of owning projects end to end.</li> <li>Strong software engineering fundamentals. You write production code (we lean on Go, Python, and TypeScript), and design, test, ",
-        "salary": "",
-        "source": "ATS·Greenhouse·discord",
-        "id": "ddabbfbb4c31f39d300dd404",
-        "score": 75,
-        "reasons": [
-          "description: iam + infrastructure as code"
-        ]
-      },
-      {
-        "title": "Expert / Architecte Cybersécurité",
-        "company": "Bouygues Construction IT",
-        "url": "https://www.rekrute.com/offre-emploi-expert-architecte-cybersecurite-recrutement-bouygues-construction-it-casablanca-188926.html",
-        "date": "26/11/2026",
-        "location": "Casablanca (Maroc)",
-        "description": "• formation bac+5 en informatique, cybersécurité. • minimum 6 ans d'expérience dans un poste similaire en architecture cybersécurité. • expérience confirmée dans la conception, la revue ou la validation d'architectures de sécurité. • bonne maîtrise des principes de security by design. • bonne compréhension des enjeux de cybersécurité et des architectures des systèmes d'information. • capacité à réaliser des analyses de risques et à formuler des recommandations de sécurité. • capacité à dialoguer avec des interlocuteurs techniques et métiers. • bon niveau en français et en anglais, à l'écrit comme à l'oral. • expertise dans un ou plusieurs des domaines suivants : cloud security, identity & access management (iam), zero trust, sécurité applicative, protection des données et sécurité des nouvelles technologies et de l'intelligence artificielle. • les certifications en cybersécurité ou en architecture sécurité constituent un plus.",
-        "source": "Rekrute",
-        "offer_id": "188926",
-        "id": "053eaf2c4e5c59dca49ff9ea",
-        "score": 75,
-        "reasons": [
-          "description: cloud security + zero trust + iam"
-        ]
-      }
-    ],
-    "last_sent_date": "2026-11-25"
+    "buffer": [],
+    "last_sent_date": "2026-11-26"
   },
   "market": {
     "week": "2026-W48",
@@ -2683,7 +2657,10 @@
       "727e644542f4106b2e33f411",
       "af35a9145972ae1da6811113",
       "ddabbfbb4c31f39d300dd404",
-      "053eaf2c4e5c59dca49ff9ea"
+      "053eaf2c4e5c59dca49ff9ea",
+      "887014eeba7a7ec903e19698",
+      "be97df8ddd3cbdb72a5d499d",
+      "e7fffd99e934ede53649c6a6"
     ],
     "companies": {
       "Inconnu": 7,
@@ -2691,13 +2668,13 @@
       "AFD.Tech": 3,
       "Akkodis Maroc": 2,
       "Capgemini": 1,
-      "ALTEN Maroc": 2,
+      "ALTEN Maroc": 4,
       "CGI Technologies et Solutions Maroc": 1,
       "Hyundai (Global Engines)": 1,
       "GSM AL MAGHRIB": 4,
       "Sofrecom Maroc": 5,
       "AXA GBS Morocco": 1,
-      "Cloudflare": 15,
+      "Cloudflare": 16,
       "GitLab": 3,
       "Datadog": 5,
       "Okta": 2,
@@ -2717,12 +2694,12 @@
       "Bouygues Construction IT": 1
     },
     "skills": {
-      "security": 49,
-      "azure": 25,
+      "security": 50,
+      "azure": 27,
       "azure ad": 1,
       "iam": 13,
-      "aws": 16,
-      "cloud": 54,
+      "aws": 18,
+      "cloud": 57,
       "gcp": 18,
       "azure devops": 6,
       "devops": 20,
@@ -2737,10 +2714,10 @@
       "ci/cd": 16,
       "cloud architect": 2,
       "gitlab ci": 1,
-      "zero trust": 17,
+      "zero trust": 18,
       "github actions": 1,
       "platform engineer": 6,
-      "sase": 13,
+      "sase": 14,
       "devsecops": 3,
       "site reliability": 6,
       "cloud security": 6,
@@ -2750,9 +2727,9 @@
     },
     "sources": {
       "Dreamjob API": 2,
-      "Rekrute": 28,
+      "Rekrute": 30,
       "Dreamjob": 5,
-      "ATS·Greenhouse·cloudflare": 15,
+      "ATS·Greenhouse·cloudflare": 16,
       "ATS·Greenhouse·gitlab": 3,
       "ATS·Greenhouse·datadog": 5,
       "ATS·Greenhouse·okta": 2,
@@ -2768,7 +2745,7 @@
       "ATS·Greenhouse·proton": 3
     },
     "salaries": [],
-    "total": 89,
+    "total": 92,
     "prev": {
       "week": "2026-W47",
       "companies": {
