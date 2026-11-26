@@ -2189,6 +2189,18 @@
       "score": 50,
       "seen_at": "2026-11-25T19:12:38",
       "key": "certification program lead | datadog"
+    },
+    "75cf17e716251a0e443ea60f": {
+      "source": "ATS·Greenhouse·cloudflare",
+      "score": 70,
+      "seen_at": "2026-11-26T02:13:31",
+      "key": "enterprise account executive | cloudflare"
+    },
+    "ddabbfbb4c31f39d300dd404": {
+      "source": "ATS·Greenhouse·discord",
+      "score": 75,
+      "seen_at": "2026-11-26T02:13:35",
+      "key": "senior software engineer enterprise platform | discord"
     }
   },
   "keys": {
@@ -2221,7 +2233,7 @@
     "expert en intelligence artificielle | alten maroc": "6cfaae869fb602854ce3df31",
     "consultant senior salesforce sales service cloud | capgemini": "31cb7c3bd6224b5903a3445a",
     "product security engineer | cloudflare": "71d4adbe7d8ab72fa1090ca5",
-    "senior software engineer enterprise platform | discord": "16a06bdea04dd552072ef42a",
+    "senior software engineer enterprise platform | discord": "ddabbfbb4c31f39d300dd404",
     "staff software engineer enterprise platform | discord": "d76e999e20cc14b3027a126a",
     "software engineer l2 email | twilio": "22a7e33b3abec76406d612f6",
     "software engineer l3 email | twilio": "25fa85172a94fadb7c3cc6d4",
@@ -2476,54 +2488,86 @@
     "developpeur si senior expert h f | crit": "2289da94121a7193aeadf10e",
     "expert data | dxc cdg": "f03e13b813b9a8dbbbe4f1b5",
     "senior solutions engineer cloudflare one sase sse brazil | cloudflare": "51a7fa0a93c82dbdd77b17f3",
-    "certification program lead | datadog": "5e3734bd57d3c0ea05df1e37"
+    "certification program lead | datadog": "5e3734bd57d3c0ea05df1e37",
+    "enterprise account executive | cloudflare": "75cf17e716251a0e443ea60f"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-25T00:37:24",
-      "last_run": "2026-11-25T19:07:46",
+      "last_run": "2026-11-26T02:08:45",
       "last_error": "",
       "last_ok_count": 41
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-25T19:08:29",
-      "last_run": "2026-11-25T19:08:29",
+      "last_ok_at": "2026-11-26T02:09:29",
+      "last_run": "2026-11-26T02:09:29",
       "last_error": "",
       "last_ok_count": 40
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-25T19:10:07",
+      "last_run": "2026-11-26T02:11:07",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-25T00:40:57",
-      "last_run": "2026-11-25T19:11:45",
+      "last_run": "2026-11-26T02:12:44",
       "last_error": "",
       "last_ok_count": 107
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-25T19:11:45",
+      "last_run": "2026-11-26T02:12:44",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-25T19:12:37",
-      "last_run": "2026-11-25T19:12:37",
+      "last_ok_at": "2026-11-26T02:13:31",
+      "last_run": "2026-11-26T02:13:31",
       "last_error": "",
-      "last_ok_count": 1130
+      "last_ok_count": 1131
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Enterprise Account Executive",
+        "company": "Cloudflare",
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8417979?gh_jid=8417979",
+        "date": "2026-11-25",
+        "location": "Distributed",
+        "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world’s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine’s Top Company Cultures list and ranked among the World’s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we’re not looking for people who wait for a polished roadmap; we’re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you’re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you’ll fit right in.</p></div><h2>Available Locations</h2> <ul> <li>Madison or Milwaukee, WI</li> </ul> <h2>About the Role</h2> <p>We are seeking an experienced and strategic Enterprise Account Executive to own a dedicated territory of named Fortune 500 and Global 2000 accounts across our Michigan territory. You will lead complex, multi-year platform deals across Cloudflare’s SASE/Zero Trust, Application Security, Developer Platform, and Network/CDN portfolio—helping CIOs, CISOs, and CTOs consolidate legacy point products onto one global intelligent network.</p> <h2>Responsibilities</h2> <ul> <li><strong>Own Regional Enterprise Accounts:</strong> Build and execute multi-threaded account plans to acquire new logos and expand strategic enterprise agreements across large, complex organizations.</li> <li><strong>Strategic Revenue Leadership:</strong> Develop and execute account plans to meet and exceed revenue goals by structuring enterprise-grade platform partnerships within key accounts.</li> <li><strong>Sell Platform Consolidation to the C-Suite:</strong> Partner with CIOs, CISOs, and VP-level architecture leaders to displace incumbent firewall, VPN, MPLS, and CDN vendors with Cloudflare’s unified connectivity cloud.</li> <li><strong>Run Disciplined Deal Execution:</strong> Manage accurate forecasting and pipeline progression using MEDDPICC (or comparable enterprise frameworks), leveraging executive sponsors, ",
+        "salary": "",
+        "source": "ATS·Greenhouse·cloudflare",
+        "id": "75cf17e716251a0e443ea60f",
+        "score": 70,
+        "reasons": [
+          "description: zero trust + sase"
+        ]
+      },
+      {
+        "title": "Senior Software Engineer, Enterprise Platform",
+        "company": "Discord",
+        "url": "https://job-boards.greenhouse.io/discord/jobs/8958889002",
+        "date": "2026-11-25",
+        "location": "San Francisco Bay Area or Remote (West Coast)",
+        "description": "<div class=\"content-intro\"><p>Discord has a highly engaged community of millions of daily active users who use the platform for many different reasons, but there’s one thing that nearly everyone does: <strong>play video games.</strong> Discord plays a uniquely important role in the future of gaming, and we are focused on making it easier and more fun for people to hang out before, during, and after playing games.</p></div><p>Discord's Enterprise Technology org is building a software engineering discipline from the ground up, and this is one of its first engineering hires. The Enterprise Platform team is brand new. You will not be inheriting a mature system or a long backlog: you will own core domains of the platform that turns the internal systems enabling Discordians into self-service software.</p> <p>Discord's mission is to cultivate belonging, and doing that at scale requires internal systems that move as fast as the product itself. The mission of this role is to turn our enterprise infrastructure into self-service software. Your job is to replace manual consoles and tickets with a platform of reusable primitives, building blocks like \"provision a device\" or \"push an IAM policy or app integration through code,\" exposed through clean APIs and self-service portals. As a code-forward Senior engineer, you will design abstractions that hide the messy reality of Okta, Jamf, and Terraform (our identity, device management, and infrastructure-as-code tools) behind interfaces people actually want to use, operating with a platform-as-a-product mindset.</p> <p><strong>What You'll Do</strong></p> <ul> <li>Manage the device fleet as code: Move device configuration off consoles and into versioned, API-driven infrastructure for endpoint management and hardware provisioning.</li> <li>Automate the identity layer: Manage identity systems and their connections to downstream apps as code, from SSO and SCIM integrations to account workflows, so changes ship through version control and CI/CD instead of an admin console.</li> <li>Own app delivery and Infrastructure-as-Code (IaC): Build deployment pipelines and provisioning patterns that let internal systems be built and changed safely, establishing CI/CD standards.</li> <li>Build the self-service layer: Design and ship the APIs, CLIs, and portals that compose primitives into paved paths, like a new hire's first day, where software access and group memberships land in one automated, auditable flow.</li> <li>Own your domain end to end: Take core components of the platform from design through production with no code boundaries, writing the RFCs and documentation for the areas you own.</li> </ul> <p><strong>What You Should Have</strong></p> <ul> <li>3+ years building and operating production software and systems at a technology company, with a track record of owning projects end to end.</li> <li>Strong software engineering fundamentals. You write production code (we lean on Go, Python, and TypeScript), and design, test, ",
+        "salary": "",
+        "source": "ATS·Greenhouse·discord",
+        "id": "ddabbfbb4c31f39d300dd404",
+        "score": 75,
+        "reasons": [
+          "description: iam + infrastructure as code"
+        ]
+      }
+    ],
     "last_sent_date": "2026-11-25"
   },
   "market": {
@@ -2608,7 +2652,15 @@
       "2289da94121a7193aeadf10e",
       "f03e13b813b9a8dbbbe4f1b5",
       "51a7fa0a93c82dbdd77b17f3",
-      "5e3734bd57d3c0ea05df1e37"
+      "5e3734bd57d3c0ea05df1e37",
+      "75cf17e716251a0e443ea60f",
+      "0e05d468866957ba6bf9f817",
+      "fbea807eea906b75813633b8",
+      "0178c60fa708068af1b22dcd",
+      "8694200bac46468a44da0e4f",
+      "727e644542f4106b2e33f411",
+      "af35a9145972ae1da6811113",
+      "ddabbfbb4c31f39d300dd404"
     ],
     "companies": {
       "Inconnu": 7,
@@ -2622,7 +2674,7 @@
       "GSM AL MAGHRIB": 4,
       "Sofrecom Maroc": 5,
       "AXA GBS Morocco": 1,
-      "Cloudflare": 8,
+      "Cloudflare": 15,
       "GitLab": 3,
       "Datadog": 5,
       "Okta": 2,
@@ -2631,7 +2683,7 @@
       "Stripe": 2,
       "Asana": 3,
       "Figma": 1,
-      "Discord": 5,
+      "Discord": 6,
       "Duolingo": 2,
       "swile": 2,
       "veepee": 2,
@@ -2641,12 +2693,12 @@
       "Orange Business": 1
     },
     "skills": {
-      "security": 41,
+      "security": 48,
       "azure": 25,
       "azure ad": 1,
-      "iam": 11,
+      "iam": 12,
       "aws": 16,
-      "cloud": 46,
+      "cloud": 53,
       "gcp": 18,
       "azure devops": 6,
       "devops": 20,
@@ -2656,15 +2708,15 @@
       "sre": 6,
       "security cloud": 1,
       "docker": 6,
-      "infrastructure as code": 8,
-      "terraform": 15,
-      "ci/cd": 15,
+      "infrastructure as code": 9,
+      "terraform": 16,
+      "ci/cd": 16,
       "cloud architect": 2,
       "gitlab ci": 1,
-      "zero trust": 9,
+      "zero trust": 16,
       "github actions": 1,
       "platform engineer": 6,
-      "sase": 6,
+      "sase": 13,
       "devsecops": 3,
       "site reliability": 6,
       "cloud security": 5,
@@ -2676,7 +2728,7 @@
       "Dreamjob API": 2,
       "Rekrute": 27,
       "Dreamjob": 5,
-      "ATS·Greenhouse·cloudflare": 8,
+      "ATS·Greenhouse·cloudflare": 15,
       "ATS·Greenhouse·gitlab": 3,
       "ATS·Greenhouse·datadog": 5,
       "ATS·Greenhouse·okta": 2,
@@ -2685,14 +2737,14 @@
       "ATS·Greenhouse·stripe": 2,
       "ATS·Greenhouse·asana": 3,
       "ATS·Greenhouse·figma": 1,
-      "ATS·Greenhouse·discord": 5,
+      "ATS·Greenhouse·discord": 6,
       "ATS·Greenhouse·duolingo": 2,
       "ATS·Lever·swile": 2,
       "ATS·Lever·veepee": 2,
       "ATS·Greenhouse·proton": 3
     },
     "salaries": [],
-    "total": 80,
+    "total": 88,
     "prev": {
       "week": "2026-W47",
       "companies": {
