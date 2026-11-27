@@ -2225,6 +2225,36 @@
       "score": 70,
       "seen_at": "2026-11-26T19:55:37",
       "key": "senior strategic account executive central eastern europe | cloudflare"
+    },
+    "ef9e2b143d643d25f3df7d1e": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-11-27T11:09:32",
+      "key": "cloud engineering landing zone network experimente | alten maroc"
+    },
+    "75315493a2591929c3281637": {
+      "source": "Rekrute",
+      "score": 75,
+      "seen_at": "2026-11-27T11:09:32",
+      "key": "c software engineer | alten maroc"
+    },
+    "f1d93953de38be4b39e9627b": {
+      "source": "Rekrute",
+      "score": 100,
+      "seen_at": "2026-11-27T11:09:32",
+      "key": "data engineer pipelines de donnees cloud azure aws databricks | alten maroc"
+    },
+    "51e95ec2c3ba732107ee57bf": {
+      "source": "Rekrute",
+      "score": 75,
+      "seen_at": "2026-11-27T11:09:32",
+      "key": "developpeur api data pipelines gcp | alten maroc"
+    },
+    "5c982b0db6f52f0154955e64": {
+      "source": "Rekrute",
+      "score": 65,
+      "seen_at": "2026-11-27T11:09:32",
+      "key": "expertise flux devops axway secure transport experimente core infra | alten maroc"
     }
   },
   "keys": {
@@ -2516,54 +2546,107 @@
     "enterprise account executive | cloudflare": "75cf17e716251a0e443ea60f",
     "expert architecte cybersecurite | bouygues construction it": "053eaf2c4e5c59dca49ff9ea",
     "ingenieur en intelligence artificielle | alten maroc": "be97df8ddd3cbdb72a5d499d",
-    "senior strategic account executive central eastern europe | cloudflare": "e7fffd99e934ede53649c6a6"
+    "senior strategic account executive central eastern europe | cloudflare": "e7fffd99e934ede53649c6a6",
+    "cloud engineering landing zone network experimente | alten maroc": "ef9e2b143d643d25f3df7d1e",
+    "c software engineer | alten maroc": "75315493a2591929c3281637",
+    "data engineer pipelines de donnees cloud azure aws databricks | alten maroc": "f1d93953de38be4b39e9627b",
+    "developpeur api data pipelines gcp | alten maroc": "51e95ec2c3ba732107ee57bf",
+    "expertise flux devops axway secure transport experimente core infra | alten maroc": "5c982b0db6f52f0154955e64"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-26T10:47:21",
-      "last_run": "2026-11-27T02:26:23",
+      "last_run": "2026-11-27T11:04:36",
       "last_error": "",
       "last_ok_count": 53
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-27T02:26:58",
-      "last_run": "2026-11-27T02:26:58",
+      "last_ok_at": "2026-11-27T11:05:14",
+      "last_run": "2026-11-27T11:05:14",
       "last_error": "",
-      "last_ok_count": 42
+      "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-27T02:28:35",
+      "last_run": "2026-11-27T11:06:51",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-27T02:29:11",
-      "last_run": "2026-11-27T02:29:11",
+      "last_run": "2026-11-27T11:08:27",
       "last_error": "",
       "last_ok_count": 28
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-27T02:29:11",
+      "last_run": "2026-11-27T11:08:27",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-27T02:29:57",
-      "last_run": "2026-11-27T02:29:57",
+      "last_ok_at": "2026-11-27T11:09:32",
+      "last_run": "2026-11-27T11:09:32",
       "last_error": "",
       "last_ok_count": 1145
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "C# Software Engineer",
+        "company": "ALTEN Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-c-software-engineer-recrutement-alten-maroc-rabat-188987.html",
+        "date": "27/11/2026",
+        "location": "Rabat (Maroc)",
+        "description": "git et azure devops (gestion de code source, pipelines ci/cd).",
+        "source": "Rekrute",
+        "offer_id": "188987",
+        "id": "75315493a2591929c3281637",
+        "score": 75,
+        "reasons": [
+          "description: azure + azure devops"
+        ]
+      },
+      {
+        "title": "Développeur API & Data Pipelines – GCP",
+        "company": "ALTEN Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-developpeur-api-data-pipelines-gcp-recrutement-alten-maroc-rabat-189006.html",
+        "date": "27/11/2026",
+        "location": "Rabat (Maroc)",
+        "description": "déploiement sur gcp (google cloud platform)",
+        "source": "Rekrute",
+        "offer_id": "189006",
+        "id": "51e95ec2c3ba732107ee57bf",
+        "score": 75,
+        "reasons": [
+          "gcp",
+          "description: cloud + gcp"
+        ]
+      },
+      {
+        "title": "Expertise Flux DevOps - Axway Secure Transport (Expérimenté Core Infra)",
+        "company": "ALTEN Maroc",
+        "url": "https://www.rekrute.com/offre-emploi-expertise-flux-devops---axway-secure-transport-experimente-core-infra-recrutement-alten-maroc-rabat-188983.html",
+        "date": "27/11/2026",
+        "location": "Rabat (Maroc)",
+        "description": "● exploiter google cloud platform (performance, sécurité, clusters).",
+        "source": "Rekrute",
+        "offer_id": "188983",
+        "id": "5c982b0db6f52f0154955e64",
+        "score": 65,
+        "reasons": [
+          "devops",
+          "description: cloud"
+        ]
+      }
+    ],
     "last_sent_date": "2026-11-26"
   },
   "market": {
@@ -2660,7 +2743,15 @@
       "053eaf2c4e5c59dca49ff9ea",
       "887014eeba7a7ec903e19698",
       "be97df8ddd3cbdb72a5d499d",
-      "e7fffd99e934ede53649c6a6"
+      "e7fffd99e934ede53649c6a6",
+      "ef9e2b143d643d25f3df7d1e",
+      "75315493a2591929c3281637",
+      "c77794bdd3c814e914cd2eb5",
+      "f1d93953de38be4b39e9627b",
+      "9bbd488d368f6abdacf4f27b",
+      "0c4b430b9307037db88ff63a",
+      "51e95ec2c3ba732107ee57bf",
+      "5c982b0db6f52f0154955e64"
     ],
     "companies": {
       "Inconnu": 7,
@@ -2668,7 +2759,7 @@
       "AFD.Tech": 3,
       "Akkodis Maroc": 2,
       "Capgemini": 1,
-      "ALTEN Maroc": 4,
+      "ALTEN Maroc": 12,
       "CGI Technologies et Solutions Maroc": 1,
       "Hyundai (Global Engines)": 1,
       "GSM AL MAGHRIB": 4,
@@ -2695,23 +2786,23 @@
     },
     "skills": {
       "security": 50,
-      "azure": 27,
+      "azure": 33,
       "azure ad": 1,
       "iam": 13,
-      "aws": 18,
-      "cloud": 57,
-      "gcp": 18,
-      "azure devops": 6,
-      "devops": 20,
+      "aws": 21,
+      "cloud": 63,
+      "gcp": 20,
+      "azure devops": 8,
+      "devops": 23,
       "kubernetes": 14,
       "devops engineer": 3,
-      "cloud engineer": 4,
+      "cloud engineer": 5,
       "sre": 6,
       "security cloud": 1,
       "docker": 6,
       "infrastructure as code": 9,
       "terraform": 16,
-      "ci/cd": 16,
+      "ci/cd": 18,
       "cloud architect": 2,
       "gitlab ci": 1,
       "zero trust": 18,
@@ -2727,7 +2818,7 @@
     },
     "sources": {
       "Dreamjob API": 2,
-      "Rekrute": 30,
+      "Rekrute": 38,
       "Dreamjob": 5,
       "ATS·Greenhouse·cloudflare": 16,
       "ATS·Greenhouse·gitlab": 3,
@@ -2745,7 +2836,7 @@
       "ATS·Greenhouse·proton": 3
     },
     "salaries": [],
-    "total": 92,
+    "total": 100,
     "prev": {
       "week": "2026-W47",
       "companies": {
@@ -2846,7 +2937,7 @@
     "alten maroc": {
       "domain": "alten.net",
       "emails": [],
-      "updated_at": "2026-11-06T17:12:10"
+      "updated_at": "2026-11-27T11:09:51"
     },
     "cnexia": {
       "domain": "cnexia.com",
