@@ -2267,6 +2267,12 @@
       "score": 55,
       "seen_at": "2026-11-27T19:57:45",
       "key": "ingenieur senior active directory microsoft 365 h f | cgi technologies et solutions maroc"
+    },
+    "b7795762b83dffbb71ee80df": {
+      "source": "ATS·Greenhouse·stripe",
+      "score": 70,
+      "seen_at": "2026-11-28T02:20:28",
+      "key": "software engineer | stripe"
     }
   },
   "keys": {
@@ -2565,54 +2571,71 @@
     "developpeur api data pipelines gcp | alten maroc": "51e95ec2c3ba732107ee57bf",
     "expertise flux devops axway secure transport experimente core infra | alten maroc": "5c982b0db6f52f0154955e64",
     "stagiaire pfe infrastructure it cloud transformation digitale h f | cgi technologies et solutions maroc": "64b9a3c824699afb93e405b9",
-    "ingenieur senior active directory microsoft 365 h f | cgi technologies et solutions maroc": "a416674cb34e8097d6747203"
+    "ingenieur senior active directory microsoft 365 h f | cgi technologies et solutions maroc": "a416674cb34e8097d6747203",
+    "software engineer | stripe": "b7795762b83dffbb71ee80df"
   },
   "health": {
     "dreamjob_api": {
       "failures": 0,
       "last_ok_at": "2026-11-26T10:47:21",
-      "last_run": "2026-11-27T19:53:06",
+      "last_run": "2026-11-28T02:15:47",
       "last_error": "",
       "last_ok_count": 53
     },
     "rekrute": {
       "failures": 0,
-      "last_ok_at": "2026-11-27T19:53:43",
-      "last_run": "2026-11-27T19:53:43",
+      "last_ok_at": "2026-11-28T02:16:22",
+      "last_run": "2026-11-28T02:16:22",
       "last_error": "",
       "last_ok_count": 43
     },
     "indeed": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-27T19:55:20",
+      "last_run": "2026-11-28T02:18:00",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:30"
     },
     "dreamjob": {
       "failures": 0,
       "last_ok_at": "2026-11-27T02:29:11",
-      "last_run": "2026-11-27T19:56:57",
+      "last_run": "2026-11-28T02:19:37",
       "last_error": "",
       "last_ok_count": 28
     },
     "google_xray": {
       "failures": 0,
       "last_ok_at": "",
-      "last_run": "2026-11-27T19:56:57",
+      "last_run": "2026-11-28T02:19:37",
       "last_error": "",
       "last_alert_at": "2026-08-04T09:19:31"
     },
     "ats_api": {
       "failures": 0,
-      "last_ok_at": "2026-11-27T19:57:45",
-      "last_run": "2026-11-27T19:57:45",
+      "last_ok_at": "2026-11-28T02:20:24",
+      "last_run": "2026-11-28T02:20:24",
       "last_error": "",
-      "last_ok_count": 1144
+      "last_ok_count": 1143
     }
   },
   "digest": {
-    "buffer": [],
+    "buffer": [
+      {
+        "title": "Software Engineer",
+        "company": "Stripe",
+        "url": "https://stripe.com/jobs/search?gh_jid=8421452",
+        "date": "2026-11-27",
+        "location": "South San Francisco, CA",
+        "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe, LLC. is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h2><strong>What you’ll do</strong></h2> <h3><strong>Responsibilities</strong></h3> <ul> <li>Build the core infrastructure used by the product teams to build and operate their services.&nbsp;</li> <li>Manage the core cloud infrastructure that powers Stripe’s host lifecycle management and health monitoring.&nbsp;</li> <li>Play a key leadership role to build resilient infrastructure that scales our business and achieves a best-in-class price/performance ratio.</li> <li>Build great customer experience for internal Stripe teams and play a key role in enabling Stripe’s infrastructure to power all of our products, globally and on a scale.&nbsp;</li> <li>Contribute to team strategy, roadmap, tooling, process, and culture.&nbsp;</li> <li>Scope, design, implement, and deploy robust solutions, making appropriate tradeoffs between reliability, throughput, latency, resiliency, engineering velocity and cost.&nbsp;</li> <li>Innovate, design and implement software solutions that contribute towards improvement in infrastructure resiliency, reliability, efficiency and management at scale.&nbsp;</li> <li>Uphold our high engineering standards and improve our codebase and processes.&nbsp;</li> <li>Perform regular on call duties to maintain system uptime and help mitigate incidents.&nbsp;</li> <li>Conduct technical interviews for the role of Software Engineer and assess candidate qualifications.</li> </ul> <h2><strong>Who you are</strong></h2> <h3><strong>Minimum requirements</strong></h3> <p>Must have a Bachelor's degree or foreign equivalent in Computer Science, Software Engineering, Computer Engineering, Data Science, or a related field, plus 4 years of experience in Software Development.</p> <p>Must also have 3 years of experience in each of the following:</p> <ul> <li>Writing code in programming languages including GO, Java and C/C++;</li> <li>Writing well factored algorithm and using data structure and algorithm;</li> <li>Contributing or building large scale distributed systems;</li> <li>Experience in infrastructure on one or more of AWS, Azure, or GCP;</li> <li>Working with AWS, Kubernetes, and infrastructure-as-code (Terraform);</li> <li>Python; and</li> <li>Databases including Postgres and AWS Aurora.</li> </ul> <p>&nbsp;</p> <p>Salary: $193,149.00 - $285,600.00/yr.</p> <p>This salary range represents the base salary range for the role and any sales commissions/sales bonuses targe",
+        "salary": "",
+        "source": "ATS·Greenhouse·stripe",
+        "id": "b7795762b83dffbb71ee80df",
+        "score": 70,
+        "reasons": [
+          "description: azure + infrastructure as code"
+        ]
+      }
+    ],
     "last_sent_date": "2026-11-27"
   },
   "market": {
@@ -2719,7 +2742,8 @@
       "51e95ec2c3ba732107ee57bf",
       "5c982b0db6f52f0154955e64",
       "64b9a3c824699afb93e405b9",
-      "a416674cb34e8097d6747203"
+      "a416674cb34e8097d6747203",
+      "b7795762b83dffbb71ee80df"
     ],
     "companies": {
       "Inconnu": 7,
@@ -2739,7 +2763,7 @@
       "Okta": 2,
       "MongoDB": 5,
       "Twilio": 3,
-      "Stripe": 2,
+      "Stripe": 3,
       "Asana": 3,
       "Figma": 1,
       "Discord": 6,
@@ -2754,22 +2778,22 @@
     },
     "skills": {
       "security": 50,
-      "azure": 35,
+      "azure": 36,
       "azure ad": 2,
       "iam": 13,
-      "aws": 22,
-      "cloud": 64,
-      "gcp": 20,
+      "aws": 23,
+      "cloud": 65,
+      "gcp": 21,
       "azure devops": 8,
       "devops": 23,
-      "kubernetes": 14,
+      "kubernetes": 15,
       "devops engineer": 3,
       "cloud engineer": 5,
       "sre": 6,
       "security cloud": 1,
       "docker": 6,
-      "infrastructure as code": 9,
-      "terraform": 16,
+      "infrastructure as code": 10,
+      "terraform": 17,
       "ci/cd": 18,
       "cloud architect": 2,
       "gitlab ci": 1,
@@ -2795,7 +2819,7 @@
       "ATS·Greenhouse·okta": 2,
       "ATS·Greenhouse·mongodb": 5,
       "ATS·Greenhouse·twilio": 3,
-      "ATS·Greenhouse·stripe": 2,
+      "ATS·Greenhouse·stripe": 3,
       "ATS·Greenhouse·asana": 3,
       "ATS·Greenhouse·figma": 1,
       "ATS·Greenhouse·discord": 6,
@@ -2805,7 +2829,7 @@
       "ATS·Greenhouse·proton": 3
     },
     "salaries": [],
-    "total": 102,
+    "total": 103,
     "prev": {
       "week": "2026-W47",
       "companies": {
